@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-03T00:19:58.128423Z",
-  "last_attempt_at": "2026-10-03T00:19:58.128423Z",
+  "updated_at": "2026-10-03T02:16:40.144095Z",
+  "last_attempt_at": "2026-10-03T02:16:40.144095Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 5,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 42,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-03T00:19:58.128423Z",
+      "checked_at": "2026-10-03T02:16:40.144095Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-03T02:16:40.144095Z",
+      "new_count": 4,
+      "status": "ok"
+    },
     {
       "at": "2026-10-03T00:19:58.128423Z",
       "new_count": 0,
@@ -344,6 +349,42 @@
       "in_scope": true,
       "theme_ids": [
         "development"
+      ]
+    },
+    {
+      "id": "230442aec624c68914952248",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "トラックの死角対策加速、AIカメラ2000台 - LOGISTICS TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE93RDF2eVV4M2RSbmtfUy1TQUJ6NXhqdHlOSlJZM0dUTXNiUEpZbG1RZzNyNTZ3SzAySTNoNTZjdTNkVS1fVjl0dV93?oc=5",
+      "publisher": "LOGISTICS TODAY",
+      "summary": "トラックの死角対策加速、AIカメラ2000台 LOGISTICS TODAY",
+      "published_at": "2026-10-02T11:06:19Z",
+      "collected_at": "2026-10-03T02:16:40.144095Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "84ad53e79d76b0e8236b62a1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google「Gemini」にSkills、繰り返し作業を自動化 - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Kek1kTVNWZ3hFTjJmWl8tc1VCdncwTE1xNmhXdVdLcG1DeXczNlRqcXlvcEg0NldOb1ZFT3JPRy1zSXZJS2JDQWZoY0tKYzhPMmhVMnBzbzVQSFQ1MTFuS21JS3g4M0k?oc=5",
+      "publisher": "ケータイ Watch",
+      "summary": "Google「Gemini」にSkills、繰り返し作業を自動化 ケータイ Watch",
+      "published_at": "2026-10-02T05:02:22Z",
+      "collected_at": "2026-10-03T02:16:40.144095Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -935,10 +976,10 @@
       "id": "a220e0310a6fae0e82a1f4b7",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "JALデジタル、STEAM教育「そらプロ ドローン編」開始 - リセマム",
+      "title": "JALデジタル、STEAM教育「そらプロ ドローン編」開始 - reseed.resemom.jp",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xazREcmk5UE9jLXJhbWxfeFkwRW1ySVJRRUZ3aTBIT1Y0N3AzeWVocUhyc2lZd3hzbi03aW5EMERwNmZTblBON3I3QkU0V2pDS09vRFIxa3BKbzFEeDRhYXVDcW9mdw?oc=5",
-      "publisher": "リセマム",
-      "summary": "JALデジタル、STEAM教育「そらプロ ドローン編」開始 リセマム",
+      "publisher": "reseed.resemom.jp",
+      "summary": "JALデジタル、STEAM教育「そらプロ ドローン編」開始 reseed.resemom.jp",
       "published_at": "2026-10-01T01:15:03Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -1129,6 +1170,22 @@
       ]
     },
     {
+      "id": "f8f39800bc5e9e99edc8ed0e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIが「dots」発表 24時間働くAIエージェントは何が新しい？仕事への影響を整理（Masumi｜ライター） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdUlXYTJpZ25jUXJzTEwxSEhiMVpBSDdJSUpBZnRyZUwxdkIySy1taUljSk05UThKZXZCWlVpMGRjTXJtQ0hnbEE4V083U0JYeWp5T3ZBU1I1cnF3Q05LYzJ0dnpnR3RkUnlwOEp6TW5BdDMzdDNYQlBCMG5qdlVDN3BwcDB5cWRN?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "OpenAIが「dots」発表 24時間働くAIエージェントは何が新しい？仕事への影響を整理（Masumi｜ライター） - エキスパート Yahoo!ニュース",
+      "published_at": "2026-09-30T22:46:40Z",
+      "collected_at": "2026-10-03T02:16:40.144095Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "37e8131b88d9d7442d456133",
       "category": "ai",
       "source_id": "ai",
@@ -1150,10 +1207,10 @@
       "id": "89be7a63c36112c593c20967",
       "category": "ai",
       "source_id": "ai",
-      "title": "OpenAIが「ChatGPT Space」を発表--「Google Workspace」の代替ツールか - ZDNET Japan",
+      "title": "OpenAIが「ChatGPT Space」を発表--「Google Workspace」の代替ツールか - japan.zdnet.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnFZRDJ1WXMwQ1B5RVNaUkdKVG9tRE5SeUFMNHJxSjZHcDdfTEJ2Q0JKWGR0Qi1zWmx0ajhDV1FGQUh6cUp1aWsxZExzWEoyZE9z?oc=5",
-      "publisher": "ZDNET Japan",
-      "summary": "OpenAIが「ChatGPT Space」を発表--「Google Workspace」の代替ツールか ZDNET Japan",
+      "publisher": "japan.zdnet.com",
+      "summary": "OpenAIが「ChatGPT Space」を発表--「Google Workspace」の代替ツールか japan.zdnet.com",
       "published_at": "2026-09-30T22:00:00Z",
       "collected_at": "2026-10-01T13:19:48.979874Z",
       "provider": null,
@@ -2006,10 +2063,10 @@
       "id": "37b6eff9b81d5cc38f086760",
       "category": "tech",
       "source_id": "tech",
-      "title": "OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も - Gizmodo",
+      "title": "OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も - gizmodo.jp",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTlLZk43SkFSV1J6cnl0RGJFUkF2UEpIeEpHa1pTREFndE1RX0F4UGx2d0xRcThucUdkMmNjSTNWTk94QkppQnZIRDBnUzQxZk5XT21IalBuQTZiMG5yZW9tQUF1YnNKeXFoR2FpNjAwUzZrVV9GVTBvOWlWcm9TaDNnVklrZnR5R1c3dw?oc=5",
-      "publisher": "Gizmodo",
-      "summary": "OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も Gizmodo",
+      "publisher": "gizmodo.jp",
+      "summary": "OpenAI、社内でのAIコーディングエージェント利用実態を公開…1日100万円分以上を消費する研究者も gizmodo.jp",
       "published_at": "2026-09-30T05:35:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -2755,10 +2812,10 @@
       "id": "acbf5518b4aa54e488e8a366",
       "category": "ai",
       "source_id": "ai",
-      "title": "OpenAI、常時稼働型エージェント「Dots」を発表--慎重にすべき理由 - ZDNET Japan",
+      "title": "OpenAI、常時稼働型エージェント「Dots」を発表--慎重にすべき理由 - japan.zdnet.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAteldPZGhUODF4bkU1YTRvX21HdXQ0ZGRPVC1jN3hJYlU3OGRiS1BYb1pTZ2hmRDZXQ3Q2bE1LTVV5NGo0MmFBUmQ3V0VEN3dsQ3Vn?oc=5",
-      "publisher": "ZDNET Japan",
-      "summary": "OpenAI、常時稼働型エージェント「Dots」を発表--慎重にすべき理由 ZDNET Japan",
+      "publisher": "japan.zdnet.com",
+      "summary": "OpenAI、常時稼働型エージェント「Dots」を発表--慎重にすべき理由 japan.zdnet.com",
       "published_at": "2026-09-30T00:30:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -4203,10 +4260,10 @@
       "id": "9b383df16940512bf005f729",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "AI・STEM教材を無償提供…みんなのコードが参加校5校募集 - リセマム",
+      "title": "AI・STEM教材を無償提供…みんなのコードが参加校5校募集 - reseed.resemom.jp",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCenc3RG1JOVJSV0hNVE41LXZSa3g1aFF3WDVRVXN2dFRuV2dYb0dxc3d3RGlSS3VVWTRMQ2N2OWxFSnUyMmloOFdXUFJxdTFqcC15TmxfbVhKTnFZVm1JVlJQYWtDZw?oc=5",
-      "publisher": "リセマム",
-      "summary": "AI・STEM教材を無償提供…みんなのコードが参加校5校募集 リセマム",
+      "publisher": "reseed.resemom.jp",
+      "summary": "AI・STEM教材を無償提供…みんなのコードが参加校5校募集 reseed.resemom.jp",
       "published_at": "2026-09-29T04:15:03Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -4362,10 +4419,10 @@
       "id": "dd48f36a591bf0b459de44ec",
       "category": "ai",
       "source_id": "ai",
-      "title": "グーグル、Gemini「Gems」終了へ…11月17日から「Skills」へ自動移行 - ビジネス+IT",
+      "title": "グーグル、Gemini「Gems」終了へ…11月17日から「Skills」へ自動移行 - sbbit.jp",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hRzlhQ1hIQVFMZndlWUxPQ2JiRWo3MmJTdEN0SXZUaFltVWxIQU9VRjhVQzRPU3lDdGJiUUM1amRuM1ZsanhYM1dtTDFsZHRPaWNB?oc=5",
-      "publisher": "ビジネス+IT",
-      "summary": "グーグル、Gemini「Gems」終了へ…11月17日から「Skills」へ自動移行 ビジネス+IT",
+      "publisher": "sbbit.jp",
+      "summary": "グーグル、Gemini「Gems」終了へ…11月17日から「Skills」へ自動移行 sbbit.jp",
       "published_at": "2026-09-29T02:10:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -4496,10 +4553,10 @@
       "id": "32828135bef8cf53b84331ee",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "文科省、教育情報化専門職を募集…日給1.5-2.3万円 - リセマム",
+      "title": "文科省、教育情報化専門職を募集…日給1.5-2.3万円 - reseed.resemom.jp",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1wOTlibURoWTVfOEY0bWZYMmt5YkxIanZlVVE4blZpLUNjdmpURmFWeVh3Yy0xQlhYWGtLT0JyOWg5WngxdktRbWU4T2h0amJnZXBLYk1LdmxZUEtGdlJoclJwMGlnZw?oc=5",
-      "publisher": "リセマム",
-      "summary": "文科省、教育情報化専門職を募集…日給1.5-2.3万円 リセマム",
+      "publisher": "reseed.resemom.jp",
+      "summary": "文科省、教育情報化専門職を募集…日給1.5-2.3万円 reseed.resemom.jp",
       "published_at": "2026-09-29T01:45:03Z",
       "collected_at": "2026-10-01T14:19:38.446863Z",
       "provider": null,
@@ -5266,10 +5323,10 @@
       "id": "9d06399f9b8e28506914013d",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "生成AI指針改定など議論「デジタル学習基盤委員会」傍聴締切9/29 - リセマム",
+      "title": "生成AI指針改定など議論「デジタル学習基盤委員会」傍聴締切9/29 - reseed.resemom.jp",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBkeWFoZWNzYTBta0VTYVJqS0p0ZGZJcC0wUmMzVEtxOUczWU9sY2QzQ2ZqclBtRHFKdmpsQjA0NmVmMXJVQ2NzSk1tVVVhajNBdFdEamo2c21KbEtOV0JGQWJOSTdFUQ?oc=5",
-      "publisher": "リセマム",
-      "summary": "生成AI指針改定など議論「デジタル学習基盤委員会」傍聴締切9/29 リセマム",
+      "publisher": "reseed.resemom.jp",
+      "summary": "生成AI指針改定など議論「デジタル学習基盤委員会」傍聴締切9/29 reseed.resemom.jp",
       "published_at": "2026-09-28T03:15:03Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -5480,10 +5537,10 @@
       "id": "679de8b112d749079a6dc924",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "Google「生成AIと高等教育機関の未来」10/30 - リセマム",
+      "title": "Google「生成AIと高等教育機関の未来」10/30 - reseed.resemom.jp",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBGRXZBUDZXR0pZcE0yWmVTQlRVZFdNMHlkck5LM01rMGNYLTJBWWw5V25CSktkc1EzbDZaaGVJZ3U4UHlRaEZmdGI2YWZsRlh4V0N3WFdzcTJsMnZ0WG55dmJKOTNWUQ?oc=5",
-      "publisher": "リセマム",
-      "summary": "Google「生成AIと高等教育機関の未来」10/30 リセマム",
+      "publisher": "reseed.resemom.jp",
+      "summary": "Google「生成AIと高等教育機関の未来」10/30 reseed.resemom.jp",
       "published_at": "2026-09-28T00:15:02Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -5695,10 +5752,10 @@
       "id": "d9b1faab7e075832fc1e7c38",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い… - ビジネス+IT",
+      "title": "【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い… - sbbit.jp",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JdHdlVGo0d0Q1Mnh0OTBvWWdReEtZZjdSb0dKSnNrRG9jZkI4TlhqLWZVQ2dBLU9lbldzSHVwSk5mRlNTcndhMUIyTEJUTW55OGh3?oc=5",
-      "publisher": "ビジネス+IT",
-      "summary": "【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い… ビジネス+IT",
+      "publisher": "sbbit.jp",
+      "summary": "【保存版】デロイト流「AI活用術」大解剖、学習データの整備術・若手育成術も凄い… sbbit.jp",
       "published_at": "2026-09-27T22:10:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -5866,10 +5923,10 @@
       "id": "b49a6022991a9bd382d46718",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "オープンAIのAIが暴走 米教育省、商務省、SECのサイト標的 - cnn.co.jp",
+      "title": "オープンAIのAIが暴走 米教育省、商務省、SECのサイト標的 - CNN.jp",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBBVDZkbGNLRnJUclJSY1J2bnc0QWpnb0k0eW5wLW5qUkdLdUZrRjFrWDdMRFZ4bzg5Z0YzdF9vVUFrdHVLZU9jRE1kMUhKV2czSEE?oc=5",
-      "publisher": "cnn.co.jp",
-      "summary": "オープンAIのAIが暴走 米教育省、商務省、SECのサイト標的 cnn.co.jp",
+      "publisher": "CNN.jp",
+      "summary": "オープンAIのAIが暴走 米教育省、商務省、SECのサイト標的 CNN.jp",
       "published_at": "2026-09-27T06:12:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -6274,6 +6331,24 @@
       "summary": "米オープンＡＩ、学習用の利用者画像５３件が共有サイトに投稿される…性能試験用データも流出（読売新聞オンライン） Yahoo!ニュース",
       "published_at": "2026-09-26T01:17:38Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "92a0be783989a55557400e1d",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "米オープンＡＩ、学習用の利用者画像５３件が共有サイトに投稿される…性能試験用データも流出 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94cXlrZU1Jb0ZMOGV4OXloc3g3a01WclVJVGF1b21QWFdXZVRCVXhzTlR1b3pzSXRBaHktdFY1ZjBEMS1OODBDa3lBcDl2Y0Vvd292TUYxMDUxNUxlZ1hZUTByLXU?oc=5",
+      "publisher": "読売新聞",
+      "summary": "米オープンＡＩ、学習用の利用者画像５３件が共有サイトに投稿される…性能試験用データも流出 読売新聞",
+      "published_at": "2026-09-26T01:17:00Z",
+      "collected_at": "2026-10-03T02:16:40.144095Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -7585,10 +7660,10 @@
       "id": "3daea3fbb6380edccf0e6624",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "ロイロノート、AI機能を開発へ…実証校募集も開始 - リセマム",
+      "title": "ロイロノート、AI機能を開発へ…実証校募集も開始 - reseed.resemom.jp",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jSk9hSnEtbW4xWmtqYWRERWlGX0ItaDNtUFBjbWZ0ek5IRy1Nd2FWN2l3S3R1andka0Y0RFZqU3RKNVhXdXVmSVBkenR2WFBEN1RBbG9hYjAtbWV2WG9oLXJjWU9yQQ?oc=5",
-      "publisher": "リセマム",
-      "summary": "ロイロノート、AI機能を開発へ…実証校募集も開始 リセマム",
+      "publisher": "reseed.resemom.jp",
+      "summary": "ロイロノート、AI機能を開発へ…実証校募集も開始 reseed.resemom.jp",
       "published_at": "2026-09-24T07:00:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -7754,6 +7829,24 @@
       ]
     },
     {
+      "id": "a1c5bf25da369aa2372b534d",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "生成AI時代の学習指導要領をテーマにオープンセミナーが開かれ、現役教員ら約600人が参加しました | NEWS | 広報サイト - kansaigaidai.ac.jp",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRb09Sa0dvLUJzcERlakRjQlo4TDBJbGx3Tmk3eThyOFdQdlUyRDRoNHB1M1hLTEJLOTVNTDZtQXdiNFlyWldtR0gwQk9kcW4ybGYxVjl0S3lYV0lZT1k3Wmh3?oc=5",
+      "publisher": "kansaigaidai.ac.jp",
+      "summary": "生成AI時代の学習指導要領をテーマにオープンセミナーが開かれ、現役教員ら約600人が参加しました | NEWS | 広報サイト kansaigaidai.ac.jp",
+      "published_at": "2026-09-24T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "6e7c6edea76c85e64d93745b",
       "category": "ai",
       "source_id": "ai",
@@ -7783,24 +7876,6 @@
       "in_scope": true,
       "theme_ids": [
         "parenting"
-      ]
-    },
-    {
-      "id": "a1c5bf25da369aa2372b534d",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "生成AI時代の学習指導要領をテーマにオープンセミナーが開かれ、現役教員ら約600人が参加しました | NEWS | 広報サイト - kansaigaidai.ac.jp",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRb09Sa0dvLUJzcERlakRjQlo4TDBJbGx3Tmk3eThyOFdQdlUyRDRoNHB1M1hLTEJLOTVNTDZtQXdiNFlyWldtR0gwQk9kcW4ybGYxVjl0S3lYV0lZT1k3Wmh3?oc=5",
-      "publisher": "kansaigaidai.ac.jp",
-      "summary": "生成AI時代の学習指導要領をテーマにオープンセミナーが開かれ、現役教員ら約600人が参加しました | NEWS | 広報サイト kansaigaidai.ac.jp",
-      "published_at": "2026-09-24T04:30:29Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
       ]
     },
     {
@@ -8130,10 +8205,10 @@
       "id": "1ffe66bb003e923d31c1a7af",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "AIの学習と著作権をめぐる米司法省の見解が脅威になる理由 - ZDNET Japan",
+      "title": "AIの学習と著作権をめぐる米司法省の見解が脅威になる理由 - japan.zdnet.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zQlViRXJRZnRSUmxrRUJGWHBRUENGbzBTM1diTUJoU1NLSXlQbHl0RmNmQTF5RnRBNmFFSnZ2WGpHOE1HbFo5QUhaNG5aaXFiaENZ?oc=5",
-      "publisher": "ZDNET Japan",
-      "summary": "AIの学習と著作権をめぐる米司法省の見解が脅威になる理由 ZDNET Japan",
+      "publisher": "japan.zdnet.com",
+      "summary": "AIの学習と著作権をめぐる米司法省の見解が脅威になる理由 japan.zdnet.com",
       "published_at": "2026-09-23T22:00:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -12754,20 +12829,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-03T09:20:03.519148+09:00",
+      "generated_at": "2026-10-03T11:16:46.992830+09:00",
       "is_complete": false,
-      "article_count": 45,
+      "article_count": 48,
       "category_counts": {
-        "ai": 25,
+        "ai": 27,
         "parenting": 11,
-        "tech": 9
+        "tech": 10
       },
       "overview": "Anthropicは実案件でClaudeを導入する技術者育成を始め、Barclaysは開発・社内検索・メール処理へ活用を広げています。OpenAIとSafewayは献立相談から商品選択・買い物かごへつなぐ体験を示しました。共通するのは、回答を出す段階から、既存の業務や購入手順の中で次の行動を進める段階へ踏み込んでいることです。 DGX Sparkの64GBモデルはローカルでモデルを動かす選択肢を広げ、CoreWeave Forgeはクラウド上の学習・評価・実運用をつなぎます。NVIDIAの基盤解説は、処理速度だけでなく、設備を長く使い、用途に応じて仕事を割り当てる考え方を示しています。実行場所と、動かした後の改善・稼働管理が今回の共通した論点です。 Khan Academyは次の課題・進歩・クラスの共通目標を見えるようにし、家庭へ達成を共有する仕組みを紹介しています。Googleは教室の作業に沿った教員研修を公開し、高等教育では成人学習者の相談や進路支援を担う人の研修を支援します。学習者向け機能と、先生・支援担当者が使いこなす準備の両方を扱う発表が並びました。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+        "attempted_at": "2026-10-03T02:16:46.756615+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -12798,7 +12873,7 @@
             "stage": "original_fetch"
           }
         ],
-        "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+        "last_success_at": "2026-10-03T02:16:46.756615+00:00"
       },
       "genre_briefs": [
         {
@@ -13031,16 +13106,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 9,
-          "publisher_count": 6,
+          "count": 10,
+          "publisher_count": 7,
           "summary": "NVIDIAは、統合メモリ64GBのDGX Sparkをパートナー各社から10月23日に提供する予定と発表しました。GB10チップと既存のAIソフトウェア環境を維持し、手元でモデルの推論や調整を行う構成です。2台を高速ネットワークで接続し、より大きなモデルを扱う方法も紹介しています。接続設定を助けるツールに加え、モデルを起動してノートPCの開発環境から利用するツールも月内に提供予定です。 NVIDIAはAIファクトリーの投資回収を、電力当たりの処理量、ハードウェアの有用な寿命、需要の広さの三つで解説。旧世代GPUにも適した仕事を割り当て、学習・推論・画像処理・シミュレーションなど複数の用途に使うことで、設備を長く稼働させる考え方を示しています。 CoreWeaveは、モデルやエージェントの学習・評価・改善をつなぐForgeを発表しました。実運用の記録から失敗を調べるAgent Lens、実験を分析してコード変更や次の実験を提案するARIA、コードやツールを隔離環境で実行するSandboxesを組み合わせます。NVIDIAのVera Rubin基盤の提供も発表し、Devinを開発するCognitionが本番処理で利用しています。",
           "evidence_ids": [
             "292a1eb5d767bc41f4973ec6",
-            "651cfbf86c3f701cad4c5e6b",
-            "8968abce793d306b206c976e"
+            "230442aec624c68914952248",
+            "651cfbf86c3f701cad4c5e6b"
           ],
           "article_ids": [
             "292a1eb5d767bc41f4973ec6",
+            "230442aec624c68914952248",
             "651cfbf86c3f701cad4c5e6b",
             "75d193d9fa2bc28ce04e8d98",
             "d19cdac9c9063a87ed58a955",
@@ -13080,6 +13156,33 @@
           ]
         },
         {
+          "id": "ai-agents",
+          "category": "ai",
+          "label": "AIエージェント・開発の自動化",
+          "words": [
+            "エージェント",
+            "agent",
+            "Claude Code",
+            "Codex",
+            "自動化",
+            "交渉",
+            "開発"
+          ],
+          "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
+          "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
+          "count": 2,
+          "publisher_count": 2,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e"
+          ],
+          "article_ids": [
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e"
+          ]
+        },
+        {
           "id": "ai-safety",
           "category": "ai",
           "label": "AIの権利・安全性",
@@ -13104,34 +13207,9 @@
           "article_ids": [
             "7590f87f4d5515fb1d3f0928"
           ]
-        },
-        {
-          "id": "parent-care",
-          "category": "parenting",
-          "label": "育児相談・家族のサポート",
-          "words": [
-            "相談",
-            "支援",
-            "サポート",
-            "助産",
-            "医師",
-            "メンタル",
-            "悩み"
-          ],
-          "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
-          "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 1,
-          "publisher_count": 1,
-          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
-          "evidence_ids": [
-            "a34800a646f1c527e9d56464"
-          ],
-          "article_ids": [
-            "a34800a646f1c527e9d56464"
-          ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
@@ -13197,6 +13275,8 @@
         "9b4590005950ccc6b7bd29b8",
         "d02ea7173e01e1aa73d2d49e",
         "292a1eb5d767bc41f4973ec6",
+        "230442aec624c68914952248",
+        "84ad53e79d76b0e8236b62a1",
         "f6601b45475178bc226091b5",
         "d53016816a2c43b4fc23c5f7",
         "651cfbf86c3f701cad4c5e6b",
@@ -13230,6 +13310,7 @@
         "8d335e4e2bc7d4275baaa36b",
         "0f3f70e2c33289ad9aa8b473",
         "a458cfe7953118d8654160bd",
+        "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
         "8fec39b02b014209f723cd73",
@@ -13245,20 +13326,20 @@
       "kind": "weekly",
       "period_start": "2026-09-28",
       "period_end": "2026-10-04",
-      "generated_at": "2026-10-03T09:20:03.519148+09:00",
+      "generated_at": "2026-10-03T11:16:46.992830+09:00",
       "is_complete": false,
-      "article_count": 251,
+      "article_count": 254,
       "category_counts": {
-        "ai": 133,
+        "ai": 135,
         "parenting": 52,
-        "tech": 66
+        "tech": 67
       },
       "overview": "Anthropicは実案件でClaudeを導入する技術者育成を始め、Barclaysは開発・社内検索・メール処理へ活用を広げています。OpenAIとSafewayは献立相談から商品選択・買い物かごへつなぐ体験を示しました。共通するのは、回答を出す段階から、既存の業務や購入手順の中で次の行動を進める段階へ踏み込んでいることです。 DGX Sparkの64GBモデルはローカルでモデルを動かす選択肢を広げ、CoreWeave Forgeはクラウド上の学習・評価・実運用をつなぎます。NVIDIAの基盤解説は、処理速度だけでなく、設備を長く使い、用途に応じて仕事を割り当てる考え方を示しています。実行場所と、動かした後の改善・稼働管理が今回の共通した論点です。 Khan Academyは次の課題・進歩・クラスの共通目標を見えるようにし、家庭へ達成を共有する仕組みを紹介しています。Googleは教室の作業に沿った教員研修を公開し、高等教育では成人学習者の相談や進路支援を担う人の研修を支援します。学習者向け機能と、先生・支援担当者が使いこなす準備の両方を扱う発表が並びました。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+        "attempted_at": "2026-10-03T02:16:46.756615+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -13289,7 +13370,7 @@
             "stage": "original_fetch"
           }
         ],
-        "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+        "last_success_at": "2026-10-03T02:16:46.756615+00:00"
       },
       "genre_briefs": [
         {
@@ -13481,7 +13562,7 @@
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
           "count": 102,
-          "publisher_count": 38,
+          "publisher_count": 39,
           "summary": "AnthropicはClaude Frontier Academyを開始し、1億ドルを投じて2027年末までに1万人の導入技術者を育てる目標を示しました。参加者は企業が推薦するソフトウェア技術者です。対面研修で用途選定からセキュリティ審査・引き継ぎまでを練習した後、12週間、自社の実案件を進めながら支援を受けます。試験に合格した人へ段階的に資格を付与する設計で、最初の研修はすでに始まっています。 OpenAIとAlbertsonsが小売での連携拡大を発表。SafewayのChatGPT上の体験では、レシピ・写真・買い物リストから商品を提案してかごを作り、決済はSafewayへ案内します。社内ではChatGPT EnterpriseとAPIを開発や商品販促の判断にも活用します。 AnthropicとBarclaysが連携拡大を発表。銀行はClaudeを既存システムの刷新やソフトウェア開発に活用し、2026年末までに開発者の半数へClaude Codeを広げる計画です。社内知識検索に加え、メールの分類・情報補完・処理先の選択にも使っています。",
           "evidence_ids": [
             "9dcb646d0abc42880ac890a3",
@@ -13600,16 +13681,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 62,
-          "publisher_count": 32,
+          "count": 63,
+          "publisher_count": 33,
           "summary": "NVIDIAは、統合メモリ64GBのDGX Sparkをパートナー各社から10月23日に提供する予定と発表しました。GB10チップと既存のAIソフトウェア環境を維持し、手元でモデルの推論や調整を行う構成です。2台を高速ネットワークで接続し、より大きなモデルを扱う方法も紹介しています。接続設定を助けるツールに加え、モデルを起動してノートPCの開発環境から利用するツールも月内に提供予定です。 NVIDIAはAIファクトリーの投資回収を、電力当たりの処理量、ハードウェアの有用な寿命、需要の広さの三つで解説。旧世代GPUにも適した仕事を割り当て、学習・推論・画像処理・シミュレーションなど複数の用途に使うことで、設備を長く稼働させる考え方を示しています。 CoreWeaveは、モデルやエージェントの学習・評価・改善をつなぐForgeを発表しました。実運用の記録から失敗を調べるAgent Lens、実験を分析してコード変更や次の実験を提案するARIA、コードやツールを隔離環境で実行するSandboxesを組み合わせます。NVIDIAのVera Rubin基盤の提供も発表し、Devinを開発するCognitionが本番処理で利用しています。",
           "evidence_ids": [
             "292a1eb5d767bc41f4973ec6",
-            "651cfbf86c3f701cad4c5e6b",
-            "8968abce793d306b206c976e"
+            "230442aec624c68914952248",
+            "651cfbf86c3f701cad4c5e6b"
           ],
           "article_ids": [
             "292a1eb5d767bc41f4973ec6",
+            "230442aec624c68914952248",
             "651cfbf86c3f701cad4c5e6b",
             "75d193d9fa2bc28ce04e8d98",
             "d19cdac9c9063a87ed58a955",
@@ -13753,15 +13835,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 20,
-          "publisher_count": 13,
+          "count": 22,
+          "publisher_count": 14,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "6478353b254b65b74ebe8e3e",
-            "5da84f52fb8fe77f39904803",
-            "c9486ed3344add8db772e111"
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e",
+            "6478353b254b65b74ebe8e3e"
           ],
           "article_ids": [
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e",
             "6478353b254b65b74ebe8e3e",
             "5da84f52fb8fe77f39904803",
             "c9486ed3344add8db772e111",
@@ -13889,6 +13973,8 @@
         "9b4590005950ccc6b7bd29b8",
         "d02ea7173e01e1aa73d2d49e",
         "292a1eb5d767bc41f4973ec6",
+        "230442aec624c68914952248",
+        "84ad53e79d76b0e8236b62a1",
         "f6601b45475178bc226091b5",
         "d53016816a2c43b4fc23c5f7",
         "651cfbf86c3f701cad4c5e6b",
@@ -13922,6 +14008,7 @@
         "8d335e4e2bc7d4275baaa36b",
         "0f3f70e2c33289ad9aa8b473",
         "a458cfe7953118d8654160bd",
+        "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
         "8fec39b02b014209f723cd73",
@@ -14143,11 +14230,11 @@
       "kind": "weekly",
       "period_start": "2026-09-21",
       "period_end": "2026-09-27",
-      "generated_at": "2026-10-03T09:20:03.519148+09:00",
+      "generated_at": "2026-10-03T11:16:46.992830+09:00",
       "is_complete": true,
-      "article_count": 169,
+      "article_count": 170,
       "category_counts": {
-        "parenting": 40,
+        "parenting": 41,
         "ai": 79,
         "tech": 50
       },
@@ -14156,7 +14243,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+        "attempted_at": "2026-10-03T02:16:46.756615+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -14187,7 +14274,7 @@
             "stage": "original_fetch"
           }
         ],
-        "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+        "last_success_at": "2026-10-03T02:16:46.756615+00:00"
       },
       "genre_briefs": [
         {
@@ -14375,8 +14462,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 32,
-          "publisher_count": 24,
+          "count": 33,
+          "publisher_count": 25,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "2e3d3e2c8f00a03884a5d60d",
@@ -14391,6 +14478,7 @@
             "338ddde4c40c8cd6af8e1058",
             "c063f9f4878ca3f91acb2c73",
             "51f334a3207c74f3feced067",
+            "92a0be783989a55557400e1d",
             "095aa629fe303ac50d948f20",
             "2fd8d50d4495018b3d910c80",
             "1397dc9cc8eeb7660b21adf3",
@@ -14521,6 +14609,7 @@
         "e0b06a5eccccf9ede65450f7",
         "2483c21e1cfee994423edda3",
         "51f334a3207c74f3feced067",
+        "92a0be783989a55557400e1d",
         "d48d765577f3ca4cbe018cbf",
         "095aa629fe303ac50d948f20",
         "2fd8d50d4495018b3d910c80",
@@ -14588,9 +14677,9 @@
         "d77bbbaa6ee7391e787a677f",
         "9d616f32f11c9b04836c8c3e",
         "950ea4c5f391a7f0b6d60329",
+        "a1c5bf25da369aa2372b534d",
         "6e7c6edea76c85e64d93745b",
         "c630a06c2a6a48ca50939892",
-        "a1c5bf25da369aa2372b534d",
         "95d899ccd10ca82fef7f3c9f",
         "ebf1fe05d138a67226137e02",
         "c7b35769312f371315892b77",
@@ -14675,20 +14764,20 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-03T09:20:03.519148+09:00",
+      "generated_at": "2026-10-03T11:16:46.992830+09:00",
       "is_complete": true,
-      "article_count": 473,
+      "article_count": 474,
       "category_counts": {
         "tech": 116,
         "ai": 240,
-        "parenting": 117
+        "parenting": 118
       },
       "overview": "Claudeの本交換実験では好みの把握が結果を制約し、GitLabはAI開発にポリシーと監査証跡を組み込む方法を示しました。 Gemini Liveはカメラ映像の説明と構図の案内、Fire TVは給電の簡略化、WSLはWindowsからコンテナを扱う手段を提供しています。 園向けには午睡記録の自動連携、家庭向けには端末内AIと家族限定の共有が発表されています。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+        "attempted_at": "2026-10-03T02:16:46.756615+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -14719,7 +14808,7 @@
             "stage": "original_fetch"
           }
         ],
-        "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+        "last_success_at": "2026-10-03T02:16:46.756615+00:00"
       },
       "genre_briefs": [
         {
@@ -14900,7 +14989,7 @@
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
           "count": 195,
-          "publisher_count": 46,
+          "publisher_count": 47,
           "summary": "GoogleがGemini 4 Argonを発表。長い推論を伴うソフトウェア開発や業務処理を重視し、社内のコード移行・最適化への活用例を紹介しています。まず信頼されたサイバー防御担当者へ段階的に提供します。",
           "evidence_ids": [
             "efebafa1f8cc0cb6247eea27",
@@ -15240,8 +15329,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 91,
-          "publisher_count": 49,
+          "count": 92,
+          "publisher_count": 51,
           "summary": "GoogleがGemini Notebookの学習機能を拡充。教材の要約・図解・小テスト・フラッシュカードを組み合わせた学習画面や、回答結果をもとに復習箇所を考える使い方を紹介しています。",
           "evidence_ids": [
             "28ec2b9c20fa86b2043a8c91",
@@ -15293,6 +15382,7 @@
             "338ddde4c40c8cd6af8e1058",
             "c063f9f4878ca3f91acb2c73",
             "51f334a3207c74f3feced067",
+            "92a0be783989a55557400e1d",
             "095aa629fe303ac50d948f20",
             "2fd8d50d4495018b3d910c80",
             "1397dc9cc8eeb7660b21adf3",
@@ -15728,6 +15818,7 @@
         "e0b06a5eccccf9ede65450f7",
         "2483c21e1cfee994423edda3",
         "51f334a3207c74f3feced067",
+        "92a0be783989a55557400e1d",
         "d48d765577f3ca4cbe018cbf",
         "095aa629fe303ac50d948f20",
         "2fd8d50d4495018b3d910c80",
@@ -15795,9 +15886,9 @@
         "d77bbbaa6ee7391e787a677f",
         "9d616f32f11c9b04836c8c3e",
         "950ea4c5f391a7f0b6d60329",
+        "a1c5bf25da369aa2372b534d",
         "6e7c6edea76c85e64d93745b",
         "c630a06c2a6a48ca50939892",
-        "a1c5bf25da369aa2372b534d",
         "95d899ccd10ca82fef7f3c9f",
         "ebf1fe05d138a67226137e02",
         "c7b35769312f371315892b77",
@@ -15982,20 +16073,20 @@
       "kind": "overview",
       "period_start": "2026-09-27",
       "period_end": "2026-10-03",
-      "generated_at": "2026-10-03T09:20:03.519148+09:00",
+      "generated_at": "2026-10-03T11:16:46.992830+09:00",
       "is_complete": false,
-      "article_count": 264,
+      "article_count": 267,
       "category_counts": {
-        "ai": 139,
+        "ai": 141,
         "parenting": 56,
-        "tech": 69
+        "tech": 70
       },
       "overview": "Anthropicは実案件でClaudeを導入する技術者育成を始め、Barclaysは開発・社内検索・メール処理へ活用を広げています。OpenAIとSafewayは献立相談から商品選択・買い物かごへつなぐ体験を示しました。共通するのは、回答を出す段階から、既存の業務や購入手順の中で次の行動を進める段階へ踏み込んでいることです。 DGX Sparkの64GBモデルはローカルでモデルを動かす選択肢を広げ、CoreWeave Forgeはクラウド上の学習・評価・実運用をつなぎます。NVIDIAの基盤解説は、処理速度だけでなく、設備を長く使い、用途に応じて仕事を割り当てる考え方を示しています。実行場所と、動かした後の改善・稼働管理が今回の共通した論点です。 Khan Academyは次の課題・進歩・クラスの共通目標を見えるようにし、家庭へ達成を共有する仕組みを紹介しています。Googleは教室の作業に沿った教員研修を公開し、高等教育では成人学習者の相談や進路支援を担う人の研修を支援します。学習者向け機能と、先生・支援担当者が使いこなす準備の両方を扱う発表が並びました。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+        "attempted_at": "2026-10-03T02:16:46.756615+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -16026,7 +16117,7 @@
             "stage": "original_fetch"
           }
         ],
-        "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+        "last_success_at": "2026-10-03T02:16:46.756615+00:00"
       },
       "genre_briefs": [
         {
@@ -16218,7 +16309,7 @@
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
           "count": 107,
-          "publisher_count": 39,
+          "publisher_count": 40,
           "summary": "AnthropicはClaude Frontier Academyを開始し、1億ドルを投じて2027年末までに1万人の導入技術者を育てる目標を示しました。参加者は企業が推薦するソフトウェア技術者です。対面研修で用途選定からセキュリティ審査・引き継ぎまでを練習した後、12週間、自社の実案件を進めながら支援を受けます。試験に合格した人へ段階的に資格を付与する設計で、最初の研修はすでに始まっています。 OpenAIとAlbertsonsが小売での連携拡大を発表。SafewayのChatGPT上の体験では、レシピ・写真・買い物リストから商品を提案してかごを作り、決済はSafewayへ案内します。社内ではChatGPT EnterpriseとAPIを開発や商品販促の判断にも活用します。 AnthropicとBarclaysが連携拡大を発表。銀行はClaudeを既存システムの刷新やソフトウェア開発に活用し、2026年末までに開発者の半数へClaude Codeを広げる計画です。社内知識検索に加え、メールの分類・情報補完・処理先の選択にも使っています。",
           "evidence_ids": [
             "9dcb646d0abc42880ac890a3",
@@ -16342,16 +16433,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 65,
-          "publisher_count": 32,
+          "count": 66,
+          "publisher_count": 33,
           "summary": "NVIDIAは、統合メモリ64GBのDGX Sparkをパートナー各社から10月23日に提供する予定と発表しました。GB10チップと既存のAIソフトウェア環境を維持し、手元でモデルの推論や調整を行う構成です。2台を高速ネットワークで接続し、より大きなモデルを扱う方法も紹介しています。接続設定を助けるツールに加え、モデルを起動してノートPCの開発環境から利用するツールも月内に提供予定です。 NVIDIAはAIファクトリーの投資回収を、電力当たりの処理量、ハードウェアの有用な寿命、需要の広さの三つで解説。旧世代GPUにも適した仕事を割り当て、学習・推論・画像処理・シミュレーションなど複数の用途に使うことで、設備を長く稼働させる考え方を示しています。 CoreWeaveは、モデルやエージェントの学習・評価・改善をつなぐForgeを発表しました。実運用の記録から失敗を調べるAgent Lens、実験を分析してコード変更や次の実験を提案するARIA、コードやツールを隔離環境で実行するSandboxesを組み合わせます。NVIDIAのVera Rubin基盤の提供も発表し、Devinを開発するCognitionが本番処理で利用しています。",
           "evidence_ids": [
             "292a1eb5d767bc41f4973ec6",
-            "651cfbf86c3f701cad4c5e6b",
-            "8968abce793d306b206c976e"
+            "230442aec624c68914952248",
+            "651cfbf86c3f701cad4c5e6b"
           ],
           "article_ids": [
             "292a1eb5d767bc41f4973ec6",
+            "230442aec624c68914952248",
             "651cfbf86c3f701cad4c5e6b",
             "75d193d9fa2bc28ce04e8d98",
             "d19cdac9c9063a87ed58a955",
@@ -16502,15 +16594,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 20,
-          "publisher_count": 13,
+          "count": 22,
+          "publisher_count": 14,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "6478353b254b65b74ebe8e3e",
-            "5da84f52fb8fe77f39904803",
-            "c9486ed3344add8db772e111"
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e",
+            "6478353b254b65b74ebe8e3e"
           ],
           "article_ids": [
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e",
             "6478353b254b65b74ebe8e3e",
             "5da84f52fb8fe77f39904803",
             "c9486ed3344add8db772e111",
@@ -16639,6 +16733,8 @@
         "9b4590005950ccc6b7bd29b8",
         "d02ea7173e01e1aa73d2d49e",
         "292a1eb5d767bc41f4973ec6",
+        "230442aec624c68914952248",
+        "84ad53e79d76b0e8236b62a1",
         "f6601b45475178bc226091b5",
         "d53016816a2c43b4fc23c5f7",
         "651cfbf86c3f701cad4c5e6b",
@@ -16672,6 +16768,7 @@
         "8d335e4e2bc7d4275baaa36b",
         "0f3f70e2c33289ad9aa8b473",
         "a458cfe7953118d8654160bd",
+        "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
         "8fec39b02b014209f723cd73",
@@ -16906,20 +17003,20 @@
       "kind": "weekly",
       "period_start": "2026-09-28",
       "period_end": "2026-10-04",
-      "generated_at": "2026-10-03T09:20:03.519148+09:00",
+      "generated_at": "2026-10-03T11:16:46.992830+09:00",
       "is_complete": false,
-      "article_count": 251,
+      "article_count": 254,
       "category_counts": {
-        "ai": 133,
+        "ai": 135,
         "parenting": 52,
-        "tech": 66
+        "tech": 67
       },
       "overview": "Anthropicは実案件でClaudeを導入する技術者育成を始め、Barclaysは開発・社内検索・メール処理へ活用を広げています。OpenAIとSafewayは献立相談から商品選択・買い物かごへつなぐ体験を示しました。共通するのは、回答を出す段階から、既存の業務や購入手順の中で次の行動を進める段階へ踏み込んでいることです。 DGX Sparkの64GBモデルはローカルでモデルを動かす選択肢を広げ、CoreWeave Forgeはクラウド上の学習・評価・実運用をつなぎます。NVIDIAの基盤解説は、処理速度だけでなく、設備を長く使い、用途に応じて仕事を割り当てる考え方を示しています。実行場所と、動かした後の改善・稼働管理が今回の共通した論点です。 Khan Academyは次の課題・進歩・クラスの共通目標を見えるようにし、家庭へ達成を共有する仕組みを紹介しています。Googleは教室の作業に沿った教員研修を公開し、高等教育では成人学習者の相談や進路支援を担う人の研修を支援します。学習者向け機能と、先生・支援担当者が使いこなす準備の両方を扱う発表が並びました。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+        "attempted_at": "2026-10-03T02:16:46.756615+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -16950,7 +17047,7 @@
             "stage": "original_fetch"
           }
         ],
-        "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+        "last_success_at": "2026-10-03T02:16:46.756615+00:00"
       },
       "genre_briefs": [
         {
@@ -17142,7 +17239,7 @@
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
           "count": 102,
-          "publisher_count": 38,
+          "publisher_count": 39,
           "summary": "AnthropicはClaude Frontier Academyを開始し、1億ドルを投じて2027年末までに1万人の導入技術者を育てる目標を示しました。参加者は企業が推薦するソフトウェア技術者です。対面研修で用途選定からセキュリティ審査・引き継ぎまでを練習した後、12週間、自社の実案件を進めながら支援を受けます。試験に合格した人へ段階的に資格を付与する設計で、最初の研修はすでに始まっています。 OpenAIとAlbertsonsが小売での連携拡大を発表。SafewayのChatGPT上の体験では、レシピ・写真・買い物リストから商品を提案してかごを作り、決済はSafewayへ案内します。社内ではChatGPT EnterpriseとAPIを開発や商品販促の判断にも活用します。 AnthropicとBarclaysが連携拡大を発表。銀行はClaudeを既存システムの刷新やソフトウェア開発に活用し、2026年末までに開発者の半数へClaude Codeを広げる計画です。社内知識検索に加え、メールの分類・情報補完・処理先の選択にも使っています。",
           "evidence_ids": [
             "9dcb646d0abc42880ac890a3",
@@ -17261,16 +17358,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 62,
-          "publisher_count": 32,
+          "count": 63,
+          "publisher_count": 33,
           "summary": "NVIDIAは、統合メモリ64GBのDGX Sparkをパートナー各社から10月23日に提供する予定と発表しました。GB10チップと既存のAIソフトウェア環境を維持し、手元でモデルの推論や調整を行う構成です。2台を高速ネットワークで接続し、より大きなモデルを扱う方法も紹介しています。接続設定を助けるツールに加え、モデルを起動してノートPCの開発環境から利用するツールも月内に提供予定です。 NVIDIAはAIファクトリーの投資回収を、電力当たりの処理量、ハードウェアの有用な寿命、需要の広さの三つで解説。旧世代GPUにも適した仕事を割り当て、学習・推論・画像処理・シミュレーションなど複数の用途に使うことで、設備を長く稼働させる考え方を示しています。 CoreWeaveは、モデルやエージェントの学習・評価・改善をつなぐForgeを発表しました。実運用の記録から失敗を調べるAgent Lens、実験を分析してコード変更や次の実験を提案するARIA、コードやツールを隔離環境で実行するSandboxesを組み合わせます。NVIDIAのVera Rubin基盤の提供も発表し、Devinを開発するCognitionが本番処理で利用しています。",
           "evidence_ids": [
             "292a1eb5d767bc41f4973ec6",
-            "651cfbf86c3f701cad4c5e6b",
-            "8968abce793d306b206c976e"
+            "230442aec624c68914952248",
+            "651cfbf86c3f701cad4c5e6b"
           ],
           "article_ids": [
             "292a1eb5d767bc41f4973ec6",
+            "230442aec624c68914952248",
             "651cfbf86c3f701cad4c5e6b",
             "75d193d9fa2bc28ce04e8d98",
             "d19cdac9c9063a87ed58a955",
@@ -17414,15 +17512,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 20,
-          "publisher_count": 13,
+          "count": 22,
+          "publisher_count": 14,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "6478353b254b65b74ebe8e3e",
-            "5da84f52fb8fe77f39904803",
-            "c9486ed3344add8db772e111"
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e",
+            "6478353b254b65b74ebe8e3e"
           ],
           "article_ids": [
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e",
             "6478353b254b65b74ebe8e3e",
             "5da84f52fb8fe77f39904803",
             "c9486ed3344add8db772e111",
@@ -17550,6 +17650,8 @@
         "9b4590005950ccc6b7bd29b8",
         "d02ea7173e01e1aa73d2d49e",
         "292a1eb5d767bc41f4973ec6",
+        "230442aec624c68914952248",
+        "84ad53e79d76b0e8236b62a1",
         "f6601b45475178bc226091b5",
         "d53016816a2c43b4fc23c5f7",
         "651cfbf86c3f701cad4c5e6b",
@@ -17583,6 +17685,7 @@
         "8d335e4e2bc7d4275baaa36b",
         "0f3f70e2c33289ad9aa8b473",
         "a458cfe7953118d8654160bd",
+        "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
         "8fec39b02b014209f723cd73",
@@ -17804,20 +17907,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-03T09:20:03.519148+09:00",
+      "generated_at": "2026-10-03T11:16:46.992830+09:00",
       "is_complete": false,
-      "article_count": 45,
+      "article_count": 48,
       "category_counts": {
-        "ai": 25,
+        "ai": 27,
         "parenting": 11,
-        "tech": 9
+        "tech": 10
       },
       "overview": "Anthropicは実案件でClaudeを導入する技術者育成を始め、Barclaysは開発・社内検索・メール処理へ活用を広げています。OpenAIとSafewayは献立相談から商品選択・買い物かごへつなぐ体験を示しました。共通するのは、回答を出す段階から、既存の業務や購入手順の中で次の行動を進める段階へ踏み込んでいることです。 DGX Sparkの64GBモデルはローカルでモデルを動かす選択肢を広げ、CoreWeave Forgeはクラウド上の学習・評価・実運用をつなぎます。NVIDIAの基盤解説は、処理速度だけでなく、設備を長く使い、用途に応じて仕事を割り当てる考え方を示しています。実行場所と、動かした後の改善・稼働管理が今回の共通した論点です。 Khan Academyは次の課題・進歩・クラスの共通目標を見えるようにし、家庭へ達成を共有する仕組みを紹介しています。Googleは教室の作業に沿った教員研修を公開し、高等教育では成人学習者の相談や進路支援を担う人の研修を支援します。学習者向け機能と、先生・支援担当者が使いこなす準備の両方を扱う発表が並びました。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+        "attempted_at": "2026-10-03T02:16:46.756615+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -17848,7 +17951,7 @@
             "stage": "original_fetch"
           }
         ],
-        "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+        "last_success_at": "2026-10-03T02:16:46.756615+00:00"
       },
       "genre_briefs": [
         {
@@ -18081,16 +18184,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 9,
-          "publisher_count": 6,
+          "count": 10,
+          "publisher_count": 7,
           "summary": "NVIDIAは、統合メモリ64GBのDGX Sparkをパートナー各社から10月23日に提供する予定と発表しました。GB10チップと既存のAIソフトウェア環境を維持し、手元でモデルの推論や調整を行う構成です。2台を高速ネットワークで接続し、より大きなモデルを扱う方法も紹介しています。接続設定を助けるツールに加え、モデルを起動してノートPCの開発環境から利用するツールも月内に提供予定です。 NVIDIAはAIファクトリーの投資回収を、電力当たりの処理量、ハードウェアの有用な寿命、需要の広さの三つで解説。旧世代GPUにも適した仕事を割り当て、学習・推論・画像処理・シミュレーションなど複数の用途に使うことで、設備を長く稼働させる考え方を示しています。 CoreWeaveは、モデルやエージェントの学習・評価・改善をつなぐForgeを発表しました。実運用の記録から失敗を調べるAgent Lens、実験を分析してコード変更や次の実験を提案するARIA、コードやツールを隔離環境で実行するSandboxesを組み合わせます。NVIDIAのVera Rubin基盤の提供も発表し、Devinを開発するCognitionが本番処理で利用しています。",
           "evidence_ids": [
             "292a1eb5d767bc41f4973ec6",
-            "651cfbf86c3f701cad4c5e6b",
-            "8968abce793d306b206c976e"
+            "230442aec624c68914952248",
+            "651cfbf86c3f701cad4c5e6b"
           ],
           "article_ids": [
             "292a1eb5d767bc41f4973ec6",
+            "230442aec624c68914952248",
             "651cfbf86c3f701cad4c5e6b",
             "75d193d9fa2bc28ce04e8d98",
             "d19cdac9c9063a87ed58a955",
@@ -18130,6 +18234,33 @@
           ]
         },
         {
+          "id": "ai-agents",
+          "category": "ai",
+          "label": "AIエージェント・開発の自動化",
+          "words": [
+            "エージェント",
+            "agent",
+            "Claude Code",
+            "Codex",
+            "自動化",
+            "交渉",
+            "開発"
+          ],
+          "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
+          "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
+          "count": 2,
+          "publisher_count": 2,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e"
+          ],
+          "article_ids": [
+            "84ad53e79d76b0e8236b62a1",
+            "f8f39800bc5e9e99edc8ed0e"
+          ]
+        },
+        {
           "id": "ai-safety",
           "category": "ai",
           "label": "AIの権利・安全性",
@@ -18154,34 +18285,9 @@
           "article_ids": [
             "7590f87f4d5515fb1d3f0928"
           ]
-        },
-        {
-          "id": "parent-care",
-          "category": "parenting",
-          "label": "育児相談・家族のサポート",
-          "words": [
-            "相談",
-            "支援",
-            "サポート",
-            "助産",
-            "医師",
-            "メンタル",
-            "悩み"
-          ],
-          "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
-          "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 1,
-          "publisher_count": 1,
-          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
-          "evidence_ids": [
-            "a34800a646f1c527e9d56464"
-          ],
-          "article_ids": [
-            "a34800a646f1c527e9d56464"
-          ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
@@ -18247,6 +18353,8 @@
         "9b4590005950ccc6b7bd29b8",
         "d02ea7173e01e1aa73d2d49e",
         "292a1eb5d767bc41f4973ec6",
+        "230442aec624c68914952248",
+        "84ad53e79d76b0e8236b62a1",
         "f6601b45475178bc226091b5",
         "d53016816a2c43b4fc23c5f7",
         "651cfbf86c3f701cad4c5e6b",
@@ -18280,6 +18388,7 @@
         "8d335e4e2bc7d4275baaa36b",
         "0f3f70e2c33289ad9aa8b473",
         "a458cfe7953118d8654160bd",
+        "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
         "8fec39b02b014209f723cd73",
@@ -18291,10 +18400,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-03T09:20:03.519148+09:00",
+  "report_updated_at": "2026-10-03T11:16:46.992830+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-03T00:20:03.276551+00:00",
+    "attempted_at": "2026-10-03T02:16:46.756615+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -18325,7 +18434,7 @@
         "stage": "original_fetch"
       }
     ],
-    "last_success_at": "2026-10-03T00:20:03.276551+00:00"
+    "last_success_at": "2026-10-03T02:16:46.756615+00:00"
   },
   "topic_definitions": [
     {
@@ -18876,7 +18985,7 @@
     "9dcb646d0abc42880ac890a3",
     "9b4590005950ccc6b7bd29b8",
     "292a1eb5d767bc41f4973ec6",
-    "651cfbf86c3f701cad4c5e6b",
+    "230442aec624c68914952248",
     "d02ea7173e01e1aa73d2d49e",
     "f6601b45475178bc226091b5"
   ]
