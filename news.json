@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-07T21:03:19.332913Z",
-  "last_attempt_at": "2026-10-07T21:03:19.332913Z",
+  "updated_at": "2026-10-08T00:53:08.674768Z",
+  "last_attempt_at": "2026-10-08T00:53:08.674768Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 4,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 42,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-07T21:03:19.332913Z",
+      "checked_at": "2026-10-08T00:53:08.674768Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-08T00:53:08.674768Z",
+      "new_count": 3,
+      "status": "ok"
+    },
     {
       "at": "2026-10-07T21:03:19.332913Z",
       "new_count": 4,
@@ -353,6 +358,24 @@
   ],
   "articles": [
     {
+      "id": "77d7bf38235137ae378312d4",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "「AIがあれば、私たちにもアプリが作れる」女子中高生が約5カ月の開発で知った、生成AIのすごさと難しさ - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0ydXZwWFNYQ09Wd3k3Ukx0SFV4aXJrMU9mTkh1MENNQkJDbmlrVXBEUHlJUlhiS192TDc4Rm5pNjRaUkw1UXpNRGlOTjlHT0FDeHhhN2V3?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "「AIがあれば、私たちにもアプリが作れる」女子中高生が約5カ月の開発で知った、生成AIのすごさと難しさ 朝日新聞",
+      "published_at": "2026-10-07T22:32:01Z",
+      "collected_at": "2026-10-08T00:53:08.674768Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
       "id": "40a1ca2db5e26599685ce199",
       "category": "parenting",
       "source_id": "khan",
@@ -389,13 +412,31 @@
       ]
     },
     {
+      "id": "f1f824ecf9fafce13c8f4885",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "本を読むAI・本を読まなくなる人間 AI時代の教育はどうなる？武田砂鉄が聞く - 文化放送",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoSkhteVU3bjViYi1jeUdyRnlBTjdySjBraEpNSXBBWWJXaHh1TzdtZlN0WWh5Z2ZLVlF4ckVtblVrM1dESEFMOTBqeGgtaFZHNkdVTmJ3?oc=5",
+      "publisher": "文化放送",
+      "summary": "本を読むAI・本を読まなくなる人間 AI時代の教育はどうなる？武田砂鉄が聞く 文化放送",
+      "published_at": "2026-10-07T20:36:21Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "e6ba0560e23f6725aa25080f",
       "category": "tech",
       "source_id": "nvidia",
       "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
       "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
       "publisher": "NVIDIA 公式ブログ",
-      "summary": "At a Microsoft event in San Francisco on Wednesday, Jensen Huang and Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you look at the entire journey of […]",
+      "summary": "At a Microsoft event in San Francisco on Wednesday, NVIDIA founder and CEO Jensen Huang and Microsoft CEO Satya Nadella outlined how NVIDIA and Microsoft are co-engineering hardware and software for AI agents to run on Windows PCs. NVIDIA was founded because of Windows, Huang said. Now AI agents are coming to Windows. “If you […]",
       "published_at": "2026-10-07T18:45:28Z",
       "collected_at": "2026-10-07T21:00:07.646716Z",
       "provider": "NVIDIA",
@@ -403,6 +444,24 @@
       "topic_id": "tech-platform",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "daf4bbb831476a90511ef506",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、GPT-6と対話型UI「Intelligent UI」をChatGPT全体へ展開 無料版は翌日から - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16NjFuRlNZbF8wTTBIWFlnd1k2SlJkV2czRU15WFk0OEdpd1YzYjF1SUdmTmdlUktRdWMxNE1ac1B2c3VnV3dQSDl4UjFITFBld3dV?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "OpenAI、GPT-6と対話型UI「Intelligent UI」をChatGPT全体へ展開 無料版は翌日から ビジネス+IT",
+      "published_at": "2026-10-07T18:29:00Z",
+      "collected_at": "2026-10-08T00:53:08.674768Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "8f4171ecd36ceedb17114813",
@@ -419,24 +478,6 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
-    },
-    {
-      "id": "f1f824ecf9fafce13c8f4885",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "本を読むAI・本を読まなくなる人間 AI時代の教育はどうなる？武田砂鉄が聞く - 文化放送",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoSkhteVU3bjViYi1jeUdyRnlBTjdySjBraEpNSXBBWWJXaHh1TzdtZlN0WWh5Z2ZLVlF4ckVtblVrM1dESEFMOTBqeGgtaFZHNkdVTmJ3?oc=5",
-      "publisher": "文化放送",
-      "summary": "本を読むAI・本を読まなくなる人間 AI時代の教育はどうなる？武田砂鉄が聞く 文化放送",
-      "published_at": "2026-10-07T11:20:40Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
     },
     {
       "id": "e1af22bf82ad5472829a9a86",
@@ -614,6 +655,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "7457fc3c7fba94bf97c9b50a",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【ユサコ株式会社】研究発表を支えるカメラ非搭載の AIスマートグラス「Even G2」の取り扱いを開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BU0h4MmZIRVZDdlJHd2tOZGFVZWVidGs2Uk01S1gxLUtoTFhFR1VRQTlPMWZuelp4OUMwb29pUlVfZ09ERzFLYlNja0hRbXFyUFJiWW1HZXJObkZ4M0hMejlpTXhXMy1SSkE?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "【ユサコ株式会社】研究発表を支えるカメラ非搭載の AIスマートグラス「Even G2」の取り扱いを開始 PR TIMES",
+      "published_at": "2026-10-07T05:30:01Z",
+      "collected_at": "2026-10-08T00:53:08.674768Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -1561,8 +1620,8 @@
       "topic_id": "parent-ict",
       "in_scope": true,
       "theme_ids": [
-        "models",
-        "education"
+        "education",
+        "models"
       ]
     },
     {
@@ -1646,6 +1705,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "88685d8cbfac0a79e33295dc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "GPT-5.6 Sol プレビュー：次世代モデル - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mSDFScHZ1T08wR3NRTWtmVllMcHg1Z0Uza3loM1RtRU5fdnJXY2FVQ3NQd1JBclp5MG0zRzUtcUZJVk05c0NlVlFkRnJxcGpMQW9WS283eXcyX2Q4dFVXQ2ltSk0?oc=5",
+      "publisher": "OpenAI",
+      "summary": "GPT-5.6 Sol プレビュー：次世代モデル OpenAI",
+      "published_at": "2026-10-05T10:00:00Z",
+      "collected_at": "2026-10-02T11:53:50.894327Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "27fe009292b2b12f3a26123d",
@@ -2525,24 +2602,6 @@
       "theme_ids": [
         "models",
         "parenting"
-      ]
-    },
-    {
-      "id": "88685d8cbfac0a79e33295dc",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "GPT-5.6 Sol プレビュー：次世代モデル - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mSDFScHZ1T08wR3NRTWtmVllMcHg1Z0Uza3loM1RtRU5fdnJXY2FVQ3NQd1JBclp5MG0zRzUtcUZJVk05c0NlVlFkRnJxcGpMQW9WS283eXcyX2Q4dFVXQ2ltSk0?oc=5",
-      "publisher": "OpenAI",
-      "summary": "GPT-5.6 Sol プレビュー：次世代モデル OpenAI",
-      "published_at": "2026-10-02T16:15:00Z",
-      "collected_at": "2026-10-02T11:53:50.894327Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
       ]
     },
     {
@@ -8088,6 +8147,24 @@
       "theme_ids": []
     },
     {
+      "id": "1c60a66112844ffb89d21b6b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【ソブリンAI】国産コーディングエージェント「CodeSense」がリリース予定 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CdUxvMG1BM0FtcmhDdXdkUy1TXzVBMzVyY3oxaXZOODVFTWRsSTljckhleFBMRFZFbVpOX0dYQ1B4NC1qS2tPV0s1QzdQcGFINUtyUG9kMFF0OEJmcmNwUjJkTVZzTmJWVEE?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "【ソブリンAI】国産コーディングエージェント「CodeSense」がリリース予定 PR TIMES",
+      "published_at": "2026-09-28T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
       "id": "0732f4a49cc6c00240c65323",
       "category": "ai",
       "source_id": "ai",
@@ -8331,24 +8408,6 @@
       "in_scope": true,
       "theme_ids": [
         "models",
-        "development"
-      ]
-    },
-    {
-      "id": "1c60a66112844ffb89d21b6b",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "【ソブリンAI】国産コーディングエージェント「CodeSense」がリリース予定 | 株式会社ナレッジセンスのプレスリリース - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CdUxvMG1BM0FtcmhDdXdkUy1TXzVBMzVyY3oxaXZOODVFTWRsSTljckhleFBMRFZFbVpOX0dYQ1B4NC1qS2tPV0s1QzdQcGFINUtyUG9kMFF0OEJmcmNwUjJkTVZzTmJWVEE?oc=5",
-      "publisher": "PR TIMES",
-      "summary": "【ソブリンAI】国産コーディングエージェント「CodeSense」がリリース予定 | 株式会社ナレッジセンスのプレスリリース PR TIMES",
-      "published_at": "2026-09-28T00:57:11Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
         "development"
       ]
     },
@@ -15813,23 +15872,23 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-08T06:03:27.269268+09:00",
+      "generated_at": "2026-10-08T09:53:15.664863+09:00",
       "is_complete": false,
-      "article_count": 97,
+      "article_count": 100,
       "category_counts": {
         "parenting": 34,
-        "tech": 25,
-        "ai": 38
+        "tech": 26,
+        "ai": 40
       },
       "overview": "OpenAIは、ボタンやフォーム、グラフを会話内に生成するIntelligent UIを、部品ライブラリと生成中に処理するコンパイラで順次表示し、10月7日から有料プランで段階展開すると発表した。米国の10〜12年生で4年制大学への進学を考える利用者向けには、出願要件・期限・学費援助手続きをまとめるCollege Plannerを近日提供予定。Radissonはホテルの地図表示・料金・設備比較をChatGPT内で提供済みで、予約完了は公式サイトで行う。 NVIDIAは、通信用語の理解、ネットワーク設定、顧客障害の一次切り分けを対象とする300億パラメータの通信向けモデルと、通信事業者が自社データ・手順に合わせる追加学習工程を公開した。乳がん診療では、FDAクリアランス取得済みのATUSAが片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中と紹介。3,200人の多施設試験も進行している。 That makes student motivation one of the hardest problems to tackle in education. ／ Because only assigned, mastery-enabled work earns Gems during a Jam, the game runs on your core curriculum, not on whatever a student happens to click. ／ スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+        "attempted_at": "2026-10-08T00:53:15.155083+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 5,
+        "new_reviews": 2,
         "updated_periods": [
           "overview",
           "weekly",
@@ -15847,6 +15906,10 @@
           {
             "article_id": "15c6c0631585bca92ac22e41",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "9028e68d2253aa5b7518df67",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -15861,7 +15924,7 @@
           "errors": [],
           "last_success_at": "2026-10-07T21:00:13.648565+00:00"
         },
-        "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+        "last_success_at": "2026-10-08T00:53:15.155083+00:00"
       },
       "genre_briefs": [
         {
@@ -16060,15 +16123,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 31,
-          "publisher_count": 15,
+          "count": 33,
+          "publisher_count": 16,
           "summary": "OpenAIは、10代向けChatGPTにCollege Plannerを近日追加すると発表。初期版は米国で4年制大学への進学を考える10〜12年生向けで、志望校ごとの出願要件、期限、作業、学費援助の手続きを一つの計画にまとめる。ノートの複数ページを連続撮影してPDFにする機能はiOSで提供済みで、Android対応は開発中。 RadissonはAccentureと、ChatGPT内でホテルを地図表示し、料金や設備を比較できるプラグインを6週間で開発・公開した。予約の完了はRadisson公式サイトで行う。導入済みの利用者には関連する質問で自動表示されるようになった。2026年7〜8月の訪問から予約への転換率は、同社の自然検索経由の約1.5倍だったと報告している。 OpenAIはGPT-6とIntelligent UIを発表。質問に応じて文章、図、ボタン、フォーム、グラフを組み合わせ、会話内で操作できる回答を生成する。部品ライブラリと生成中に処理するコンパイラにより、画面を順次表示する仕組み。10月7日にPlus・Pro・Business・Enterpriseで世界展開を開始し、翌日からFree・Goへ拡大する予定。",
           "evidence_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
-            "54e21c38b85ee21a4eb9bb2e",
-            "4c73eef9ae54b5806fc6af65"
+            "54e21c38b85ee21a4eb9bb2e"
           ],
           "article_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
             "e6c0db477924d07d8c6724c3",
             "54e21c38b85ee21a4eb9bb2e",
@@ -16091,6 +16155,7 @@
             "15c6c0631585bca92ac22e41",
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
+            "88685d8cbfac0a79e33295dc",
             "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
             "271e7f9eda46f7311237ce46",
@@ -16109,7 +16174,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 25,
+          "count": 26,
           "publisher_count": 18,
           "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
           "evidence_ids": [
@@ -16125,6 +16190,7 @@
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
+            "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
@@ -16313,9 +16379,10 @@
       "article_ids": [
         "40a1ca2db5e26599685ce199",
         "d6c2047bf7af12e6182205dd",
-        "e6ba0560e23f6725aa25080f",
-        "8f4171ecd36ceedb17114813",
         "f1f824ecf9fafce13c8f4885",
+        "e6ba0560e23f6725aa25080f",
+        "daf4bbb831476a90511ef506",
+        "8f4171ecd36ceedb17114813",
         "e1af22bf82ad5472829a9a86",
         "2eb505ba5b80d355bc79c57a",
         "1e5d605ff0d691020f0d4e8d",
@@ -16326,6 +16393,7 @@
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
+        "7457fc3c7fba94bf97c9b50a",
         "2d3fe0fb16101f31704006ff",
         "54e21c38b85ee21a4eb9bb2e",
         "4c73eef9ae54b5806fc6af65",
@@ -16384,6 +16452,7 @@
         "f385c03d5431314cbd8d4cd3",
         "f7dea1b19d1376d4579ffed0",
         "9028e68d2253aa5b7518df67",
+        "88685d8cbfac0a79e33295dc",
         "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
         "c219e83c3b773f8017422c83",
@@ -16415,23 +16484,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-08T06:03:27.269268+09:00",
+      "generated_at": "2026-10-08T09:53:15.664863+09:00",
       "is_complete": false,
-      "article_count": 175,
+      "article_count": 177,
       "category_counts": {
         "parenting": 51,
-        "tech": 44,
-        "ai": 80
+        "tech": 45,
+        "ai": 81
       },
       "overview": "GPT-6のIntelligent UIは、部品ライブラリと生成中に処理するコンパイラでボタンやフォーム、グラフを順次表示し、有料プランで段階展開を開始した。Radissonはホテルの地図表示・料金比較機能を公開し、予約完了は公式サイトに接続する。College Plannerは米国の4年制大学を検討する10〜12年生向けに、出願要件・期限・学費援助手続きをまとめる機能として近日提供予定。 MicrosoftはOS管理下でAIエージェントを継続的にバックグラウンド実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信用語、ネットワーク設定、障害の一次切り分けを対象とする300億パラメータのモデルと、事業者が自社情報に合わせて追加学習する手順を公開した。 That makes student motivation one of the hardest problems to tackle in education. ／ Because only assigned, mastery-enabled work earns Gems during a Jam, the game runs on your core curriculum, not on whatever a student happens to click. ／ スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+        "attempted_at": "2026-10-08T00:53:15.155083+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 5,
+        "new_reviews": 2,
         "updated_periods": [
           "overview",
           "weekly",
@@ -16449,6 +16518,10 @@
           {
             "article_id": "15c6c0631585bca92ac22e41",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "9028e68d2253aa5b7518df67",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -16463,7 +16536,7 @@
           "errors": [],
           "last_success_at": "2026-10-07T21:00:13.648565+00:00"
         },
-        "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+        "last_success_at": "2026-10-08T00:53:15.155083+00:00"
       },
       "genre_briefs": [
         {
@@ -16662,15 +16735,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 69,
-          "publisher_count": 21,
+          "count": 70,
+          "publisher_count": 22,
           "summary": "OpenAIは、10代向けChatGPTにCollege Plannerを近日追加すると発表。初期版は米国で4年制大学への進学を考える10〜12年生向けで、志望校ごとの出願要件、期限、作業、学費援助の手続きを一つの計画にまとめる。ノートの複数ページを連続撮影してPDFにする機能はiOSで提供済みで、Android対応は開発中。 RadissonはAccentureと、ChatGPT内でホテルを地図表示し、料金や設備を比較できるプラグインを6週間で開発・公開した。予約の完了はRadisson公式サイトで行う。導入済みの利用者には関連する質問で自動表示されるようになった。2026年7〜8月の訪問から予約への転換率は、同社の自然検索経由の約1.5倍だったと報告している。 OpenAIはGPT-6とIntelligent UIを発表。質問に応じて文章、図、ボタン、フォーム、グラフを組み合わせ、会話内で操作できる回答を生成する。部品ライブラリと生成中に処理するコンパイラにより、画面を順次表示する仕組み。10月7日にPlus・Pro・Business・Enterpriseで世界展開を開始し、翌日からFree・Goへ拡大する予定。",
           "evidence_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
-            "54e21c38b85ee21a4eb9bb2e",
-            "4c73eef9ae54b5806fc6af65"
+            "54e21c38b85ee21a4eb9bb2e"
           ],
           "article_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
             "e6c0db477924d07d8c6724c3",
             "54e21c38b85ee21a4eb9bb2e",
@@ -16693,6 +16767,7 @@
             "15c6c0631585bca92ac22e41",
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
+            "88685d8cbfac0a79e33295dc",
             "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
             "271e7f9eda46f7311237ce46",
@@ -16710,7 +16785,6 @@
             "9dcb646d0abc42880ac890a3",
             "86c5c60a7d6f612a5909aae3",
             "9b4590005950ccc6b7bd29b8",
-            "88685d8cbfac0a79e33295dc",
             "08e1f0c1c2823173a049922c",
             "b380918395bb31d014731240",
             "e4ac7c4b9cd81a4726223d34",
@@ -16749,7 +16823,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 44,
+          "count": 45,
           "publisher_count": 25,
           "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
           "evidence_ids": [
@@ -16765,6 +16839,7 @@
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
+            "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
@@ -16992,9 +17067,10 @@
       "article_ids": [
         "40a1ca2db5e26599685ce199",
         "d6c2047bf7af12e6182205dd",
-        "e6ba0560e23f6725aa25080f",
-        "8f4171ecd36ceedb17114813",
         "f1f824ecf9fafce13c8f4885",
+        "e6ba0560e23f6725aa25080f",
+        "daf4bbb831476a90511ef506",
+        "8f4171ecd36ceedb17114813",
         "e1af22bf82ad5472829a9a86",
         "2eb505ba5b80d355bc79c57a",
         "1e5d605ff0d691020f0d4e8d",
@@ -17005,6 +17081,7 @@
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
+        "7457fc3c7fba94bf97c9b50a",
         "2d3fe0fb16101f31704006ff",
         "54e21c38b85ee21a4eb9bb2e",
         "4c73eef9ae54b5806fc6af65",
@@ -17063,6 +17140,7 @@
         "f385c03d5431314cbd8d4cd3",
         "f7dea1b19d1376d4579ffed0",
         "9028e68d2253aa5b7518df67",
+        "88685d8cbfac0a79e33295dc",
         "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
         "c219e83c3b773f8017422c83",
@@ -17104,7 +17182,6 @@
         "86c5c60a7d6f612a5909aae3",
         "ce9c55e5f2990580577917b8",
         "9b4590005950ccc6b7bd29b8",
-        "88685d8cbfac0a79e33295dc",
         "08e1f0c1c2823173a049922c",
         "d0f9b9243030df8fc46b3685",
         "d02ea7173e01e1aa73d2d49e",
@@ -17172,11 +17249,11 @@
       "kind": "weekly",
       "period_start": "2026-09-28",
       "period_end": "2026-10-04",
-      "generated_at": "2026-10-08T06:03:27.269268+09:00",
+      "generated_at": "2026-10-08T09:53:15.664863+09:00",
       "is_complete": true,
-      "article_count": 295,
+      "article_count": 294,
       "category_counts": {
-        "ai": 149,
+        "ai": 148,
         "parenting": 61,
         "tech": 85
       },
@@ -17185,10 +17262,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+        "attempted_at": "2026-10-08T00:53:15.155083+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 5,
+        "new_reviews": 2,
         "updated_periods": [
           "overview",
           "weekly",
@@ -17206,6 +17283,10 @@
           {
             "article_id": "15c6c0631585bca92ac22e41",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "9028e68d2253aa5b7518df67",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -17220,7 +17301,7 @@
           "errors": [],
           "last_success_at": "2026-10-07T21:00:13.648565+00:00"
         },
-        "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+        "last_success_at": "2026-10-08T00:53:15.155083+00:00"
       },
       "genre_briefs": [
         {
@@ -17417,7 +17498,7 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 115,
+          "count": 114,
           "publisher_count": 40,
           "summary": "AnthropicはClaude Frontier Academyを開始し、1億ドルを投じて2027年末までに1万人の導入技術者を育てる目標を示しました。参加者は企業が推薦するソフトウェア技術者です。対面研修で用途選定からセキュリティ審査・引き継ぎまでを練習した後、12週間、自社の実案件を進めながら支援を受けます。試験に合格した人へ段階的に資格を付与する設計で、最初の研修はすでに始まっています。 OpenAIは開発者向けにGPT‑6系の運用ガイドを公開。難しい推論にはAstra、複雑な開発・調査にはSol、定型処理にはLunaを推奨し、推論量や速度、費用の調整方法を説明した。APIで実行中に指示を追加するsteeringや、遅いツールの処理中に独立した作業を進める非同期呼び出しも紹介している。 金融助言会社Chathamは、Codexで取引の裏付け資料を集め、主要条件を比較し、不一致を人の確認に回すアプリを開発した。初期測定では確認時間が約30分から4分未満に短縮。現在は熟練担当者の結果と照合しており、取引種類の拡大と追加の自動化は今後の計画としている。社員製アプリや資本市場基盤OnyxにもOpenAIモデルを利用する。",
           "evidence_ids": [
@@ -17434,7 +17515,6 @@
             "9dcb646d0abc42880ac890a3",
             "86c5c60a7d6f612a5909aae3",
             "9b4590005950ccc6b7bd29b8",
-            "88685d8cbfac0a79e33295dc",
             "08e1f0c1c2823173a049922c",
             "b380918395bb31d014731240",
             "e4ac7c4b9cd81a4726223d34",
@@ -17637,8 +17717,8 @@
             "06370852102d5476d8e58fed",
             "f46495a0c7203b53f526deca",
             "2f8762f92f0defda6d7170ab",
-            "f533306a0b16b02a23ddf256",
             "1c60a66112844ffb89d21b6b",
+            "f533306a0b16b02a23ddf256",
             "d494d9e78f5daa7de6c921d9"
           ]
         },
@@ -17880,7 +17960,6 @@
         "86c5c60a7d6f612a5909aae3",
         "ce9c55e5f2990580577917b8",
         "9b4590005950ccc6b7bd29b8",
-        "88685d8cbfac0a79e33295dc",
         "08e1f0c1c2823173a049922c",
         "d0f9b9243030df8fc46b3685",
         "d02ea7173e01e1aa73d2d49e",
@@ -18135,6 +18214,7 @@
         "06370852102d5476d8e58fed",
         "f46495a0c7203b53f526deca",
         "2f8762f92f0defda6d7170ab",
+        "1c60a66112844ffb89d21b6b",
         "0732f4a49cc6c00240c65323",
         "e8c5980d4bd65df56d912c90",
         "9d06399f9b8e28506914013d",
@@ -18147,7 +18227,6 @@
         "8a76e6f648988ead00f1b65a",
         "85cf0c3ae09f7c9fb91cc525",
         "56e446668e855531468b1922",
-        "1c60a66112844ffb89d21b6b",
         "679de8b112d749079a6dc924",
         "a86d2b17bbf079574f1f8933",
         "eede5174e4769bb1dd84072f",
@@ -18713,7 +18792,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-08T06:03:27.269268+09:00",
+      "generated_at": "2026-10-08T09:53:15.664863+09:00",
       "is_complete": true,
       "article_count": 491,
       "category_counts": {
@@ -18726,10 +18805,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+        "attempted_at": "2026-10-08T00:53:15.155083+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 5,
+        "new_reviews": 2,
         "updated_periods": [
           "overview",
           "weekly",
@@ -18747,6 +18826,10 @@
           {
             "article_id": "15c6c0631585bca92ac22e41",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "9028e68d2253aa5b7518df67",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -18761,7 +18844,7 @@
           "errors": [],
           "last_success_at": "2026-10-07T21:00:13.648565+00:00"
         },
-        "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+        "last_success_at": "2026-10-08T00:53:15.155083+00:00"
       },
       "genre_briefs": [
         {
@@ -19224,8 +19307,8 @@
             "06370852102d5476d8e58fed",
             "f46495a0c7203b53f526deca",
             "2f8762f92f0defda6d7170ab",
-            "f533306a0b16b02a23ddf256",
             "1c60a66112844ffb89d21b6b",
+            "f533306a0b16b02a23ddf256",
             "d494d9e78f5daa7de6c921d9",
             "0cd25c133f0eb5158b0bdf81",
             "0fd3b97752d5324598ea0d3f",
@@ -19751,6 +19834,7 @@
         "06370852102d5476d8e58fed",
         "f46495a0c7203b53f526deca",
         "2f8762f92f0defda6d7170ab",
+        "1c60a66112844ffb89d21b6b",
         "0732f4a49cc6c00240c65323",
         "e8c5980d4bd65df56d912c90",
         "9d06399f9b8e28506914013d",
@@ -19763,7 +19847,6 @@
         "8a76e6f648988ead00f1b65a",
         "85cf0c3ae09f7c9fb91cc525",
         "56e446668e855531468b1922",
-        "1c60a66112844ffb89d21b6b",
         "679de8b112d749079a6dc924",
         "a86d2b17bbf079574f1f8933",
         "eede5174e4769bb1dd84072f",
@@ -20057,23 +20140,23 @@
       "kind": "overview",
       "period_start": "2026-10-02",
       "period_end": "2026-10-08",
-      "generated_at": "2026-10-08T06:03:27.269268+09:00",
+      "generated_at": "2026-10-08T09:53:15.664863+09:00",
       "is_complete": false,
-      "article_count": 134,
+      "article_count": 136,
       "category_counts": {
         "parenting": 41,
-        "tech": 37,
-        "ai": 56
+        "tech": 38,
+        "ai": 57
       },
       "overview": "OpenAIは、部品ライブラリと生成中に処理するコンパイラを使い、ボタンやフォーム、グラフを会話内に順次表示するIntelligent UIの展開を10月7日に有料プランで開始した。Free・Goへの拡大は翌日からの予定で、Enterpriseは管理者設定に依存する。Radissonはホテルの地図表示・料金・設備比較をChatGPT内で提供するプラグインを公開済みで、予約は公式サイトで完了する。 MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信業務向けの300億パラメータモデルと、通信事業者が自社のネットワーク・顧客・業務手順に合わせて追加学習する手順を公開した。 That makes student motivation one of the hardest problems to tackle in education. ／ Because only assigned, mastery-enabled work earns Gems during a Jam, the game runs on your core curriculum, not on whatever a student happens to click. ／ スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+        "attempted_at": "2026-10-08T00:53:15.155083+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 5,
+        "new_reviews": 2,
         "updated_periods": [
           "overview",
           "weekly",
@@ -20091,6 +20174,10 @@
           {
             "article_id": "15c6c0631585bca92ac22e41",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "9028e68d2253aa5b7518df67",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -20105,7 +20192,7 @@
           "errors": [],
           "last_success_at": "2026-10-07T21:00:13.648565+00:00"
         },
-        "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+        "last_success_at": "2026-10-08T00:53:15.155083+00:00"
       },
       "genre_briefs": [
         {
@@ -20304,15 +20391,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 47,
-          "publisher_count": 16,
+          "count": 48,
+          "publisher_count": 17,
           "summary": "OpenAIは、10代向けChatGPTにCollege Plannerを近日追加すると発表。初期版は米国で4年制大学への進学を考える10〜12年生向けで、志望校ごとの出願要件、期限、作業、学費援助の手続きを一つの計画にまとめる。ノートの複数ページを連続撮影してPDFにする機能はiOSで提供済みで、Android対応は開発中。 RadissonはAccentureと、ChatGPT内でホテルを地図表示し、料金や設備を比較できるプラグインを6週間で開発・公開した。予約の完了はRadisson公式サイトで行う。導入済みの利用者には関連する質問で自動表示されるようになった。2026年7〜8月の訪問から予約への転換率は、同社の自然検索経由の約1.5倍だったと報告している。 OpenAIはGPT-6とIntelligent UIを発表。質問に応じて文章、図、ボタン、フォーム、グラフを組み合わせ、会話内で操作できる回答を生成する。部品ライブラリと生成中に処理するコンパイラにより、画面を順次表示する仕組み。10月7日にPlus・Pro・Business・Enterpriseで世界展開を開始し、翌日からFree・Goへ拡大する予定。",
           "evidence_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
-            "54e21c38b85ee21a4eb9bb2e",
-            "4c73eef9ae54b5806fc6af65"
+            "54e21c38b85ee21a4eb9bb2e"
           ],
           "article_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
             "e6c0db477924d07d8c6724c3",
             "54e21c38b85ee21a4eb9bb2e",
@@ -20335,6 +20423,7 @@
             "15c6c0631585bca92ac22e41",
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
+            "88685d8cbfac0a79e33295dc",
             "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
             "271e7f9eda46f7311237ce46",
@@ -20352,7 +20441,6 @@
             "9dcb646d0abc42880ac890a3",
             "86c5c60a7d6f612a5909aae3",
             "9b4590005950ccc6b7bd29b8",
-            "88685d8cbfac0a79e33295dc",
             "08e1f0c1c2823173a049922c",
             "b380918395bb31d014731240",
             "e4ac7c4b9cd81a4726223d34",
@@ -20369,7 +20457,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 37,
+          "count": 38,
           "publisher_count": 22,
           "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
           "evidence_ids": [
@@ -20385,6 +20473,7 @@
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
+            "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
@@ -20592,9 +20681,10 @@
       "article_ids": [
         "40a1ca2db5e26599685ce199",
         "d6c2047bf7af12e6182205dd",
-        "e6ba0560e23f6725aa25080f",
-        "8f4171ecd36ceedb17114813",
         "f1f824ecf9fafce13c8f4885",
+        "e6ba0560e23f6725aa25080f",
+        "daf4bbb831476a90511ef506",
+        "8f4171ecd36ceedb17114813",
         "e1af22bf82ad5472829a9a86",
         "2eb505ba5b80d355bc79c57a",
         "1e5d605ff0d691020f0d4e8d",
@@ -20605,6 +20695,7 @@
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
+        "7457fc3c7fba94bf97c9b50a",
         "2d3fe0fb16101f31704006ff",
         "54e21c38b85ee21a4eb9bb2e",
         "4c73eef9ae54b5806fc6af65",
@@ -20663,6 +20754,7 @@
         "f385c03d5431314cbd8d4cd3",
         "f7dea1b19d1376d4579ffed0",
         "9028e68d2253aa5b7518df67",
+        "88685d8cbfac0a79e33295dc",
         "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
         "c219e83c3b773f8017422c83",
@@ -20704,7 +20796,6 @@
         "86c5c60a7d6f612a5909aae3",
         "ce9c55e5f2990580577917b8",
         "9b4590005950ccc6b7bd29b8",
-        "88685d8cbfac0a79e33295dc",
         "08e1f0c1c2823173a049922c",
         "d0f9b9243030df8fc46b3685",
         "d02ea7173e01e1aa73d2d49e",
@@ -20731,23 +20822,23 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-08T06:03:27.269268+09:00",
+      "generated_at": "2026-10-08T09:53:15.664863+09:00",
       "is_complete": false,
-      "article_count": 97,
+      "article_count": 100,
       "category_counts": {
         "parenting": 34,
-        "tech": 25,
-        "ai": 38
+        "tech": 26,
+        "ai": 40
       },
       "overview": "OpenAIは、ボタンやフォーム、グラフを会話内に生成するIntelligent UIを、部品ライブラリと生成中に処理するコンパイラで順次表示し、10月7日から有料プランで段階展開すると発表した。米国の10〜12年生で4年制大学への進学を考える利用者向けには、出願要件・期限・学費援助手続きをまとめるCollege Plannerを近日提供予定。Radissonはホテルの地図表示・料金・設備比較をChatGPT内で提供済みで、予約完了は公式サイトで行う。 NVIDIAは、通信用語の理解、ネットワーク設定、顧客障害の一次切り分けを対象とする300億パラメータの通信向けモデルと、通信事業者が自社データ・手順に合わせる追加学習工程を公開した。乳がん診療では、FDAクリアランス取得済みのATUSAが片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中と紹介。3,200人の多施設試験も進行している。 That makes student motivation one of the hardest problems to tackle in education. ／ Because only assigned, mastery-enabled work earns Gems during a Jam, the game runs on your core curriculum, not on whatever a student happens to click. ／ スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+        "attempted_at": "2026-10-08T00:53:15.155083+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 5,
+        "new_reviews": 2,
         "updated_periods": [
           "overview",
           "weekly",
@@ -20765,6 +20856,10 @@
           {
             "article_id": "15c6c0631585bca92ac22e41",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "9028e68d2253aa5b7518df67",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -20779,7 +20874,7 @@
           "errors": [],
           "last_success_at": "2026-10-07T21:00:13.648565+00:00"
         },
-        "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+        "last_success_at": "2026-10-08T00:53:15.155083+00:00"
       },
       "genre_briefs": [
         {
@@ -20978,15 +21073,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 31,
-          "publisher_count": 15,
+          "count": 33,
+          "publisher_count": 16,
           "summary": "OpenAIは、10代向けChatGPTにCollege Plannerを近日追加すると発表。初期版は米国で4年制大学への進学を考える10〜12年生向けで、志望校ごとの出願要件、期限、作業、学費援助の手続きを一つの計画にまとめる。ノートの複数ページを連続撮影してPDFにする機能はiOSで提供済みで、Android対応は開発中。 RadissonはAccentureと、ChatGPT内でホテルを地図表示し、料金や設備を比較できるプラグインを6週間で開発・公開した。予約の完了はRadisson公式サイトで行う。導入済みの利用者には関連する質問で自動表示されるようになった。2026年7〜8月の訪問から予約への転換率は、同社の自然検索経由の約1.5倍だったと報告している。 OpenAIはGPT-6とIntelligent UIを発表。質問に応じて文章、図、ボタン、フォーム、グラフを組み合わせ、会話内で操作できる回答を生成する。部品ライブラリと生成中に処理するコンパイラにより、画面を順次表示する仕組み。10月7日にPlus・Pro・Business・Enterpriseで世界展開を開始し、翌日からFree・Goへ拡大する予定。",
           "evidence_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
-            "54e21c38b85ee21a4eb9bb2e",
-            "4c73eef9ae54b5806fc6af65"
+            "54e21c38b85ee21a4eb9bb2e"
           ],
           "article_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
             "e6c0db477924d07d8c6724c3",
             "54e21c38b85ee21a4eb9bb2e",
@@ -21009,6 +21105,7 @@
             "15c6c0631585bca92ac22e41",
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
+            "88685d8cbfac0a79e33295dc",
             "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
             "271e7f9eda46f7311237ce46",
@@ -21027,7 +21124,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 25,
+          "count": 26,
           "publisher_count": 18,
           "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
           "evidence_ids": [
@@ -21043,6 +21140,7 @@
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
+            "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
@@ -21231,9 +21329,10 @@
       "article_ids": [
         "40a1ca2db5e26599685ce199",
         "d6c2047bf7af12e6182205dd",
-        "e6ba0560e23f6725aa25080f",
-        "8f4171ecd36ceedb17114813",
         "f1f824ecf9fafce13c8f4885",
+        "e6ba0560e23f6725aa25080f",
+        "daf4bbb831476a90511ef506",
+        "8f4171ecd36ceedb17114813",
         "e1af22bf82ad5472829a9a86",
         "2eb505ba5b80d355bc79c57a",
         "1e5d605ff0d691020f0d4e8d",
@@ -21244,6 +21343,7 @@
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
+        "7457fc3c7fba94bf97c9b50a",
         "2d3fe0fb16101f31704006ff",
         "54e21c38b85ee21a4eb9bb2e",
         "4c73eef9ae54b5806fc6af65",
@@ -21302,6 +21402,7 @@
         "f385c03d5431314cbd8d4cd3",
         "f7dea1b19d1376d4579ffed0",
         "9028e68d2253aa5b7518df67",
+        "88685d8cbfac0a79e33295dc",
         "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
         "c219e83c3b773f8017422c83",
@@ -21333,23 +21434,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-08T06:03:27.269268+09:00",
+      "generated_at": "2026-10-08T09:53:15.664863+09:00",
       "is_complete": false,
-      "article_count": 175,
+      "article_count": 177,
       "category_counts": {
         "parenting": 51,
-        "tech": 44,
-        "ai": 80
+        "tech": 45,
+        "ai": 81
       },
       "overview": "GPT-6のIntelligent UIは、部品ライブラリと生成中に処理するコンパイラでボタンやフォーム、グラフを順次表示し、有料プランで段階展開を開始した。Radissonはホテルの地図表示・料金比較機能を公開し、予約完了は公式サイトに接続する。College Plannerは米国の4年制大学を検討する10〜12年生向けに、出願要件・期限・学費援助手続きをまとめる機能として近日提供予定。 MicrosoftはOS管理下でAIエージェントを継続的にバックグラウンド実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信用語、ネットワーク設定、障害の一次切り分けを対象とする300億パラメータのモデルと、事業者が自社情報に合わせて追加学習する手順を公開した。 That makes student motivation one of the hardest problems to tackle in education. ／ Because only assigned, mastery-enabled work earns Gems during a Jam, the game runs on your core curriculum, not on whatever a student happens to click. ／ スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+        "attempted_at": "2026-10-08T00:53:15.155083+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 5,
+        "new_reviews": 2,
         "updated_periods": [
           "overview",
           "weekly",
@@ -21367,6 +21468,10 @@
           {
             "article_id": "15c6c0631585bca92ac22e41",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "9028e68d2253aa5b7518df67",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -21381,7 +21486,7 @@
           "errors": [],
           "last_success_at": "2026-10-07T21:00:13.648565+00:00"
         },
-        "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+        "last_success_at": "2026-10-08T00:53:15.155083+00:00"
       },
       "genre_briefs": [
         {
@@ -21580,15 +21685,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 69,
-          "publisher_count": 21,
+          "count": 70,
+          "publisher_count": 22,
           "summary": "OpenAIは、10代向けChatGPTにCollege Plannerを近日追加すると発表。初期版は米国で4年制大学への進学を考える10〜12年生向けで、志望校ごとの出願要件、期限、作業、学費援助の手続きを一つの計画にまとめる。ノートの複数ページを連続撮影してPDFにする機能はiOSで提供済みで、Android対応は開発中。 RadissonはAccentureと、ChatGPT内でホテルを地図表示し、料金や設備を比較できるプラグインを6週間で開発・公開した。予約の完了はRadisson公式サイトで行う。導入済みの利用者には関連する質問で自動表示されるようになった。2026年7〜8月の訪問から予約への転換率は、同社の自然検索経由の約1.5倍だったと報告している。 OpenAIはGPT-6とIntelligent UIを発表。質問に応じて文章、図、ボタン、フォーム、グラフを組み合わせ、会話内で操作できる回答を生成する。部品ライブラリと生成中に処理するコンパイラにより、画面を順次表示する仕組み。10月7日にPlus・Pro・Business・Enterpriseで世界展開を開始し、翌日からFree・Goへ拡大する予定。",
           "evidence_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
-            "54e21c38b85ee21a4eb9bb2e",
-            "4c73eef9ae54b5806fc6af65"
+            "54e21c38b85ee21a4eb9bb2e"
           ],
           "article_ids": [
+            "daf4bbb831476a90511ef506",
             "8f4171ecd36ceedb17114813",
             "e6c0db477924d07d8c6724c3",
             "54e21c38b85ee21a4eb9bb2e",
@@ -21611,6 +21717,7 @@
             "15c6c0631585bca92ac22e41",
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
+            "88685d8cbfac0a79e33295dc",
             "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
             "271e7f9eda46f7311237ce46",
@@ -21628,7 +21735,6 @@
             "9dcb646d0abc42880ac890a3",
             "86c5c60a7d6f612a5909aae3",
             "9b4590005950ccc6b7bd29b8",
-            "88685d8cbfac0a79e33295dc",
             "08e1f0c1c2823173a049922c",
             "b380918395bb31d014731240",
             "e4ac7c4b9cd81a4726223d34",
@@ -21667,7 +21773,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 44,
+          "count": 45,
           "publisher_count": 25,
           "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
           "evidence_ids": [
@@ -21683,6 +21789,7 @@
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
+            "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
@@ -21910,9 +22017,10 @@
       "article_ids": [
         "40a1ca2db5e26599685ce199",
         "d6c2047bf7af12e6182205dd",
-        "e6ba0560e23f6725aa25080f",
-        "8f4171ecd36ceedb17114813",
         "f1f824ecf9fafce13c8f4885",
+        "e6ba0560e23f6725aa25080f",
+        "daf4bbb831476a90511ef506",
+        "8f4171ecd36ceedb17114813",
         "e1af22bf82ad5472829a9a86",
         "2eb505ba5b80d355bc79c57a",
         "1e5d605ff0d691020f0d4e8d",
@@ -21923,6 +22031,7 @@
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
+        "7457fc3c7fba94bf97c9b50a",
         "2d3fe0fb16101f31704006ff",
         "54e21c38b85ee21a4eb9bb2e",
         "4c73eef9ae54b5806fc6af65",
@@ -21981,6 +22090,7 @@
         "f385c03d5431314cbd8d4cd3",
         "f7dea1b19d1376d4579ffed0",
         "9028e68d2253aa5b7518df67",
+        "88685d8cbfac0a79e33295dc",
         "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
         "c219e83c3b773f8017422c83",
@@ -22022,7 +22132,6 @@
         "86c5c60a7d6f612a5909aae3",
         "ce9c55e5f2990580577917b8",
         "9b4590005950ccc6b7bd29b8",
-        "88685d8cbfac0a79e33295dc",
         "08e1f0c1c2823173a049922c",
         "d0f9b9243030df8fc46b3685",
         "d02ea7173e01e1aa73d2d49e",
@@ -22086,13 +22195,13 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-08T06:03:27.269268+09:00",
+  "report_updated_at": "2026-10-08T09:53:15.664863+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-07T21:03:26.548021+00:00",
+    "attempted_at": "2026-10-08T00:53:15.155083+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 5,
+    "new_reviews": 2,
     "updated_periods": [
       "overview",
       "weekly",
@@ -22110,6 +22219,10 @@
       {
         "article_id": "15c6c0631585bca92ac22e41",
         "stage": "original_fetch"
+      },
+      {
+        "article_id": "9028e68d2253aa5b7518df67",
+        "stage": "original_fetch"
       }
     ],
     "local_codex": {
@@ -22124,7 +22237,7 @@
       "errors": [],
       "last_success_at": "2026-10-07T21:00:13.648565+00:00"
     },
-    "last_success_at": "2026-10-07T21:03:26.548021+00:00"
+    "last_success_at": "2026-10-08T00:53:15.155083+00:00"
   },
   "topic_definitions": [
     {
@@ -22671,8 +22784,8 @@
     ]
   },
   "picks": [
+    "daf4bbb831476a90511ef506",
     "8f4171ecd36ceedb17114813",
-    "e6c0db477924d07d8c6724c3",
     "e6ba0560e23f6725aa25080f",
     "e1af22bf82ad5472829a9a86",
     "40a1ca2db5e26599685ce199",
