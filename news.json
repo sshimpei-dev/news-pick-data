@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-08T21:02:46.251447Z",
-  "last_attempt_at": "2026-10-08T21:02:46.251447Z",
+  "updated_at": "2026-10-09T01:06:44.309760Z",
+  "last_attempt_at": "2026-10-09T01:06:44.309760Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 4,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 42,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-08T21:02:46.251447Z",
+      "checked_at": "2026-10-09T01:06:44.309760Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-09T01:06:44.309760Z",
+      "new_count": 9,
+      "status": "ok"
+    },
     {
       "at": "2026-10-08T21:02:46.251447Z",
       "new_count": 1,
@@ -368,6 +373,74 @@
   ],
   "articles": [
     {
+      "id": "badda310cca07906cc76c487",
+      "category": "tech",
+      "source_id": "nvidia",
+      "title": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+      "url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+      "publisher": "NVIDIA 公式ブログ",
+      "summary": "Turning a simulation idea into a working application means assembling assets, connecting physics and rendering, and checking that the scene behaves as intended. Developers are combining frontier AI models with NVIDIA Omniverse libraries to help carry out that work — building applications for exploring scenarios, investigating failures and improving designs. Developers direct AI agents through […]",
+      "published_at": "2026-10-08T21:06:35Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": "NVIDIA",
+      "origin_kind": "official",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "ecff798ac878a4e96ba2bb7c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、売上高予想減速で米テック株安 年7.9兆円とFT報道 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pV0hJX2lhWDN0Q2NSdTVDcEw3UmFRMlBBNkJER0g5bjAwcnBlYl9uRlR3aUd1bW1XakFORndUWTJRS0FVTDAzZjFwSk13ckZEcEFOYVd1Q0l1MkFyZlZQbVhwanQwTm1PekFaYg?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "OpenAI、売上高予想減速で米テック株安 年7.9兆円とFT報道 日本経済新聞",
+      "published_at": "2026-10-08T20:59:26Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "8960d69fbf11f4b54dc88257",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "Dynatraceのマット・ギビエック氏：AIコーディングエージェントは「高速だが視界がない」 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9hcGU2S1pHejZDc3hEQlF3SWVBQV9SUnk2Q1RFdnQzSGZ1LTZiQnozVkNYS1ZIQjJUZFliVFlRZ1ZISlZieDZXNWkyREpmX2RFV1A4a1hoRmI0Zw?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "Dynatraceのマット・ギビエック氏：AIコーディングエージェントは「高速だが視界がない」 BigGo ファイナンス",
+      "published_at": "2026-10-08T20:08:00Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "e0f896be61398e52825432c4",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIの年間収益は500億ドル、報道より大幅に低い水準＝FT 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUOFJJYV9tMHJ2MWdycFJKRnp6LWl2WVd0d0VYMFk1WElPNXFUUUx2QzN1dkhycU9FQzVVeHhlMUJ3WTlvazgxOUVaTWplRnZEcE1rMFhPWV85M1B4M25uRTFtMS1lckhXQXA4b2tFM0M?oc=5",
+      "publisher": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "summary": "OpenAIの年間収益は500億ドル、報道より大幅に低い水準＝FT 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+      "published_at": "2026-10-08T17:05:00Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "04c9cc7799e4fcc0fad8aac3",
       "category": "ai",
       "source_id": "anthropic",
@@ -450,6 +523,42 @@
       "theme_ids": []
     },
     {
+      "id": "72a5bf3c3f7c188d57f69115",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "グーグル・クラウド、汎用AIエージェント「Gemini agent」発表 Claudeも使い分け - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8ybWtySFVpbjl2bC1qVERjRFlyYTQ5bHV3bDlycWxrMmN2Yno0X2xQU3NXeFppRkZzY3RocFUyWTVaMFowMDlJb3o3Nm9WbEdmeGtj?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "グーグル・クラウド、汎用AIエージェント「Gemini agent」発表 Claudeも使い分け ビジネス+IT",
+      "published_at": "2026-10-08T12:35:00Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "825990f1a256a6ac6e7e3465",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AnthropicとOpenAIが無料ユーザーに嬉しい進化 イーロン・マスクがGrok Botの方針転換を発表も【AIニュース3選】 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wUHF1cHFlTGVFY0N4Y1J4RHZBUXZjQjVaSklhQ2Y1cWhMM05NMi1WcTZ1a0dHVFd0aU9IV28xODVoTzBtdG14Sl9Ub2d3VnBueDFidW40NGNfMFRVSXg4VHRBbTJzTVQxOFRsSGpXSjNGQnZpWjlFNHpIU09iSGc?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AnthropicとOpenAIが無料ユーザーに嬉しい進化 イーロン・マスクがGrok Botの方針転換を発表も【AIニュース3選】 Yahoo!ニュース",
+      "published_at": "2026-10-08T12:01:42Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "ce085ade3e082407754c661b",
       "category": "ai",
       "source_id": "openai",
@@ -461,6 +570,40 @@
       "collected_at": "2026-10-08T21:00:06.249994Z",
       "provider": "OpenAI",
       "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "bba44f898220fcf85c3c28c2",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "publisher": "OpenAI 公式",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "published_at": "2026-10-08T12:00:00Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "f584c76327f7a5fe8fcaff17",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「AIのためなら“悪いこと”も受け入れよ」OpenAIのCEO発言に批判殺到の理由（クーリエ・ジャポン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkUVVNdVRSQktwZS02MTJ6RVR1cEtXNU5pZGY2M1FPS2QyMXFkeU53TmJva0E0WmlRWTRvc0dhTUstSnBoSktKNDZDYnFVLVpBanpkb2JDRzJHSlZ4MXRhRVE4Wkh0M1ZsMTd6TkJtV3ZPenRvc3VQX0JpRE5sZk0?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "「AIのためなら“悪いこと”も受け入れよ」OpenAIのCEO発言に批判殺到の理由（クーリエ・ジャポン） Yahoo!ニュース",
+      "published_at": "2026-10-08T11:00:00Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": null,
+      "origin_kind": "media",
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
@@ -566,6 +709,24 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "6339c894c8f1acef07a120a7",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "GPT-6 と Intelligent UI をすべての人に - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1sckNkai1sSGdoYkhVZGdOU2cxVlFNcWNkY1V4Vnp3M0hiM3c0cUUxRGJEQXcteWFaR2ROc2ZIS2tzWlhzQ2FsemI0RXEycGlzYXVxcHpTRDQ5SlpTOUk4?oc=5",
+      "publisher": "OpenAI",
+      "summary": "GPT-6 と Intelligent UI をすべての人に OpenAI",
+      "published_at": "2026-10-08T00:25:17Z",
+      "collected_at": "2026-10-09T01:06:44.309760Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "5911c46dafd3ca556fd20181",
@@ -3976,6 +4137,25 @@
       ]
     },
     {
+      "id": "5cc092b230c521629e731028",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbHNOWXhHc3ZDNEJlVGlQVTlRRnFDMlM0T0FMemNMUkZCYkstLVZjendIWnN3amo0Sk9oZlV1dE1EUklHQ05ITjdZYXdEcGlJc1BvNFZpejNBc1lvQzV4QWZNTnluYWM?oc=5",
+      "publisher": "TBS NEWS DIG",
+      "summary": "グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど | TBS CROSS DIG with Bloomberg TBS NEWS DIG",
+      "published_at": "2026-10-01T02:23:00Z",
+      "collected_at": "2026-10-01T21:51:13.665130Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
+      ]
+    },
+    {
       "id": "6be341e47099a46ed5613780",
       "category": "ai",
       "source_id": "ai",
@@ -4214,25 +4394,6 @@
       "summary": "グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど（Bloomberg） Yahoo!ニュース",
       "published_at": "2026-09-30T22:52:08Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models",
-        "development"
-      ]
-    },
-    {
-      "id": "5cc092b230c521629e731028",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど | TBS CROSS DIG with Bloomberg - TBS NEWS DIG",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZbHNOWXhHc3ZDNEJlVGlQVTlRRnFDMlM0T0FMemNMUkZCYkstLVZjendIWnN3amo0Sk9oZlV1dE1EUklHQ05ITjdZYXdEcGlJc1BvNFZpejNBc1lvQzV4QWZNTnluYWM?oc=5",
-      "publisher": "TBS NEWS DIG",
-      "summary": "グーグルが提供開始の「Gemini 4」、社内に懐疑論－コーディングなど | TBS CROSS DIG with Bloomberg TBS NEWS DIG",
-      "published_at": "2026-09-30T22:52:00Z",
-      "collected_at": "2026-10-01T21:51:13.665130Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -5210,6 +5371,40 @@
       ]
     },
     {
+      "id": "70c5c049ada73081ea0c3651",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "文部科学省が教育DXを推進するなか、AIとデータで変わる「次の学校」を体験 〜第9回 EDIX（教育総合展）大阪、10月13日(火)より開催〜 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRm1nQjhNZjJxWFVDNFIxOFZFUTc4YUZVT1hLRG13SWhTeWlKMWNaZExKcmZfMS1GcTlnNlNpV3g0NFVrMERDNTFkNDRzcW5UOG53a1RmY09YcGhpMHB6UXhsVFh5UVBCU3c?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "文部科学省が教育DXを推進するなか、AIとデータで変わる「次の学校」を体験 〜第9回 EDIX（教育総合展）大阪、10月13日(火)より開催〜 PR TIMES",
+      "published_at": "2026-09-30T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "079e7303374bfbfeeb5df9ba",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定” - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XNG82bXNGb3oxQjlDM1FEWFI5NUFKenlXSUVLemdyNTA0VHJpS0d4X1ZBZjJVQUw2OFgwOE8xcVctVjBmTEluZ0tNamNpLXNFVU5NTDZvdGpZVHRqenNXcVNOUk1OV1VNOUJCRw?oc=5",
+      "publisher": "ITmedia",
+      "summary": "OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定” ITmedia",
+      "published_at": "2026-09-30T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "caff3c7ba0cc22d3f9297b7c",
       "category": "parenting",
       "source_id": "parenting",
@@ -5402,24 +5597,6 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
-    },
-    {
-      "id": "70c5c049ada73081ea0c3651",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "文部科学省が教育DXを推進するなか、AIとデータで変わる「次の学校」を体験 〜第9回 EDIX（教育総合展）大阪、10月13日(火)より開催〜 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IRm1nQjhNZjJxWFVDNFIxOFZFUTc4YUZVT1hLRG13SWhTeWlKMWNaZExKcmZfMS1GcTlnNlNpV3g0NFVrMERDNTFkNDRzcW5UOG53a1RmY09YcGhpMHB6UXhsVFh5UVBCU3c?oc=5",
-      "publisher": "PR TIMES",
-      "summary": "文部科学省が教育DXを推進するなか、AIとデータで変わる「次の学校」を体験 〜第9回 EDIX（教育総合展）大阪、10月13日(火)より開催〜 PR TIMES",
-      "published_at": "2026-09-30T05:00:02Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
     },
     {
       "id": "c9486ed3344add8db772e111",
@@ -6859,22 +7036,6 @@
       "theme_ids": []
     },
     {
-      "id": "079e7303374bfbfeeb5df9ba",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定” - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9XNG82bXNGb3oxQjlDM1FEWFI5NUFKenlXSUVLemdyNTA0VHJpS0d4X1ZBZjJVQUw2OFgwOE8xcVctVjBmTEluZ0tNamNpLXNFVU5NTDZvdGpZVHRqenNXcVNOUk1OV1VNOUJCRw?oc=5",
-      "publisher": "ITmedia",
-      "summary": "OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定” ITmedia",
-      "published_at": "2026-09-29T18:42:13Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": []
-    },
-    {
       "id": "b015101bb84368e0ad983b79",
       "category": "ai",
       "source_id": "ai",
@@ -7608,6 +7769,24 @@
       "theme_ids": []
     },
     {
+      "id": "4c571fab0cbdf63d43711bee",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "カメラを使わず、離れて暮らす家族を見守るAIセンサー「MiraWatch Home」がMakuakeに登場 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Oc1FLLWNxZUZ2Slk2cjVWTFNOSUN6dzFWME1wYjJGckJsaUVHSlpLeVgxQlc0S0hDWDZtMHJxSGdNcXdLTGdQOFJCUUFqOXZTcVplQzBrNmNPU1BxSGR0c21rWjd6bXN1V2c?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "カメラを使わず、離れて暮らす家族を見守るAIセンサー「MiraWatch Home」がMakuakeに登場 PR TIMES",
+      "published_at": "2026-09-29T07:00:00Z",
+      "collected_at": "2026-10-06T01:42:37.416812Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "38dcb1a8af6700e45fc73243",
       "category": "ai",
       "source_id": "ai",
@@ -8045,24 +8224,6 @@
       "in_scope": true,
       "theme_ids": [
         "education"
-      ]
-    },
-    {
-      "id": "4c571fab0cbdf63d43711bee",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "カメラを使わず、離れて暮らす家族を見守るAIセンサー「MiraWatch Home」がMakuakeに登場 - PR TIMES",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Oc1FLLWNxZUZ2Slk2cjVWTFNOSUN6dzFWME1wYjJGckJsaUVHSlpLeVgxQlc0S0hDWDZtMHJxSGdNcXdLTGdQOFJCUUFqOXZTcVplQzBrNmNPU1BxSGR0c21rWjd6bXN1V2c?oc=5",
-      "publisher": "PR TIMES",
-      "summary": "カメラを使わず、離れて暮らす家族を見守るAIセンサー「MiraWatch Home」がMakuakeに登場 PR TIMES",
-      "published_at": "2026-09-29T01:00:03Z",
-      "collected_at": "2026-10-06T01:42:37.416812Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
       ]
     },
     {
@@ -16483,20 +16644,20 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-09T06:02:53.377077+09:00",
+      "generated_at": "2026-10-09T10:06:50.847460+09:00",
       "is_complete": false,
-      "article_count": 128,
+      "article_count": 137,
       "category_counts": {
-        "ai": 57,
-        "parenting": 40,
-        "tech": 31
+        "tech": 33,
+        "ai": 64,
+        "parenting": 40
       },
       "overview": "Oracleの事例では、採用調査ツールや業務概念・ルールを定義した自然言語からSQLへの変換、SREの障害情報収集にChatGPT WorkとCodexを利用している。採用調査の準備時間短縮はOracle側の報告で、独立検証は示されていない。Anthropicは11月12日発効予定の規約改定で、傷害を起こし得る自律動作機器に有資格者の監視・停止とClaude切断時の安全状態維持を要求する。 MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Sparkは、ノートが予約段階で10月16日発売予定、小型デスクトップは11月販売予定。別途NVIDIAは、通信事業者の用語理解・ネットワーク設定・顧客障害の一次切り分けを対象とする300億パラメータモデルと、自社データや業務手順に合わせる追加学習手順を公開した。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答提出後の説明・練習支援を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年と各機能の詳細な提供条件は示されておらず、幼児向けの取り組みとは確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+        "attempted_at": "2026-10-09T01:06:50.522248+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -16508,6 +16669,10 @@
         "errors": [
           {
             "article_id": "ce085ade3e082407754c661b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bba44f898220fcf85c3c28c2",
             "stage": "original_fetch"
           },
           {
@@ -16535,7 +16700,7 @@
           "errors": [],
           "last_success_at": "2026-10-08T21:00:12.434745+00:00"
         },
-        "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+        "last_success_at": "2026-10-09T01:06:50.522248+00:00"
       },
       "genre_briefs": [
         {
@@ -16605,6 +16770,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "badda310cca07906cc76c487",
+              "category": "tech",
+              "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+              "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-10-09T01:06:50.522248+00:00",
+              "published_at": "2026-10-08T21:06:35Z"
+            },
+            {
               "article_id": "e6ba0560e23f6725aa25080f",
               "headline": "NVIDIAとMicrosoft、Windows向けRTX SparkとAIエージェント実行基盤を発表",
               "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
@@ -16641,24 +16824,6 @@
               "model": "codex-cli",
               "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
               "published_at": "2026-10-06T13:00:19Z"
-            },
-            {
-              "article_id": "f385c03d5431314cbd8d4cd3",
-              "headline": "乳がんAIの提供状況を紹介、超音波撮影から治療反応予測まで",
-              "summary": "NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
-              "impact": "考察：撮影の標準化や既存の病理画像による予測は、検査比較や治療方針の判断を支える可能性がある。ただし、診療時間の短縮や患者の転帰改善は個別の検証が必要になる。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。ATUSAの感度向上は企業の説明で、追加検証が進行中。複数画像を統合する診断機能の拡張やWhiterabbitの次世代マンモグラフィAIは計画・研究段階であり、提供済み機能と区別が必要。本文末尾は途切れている。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Both models have been validated across more than 10 institutions and multiple clinical trials, and are in active clinical use.",
-              "published_at": "2026-10-05T13:00:57Z"
             }
           ]
         },
@@ -16729,7 +16894,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -16738,19 +16903,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 47,
-          "publisher_count": 19,
+          "count": 52,
+          "publisher_count": 20,
           "summary": "Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。 Anthropicは、AIで科学研究を促進する米連邦のGenesis Missionに、3年間で1億5000万ドルを支援すると表明した。NASA、NIH、NSFを含む15超の機関へのClaude提供拡大に充てる。今後数百の研究プロジェクトにClaude、Claude Code、APIクレジットを提供し、核融合や量子計算などで連携する計画。研究者への研修・導入支援や、新規参加機関の立ち上げ支援も行う。",
           "evidence_ids": [
-            "04c9cc7799e4fcc0fad8aac3",
-            "ce085ade3e082407754c661b",
-            "5911c46dafd3ca556fd20181"
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
+            "04c9cc7799e4fcc0fad8aac3"
           ],
           "article_ids": [
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
+            "825990f1a256a6ac6e7e3465",
             "ce085ade3e082407754c661b",
+            "f584c76327f7a5fe8fcaff17",
             "dc67f873dbf6cc16c68126d3",
+            "6339c894c8f1acef07a120a7",
             "5911c46dafd3ca556fd20181",
             "8a8e63b1add55db2b87f9687",
             "daf4bbb831476a90511ef506",
@@ -16803,15 +16973,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 31,
+          "count": 33,
           "publisher_count": 20,
-          "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
+          "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person… Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
           "evidence_ids": [
-            "6deffd9719970d2ddbcd3726",
-            "035a12333902a08ca2354b60",
-            "fcf56dce4863c31a34643a91"
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
+            "6deffd9719970d2ddbcd3726"
           ],
           "article_ids": [
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
             "6deffd9719970d2ddbcd3726",
             "035a12333902a08ca2354b60",
             "fcf56dce4863c31a34643a91",
@@ -16912,16 +17084,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 7,
+          "count": 9,
           "publisher_count": 7,
           "summary": "OpenAIはOracleでのChatGPT WorkとCodexの活用事例を公開した。採用部門は職務記述から類似職種、報酬、人材層を調べるツールを構築し、従来2〜4日かかった情報収集が15〜20分の準備になったと報告。社内分析では業務上の概念・関係・ルールを定義し、自然言語の質問をCodexでSQLに変換する。SREは障害の関連情報と対応手順の収集にも利用している。",
           "evidence_ids": [
             "4a204d7bd8653c170f26778b",
-            "6fa289d85c30c2f719c222c5",
-            "f647df9ef1f30471f2808ee0"
+            "72a5bf3c3f7c188d57f69115",
+            "6fa289d85c30c2f719c222c5"
           ],
           "article_ids": [
             "4a204d7bd8653c170f26778b",
+            "72a5bf3c3f7c188d57f69115",
+            "bba44f898220fcf85c3c28c2",
             "6fa289d85c30c2f719c222c5",
             "f647df9ef1f30471f2808ee0",
             "105088e1eaa32879961c6c56",
@@ -17016,15 +17190,24 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "badda310cca07906cc76c487",
+        "ecff798ac878a4e96ba2bb7c",
+        "8960d69fbf11f4b54dc88257",
+        "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
         "b713bdb0fab978feb30db284",
+        "72a5bf3c3f7c188d57f69115",
+        "825990f1a256a6ac6e7e3465",
         "ce085ade3e082407754c661b",
+        "bba44f898220fcf85c3c28c2",
+        "f584c76327f7a5fe8fcaff17",
         "dc67f873dbf6cc16c68126d3",
         "cff990e268562693853c041d",
         "6deffd9719970d2ddbcd3726",
         "035a12333902a08ca2354b60",
         "fcf56dce4863c31a34643a91",
+        "6339c894c8f1acef07a120a7",
         "5911c46dafd3ca556fd20181",
         "8a8e63b1add55db2b87f9687",
         "6fa289d85c30c2f719c222c5",
@@ -17151,20 +17334,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-09T06:02:53.377077+09:00",
+      "generated_at": "2026-10-09T10:06:50.847460+09:00",
       "is_complete": false,
-      "article_count": 206,
+      "article_count": 215,
       "category_counts": {
-        "ai": 99,
-        "parenting": 57,
-        "tech": 50
+        "tech": 52,
+        "ai": 106,
+        "parenting": 57
       },
       "overview": "Oracleの活用事例では、業務の概念・関係・ルールを定義し、自然言語の質問をCodexでSQLに変換している。採用調査の時間短縮はOracle側の報告。Anthropicが公表した11月12日発効予定の規約では、傷害を起こし得る自律動作機器に、有資格者の監視・停止とClaude切断時の安全状態維持を要求する。 Microsoftは、OS管理下でAIエージェントを継続的にバックグラウンド実行するMXCの一般提供を発表した。NVIDIAのRTX Sparkは開発者らのPC上でのモデル実行を想定し、最大128GBの統合メモリを備える。搭載ノートは予約段階で10月16日発売予定、小型デスクトップは11月販売予定とされる。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる技能の進歩の可視化、Khanmigoによる提出前のヒントと誤答後の説明・練習を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年と学習効果の定量的結果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+        "attempted_at": "2026-10-09T01:06:50.522248+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -17176,6 +17359,10 @@
         "errors": [
           {
             "article_id": "ce085ade3e082407754c661b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bba44f898220fcf85c3c28c2",
             "stage": "original_fetch"
           },
           {
@@ -17203,7 +17390,7 @@
           "errors": [],
           "last_success_at": "2026-10-08T21:00:12.434745+00:00"
         },
-        "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+        "last_success_at": "2026-10-09T01:06:50.522248+00:00"
       },
       "genre_briefs": [
         {
@@ -17273,6 +17460,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "badda310cca07906cc76c487",
+              "category": "tech",
+              "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+              "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-10-09T01:06:50.522248+00:00",
+              "published_at": "2026-10-08T21:06:35Z"
+            },
+            {
               "article_id": "e6ba0560e23f6725aa25080f",
               "headline": "NVIDIAとMicrosoft、Windows向けRTX SparkとAIエージェント実行基盤を発表",
               "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
@@ -17309,24 +17514,6 @@
               "model": "codex-cli",
               "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
               "published_at": "2026-10-06T13:00:19Z"
-            },
-            {
-              "article_id": "f385c03d5431314cbd8d4cd3",
-              "headline": "乳がんAIの提供状況を紹介、超音波撮影から治療反応予測まで",
-              "summary": "NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
-              "impact": "考察：撮影の標準化や既存の病理画像による予測は、検査比較や治療方針の判断を支える可能性がある。ただし、診療時間の短縮や患者の転帰改善は個別の検証が必要になる。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。ATUSAの感度向上は企業の説明で、追加検証が進行中。複数画像を統合する診断機能の拡張やWhiterabbitの次世代マンモグラフィAIは計画・研究段階であり、提供済み機能と区別が必要。本文末尾は途切れている。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Both models have been validated across more than 10 institutions and multiple clinical trials, and are in active clinical use.",
-              "published_at": "2026-10-05T13:00:57Z"
             }
           ]
         },
@@ -17397,7 +17584,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。 収集開始は2026-10-01のため、この期間の網羅性はありません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。 収集開始は2026-10-01のため、この期間の網羅性はありません。",
       "topics": [
         {
           "id": "ai-products",
@@ -17406,19 +17593,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 85,
-          "publisher_count": 22,
+          "count": 90,
+          "publisher_count": 23,
           "summary": "Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。 Anthropicは、AIで科学研究を促進する米連邦のGenesis Missionに、3年間で1億5000万ドルを支援すると表明した。NASA、NIH、NSFを含む15超の機関へのClaude提供拡大に充てる。今後数百の研究プロジェクトにClaude、Claude Code、APIクレジットを提供し、核融合や量子計算などで連携する計画。研究者への研修・導入支援や、新規参加機関の立ち上げ支援も行う。",
           "evidence_ids": [
-            "04c9cc7799e4fcc0fad8aac3",
-            "ce085ade3e082407754c661b",
-            "5911c46dafd3ca556fd20181"
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
+            "04c9cc7799e4fcc0fad8aac3"
           ],
           "article_ids": [
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
+            "825990f1a256a6ac6e7e3465",
             "ce085ade3e082407754c661b",
+            "f584c76327f7a5fe8fcaff17",
             "dc67f873dbf6cc16c68126d3",
+            "6339c894c8f1acef07a120a7",
             "5911c46dafd3ca556fd20181",
             "8a8e63b1add55db2b87f9687",
             "daf4bbb831476a90511ef506",
@@ -17487,6 +17679,7 @@
             "ea3645327902435a6b1817cc",
             "90024ac30b9f2442334b1c13",
             "40df40006889d5577a37581e",
+            "5cc092b230c521629e731028",
             "6be341e47099a46ed5613780",
             "7bfe804ca8534076ebbd8e81",
             "2978232678a5a157baa1e7cb",
@@ -17495,7 +17688,6 @@
             "4bfb378ec981ee7d89ecac6a",
             "1b48c74f38f5b51f33f09f71",
             "a458cfe7953118d8654160bd",
-            "5cc092b230c521629e731028",
             "37e8131b88d9d7442d456133",
             "89be7a63c36112c593c20967",
             "1e9f31968436f5e9de786f0d",
@@ -17509,15 +17701,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 50,
+          "count": 52,
           "publisher_count": 27,
-          "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
+          "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person… Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
           "evidence_ids": [
-            "6deffd9719970d2ddbcd3726",
-            "035a12333902a08ca2354b60",
-            "fcf56dce4863c31a34643a91"
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
+            "6deffd9719970d2ddbcd3726"
           ],
           "article_ids": [
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
             "6deffd9719970d2ddbcd3726",
             "035a12333902a08ca2354b60",
             "fcf56dce4863c31a34643a91",
@@ -17653,16 +17847,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 10,
+          "count": 12,
           "publisher_count": 9,
           "summary": "OpenAIはOracleでのChatGPT WorkとCodexの活用事例を公開した。採用部門は職務記述から類似職種、報酬、人材層を調べるツールを構築し、従来2〜4日かかった情報収集が15〜20分の準備になったと報告。社内分析では業務上の概念・関係・ルールを定義し、自然言語の質問をCodexでSQLに変換する。SREは障害の関連情報と対応手順の収集にも利用している。",
           "evidence_ids": [
             "4a204d7bd8653c170f26778b",
-            "6fa289d85c30c2f719c222c5",
-            "f647df9ef1f30471f2808ee0"
+            "72a5bf3c3f7c188d57f69115",
+            "6fa289d85c30c2f719c222c5"
           ],
           "article_ids": [
             "4a204d7bd8653c170f26778b",
+            "72a5bf3c3f7c188d57f69115",
+            "bba44f898220fcf85c3c28c2",
             "6fa289d85c30c2f719c222c5",
             "f647df9ef1f30471f2808ee0",
             "105088e1eaa32879961c6c56",
@@ -17759,15 +17955,24 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "badda310cca07906cc76c487",
+        "ecff798ac878a4e96ba2bb7c",
+        "8960d69fbf11f4b54dc88257",
+        "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
         "b713bdb0fab978feb30db284",
+        "72a5bf3c3f7c188d57f69115",
+        "825990f1a256a6ac6e7e3465",
         "ce085ade3e082407754c661b",
+        "bba44f898220fcf85c3c28c2",
+        "f584c76327f7a5fe8fcaff17",
         "dc67f873dbf6cc16c68126d3",
         "cff990e268562693853c041d",
         "6deffd9719970d2ddbcd3726",
         "035a12333902a08ca2354b60",
         "fcf56dce4863c31a34643a91",
+        "6339c894c8f1acef07a120a7",
         "5911c46dafd3ca556fd20181",
         "8a8e63b1add55db2b87f9687",
         "6fa289d85c30c2f719c222c5",
@@ -17939,6 +18144,7 @@
         "90024ac30b9f2442334b1c13",
         "a34800a646f1c527e9d56464",
         "40df40006889d5577a37581e",
+        "5cc092b230c521629e731028",
         "6be341e47099a46ed5613780",
         "09ce74a03823c0ba888415f1",
         "dcf2166d8a71a744bbe4f154",
@@ -17953,7 +18159,6 @@
         "1b48c74f38f5b51f33f09f71",
         "8d335e4e2bc7d4275baaa36b",
         "a458cfe7953118d8654160bd",
-        "5cc092b230c521629e731028",
         "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
@@ -17972,7 +18177,7 @@
       "kind": "weekly",
       "period_start": "2026-09-28",
       "period_end": "2026-10-04",
-      "generated_at": "2026-10-09T06:02:53.377077+09:00",
+      "generated_at": "2026-10-09T10:06:50.847460+09:00",
       "is_complete": true,
       "article_count": 298,
       "category_counts": {
@@ -17985,7 +18190,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+        "attempted_at": "2026-10-09T01:06:50.522248+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -17997,6 +18202,10 @@
         "errors": [
           {
             "article_id": "ce085ade3e082407754c661b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bba44f898220fcf85c3c28c2",
             "stage": "original_fetch"
           },
           {
@@ -18024,7 +18233,7 @@
           "errors": [],
           "last_success_at": "2026-10-08T21:00:12.434745+00:00"
         },
-        "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+        "last_success_at": "2026-10-09T01:06:50.522248+00:00"
       },
       "genre_briefs": [
         {
@@ -18255,6 +18464,7 @@
             "ea3645327902435a6b1817cc",
             "90024ac30b9f2442334b1c13",
             "40df40006889d5577a37581e",
+            "5cc092b230c521629e731028",
             "6be341e47099a46ed5613780",
             "7bfe804ca8534076ebbd8e81",
             "2978232678a5a157baa1e7cb",
@@ -18263,7 +18473,6 @@
             "4bfb378ec981ee7d89ecac6a",
             "1b48c74f38f5b51f33f09f71",
             "a458cfe7953118d8654160bd",
-            "5cc092b230c521629e731028",
             "37e8131b88d9d7442d456133",
             "89be7a63c36112c593c20967",
             "1e9f31968436f5e9de786f0d",
@@ -18279,6 +18488,7 @@
             "33eb17be1a2441b4713b3964",
             "985f4172df4031b8f7712850",
             "5ce21875c01f2ff642c13c30",
+            "079e7303374bfbfeeb5df9ba",
             "615417bd7185b898e5ff94c7",
             "f7e5b185581833b06a72f5e1",
             "0db814503e72de96b8c2a8ca",
@@ -18295,7 +18505,6 @@
             "81707aa1283932ff9ab22025",
             "b21b098106ed222336999bd3",
             "9b628e648d3dc314990820f3",
-            "079e7303374bfbfeeb5df9ba",
             "b015101bb84368e0ad983b79",
             "40c78f3101398bc3b8930d5f",
             "564b678a2b8af6adf18e48b7",
@@ -18426,11 +18635,11 @@
             "9e13404c79f2edea40a73d25",
             "cf1b3a9639d416250ac18bb7",
             "3c31447b02d041cc8e8bbb8d",
+            "4c571fab0cbdf63d43711bee",
             "286177a687256158be3cd6ce",
             "eede8183e83700b87f19e1b8",
             "b7c9b4e106bd614c1bdc1730",
             "cee0d102a176334beebe5316",
-            "4c571fab0cbdf63d43711bee",
             "756e39d3a4b9c416cccae201",
             "a8219878c2c72e37412b4912",
             "5a6dfaf4ec8a50a3c133b05f",
@@ -18722,6 +18931,7 @@
         "90024ac30b9f2442334b1c13",
         "a34800a646f1c527e9d56464",
         "40df40006889d5577a37581e",
+        "5cc092b230c521629e731028",
         "6be341e47099a46ed5613780",
         "09ce74a03823c0ba888415f1",
         "dcf2166d8a71a744bbe4f154",
@@ -18736,7 +18946,6 @@
         "1b48c74f38f5b51f33f09f71",
         "8d335e4e2bc7d4275baaa36b",
         "a458cfe7953118d8654160bd",
-        "5cc092b230c521629e731028",
         "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
@@ -18783,12 +18992,13 @@
         "5ce21875c01f2ff642c13c30",
         "80ca8596f3e7aa0bacd92d1a",
         "fe0a7ec21610c6da144fb0da",
+        "70c5c049ada73081ea0c3651",
+        "079e7303374bfbfeeb5df9ba",
         "a43e399ed547922bbfbebe86",
         "2b464c36603fe045ed596909",
         "615417bd7185b898e5ff94c7",
         "feeffdf8219818be51b434c1",
         "f7e5b185581833b06a72f5e1",
-        "70c5c049ada73081ea0c3651",
         "c9486ed3344add8db772e111",
         "a112b785a502b7205612616c",
         "1ec66f3842e219f1b4d93606",
@@ -18854,7 +19064,6 @@
         "1aa9f698267a71c8d8cfdd4f",
         "0bb2f68dedc20b17f47852c4",
         "9b628e648d3dc314990820f3",
-        "079e7303374bfbfeeb5df9ba",
         "b015101bb84368e0ad983b79",
         "40c78f3101398bc3b8930d5f",
         "cdc8bac9af2af8490075ed8e",
@@ -18890,6 +19099,7 @@
         "3c31447b02d041cc8e8bbb8d",
         "7d2c4bd7233b9cd34413a3f2",
         "0d2a865992f026eeafa9bf8d",
+        "4c571fab0cbdf63d43711bee",
         "38dcb1a8af6700e45fc73243",
         "7e0f9a14ba66aed8c0a2b834",
         "15925f6b6a6d8f45410e19e4",
@@ -18908,7 +19118,6 @@
         "d68742b7c4284aa2c0104c0a",
         "0f9c58a610e19a673fd32b99",
         "b891164f1f62ad18181e1b9a",
-        "4c571fab0cbdf63d43711bee",
         "756e39d3a4b9c416cccae201",
         "e1bef4c56775a180e5789e44",
         "a8219878c2c72e37412b4912",
@@ -19523,7 +19732,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-09T06:02:53.377077+09:00",
+      "generated_at": "2026-10-09T10:06:50.847460+09:00",
       "is_complete": true,
       "article_count": 494,
       "category_counts": {
@@ -19536,7 +19745,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+        "attempted_at": "2026-10-09T01:06:50.522248+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -19548,6 +19757,10 @@
         "errors": [
           {
             "article_id": "ce085ade3e082407754c661b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bba44f898220fcf85c3c28c2",
             "stage": "original_fetch"
           },
           {
@@ -19575,7 +19788,7 @@
           "errors": [],
           "last_success_at": "2026-10-08T21:00:12.434745+00:00"
         },
-        "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+        "last_success_at": "2026-10-09T01:06:50.522248+00:00"
       },
       "genre_briefs": [
         {
@@ -19777,6 +19990,7 @@
             "33eb17be1a2441b4713b3964",
             "985f4172df4031b8f7712850",
             "5ce21875c01f2ff642c13c30",
+            "079e7303374bfbfeeb5df9ba",
             "615417bd7185b898e5ff94c7",
             "f7e5b185581833b06a72f5e1",
             "0db814503e72de96b8c2a8ca",
@@ -19793,7 +20007,6 @@
             "81707aa1283932ff9ab22025",
             "b21b098106ed222336999bd3",
             "9b628e648d3dc314990820f3",
-            "079e7303374bfbfeeb5df9ba",
             "b015101bb84368e0ad983b79",
             "40c78f3101398bc3b8930d5f",
             "564b678a2b8af6adf18e48b7",
@@ -20023,11 +20236,11 @@
             "9e13404c79f2edea40a73d25",
             "cf1b3a9639d416250ac18bb7",
             "3c31447b02d041cc8e8bbb8d",
+            "4c571fab0cbdf63d43711bee",
             "286177a687256158be3cd6ce",
             "eede8183e83700b87f19e1b8",
             "b7c9b4e106bd614c1bdc1730",
             "cee0d102a176334beebe5316",
-            "4c571fab0cbdf63d43711bee",
             "756e39d3a4b9c416cccae201",
             "a8219878c2c72e37412b4912",
             "5a6dfaf4ec8a50a3c133b05f",
@@ -20409,12 +20622,13 @@
         "5ce21875c01f2ff642c13c30",
         "80ca8596f3e7aa0bacd92d1a",
         "fe0a7ec21610c6da144fb0da",
+        "70c5c049ada73081ea0c3651",
+        "079e7303374bfbfeeb5df9ba",
         "a43e399ed547922bbfbebe86",
         "2b464c36603fe045ed596909",
         "615417bd7185b898e5ff94c7",
         "feeffdf8219818be51b434c1",
         "f7e5b185581833b06a72f5e1",
-        "70c5c049ada73081ea0c3651",
         "c9486ed3344add8db772e111",
         "a112b785a502b7205612616c",
         "1ec66f3842e219f1b4d93606",
@@ -20480,7 +20694,6 @@
         "1aa9f698267a71c8d8cfdd4f",
         "0bb2f68dedc20b17f47852c4",
         "9b628e648d3dc314990820f3",
-        "079e7303374bfbfeeb5df9ba",
         "b015101bb84368e0ad983b79",
         "40c78f3101398bc3b8930d5f",
         "cdc8bac9af2af8490075ed8e",
@@ -20516,6 +20729,7 @@
         "3c31447b02d041cc8e8bbb8d",
         "7d2c4bd7233b9cd34413a3f2",
         "0d2a865992f026eeafa9bf8d",
+        "4c571fab0cbdf63d43711bee",
         "38dcb1a8af6700e45fc73243",
         "7e0f9a14ba66aed8c0a2b834",
         "15925f6b6a6d8f45410e19e4",
@@ -20534,7 +20748,6 @@
         "d68742b7c4284aa2c0104c0a",
         "0f9c58a610e19a673fd32b99",
         "b891164f1f62ad18181e1b9a",
-        "4c571fab0cbdf63d43711bee",
         "756e39d3a4b9c416cccae201",
         "e1bef4c56775a180e5789e44",
         "a8219878c2c72e37412b4912",
@@ -20877,20 +21090,20 @@
       "kind": "overview",
       "period_start": "2026-10-03",
       "period_end": "2026-10-09",
-      "generated_at": "2026-10-09T06:02:53.377077+09:00",
+      "generated_at": "2026-10-09T10:06:50.847460+09:00",
       "is_complete": false,
-      "article_count": 147,
+      "article_count": 156,
       "category_counts": {
-        "ai": 67,
-        "parenting": 44,
-        "tech": 36
+        "tech": 38,
+        "ai": 74,
+        "parenting": 44
       },
       "overview": "Oracleの事例では、採用部門が職務記述から類似職種・報酬・人材層を調べるツールを構築し、情報収集を2〜4日から15〜20分の準備に短縮したと報告した。社内分析では業務概念・関係・ルールを定義し、Codexで自然言語の質問をSQLに変換している。これは公開された顧客事例で、独立した効果検証は示されていない。 MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。NVIDIAのRTX Sparkは開発者らのローカルモデル実行向けに最大128GBの統合メモリを備え、搭載ノートは予約開始・10月16日発売予定、小型デスクトップは11月販売予定とされた。現時点では機器の発売予定と基盤の一般提供を区別する必要がある。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる技能進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年や学習効果の定量的な結果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+        "attempted_at": "2026-10-09T01:06:50.522248+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -20902,6 +21115,10 @@
         "errors": [
           {
             "article_id": "ce085ade3e082407754c661b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bba44f898220fcf85c3c28c2",
             "stage": "original_fetch"
           },
           {
@@ -20929,7 +21146,7 @@
           "errors": [],
           "last_success_at": "2026-10-08T21:00:12.434745+00:00"
         },
-        "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+        "last_success_at": "2026-10-09T01:06:50.522248+00:00"
       },
       "genre_briefs": [
         {
@@ -20999,6 +21216,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "badda310cca07906cc76c487",
+              "category": "tech",
+              "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+              "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-10-09T01:06:50.522248+00:00",
+              "published_at": "2026-10-08T21:06:35Z"
+            },
+            {
               "article_id": "e6ba0560e23f6725aa25080f",
               "headline": "NVIDIAとMicrosoft、Windows向けRTX SparkとAIエージェント実行基盤を発表",
               "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
@@ -21035,24 +21270,6 @@
               "model": "codex-cli",
               "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
               "published_at": "2026-10-06T13:00:19Z"
-            },
-            {
-              "article_id": "f385c03d5431314cbd8d4cd3",
-              "headline": "乳がんAIの提供状況を紹介、超音波撮影から治療反応予測まで",
-              "summary": "NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
-              "impact": "考察：撮影の標準化や既存の病理画像による予測は、検査比較や治療方針の判断を支える可能性がある。ただし、診療時間の短縮や患者の転帰改善は個別の検証が必要になる。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。ATUSAの感度向上は企業の説明で、追加検証が進行中。複数画像を統合する診断機能の拡張やWhiterabbitの次世代マンモグラフィAIは計画・研究段階であり、提供済み機能と区別が必要。本文末尾は途切れている。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Both models have been validated across more than 10 institutions and multiple clinical trials, and are in active clinical use.",
-              "published_at": "2026-10-05T13:00:57Z"
             }
           ]
         },
@@ -21123,7 +21340,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -21132,19 +21349,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 56,
-          "publisher_count": 19,
+          "count": 61,
+          "publisher_count": 20,
           "summary": "Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。 Anthropicは、AIで科学研究を促進する米連邦のGenesis Missionに、3年間で1億5000万ドルを支援すると表明した。NASA、NIH、NSFを含む15超の機関へのClaude提供拡大に充てる。今後数百の研究プロジェクトにClaude、Claude Code、APIクレジットを提供し、核融合や量子計算などで連携する計画。研究者への研修・導入支援や、新規参加機関の立ち上げ支援も行う。",
           "evidence_ids": [
-            "04c9cc7799e4fcc0fad8aac3",
-            "ce085ade3e082407754c661b",
-            "5911c46dafd3ca556fd20181"
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
+            "04c9cc7799e4fcc0fad8aac3"
           ],
           "article_ids": [
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
+            "825990f1a256a6ac6e7e3465",
             "ce085ade3e082407754c661b",
+            "f584c76327f7a5fe8fcaff17",
             "dc67f873dbf6cc16c68126d3",
+            "6339c894c8f1acef07a120a7",
             "5911c46dafd3ca556fd20181",
             "8a8e63b1add55db2b87f9687",
             "daf4bbb831476a90511ef506",
@@ -21206,15 +21428,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 36,
+          "count": 38,
           "publisher_count": 23,
-          "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
+          "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person… Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
           "evidence_ids": [
-            "6deffd9719970d2ddbcd3726",
-            "035a12333902a08ca2354b60",
-            "fcf56dce4863c31a34643a91"
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
+            "6deffd9719970d2ddbcd3726"
           ],
           "article_ids": [
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
             "6deffd9719970d2ddbcd3726",
             "035a12333902a08ca2354b60",
             "fcf56dce4863c31a34643a91",
@@ -21324,16 +21548,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 8,
+          "count": 10,
           "publisher_count": 8,
           "summary": "OpenAIはOracleでのChatGPT WorkとCodexの活用事例を公開した。採用部門は職務記述から類似職種、報酬、人材層を調べるツールを構築し、従来2〜4日かかった情報収集が15〜20分の準備になったと報告。社内分析では業務上の概念・関係・ルールを定義し、自然言語の質問をCodexでSQLに変換する。SREは障害の関連情報と対応手順の収集にも利用している。",
           "evidence_ids": [
             "4a204d7bd8653c170f26778b",
-            "6fa289d85c30c2f719c222c5",
-            "f647df9ef1f30471f2808ee0"
+            "72a5bf3c3f7c188d57f69115",
+            "6fa289d85c30c2f719c222c5"
           ],
           "article_ids": [
             "4a204d7bd8653c170f26778b",
+            "72a5bf3c3f7c188d57f69115",
+            "bba44f898220fcf85c3c28c2",
             "6fa289d85c30c2f719c222c5",
             "f647df9ef1f30471f2808ee0",
             "105088e1eaa32879961c6c56",
@@ -21425,15 +21651,24 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "badda310cca07906cc76c487",
+        "ecff798ac878a4e96ba2bb7c",
+        "8960d69fbf11f4b54dc88257",
+        "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
         "b713bdb0fab978feb30db284",
+        "72a5bf3c3f7c188d57f69115",
+        "825990f1a256a6ac6e7e3465",
         "ce085ade3e082407754c661b",
+        "bba44f898220fcf85c3c28c2",
+        "f584c76327f7a5fe8fcaff17",
         "dc67f873dbf6cc16c68126d3",
         "cff990e268562693853c041d",
         "6deffd9719970d2ddbcd3726",
         "035a12333902a08ca2354b60",
         "fcf56dce4863c31a34643a91",
+        "6339c894c8f1acef07a120a7",
         "5911c46dafd3ca556fd20181",
         "8a8e63b1add55db2b87f9687",
         "6fa289d85c30c2f719c222c5",
@@ -21579,20 +21814,20 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-09T06:02:53.377077+09:00",
+      "generated_at": "2026-10-09T10:06:50.847460+09:00",
       "is_complete": false,
-      "article_count": 128,
+      "article_count": 137,
       "category_counts": {
-        "ai": 57,
-        "parenting": 40,
-        "tech": 31
+        "tech": 33,
+        "ai": 64,
+        "parenting": 40
       },
       "overview": "Oracleの事例では、採用調査ツールや業務概念・ルールを定義した自然言語からSQLへの変換、SREの障害情報収集にChatGPT WorkとCodexを利用している。採用調査の準備時間短縮はOracle側の報告で、独立検証は示されていない。Anthropicは11月12日発効予定の規約改定で、傷害を起こし得る自律動作機器に有資格者の監視・停止とClaude切断時の安全状態維持を要求する。 MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Sparkは、ノートが予約段階で10月16日発売予定、小型デスクトップは11月販売予定。別途NVIDIAは、通信事業者の用語理解・ネットワーク設定・顧客障害の一次切り分けを対象とする300億パラメータモデルと、自社データや業務手順に合わせる追加学習手順を公開した。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答提出後の説明・練習支援を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年と各機能の詳細な提供条件は示されておらず、幼児向けの取り組みとは確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+        "attempted_at": "2026-10-09T01:06:50.522248+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -21604,6 +21839,10 @@
         "errors": [
           {
             "article_id": "ce085ade3e082407754c661b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bba44f898220fcf85c3c28c2",
             "stage": "original_fetch"
           },
           {
@@ -21631,7 +21870,7 @@
           "errors": [],
           "last_success_at": "2026-10-08T21:00:12.434745+00:00"
         },
-        "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+        "last_success_at": "2026-10-09T01:06:50.522248+00:00"
       },
       "genre_briefs": [
         {
@@ -21701,6 +21940,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "badda310cca07906cc76c487",
+              "category": "tech",
+              "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+              "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-10-09T01:06:50.522248+00:00",
+              "published_at": "2026-10-08T21:06:35Z"
+            },
+            {
               "article_id": "e6ba0560e23f6725aa25080f",
               "headline": "NVIDIAとMicrosoft、Windows向けRTX SparkとAIエージェント実行基盤を発表",
               "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
@@ -21737,24 +21994,6 @@
               "model": "codex-cli",
               "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
               "published_at": "2026-10-06T13:00:19Z"
-            },
-            {
-              "article_id": "f385c03d5431314cbd8d4cd3",
-              "headline": "乳がんAIの提供状況を紹介、超音波撮影から治療反応予測まで",
-              "summary": "NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
-              "impact": "考察：撮影の標準化や既存の病理画像による予測は、検査比較や治療方針の判断を支える可能性がある。ただし、診療時間の短縮や患者の転帰改善は個別の検証が必要になる。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。ATUSAの感度向上は企業の説明で、追加検証が進行中。複数画像を統合する診断機能の拡張やWhiterabbitの次世代マンモグラフィAIは計画・研究段階であり、提供済み機能と区別が必要。本文末尾は途切れている。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Both models have been validated across more than 10 institutions and multiple clinical trials, and are in active clinical use.",
-              "published_at": "2026-10-05T13:00:57Z"
             }
           ]
         },
@@ -21825,7 +22064,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -21834,19 +22073,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 47,
-          "publisher_count": 19,
+          "count": 52,
+          "publisher_count": 20,
           "summary": "Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。 Anthropicは、AIで科学研究を促進する米連邦のGenesis Missionに、3年間で1億5000万ドルを支援すると表明した。NASA、NIH、NSFを含む15超の機関へのClaude提供拡大に充てる。今後数百の研究プロジェクトにClaude、Claude Code、APIクレジットを提供し、核融合や量子計算などで連携する計画。研究者への研修・導入支援や、新規参加機関の立ち上げ支援も行う。",
           "evidence_ids": [
-            "04c9cc7799e4fcc0fad8aac3",
-            "ce085ade3e082407754c661b",
-            "5911c46dafd3ca556fd20181"
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
+            "04c9cc7799e4fcc0fad8aac3"
           ],
           "article_ids": [
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
+            "825990f1a256a6ac6e7e3465",
             "ce085ade3e082407754c661b",
+            "f584c76327f7a5fe8fcaff17",
             "dc67f873dbf6cc16c68126d3",
+            "6339c894c8f1acef07a120a7",
             "5911c46dafd3ca556fd20181",
             "8a8e63b1add55db2b87f9687",
             "daf4bbb831476a90511ef506",
@@ -21899,15 +22143,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 31,
+          "count": 33,
           "publisher_count": 20,
-          "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
+          "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person… Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
           "evidence_ids": [
-            "6deffd9719970d2ddbcd3726",
-            "035a12333902a08ca2354b60",
-            "fcf56dce4863c31a34643a91"
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
+            "6deffd9719970d2ddbcd3726"
           ],
           "article_ids": [
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
             "6deffd9719970d2ddbcd3726",
             "035a12333902a08ca2354b60",
             "fcf56dce4863c31a34643a91",
@@ -22008,16 +22254,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 7,
+          "count": 9,
           "publisher_count": 7,
           "summary": "OpenAIはOracleでのChatGPT WorkとCodexの活用事例を公開した。採用部門は職務記述から類似職種、報酬、人材層を調べるツールを構築し、従来2〜4日かかった情報収集が15〜20分の準備になったと報告。社内分析では業務上の概念・関係・ルールを定義し、自然言語の質問をCodexでSQLに変換する。SREは障害の関連情報と対応手順の収集にも利用している。",
           "evidence_ids": [
             "4a204d7bd8653c170f26778b",
-            "6fa289d85c30c2f719c222c5",
-            "f647df9ef1f30471f2808ee0"
+            "72a5bf3c3f7c188d57f69115",
+            "6fa289d85c30c2f719c222c5"
           ],
           "article_ids": [
             "4a204d7bd8653c170f26778b",
+            "72a5bf3c3f7c188d57f69115",
+            "bba44f898220fcf85c3c28c2",
             "6fa289d85c30c2f719c222c5",
             "f647df9ef1f30471f2808ee0",
             "105088e1eaa32879961c6c56",
@@ -22112,15 +22360,24 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "badda310cca07906cc76c487",
+        "ecff798ac878a4e96ba2bb7c",
+        "8960d69fbf11f4b54dc88257",
+        "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
         "b713bdb0fab978feb30db284",
+        "72a5bf3c3f7c188d57f69115",
+        "825990f1a256a6ac6e7e3465",
         "ce085ade3e082407754c661b",
+        "bba44f898220fcf85c3c28c2",
+        "f584c76327f7a5fe8fcaff17",
         "dc67f873dbf6cc16c68126d3",
         "cff990e268562693853c041d",
         "6deffd9719970d2ddbcd3726",
         "035a12333902a08ca2354b60",
         "fcf56dce4863c31a34643a91",
+        "6339c894c8f1acef07a120a7",
         "5911c46dafd3ca556fd20181",
         "8a8e63b1add55db2b87f9687",
         "6fa289d85c30c2f719c222c5",
@@ -22247,20 +22504,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-09T06:02:53.377077+09:00",
+      "generated_at": "2026-10-09T10:06:50.847460+09:00",
       "is_complete": false,
-      "article_count": 206,
+      "article_count": 215,
       "category_counts": {
-        "ai": 99,
-        "parenting": 57,
-        "tech": 50
+        "tech": 52,
+        "ai": 106,
+        "parenting": 57
       },
       "overview": "Oracleの活用事例では、業務の概念・関係・ルールを定義し、自然言語の質問をCodexでSQLに変換している。採用調査の時間短縮はOracle側の報告。Anthropicが公表した11月12日発効予定の規約では、傷害を起こし得る自律動作機器に、有資格者の監視・停止とClaude切断時の安全状態維持を要求する。 Microsoftは、OS管理下でAIエージェントを継続的にバックグラウンド実行するMXCの一般提供を発表した。NVIDIAのRTX Sparkは開発者らのPC上でのモデル実行を想定し、最大128GBの統合メモリを備える。搭載ノートは予約段階で10月16日発売予定、小型デスクトップは11月販売予定とされる。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる技能の進歩の可視化、Khanmigoによる提出前のヒントと誤答後の説明・練習を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年と学習効果の定量的結果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+        "attempted_at": "2026-10-09T01:06:50.522248+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -22272,6 +22529,10 @@
         "errors": [
           {
             "article_id": "ce085ade3e082407754c661b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bba44f898220fcf85c3c28c2",
             "stage": "original_fetch"
           },
           {
@@ -22299,7 +22560,7 @@
           "errors": [],
           "last_success_at": "2026-10-08T21:00:12.434745+00:00"
         },
-        "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+        "last_success_at": "2026-10-09T01:06:50.522248+00:00"
       },
       "genre_briefs": [
         {
@@ -22369,6 +22630,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "badda310cca07906cc76c487",
+              "category": "tech",
+              "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+              "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/developers-simulation-frontier-ai-agents/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-10-09T01:06:50.522248+00:00",
+              "published_at": "2026-10-08T21:06:35Z"
+            },
+            {
               "article_id": "e6ba0560e23f6725aa25080f",
               "headline": "NVIDIAとMicrosoft、Windows向けRTX SparkとAIエージェント実行基盤を発表",
               "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
@@ -22405,24 +22684,6 @@
               "model": "codex-cli",
               "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
               "published_at": "2026-10-06T13:00:19Z"
-            },
-            {
-              "article_id": "f385c03d5431314cbd8d4cd3",
-              "headline": "乳がんAIの提供状況を紹介、超音波撮影から治療反応予測まで",
-              "summary": "NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
-              "impact": "考察：撮影の標準化や既存の病理画像による予測は、検査比較や治療方針の判断を支える可能性がある。ただし、診療時間の短縮や患者の転帰改善は個別の検証が必要になる。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。ATUSAの感度向上は企業の説明で、追加検証が進行中。複数画像を統合する診断機能の拡張やWhiterabbitの次世代マンモグラフィAIは計画・研究段階であり、提供済み機能と区別が必要。本文末尾は途切れている。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Both models have been validated across more than 10 institutions and multiple clinical trials, and are in active clinical use.",
-              "published_at": "2026-10-05T13:00:57Z"
             }
           ]
         },
@@ -22493,7 +22754,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。 収集開始は2026-10-01のため、この期間の網羅性はありません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。 収集開始は2026-10-01のため、この期間の網羅性はありません。",
       "topics": [
         {
           "id": "ai-products",
@@ -22502,19 +22763,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 85,
-          "publisher_count": 22,
+          "count": 90,
+          "publisher_count": 23,
           "summary": "Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。 Anthropicは、AIで科学研究を促進する米連邦のGenesis Missionに、3年間で1億5000万ドルを支援すると表明した。NASA、NIH、NSFを含む15超の機関へのClaude提供拡大に充てる。今後数百の研究プロジェクトにClaude、Claude Code、APIクレジットを提供し、核融合や量子計算などで連携する計画。研究者への研修・導入支援や、新規参加機関の立ち上げ支援も行う。",
           "evidence_ids": [
-            "04c9cc7799e4fcc0fad8aac3",
-            "ce085ade3e082407754c661b",
-            "5911c46dafd3ca556fd20181"
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
+            "04c9cc7799e4fcc0fad8aac3"
           ],
           "article_ids": [
+            "ecff798ac878a4e96ba2bb7c",
+            "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
+            "825990f1a256a6ac6e7e3465",
             "ce085ade3e082407754c661b",
+            "f584c76327f7a5fe8fcaff17",
             "dc67f873dbf6cc16c68126d3",
+            "6339c894c8f1acef07a120a7",
             "5911c46dafd3ca556fd20181",
             "8a8e63b1add55db2b87f9687",
             "daf4bbb831476a90511ef506",
@@ -22583,6 +22849,7 @@
             "ea3645327902435a6b1817cc",
             "90024ac30b9f2442334b1c13",
             "40df40006889d5577a37581e",
+            "5cc092b230c521629e731028",
             "6be341e47099a46ed5613780",
             "7bfe804ca8534076ebbd8e81",
             "2978232678a5a157baa1e7cb",
@@ -22591,7 +22858,6 @@
             "4bfb378ec981ee7d89ecac6a",
             "1b48c74f38f5b51f33f09f71",
             "a458cfe7953118d8654160bd",
-            "5cc092b230c521629e731028",
             "37e8131b88d9d7442d456133",
             "89be7a63c36112c593c20967",
             "1e9f31968436f5e9de786f0d",
@@ -22605,15 +22871,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 50,
+          "count": 52,
           "publisher_count": 27,
-          "summary": "Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。 NVIDIAは乳がん診療を支援する参加企業の提供状況を紹介した。iSono HealthのFDAクリアランス取得済みATUSAは片側約2分で3D超音波を撮影し、米国の一部提携施設で提供中。3,200人の多施設試験も進む。Ataraxisの病理画像と臨床情報を用いる治療反応・再発リスク予測モデルは、10超の施設と複数の臨床試験で検証され、臨床利用中とされる。",
+          "summary": "Frank DeLise, Omniverse product manager at NVIDIA, used Astra to turn a SimReady warehouse and humanoid robot into an interactive simulator with first- and third-person… Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
           "evidence_ids": [
-            "6deffd9719970d2ddbcd3726",
-            "035a12333902a08ca2354b60",
-            "fcf56dce4863c31a34643a91"
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
+            "6deffd9719970d2ddbcd3726"
           ],
           "article_ids": [
+            "badda310cca07906cc76c487",
+            "8960d69fbf11f4b54dc88257",
             "6deffd9719970d2ddbcd3726",
             "035a12333902a08ca2354b60",
             "fcf56dce4863c31a34643a91",
@@ -22749,16 +23017,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 10,
+          "count": 12,
           "publisher_count": 9,
           "summary": "OpenAIはOracleでのChatGPT WorkとCodexの活用事例を公開した。採用部門は職務記述から類似職種、報酬、人材層を調べるツールを構築し、従来2〜4日かかった情報収集が15〜20分の準備になったと報告。社内分析では業務上の概念・関係・ルールを定義し、自然言語の質問をCodexでSQLに変換する。SREは障害の関連情報と対応手順の収集にも利用している。",
           "evidence_ids": [
             "4a204d7bd8653c170f26778b",
-            "6fa289d85c30c2f719c222c5",
-            "f647df9ef1f30471f2808ee0"
+            "72a5bf3c3f7c188d57f69115",
+            "6fa289d85c30c2f719c222c5"
           ],
           "article_ids": [
             "4a204d7bd8653c170f26778b",
+            "72a5bf3c3f7c188d57f69115",
+            "bba44f898220fcf85c3c28c2",
             "6fa289d85c30c2f719c222c5",
             "f647df9ef1f30471f2808ee0",
             "105088e1eaa32879961c6c56",
@@ -22855,15 +23125,24 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "badda310cca07906cc76c487",
+        "ecff798ac878a4e96ba2bb7c",
+        "8960d69fbf11f4b54dc88257",
+        "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
         "b713bdb0fab978feb30db284",
+        "72a5bf3c3f7c188d57f69115",
+        "825990f1a256a6ac6e7e3465",
         "ce085ade3e082407754c661b",
+        "bba44f898220fcf85c3c28c2",
+        "f584c76327f7a5fe8fcaff17",
         "dc67f873dbf6cc16c68126d3",
         "cff990e268562693853c041d",
         "6deffd9719970d2ddbcd3726",
         "035a12333902a08ca2354b60",
         "fcf56dce4863c31a34643a91",
+        "6339c894c8f1acef07a120a7",
         "5911c46dafd3ca556fd20181",
         "8a8e63b1add55db2b87f9687",
         "6fa289d85c30c2f719c222c5",
@@ -23035,6 +23314,7 @@
         "90024ac30b9f2442334b1c13",
         "a34800a646f1c527e9d56464",
         "40df40006889d5577a37581e",
+        "5cc092b230c521629e731028",
         "6be341e47099a46ed5613780",
         "09ce74a03823c0ba888415f1",
         "dcf2166d8a71a744bbe4f154",
@@ -23049,7 +23329,6 @@
         "1b48c74f38f5b51f33f09f71",
         "8d335e4e2bc7d4275baaa36b",
         "a458cfe7953118d8654160bd",
-        "5cc092b230c521629e731028",
         "f8f39800bc5e9e99edc8ed0e",
         "37e8131b88d9d7442d456133",
         "89be7a63c36112c593c20967",
@@ -23064,10 +23343,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-09T06:02:53.377077+09:00",
+  "report_updated_at": "2026-10-09T10:06:50.847460+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-08T21:02:52.977047+00:00",
+    "attempted_at": "2026-10-09T01:06:50.522248+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 1,
@@ -23079,6 +23358,10 @@
     "errors": [
       {
         "article_id": "ce085ade3e082407754c661b",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "bba44f898220fcf85c3c28c2",
         "stage": "original_fetch"
       },
       {
@@ -23106,7 +23389,7 @@
       "errors": [],
       "last_success_at": "2026-10-08T21:00:12.434745+00:00"
     },
-    "last_success_at": "2026-10-08T21:02:52.977047+00:00"
+    "last_success_at": "2026-10-09T01:06:50.522248+00:00"
   },
   "topic_definitions": [
     {
@@ -23655,10 +23938,10 @@
     ]
   },
   "picks": [
-    "04c9cc7799e4fcc0fad8aac3",
-    "4a204d7bd8653c170f26778b",
-    "6deffd9719970d2ddbcd3726",
-    "035a12333902a08ca2354b60",
+    "ecff798ac878a4e96ba2bb7c",
+    "e0f896be61398e52825432c4",
+    "badda310cca07906cc76c487",
+    "8960d69fbf11f4b54dc88257",
     "cff990e268562693853c041d",
     "40a1ca2db5e26599685ce199"
   ]
