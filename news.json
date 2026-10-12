@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-12T00:22:51.603715Z",
-  "last_attempt_at": "2026-10-12T00:22:51.603715Z",
+  "updated_at": "2026-10-12T21:02:40.114432Z",
+  "last_attempt_at": "2026-10-12T21:02:40.114432Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 4,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 42,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,23 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-12T00:22:51.603715Z",
+      "checked_at": "2026-10-12T21:02:40.114432Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-12T21:02:40.114432Z",
+      "new_count": 1,
+      "status": "ok"
+    },
+    {
+      "at": "2026-10-12T21:00:15.120427Z",
+      "new_count": 27,
+      "status": "ok"
+    },
     {
       "at": "2026-10-12T00:22:51.603715Z",
       "new_count": 0,
@@ -398,6 +408,92 @@
   ],
   "articles": [
     {
+      "id": "95d67afd9472e7a9101ad8f0",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "飛躍的な進化続けるAI 教育現場では「もろ刃の剣」 学習効果に期待・思考力低下へ懸念 - 沖縄タイムス社",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52Y3kxUFhwOWUtTU5kS2Y4T3dhZ3lEVzZscHI4S3dsMG5jeVMteTF4VlN5c2FqekJYM1lUQmkyNW9nWVBrSE1ZN29mWEc3Mlc2UFBTN182YVVwU3F2Mnc?oc=5",
+      "publisher": "沖縄タイムス社",
+      "summary": "飛躍的な進化続けるAI 教育現場では「もろ刃の剣」 学習効果に期待・思考力低下へ懸念 沖縄タイムス社",
+      "published_at": "2026-10-12T20:00:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "214de09c0748f52669ed1bc6",
+      "category": "tech",
+      "source_id": "nvidia",
+      "title": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help Scale AI Factories Worldwide",
+      "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+      "publisher": "NVIDIA 公式ブログ",
+      "summary": "As AI factories grow from megawatts to gigawatts, building them takes more than advanced computing. Open standards are helping the industry scale AI infrastructure faster, more efficiently and more reliably. At the Open Compute Project (OCP) Global Summit, taking place in the San Jose McEnery Convention Center, NVIDIA announced new partnerships and contributions aimed at […]",
+      "published_at": "2026-10-12T15:00:25Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": "NVIDIA",
+      "origin_kind": "official",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "07a0c493f650e4675cb2beb2",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【教育現場に生成AI】先生の役割どう変わる？AI活用で課題添削は『4時間→5分』に短縮 便利な一方…先生とのすみ分けは？「個性がないと淘汰されるのでは」AI時代の教育現場に潜入 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ2ItdHpLbllTRkhybVIxR2pUMk1QRTl4Z0NKaEtiMVkweHdnSEdxbG9tWGpsS0FIVURSOVM4bHZDSzl3ZUN3VjBHd0d3VzVJczRVWHFmdlo3SVBCd3ZLNkdFY3RBQlB1eWpfYUN5WXlUdTRzRExvcFc4bUtVekd3VUhWMTB0bWQ5cUhWN0d3?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "【教育現場に生成AI】先生の役割どう変わる？AI活用で課題添削は『4時間→5分』に短縮 便利な一方…先生とのすみ分けは？「個性がないと淘汰されるのでは」AI時代の教育現場に潜入 Yahoo!ニュース",
+      "published_at": "2026-10-12T09:00:01Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "6fed762c68101f497f1e4577",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIの新しいAIエージェントを職場で試したところ、企業ITの頭痛の種になった - Business Insider Japan",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzhBRUlBUURJNFRpMUhWX2ItZ3dISDI1OHp0M3N4SGpOaEVNYmcteE5HUUlFRGhmSWxkMGI1RzB3TXc3Mk1wYnZoSVlXZGszU0gtME5VMjNHTmVOc3ZPa3N6QldhdUt1Y2VDWjUxOFJfeC14Q3g0T3l0dW5fS3FwWHlXMlpGT0J1RkJNZUVub0ljOHVwREUzbA?oc=5",
+      "publisher": "Business Insider Japan",
+      "summary": "OpenAIの新しいAIエージェントを職場で試したところ、企業ITの頭痛の種になった Business Insider Japan",
+      "published_at": "2026-10-11T22:15:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "4e56d0edee04a66d1a17a7b5",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "JPR、レンタルパレット在庫管理アプリにAI画像認識で枚数自動確認可能な機能をオプション追加 - LOGI-BIZ online",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE50c3VtWjBGUjZNQ2pYVEswUGlfek9YVEdWay00UXBJejRjNUpvS0sxclM2cjUtbGtobDF3bmhSVU1hSjEtMzhpR2kzTQ?oc=5",
+      "publisher": "LOGI-BIZ online",
+      "summary": "JPR、レンタルパレット在庫管理アプリにAI画像認識で枚数自動確認可能な機能をオプション追加 LOGI-BIZ online",
+      "published_at": "2026-10-11T21:00:51Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "5dda5578f36893c3c1616518",
       "category": "parenting",
       "source_id": "parenting",
@@ -448,6 +544,110 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "ed9835781c8554a9d6caa767",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI時代に必要な学びとは 教育現場を変革する20代起業家たち - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41V1BNTkVPM0RCVVFPLUNpam9VT1A1UV9lOWsyVEtpMzJwaXd1b1RiQS1VR1ZvOXJ5N1VKTHh4cVRRM1k5a2t6VVJrVjhQUWY3WnVXZXNGT1ZGZw?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "AI時代に必要な学びとは 教育現場を変革する20代起業家たち Forbes JAPAN",
+      "published_at": "2026-10-11T00:30:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "cea1174371f8c449ff4adaa2",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "StepHow、社内サーバーのみで動作するAIコーディングエージェント「Wissly Code」をリリース - KORIT",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ERDZBa3J2QVhGbU9RMDN4eFpYOGZFWkNHQXBHXzZpU0pfNG5qRkxEb1Z0cXY0LXc5cGt0Rl9Dek9rQkJGM0VLSlZWMjkweTd6aFpMRjMzTUVMMjZhVXlteHI4RWRrZE4tdEVMTjlLS0luZTVRVXJ3?oc=5",
+      "publisher": "KORIT",
+      "summary": "StepHow、社内サーバーのみで動作するAIコーディングエージェント「Wissly Code」をリリース KORIT",
+      "published_at": "2026-10-10T05:17:46Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "7d9f820349e6b4174329c9b7",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Sophos が OpenAI Daybreak で脅威調査時間を 96% 短縮 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5hQ2syQnBVSE1ZNXNwNmhySmlFV2R1MGh5YjQ4cGFVQVhiMTJjcnRJZ0VpcExRRU4tbWF4N2hxaFBiRXA2OWxCQUdobUhWYk0?oc=5",
+      "publisher": "OpenAI",
+      "summary": "Sophos が OpenAI Daybreak で脅威調査時間を 96% 短縮 OpenAI",
+      "published_at": "2026-10-10T03:08:05Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "33b4f566e3498437d2c0c4e6",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AnthropicのAI暴走、殺人事件に偽の情報提供、偽のビザ申請 米政府「通報・是正は義務」（平和博） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0pWT3BIakdzR2I1U2pfYWZQck0wdGhZNEZJLWhITXh2LWNVaFYyZ2YxMzF1NndXeFNwM2o0OWZON3lYMlJPcVR6UzBncmFhVExsZkduNW9LUTkyWEVnRE0zdmthNGw1RG5SWHoxa2JpZUlNS0ltRDcwcUhnNXRGZlJmSDUyZ2cx?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AnthropicのAI暴走、殺人事件に偽の情報提供、偽のビザ申請 米政府「通報・是正は義務」（平和博） - エキスパート Yahoo!ニュース",
+      "published_at": "2026-10-10T02:56:33Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "8d713301ca9592825be34717",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "塩谷町が子育て支援アプリ導入 オンラインで医療相談 24時間チャット対応で不安軽減へ - 下野新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NVEY3SnNzeGt2cDBhcmhGT2NQOEJlUkk3WklHSW5qZzRWTTUwaW1vWW4wNVBNT1lDbm55Wk9UMmhWdWlxQXktN3VXNERXYk9OM2U5Ti0tR0YtZ1k?oc=5",
+      "publisher": "下野新聞社",
+      "summary": "塩谷町が子育て支援アプリ導入 オンラインで医療相談 24時間チャット対応で不安軽減へ 下野新聞社",
+      "published_at": "2026-10-10T02:30:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-care",
+      "in_scope": true,
+      "theme_ids": [
+        "parenting"
+      ]
+    },
+    {
+      "id": "495250eca757336c11d6bb21",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "「謝るのなら土下座だろ」エスカレートする\"カスハラ\" 従業員を守る最新技術 “声色変えるAI”に“ウェアラブルカメラ”最前線を取材 - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdU5uTlAzYWg5Q2d4bW1oYTVqZ3U0c29aa3NndzNjZEF6MHJKbmxPbVdQVHN2bkdwRGh2aHhsdlN2OWZtVzJlbnNWOHBtc2xtNzZJa0NJTk9rZ1o5ZmRBN2k2SjB4Q3Q1T2xBOElsMVZ2QS1ncEpGNmdlMVhXc0hnU0p3S1J0S0U?oc=5",
+      "publisher": "日テレNEWS NNN",
+      "summary": "「謝るのなら土下座だろ」エスカレートする\"カスハラ\" 従業員を守る最新技術 “声色変えるAI”に“ウェアラブルカメラ”最前線を取材 日テレNEWS NNN",
+      "published_at": "2026-10-10T02:00:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "408905ac85f7ce3a6332cb2d",
@@ -731,22 +931,6 @@
       ]
     },
     {
-      "id": "3091b6464a24712f17bd36ed",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "1分間で2,000個を検査するAIの「眼」とは。 製造ラインを進化させるエッジAIソリューション - TDK Corporation",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45XzFZdVdndFBRRjlMM0F5OHA0bzB3RmpsM3Q2Z1FnOERheWJES1VXbG5WUHlXOGFuWjVFMmNPVHR1ckk1UUhFTzctS0lyUjYxejJQckc2elEzRWxqek0xZ19PWE1rell4QkkxU2wwNGNYZ211NWh4dA?oc=5",
-      "publisher": "TDK Corporation",
-      "summary": "1分間で2,000個を検査するAIの「眼」とは。 製造ラインを進化させるエッジAIソリューション TDK Corporation",
-      "published_at": "2026-10-09T06:31:01Z",
-      "collected_at": "2026-10-10T00:39:25.100100Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": []
-    },
-    {
       "id": "3ddda55c954497f19600acb1",
       "category": "parenting",
       "source_id": "parenting",
@@ -765,6 +949,22 @@
       ]
     },
     {
+      "id": "3091b6464a24712f17bd36ed",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "1分間で2,000個を検査するAIの「眼」とは。 製造ラインを進化させるエッジAIソリューション - TDK Corporation",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45XzFZdVdndFBRRjlMM0F5OHA0bzB3RmpsM3Q2Z1FnOERheWJES1VXbG5WUHlXOGFuWjVFMmNPVHR1ckk1UUhFTzctS0lyUjYxejJQckc2elEzRWxqek0xZ19PWE1rell4QkkxU2wwNGNYZ211NWh4dA?oc=5",
+      "publisher": "TDK Corporation",
+      "summary": "1分間で2,000個を検査するAIの「眼」とは。 製造ラインを進化させるエッジAIソリューション TDK Corporation",
+      "published_at": "2026-10-09T05:00:00Z",
+      "collected_at": "2026-10-10T00:39:25.100100Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "f50bc24dce751fed56dd6193",
       "category": "ai",
       "source_id": "ai",
@@ -779,6 +979,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "307abb06b1e417d522dee3c1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Geminiは同僚 グーグルから「Geminiエージェント」登場 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6dnRublhldE9xY3FmMEpGUmJ4dWJYeFhhMzFmUXJxanBxVTBoTnpIU3J6cDlSNjl1ekxFUTZpeUQ5cjhHOGczVy04aW9adHA3M3BxMWx6WE9UelhPelVWdF9qMnE?oc=5",
+      "publisher": "Impress Watch",
+      "summary": "Geminiは同僚 グーグルから「Geminiエージェント」登場 Impress Watch",
+      "published_at": "2026-10-09T03:23:26Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "da8cbaaf771d55e1a9660d91",
@@ -812,6 +1030,24 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "6875665eb7ef00ccc7474e22",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "株式会社ティービーアイクラウドAI防犯カメラサービス「VORTEX（ボルテックス）」の販売を開始 ― エッジ録画とクラウドを組み合わせ、コストと通信負荷を軽減 ― - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlekF3U3U3R09oSjVVRXM2SWJTNXJxOVlkbmdaLXJmOWhDWk1DcnVqaURLUzdIUWZoX0xjclRlRWZfcE12VG0wc3A3eDUtTjg5YS1VSWg4MzhXaG0ycGlZajNSV2dWRVp5aWc?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "株式会社ティービーアイクラウドAI防犯カメラサービス「VORTEX（ボルテックス）」の販売を開始 ― エッジ録画とクラウドを組み合わせ、コストと通信負荷を軽減 ― PR TIMES",
+      "published_at": "2026-10-09T01:00:01Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -1571,6 +1807,24 @@
       ]
     },
     {
+      "id": "28ae8a7d428690cfb1771cf8",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "カメラ技術市場2035年展望：AI対応ビジョンシステムが成長を牽引 - ニュースと統計 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdEZhQXE3bnJ4d1J6Tkt6Y3E1NGZGa3lRSE1EeUFpdHFhdk9pLUxMMnltRi14dm9NZW1qdXUyeElRRDQxVFRwNEp3TnVjUFNWcGlYbGlIdU1YN2dSQkY2eGN5Z2QyVGw1M0FEajdqRmJRakc4SnVwVVNPaFBmR0ZJbnliRWpxVWpkZjg0TWR3eHItVk0tS3FDZ2ljTW5fTkJWXzlzZGJFRjVJdUpBMEpsUnE4dw?oc=5",
+      "publisher": "IndexBox",
+      "summary": "カメラ技術市場2035年展望：AI対応ビジョンシステムが成長を牽引 - ニュースと統計 IndexBox",
+      "published_at": "2026-10-07T16:11:04Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "8deace5258730993e77ce83a",
       "category": "tech",
       "source_id": "tech",
@@ -1851,6 +2105,24 @@
       "theme_ids": []
     },
     {
+      "id": "f7a2c36229e753a87ace57d4",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【監視カメラの進化】ただ「録画するだけ」から「AIが異常を教えてくれる」時代へ！ - DXマガジン",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pMDhHeGY1MFlVSU1tVWg5dnlwTHBab3ZYZW9RdU5DQjVOSXZfVGJ5VWRpNUhkUWtDc081WURaNWxwZWw5V3R5T3g4X3dzeDVuYUE?oc=5",
+      "publisher": "DXマガジン",
+      "summary": "【監視カメラの進化】ただ「録画するだけ」から「AIが異常を教えてくれる」時代へ！ DXマガジン",
+      "published_at": "2026-10-07T06:33:34Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "51b4a20d4aa52b4704ed3007",
       "category": "tech",
       "source_id": "tech",
@@ -1992,6 +2264,24 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "a6cfc345b7e5f084b9059f25",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "米Overview AIがAI検査カメラ2機種を発売、設定の質問に英語で回答 - FabScene",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWxMSXU1eEQ5WHl6UzYzd0RqT2hucUVvaGJJano4empQVUpkTUEwa2FsTnJzRDB3Ri1HVzF6VWRDSUoySGhHQk9iVDd5NjBaY21LNmV6cE5XdTZ0eTYxMVhTLVYtX245eGxxRHFFX3NOODkzaE9PRWU1eU1ORUdZQUMwVkxxVU5DMW1oX1NXOUt5UGvSAZgBQVVfeXFMUHp6S0tON1FaVVdhVzd4ZGtMV2hFVWpHcjM1ZXI2eFlncHR1b3ctVG5IUERHeklNSnZISGxPM2xOLWhiVnU0REN5MlUza2RHaVZ1VXJjLURaYTRyUXE3M3IxSDRHZGluUTE2Wlk1eklia1g0dlRlMzVEQ2ZfTk85c2pzSkNSU2ktanB5M0ZGODlKVWJTSWxhX1U?oc=5",
+      "publisher": "FabScene",
+      "summary": "米Overview AIがAI検査カメラ2機種を発売、設定の質問に英語で回答 FabScene",
+      "published_at": "2026-10-07T03:10:09Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -2153,6 +2443,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "d9a2c4a463c9bf189be8a2e2",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "カナダ学校銃撃で容疑者逮捕 通信アプリで共謀か―米 - 時事ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WQ05yWW1Pd3NJZldqRHd3SXV5a21BNk4zU0Uzd0dWRXA3TWtJM3paYlZsYUV6UUZHZm8tVTdBb0RCUFU2SWY2YlBVUWs0U0NqQTFEX1I2NkZFenQya2YycXRSRQ?oc=5",
+      "publisher": "時事ドットコム",
+      "summary": "カナダ学校銃撃で容疑者逮捕 通信アプリで共謀か―米 時事ドットコム",
+      "published_at": "2026-10-06T23:52:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
     },
     {
       "id": "884d34ad9326cb889e3bb44d",
@@ -2641,6 +2949,24 @@
       ]
     },
     {
+      "id": "5888079b2e776d91a1d82b16",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "デジタル網膜カメラの世界市場（2026年～2032年）、市場規模（デスクトップ型、ハンドヘルド型）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE85NkhlYk1rNFh1WGVXZTFYa1E3T3NIX2ZYeF9wQnpvXzVNQ2lTenYza01zOXczZTRWVWYwZ3dnbTVaTXNlS0JDZzJyTHZGU3M?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "デジタル網膜カメラの世界市場（2026年～2032年）、市場規模（デスクトップ型、ハンドヘルド型）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-10-06T06:30:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "ced6b3a067bd7cb316d491ab",
       "category": "tech",
       "source_id": "tech",
@@ -2655,6 +2981,42 @@
       "topic_id": "tech-platform",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "59482b469a6f76b767934461",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "TXアプリ、車両ごとの混雑度を表示 車内防犯カメラをAI解析 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WRm91WXZTd0ZFRjA1NVBCV1JQWFoxRG9jNTdxc2ZuT3hwczZod2JqMFk5SExWOG1taWk4Vm1fbmluWGlhUzI0amJMMWxqNHI0NGVNTnU4a3ROMk5tOTZkaVZBTjQ?oc=5",
+      "publisher": "Impress Watch",
+      "summary": "TXアプリ、車両ごとの混雑度を表示 車内防犯カメラをAI解析 Impress Watch",
+      "published_at": "2026-10-06T04:02:53Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "b6f362ec683316b1d0758e4f",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【特集】HOVERAir VERSA登場、手持ちカメラとドローンを1台で切り替え - ドローンジャーナル",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvVVVzVWh1am9BaDdJbU51NzM1LWJNOGNNOFIxNVMxWnVjbzJRem9YeWx1cHZ6YXJDLUhSQ2ZyWXBOQlNaR2tiTFVPMDlFLWxmdElVRndub0twallnN18wbVMwZVVleGZJOEZmcnFR?oc=5",
+      "publisher": "ドローンジャーナル",
+      "summary": "【特集】HOVERAir VERSA登場、手持ちカメラとドローンを1台で切り替え ドローンジャーナル",
+      "published_at": "2026-10-06T03:37:38Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "0cc884ac8dd138cc0408af2a",
@@ -2817,6 +3179,25 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "e833aed5d4d282b98c6e69c7",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "Phoxter、外観検査自動化の常識を変える良品学習 新技術搭載 AI学習プラットフォーム「StellaDeepVision Studio」を新発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iYkE4MHVxM19TaEVja2Z6YkszZTVlcXphdHBKeW5Zc0JPT3N6QTQzRUw5aEVVdzExMTNaNzJDUl9GSFpoWTUtR2psZFdYeFdnbV9fMU1fUTlPWGFNWHBHQXpGQUNjRmNLS2c?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "Phoxter、外観検査自動化の常識を変える良品学習 新技術搭載 AI学習プラットフォーム「StellaDeepVision Studio」を新発売 PR TIMES",
+      "published_at": "2026-10-06T00:00:04Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "camera",
+        "education"
+      ]
     },
     {
       "id": "e700d08ac53b99cb9936a38e",
@@ -3384,7 +3765,7 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94czg3MzlaajNvSnozN2tZSF9CbTBoclJTTUcyTVBBSmRQUDduSWY0WldfWjFCUURZUWNTdUt5V2JtM01yR2xrUENNV0YyVmMzNlNXbHU1S1pzbHowNjlYbQ?oc=5",
       "publisher": "Digital PR Platform",
       "summary": "パナソニック、冷蔵庫AIカメラで無理なく手軽な「使いきり（食品ロス削減）」をサポート Digital PR Platform",
-      "published_at": "2026-10-05T05:44:13Z",
+      "published_at": "2026-10-05T05:30:00Z",
       "collected_at": "2026-10-07T21:00:07.646716Z",
       "provider": null,
       "origin_kind": "media",
@@ -3663,6 +4044,22 @@
       ]
     },
     {
+      "id": "4e1deda0382d627aa85beafe",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "日韓台・経済大接近：AIブームで躍進する韓台の注目10銘柄 富岡浩司 - 週刊エコノミスト Online",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBmS2F0M0VUQ1d3ckY3RVdhZ1ZLbmZObmN1UTR4MlVqWmhabkozWF9SRV9xajFZTXJHRHN4VncwZU9kLTNjWFV2dEN5S0RyZlNmTE1Md0VURXFRUDI5Z2N2ZXlPaTZ0aDlYdjctcngtRzhYTTFady1GUDBuTVR0WEU?oc=5",
+      "publisher": "週刊エコノミスト Online",
+      "summary": "日韓台・経済大接近：AIブームで躍進する韓台の注目10銘柄 富岡浩司 週刊エコノミスト Online",
+      "published_at": "2026-10-05T01:41:47Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "d92dd46ee9bb1287fea33f20",
       "category": "tech",
       "source_id": "tech",
@@ -3861,15 +4258,15 @@
       "theme_ids": []
     },
     {
-      "id": "efae61d28ac8ca58995977e9",
+      "id": "6073eeb9386779685a4be513",
       "category": "ai",
       "source_id": "ai",
-      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに (ITmedia NEWS) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDR1NFlMcWlSSTZ5cVJSeTYwZnp4eE02SGJOYnk1djdGZXlIWUY2Z2NmdGpsTDBzanRQXzU4WEg4VmhsTzJGczcwdHdDbHFuaVVXRk9wcFlFeWNBbU5IVzROWkFKTmpqZzU1cXFlMmtYVG9NaHNhc0ZBX1FNWk9IYWpySVhESlBZZDRiN0tR?oc=5",
-      "publisher": "Yahoo!ニュース",
-      "summary": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに (ITmedia NEWS) Yahoo!ニュース",
-      "published_at": "2026-10-04T02:30:02Z",
-      "collected_at": "2026-10-06T01:42:37.416812Z",
+      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cUVSdU44anNZNVE4YWtzX283RlNuLVlsdEoyejlrRm4xSE1fZjA4cVBHNFJhaDRmVVcyZFBkaVBzd3RmdDBjaTVGV1VqSzJGNk51WmlxRXlzdEpSbVNVNDVjZ29BajFydXc?oc=5",
+      "publisher": "ITmedia",
+      "summary": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに ITmedia",
+      "published_at": "2026-10-04T07:00:00Z",
+      "collected_at": "2026-10-04T21:00:06.754933Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -3879,15 +4276,51 @@
       ]
     },
     {
-      "id": "6073eeb9386779685a4be513",
+      "id": "227aa10b7de793ba52923b5d",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "教育のいま：変わる学び 子どものAI活用方法、社会での合意形成必要 - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XUDR1dk1NX2gyamQ5elJwRDV1TnhEMndNZVZDZ3d6OGo2LUlpNk9md1NGSE1hV2lDR0FxcDhfaUZaaGVEVmNWTWNPdUo5UkZYdDRob2ZtWTBIWlBLWGxuZ3JaNnVISmpS?oc=5",
+      "publisher": "毎日新聞",
+      "summary": "教育のいま：変わる学び 子どものAI活用方法、社会での合意形成必要 毎日新聞",
+      "published_at": "2026-10-04T07:00:00Z",
+      "collected_at": "2026-10-04T21:00:06.754933Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "8c750d73c75d54a52e6d951f",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AIで英語不要？ 中国で揺れる教育 大学は授業再編、SNSで論争 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlTHo2UHc0VGpNTFI4UlpYN2NWVk1FU3dmWVdIRWRvN0Nwd2hlY2lQb0dYSGNKV0VfRUZlNmhIQnNPX2JUcGU4a1RUSE5PNXAyU0J6MVdXWUx1bGR1Z0JpcnJ5MnlkUDQ?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "AIで英語不要？ 中国で揺れる教育 大学は授業再編、SNSで論争 朝日新聞",
+      "published_at": "2026-10-04T07:00:00Z",
+      "collected_at": "2026-10-03T21:00:05.991964Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "efae61d28ac8ca58995977e9",
       "category": "ai",
       "source_id": "ai",
-      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45cUVSdU44anNZNVE4YWtzX283RlNuLVlsdEoyejlrRm4xSE1fZjA4cVBHNFJhaDRmVVcyZFBkaVBzd3RmdDBjaTVGV1VqSzJGNk51WmlxRXlzdEpSbVNVNDVjZ29BajFydXc?oc=5",
-      "publisher": "ITmedia",
-      "summary": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに ITmedia",
-      "published_at": "2026-10-04T02:27:25Z",
-      "collected_at": "2026-10-04T21:00:06.754933Z",
+      "title": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに (ITmedia NEWS) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcDR1NFlMcWlSSTZ5cVJSeTYwZnp4eE02SGJOYnk1djdGZXlIWUY2Z2NmdGpsTDBzanRQXzU4WEg4VmhsTzJGczcwdHdDbHFuaVVXRk9wcFlFeWNBbU5IVzROWkFKTmpqZzU1cXFlMmtYVG9NaHNhc0ZBX1FNWk9IYWpySVhESlBZZDRiN0tR?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "個人向けGeminiのモデル選択が厳格化 無料ユーザーが使えるのは「Flash-Lite」のみに (ITmedia NEWS) Yahoo!ニュース",
+      "published_at": "2026-10-04T02:30:02Z",
+      "collected_at": "2026-10-06T01:42:37.416812Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -3915,24 +4348,6 @@
       ]
     },
     {
-      "id": "227aa10b7de793ba52923b5d",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "教育のいま：変わる学び 子どものAI活用方法、社会での合意形成必要 - 毎日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XUDR1dk1NX2gyamQ5elJwRDV1TnhEMndNZVZDZ3d6OGo2LUlpNk9md1NGSE1hV2lDR0FxcDhfaUZaaGVEVmNWTWNPdUo5UkZYdDRob2ZtWTBIWlBLWGxuZ3JaNnVISmpS?oc=5",
-      "publisher": "毎日新聞",
-      "summary": "教育のいま：変わる学び 子どものAI活用方法、社会での合意形成必要 毎日新聞",
-      "published_at": "2026-10-04T01:00:00Z",
-      "collected_at": "2026-10-04T21:00:06.754933Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
-    },
-    {
       "id": "ff1ae3ce021d8f893eb76b95",
       "category": "ai",
       "source_id": "ai",
@@ -3948,24 +4363,6 @@
       "in_scope": true,
       "theme_ids": [
         "models"
-      ]
-    },
-    {
-      "id": "8c750d73c75d54a52e6d951f",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "AIで英語不要？ 中国で揺れる教育 大学は授業再編、SNSで論争 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlTHo2UHc0VGpNTFI4UlpYN2NWVk1FU3dmWVdIRWRvN0Nwd2hlY2lQb0dYSGNKV0VfRUZlNmhIQnNPX2JUcGU4a1RUSE5PNXAyU0J6MVdXWUx1bGR1Z0JpcnJ5MnlkUDQ?oc=5",
-      "publisher": "朝日新聞",
-      "summary": "AIで英語不要？ 中国で揺れる教育 大学は授業再編、SNSで論争 朝日新聞",
-      "published_at": "2026-10-03T20:00:00Z",
-      "collected_at": "2026-10-03T21:00:05.991964Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
       ]
     },
     {
@@ -4158,6 +4555,25 @@
       ]
     },
     {
+      "id": "26faf5007e45ccd51e5f4f86",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【「Gemini 4 Argon」まだ“本命”じゃない】「Googleは脱落してない」今井翔太／機能絞って発表→GPT・Claude最新モデルに匹敵／AI暴走の本質は「強化学習」【AI QUEST】 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5XQ3JJV05FV2xNWEFLaGl2Z3RYOTNIQ1MtM0FmbzFLWVFjVFhEMDJqalVJTEVKakZUY3Eyd1JpaE9oRHlGM1NfUlEzbklFclQyTy1kR0U1UlBEeGpHMVFKeElaSm44ektaLUpMNEJ2WjFzMVRO?oc=5",
+      "publisher": "TBS NEWS DIG",
+      "summary": "【「Gemini 4 Argon」まだ“本命”じゃない】「Googleは脱落してない」今井翔太／機能絞って発表→GPT・Claude最新モデルに匹敵／AI暴走の本質は「強化学習」【AI QUEST】 TBS NEWS DIG",
+      "published_at": "2026-10-02T22:00:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
       "id": "843760f8a0bb975f501b577c",
       "category": "ai",
       "source_id": "ai",
@@ -4260,6 +4676,24 @@
       "in_scope": true,
       "theme_ids": [
         "development"
+      ]
+    },
+    {
+      "id": "6a9f2632f5001f1a3c914d0d",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "カシオ、ICT学習アプリに新機能 AIが評価案を自動生成 - 電波新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByLVpGRWc5dTFGXzVEcWR1MHNEY2pIeFo3aENDNTBGM19rYkp3ZXVzbUh0RC1kaDFBQ1pBQkpHemQyYUYyXzEyNV9WRWdqU1JSWVE?oc=5",
+      "publisher": "電波新聞デジタル",
+      "summary": "カシオ、ICT学習アプリに新機能 AIが評価案を自動生成 電波新聞デジタル",
+      "published_at": "2026-10-02T12:59:36Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -4592,6 +5026,22 @@
         "development",
         "models"
       ]
+    },
+    {
+      "id": "b961db198629177a1bf7830b",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "「声の権利」初めて認める判決 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5temRBdTU4eGNzNE9OTjNDRVl4WkY3RzlPN1RQNWNtYXhxSkZGNnFRNFFPd21aYmtPYnpsZVlkakJuUk5BM3VVcVRYVnNPV25YbzkxQ2QwZ0ozVU1KUU45SDRwdkhBbEs5?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "「声の権利」初めて認める判決 朝日新聞",
+      "published_at": "2026-10-01T15:00:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
     },
     {
       "id": "1d9fac41ed1149929409e205",
@@ -4966,6 +5416,58 @@
       ]
     },
     {
+      "id": "9ec01c69ca10a0a0ad891a3b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "盗まれる前に、その場で警告！AI検知と自動警告（音・光）を備えた防犯カメラを新発売 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBISDlHZkkyMDVWaUhkQjZuMS1Na2Z3NmUtTkZPYzd0R0VXS1pTazlLUXJ1RlBCdWxrVFlJc2ZLLU9waHRQTk1XMlJZRkJMcU1uRElYc1k1WnhvcmJHaEpUblY2VzdnSV93QXc?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "盗まれる前に、その場で警告！AI検知と自動警告（音・光）を備えた防犯カメラを新発売 PR TIMES",
+      "published_at": "2026-10-01T07:00:00Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "115602899c96d16150e8ef5f",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "鹿島、長大な鉄筋籠の配筋検査時間を約7割削減 移動式カメラとAI活用 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zb3RfYnJZd3MxRkNjaDNCQzFXOWNlakhIM3hwVFNvMDBCTWlhLVE3RmlDWlVPd3dvUnNXSHlEM3ZTamRsSDNWUG5XUjRUWTN3elg3UDZuMTdOZ19LQldmUHFjdGg4c2s?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "鹿島、長大な鉄筋籠の配筋検査時間を約7割削減 移動式カメラとAI活用 日経クロステック",
+      "published_at": "2026-10-01T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "b039138b95caaff293b50bfd",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "フツパー、現場向け安全管理AIプラットフォーム「OwloX」の先行提供を開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14c1ZEaWlZcm1VLVlGWnhvTnF4aVgtUEQwQUJJV1loWEdBZkZ6R2FsOEU3TGU2MGVUc25DTmNLS3JpVGdLa0xqU3ljY0ZvOXktSzE2emU4aTBRdllaUDB5dUZMODBpTGR5T0E?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "フツパー、現場向け安全管理AIプラットフォーム「OwloX」の先行提供を開始 PR TIMES",
+      "published_at": "2026-10-01T07:00:00Z",
+      "collected_at": "2026-10-12T21:02:40.114432Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "f8584bf8c3c786b1c2eeda4b",
       "category": "ai",
       "source_id": "ai",
@@ -5183,7 +5685,7 @@
       "id": "b407832c24654340eaea0384",
       "category": "ai",
       "source_id": "mistral",
-      "title": "Mistral BlogIntroducing Mistral Large 4Hallo, Deutschland!Mistral and Mozilla are bringing open, private and multilingual AI to your web browserCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataModernizing complex legacy code with AI agents.Mistral raises €3B to make sovereign, open-weight AI the technology frontierMistral x HUMAIN Agentic Search. More accurate and efficient results from your AI systems.In-region inference, open models, and new European infrastructure for sovereign AI.Introducing Shieldstral.Your Prompts and Skills need a system of record.Introducing Robostral Navigate Leanstral 1.5: Proof Abundance for AllBringing more control over your connectorsIntroducing Mistral OCR 4AI Now Summit 2026Vibe gets to work.Introducing Search ToolkitIntroducing physics AI at Mistral: the foundation for engineering acceleration.Physics AI research that’s shaping the industry.Emmi joins Mistral to accelerate the AI-native industryRemote agents in Vibe. Powered by Mistral Medium 3.5.Connect the dots: Build with built-in and custom MCPs in StudioWorkflows for work that runs the businessSpaces: A CLI Built for Humans and AgentsSpeaking of VoxtralIntroducing ForgeIntroducing Mistral Small 4Mistral AI partners with NVIDIA to accelerate open frontier modelsLeanstral: Open-Source foundation for trustworthy vibe-codingRails testing on autopilot: Building an agent that writes what developers won'tVoxtral transcribes at the speed of sound.Terminally online Mistral Vibe.Heaps do lie: debugging a memory leak in vLLM.Introducing Mistral OCR 3Introducing: Devstral 2 and Mistral Vibe CLI.Introducing Mistral 3Mistral AI - KI für DeutschlandIntroducing Mistral AI Studio. Mistral AI raises 1.7B€ to accelerate technological progress with AIMake Memory work for you.Le Chat. Custom MCP connectors. Memories.Unlocking the potential of vision language models on satellite imagery through fine-tuningAnnouncing Codestral 25.08 and the Complete Mistral Coding Stack for EnterpriseOur contribution to a global environmental standard for AILe Chat dives deep.VoxtralUpgrading agentic coding capabilities with the new Devstral modelsAnnouncing AI for CitizensMistral ComputeMagistralIntroducing Mistral CodeCodestral EmbedBuild AI agents with the Mistral Agents APIDevstralIntroducing Le Chat EnterpriseMedium is the new large.Evaluating RAG with LLM as a JudgeMistral Small 3.1Mistral OCREmpowering product development with an agentic workflowMistral SabaThe all new le Chat: Your AI assistant for life and workMistral Small 3Purr-fectly informedCodestral 25.01Mistral has entered the chatPixtral LargeMistral Batch APIMistral Moderation APIUn Ministral, des MinistrauxAI in abundanceAnnouncing Pixtral 12BBuild, tweak, repeatLarge EnoughMistral NeMoMathΣtralCodestral MambaMy Tailor is MistralMistral AI Fine-tuning HackathonCodestralThe Mistral AI Non-Production LicenseCheaper, Better, Faster, StrongerAu LargeLe ChatMixtral of expertsLa PlateformeMistral 7BBringing open AI models to the frontier",
+      "title": "Mistral BlogIntroducing Mistral Large 4Hallo, Deutschland!Mistral and Mozilla are bringing open, private and multilingual AI to your web browserCloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise DataModernizing complex legacy code with AI agents.Mistral raises €3B to make sovereign, open-weight AI the technology frontierMistral x HUMAIN Agentic Search. More accurate and efficient results from your AI systems.In-region inference, open models, and new European infrastructure for sovereign AI.Introducing Shieldstral.Your Prompts and Skills need a system of record.Introducing Robostral Navigate Leanstral 1.5: Proof Abundance for AllBringing more control over your connectorsIntroducing Mistral OCR 4AI Now Summit 2026Vibe gets to work.Introducing Search ToolkitIntroducing physics AI at Mistral: the foundation for engineering acceleration.Physics AI research that’s shaping the industry.Emmi joins Mistral to accelerate the AI-native industryRemote agents in Vibe. Powered by Mistral Medium 3.5.Connect the dots: Build with built-in and custom MCPs in StudioWorkflows for work that runs the businessSpaces: A CLI Built for Humans and AgentsSpeaking of VoxtralIntroducing ForgeIntroducing Mistral Small 4Mistral partners with NVIDIA to accelerate open frontier modelsLeanstral: Open-Source foundation for trustworthy vibe-codingRails testing on autopilot: Building an agent that writes what developers won'tVoxtral transcribes at the speed of sound.Terminally online Mistral Vibe.Heaps do lie: debugging a memory leak in vLLM.Introducing Mistral OCR 3Introducing: Devstral 2 and Mistral Vibe CLI.Introducing Mistral 3Mistral - KI für DeutschlandIntroducing Mistral Studio. Mistral raises 1.7B€ to accelerate technological progress with AIMake Memory work for you.Le Chat. Custom MCP connectors. Memories.Unlocking the potential of vision language models on satellite imagery through fine-tuningAnnouncing Codestral 25.08 and the Complete Mistral Coding Stack for EnterpriseOur contribution to a global environmental standard for AILe Chat dives deep.VoxtralUpgrading agentic coding capabilities with the new Devstral modelsAnnouncing AI for CitizensMistral ComputeMagistralIntroducing Mistral CodeCodestral EmbedBuild AI agents with the Mistral Agents APIDevstralIntroducing Le Chat EnterpriseMedium is the new large.Evaluating RAG with LLM as a JudgeMistral Small 3.1Mistral OCREmpowering product development with an agentic workflowMistral SabaThe all new le Chat: Your AI assistant for life and workMistral Small 3Purr-fectly informedCodestral 25.01Mistral has entered the chatPixtral LargeMistral Batch APIMistral Moderation APIUn Ministral, des MinistrauxAI in abundanceAnnouncing Pixtral 12BBuild, tweak, repeatLarge EnoughMistral NeMoMathΣtralCodestral MambaMy Tailor is MistralMistral Fine-tuning HackathonCodestralThe Mistral Non-Production LicenseCheaper, Better, Faster, StrongerAu LargeLe ChatMixtral of expertsLa PlateformeMistral 7BBringing open AI models to the frontier",
       "url": "https://mistral.ai/news/rss",
       "publisher": "Mistral 公式",
       "summary": "",
@@ -5440,24 +5942,6 @@
       "topic_id": "ai-safety",
       "in_scope": true,
       "theme_ids": []
-    },
-    {
-      "id": "115602899c96d16150e8ef5f",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "鹿島、長大な鉄筋籠の配筋検査時間を約7割削減 移動式カメラとAI活用 - 日経クロステック（xTECH）",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zb3RfYnJZd3MxRkNjaDNCQzFXOWNlakhIM3hwVFNvMDBCTWlhLVE3RmlDWlVPd3dvUnNXSHlEM3ZTamRsSDNWUG5XUjRUWTN3elg3UDZuMTdOZ19LQldmUHFjdGg4c2s?oc=5",
-      "publisher": "日経クロステック（xTECH）",
-      "summary": "鹿島、長大な鉄筋籠の配筋検査時間を約7割削減 移動式カメラとAI活用 日経クロステック（xTECH）",
-      "published_at": "2026-09-30T20:00:00Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
     },
     {
       "id": "0f3f70e2c33289ad9aa8b473",
@@ -7060,6 +7544,24 @@
       "summary": "ヒューマノイドUnitree R1に360度カメラを持たせ建設現場で実証 Nossa・守屋建設・yasstyle ロボスタ",
       "published_at": "2026-09-30T02:10:02Z",
       "collected_at": "2026-10-07T00:31:18.348315Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "e2f6b69f0e8a1f6e20fc8ba3",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "パナソニックの冷蔵庫AIカメラ活用が「食品ロス削減推進表彰審査委員会特別賞」を受賞 ～冷蔵庫AIカメラで食品をムダにしないくらしへ～ | 受賞・認定・対外評価 | 企業・経営 | トピックス - Panasonic Newsroom Global",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wOThzNzJPMmk4M2Vja1hvWkZDSlpiS2syRUpESDNvVklLY21vR0o1VEZyLWpqWXNVcTFvUkRIdm1adG43YkhaTHFJRGZPMHdjWERHYWd3?oc=5",
+      "publisher": "Panasonic Newsroom Global",
+      "summary": "パナソニックの冷蔵庫AIカメラ活用が「食品ロス削減推進表彰審査委員会特別賞」を受賞 ～冷蔵庫AIカメラで食品をムダにしないくらしへ～ | 受賞・認定・対外評価 | 企業・経営 | トピックス Panasonic Newsroom Global",
+      "published_at": "2026-09-30T02:10:01Z",
+      "collected_at": "2026-10-12T21:00:15.120427Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -17646,23 +18148,26 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-12T09:22:56.823618+09:00",
+      "generated_at": "2026-10-13T06:02:47.209347+09:00",
       "is_complete": false,
-      "article_count": 1,
+      "article_count": 6,
       "category_counts": {
-        "parenting": 1
+        "parenting": 3,
+        "tech": 2,
+        "ai": 1
       },
-      "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
+      "overview": "NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2には液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上は最大250kWのラック構成を支える。クラウド事業者などを対象に、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。最大250kWは導入実績を示す数値ではなく、効率改善の比較測定も示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+        "attempted_at": "2026-10-12T21:02:46.995023+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
@@ -17673,36 +18178,103 @@
           {
             "article_id": "8a8e63b1add55db2b87f9687",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "66db625303cf90e7dff74e0b",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "fbe43b5ad4a3ba3733859517",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "15c6c0631585bca92ac22e41",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-          "status": "ok",
-          "new_reviews": 7,
+          "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+          "status": "partial",
+          "new_reviews": 4,
           "updated_periods": [
             "overview",
+            "weekly",
             "monthly"
           ],
-          "errors": [],
-          "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+          "errors": [
+            {
+              "article_id": "bba44f898220fcf85c3c28c2",
+              "stage": "original_fetch"
+            },
+            {
+              "article_id": "8a8e63b1add55db2b87f9687",
+              "stage": "original_fetch"
+            }
+          ],
+          "last_success_at": "2026-10-12T21:00:23.171913+00:00"
         },
-        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+        "last_success_at": "2026-10-12T21:02:46.995023+00:00"
       },
-      "genre_briefs": [],
-      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "genre_briefs": [
+        {
+          "category": "tech",
+          "label": "テック",
+          "stories": [
+            {
+              "article_id": "214de09c0748f52669ed1bc6",
+              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
+              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-12T21:00:23.171913+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
+              "published_at": "2026-10-12T15:00:25Z"
+            }
+          ]
+        }
+      ],
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
+        {
+          "id": "ai-agents",
+          "category": "ai",
+          "label": "AIエージェント・開発の自動化",
+          "words": [
+            "エージェント",
+            "agent",
+            "Claude Code",
+            "Codex",
+            "自動化",
+            "交渉",
+            "開発"
+          ],
+          "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
+          "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "6fed762c68101f497f1e4577"
+          ],
+          "article_ids": [
+            "6fed762c68101f497f1e4577"
+          ]
+        },
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 2,
+          "publisher_count": 2,
+          "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+          "evidence_ids": [
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5"
+          ],
+          "article_ids": [
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5"
+          ]
+        },
         {
           "id": "parent-ict",
           "category": "parenting",
@@ -17710,21 +18282,45 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 1,
-          "publisher_count": 1,
+          "count": 3,
+          "publisher_count": 3,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
             "5dda5578f36893c3c1616518"
           ],
           "article_ids": [
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
             "5dda5578f36893c3c1616518"
           ]
         }
       ],
-      "total_topics": 1,
-      "insights": [],
+      "total_topics": 3,
+      "insights": [
+        {
+          "category": "tech",
+          "label": "高電力AIラックの設計と運用手順の共有",
+          "observation": "NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2には液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上は最大250kWのラック構成を支える。クラウド事業者などを対象に、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。最大250kWは導入実績を示す数値ではなく、効率改善の比較測定も示されていない。",
+          "interpretation": "設計と運用ソフトの共有は、高電力AI設備を構築する事業者が接続仕様や導入手順を共通化する助けになる可能性がある。ただし、実際の導入負担や運用効率が改善するかは、設備条件や公開部品の適用範囲に左右されるという仮説である。",
+          "next_question": "公開されたMGX 1.2設計とDSX部品を使った導入で、個別設計の場合と比べて構築期間、検証工数、冷却・電力運用の効率がどう変わるかを示す実測結果は得られるか。",
+          "required_ids": [
+            "214de09c0748f52669ed1bc6"
+          ],
+          "review_method": "ai_source_grounded",
+          "evidence_ids": [
+            "214de09c0748f52669ed1bc6"
+          ]
+        }
+      ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "95d67afd9472e7a9101ad8f0",
+        "214de09c0748f52669ed1bc6",
+        "07a0c493f650e4675cb2beb2",
+        "6fed762c68101f497f1e4577",
+        "4e56d0edee04a66d1a17a7b5",
         "5dda5578f36893c3c1616518"
       ]
     },
@@ -17733,25 +18329,26 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-12T09:22:56.823618+09:00",
+      "generated_at": "2026-10-13T06:02:47.209347+09:00",
       "is_complete": true,
-      "article_count": 181,
+      "article_count": 198,
       "category_counts": {
-        "parenting": 49,
-        "ai": 86,
-        "tech": 46
+        "parenting": 53,
+        "ai": 89,
+        "tech": 56
       },
       "overview": "SophosはOpenAI Daybreakで構築したエージェントをMDRに導入。顧客情報や脅威情報を集め、調査計画の作成・実行・見直しと対応案の提示を行う。エージェント使用案件の平均対応時間は約38分から89秒に短縮し、MDR案件の52％をAIで一貫処理したと報告。顧客が選ぶ通知・共同対応・代理対応の権限境界を維持し、判断が難しい処理は人に渡す。 MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Sparkは、ノートが予約段階で10月16日発売予定、小型デスクトップは11月販売予定。別途NVIDIAは、通信事業者の用語理解・ネットワーク設定・顧客障害の一次切り分けを対象とする300億パラメータモデルと、自社データや業務手順に合わせる追加学習手順を公開した。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答提出後の説明・練習支援を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年と各機能の詳細な提供条件は示されておらず、幼児向けの取り組みとは確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+        "attempted_at": "2026-10-12T21:02:46.995023+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
@@ -17762,32 +18359,30 @@
           {
             "article_id": "8a8e63b1add55db2b87f9687",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "66db625303cf90e7dff74e0b",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "fbe43b5ad4a3ba3733859517",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "15c6c0631585bca92ac22e41",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-          "status": "ok",
-          "new_reviews": 7,
+          "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+          "status": "partial",
+          "new_reviews": 4,
           "updated_periods": [
             "overview",
+            "weekly",
             "monthly"
           ],
-          "errors": [],
-          "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+          "errors": [
+            {
+              "article_id": "bba44f898220fcf85c3c28c2",
+              "stage": "original_fetch"
+            },
+            {
+              "article_id": "8a8e63b1add55db2b87f9687",
+              "stage": "original_fetch"
+            }
+          ],
+          "last_success_at": "2026-10-12T21:00:23.171913+00:00"
         },
-        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+        "last_success_at": "2026-10-12T21:02:46.995023+00:00"
       },
       "genre_briefs": [
         {
@@ -17992,16 +18587,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 72,
+          "count": 74,
           "publisher_count": 24,
           "summary": "SophosはOpenAI Daybreakで構築したエージェントをMDRに導入。顧客情報や脅威情報を集め、調査計画の作成・実行・見直しと対応案の提示を行う。エージェント使用案件の平均対応時間は約38分から89秒に短縮し、MDR案件の52％をAIで一貫処理したと報告。顧客が選ぶ通知・共同対応・代理対応の権限境界を維持し、判断が難しい処理は人に渡す。 AsanaはStackAIのブラウザーエージェントをGPT‑6 Astra搭載Codexで調査し、閲覧履歴のキャッシュ、保持文字数の拡大、画像のまとめ削除を実装した。公開デモの書籍32冊から情報を集める144回の試験では、最適化したGPT‑6.1 Sol構成が平均推定モデル費用0.47ドル、約4分を記録。旧Model B構成比で費用76分の1、速度5倍と報告し、変更は提供済み。 Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。",
           "evidence_ids": [
             "6468fcfd514c01a2c23f5b2f",
-            "65d6ed166cc41f4c74ab39d9",
-            "a86b0b0769ae6d341a4a51d3"
+            "7d9f820349e6b4174329c9b7",
+            "65d6ed166cc41f4c74ab39d9"
           ],
           "article_ids": [
             "6468fcfd514c01a2c23f5b2f",
+            "7d9f820349e6b4174329c9b7",
+            "33b4f566e3498437d2c0c4e6",
             "65d6ed166cc41f4c74ab39d9",
             "a86b0b0769ae6d341a4a51d3",
             "2b377d96caa506e6dca73b03",
@@ -18082,15 +18679,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 46,
-          "publisher_count": 26,
+          "count": 56,
+          "publisher_count": 34,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
           "evidence_ids": [
-            "33587c5891ba211e5bd5813d",
-            "71781648f372d873d84d0f89",
-            "34d589546ac86c98f1f8e606"
+            "cea1174371f8c449ff4adaa2",
+            "495250eca757336c11d6bb21",
+            "71781648f372d873d84d0f89"
           ],
           "article_ids": [
+            "cea1174371f8c449ff4adaa2",
+            "495250eca757336c11d6bb21",
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
             "34d589546ac86c98f1f8e606",
@@ -18098,6 +18697,7 @@
             "19a04ce01ea236c1a95b9579",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
+            "6875665eb7ef00ccc7474e22",
             "a1374b861ae75220923037f1",
             "badda310cca07906cc76c487",
             "8960d69fbf11f4b54dc88257",
@@ -18107,23 +18707,29 @@
             "e1af22bf82ad5472829a9a86",
             "7b737cd04fe709e860e5f700",
             "e6ba0560e23f6725aa25080f",
+            "28ae8a7d428690cfb1771cf8",
             "8deace5258730993e77ce83a",
             "9a0d53c33baada63dbffcf16",
             "2eb505ba5b80d355bc79c57a",
             "c8c04651e19142e1c5f256c6",
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
+            "f7a2c36229e753a87ace57d4",
             "51b4a20d4aa52b4704ed3007",
             "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "3a03dce42662387d439d021a",
             "827b7264bc44ed6d1f12f24c",
+            "a6cfc345b7e5f084b9059f25",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
             "662b6eb0cd7fceffe9d31220",
             "c8fbac2e8bf598193f2e16a1",
             "d09648279371c49a499ee499",
+            "5888079b2e776d91a1d82b16",
             "ced6b3a067bd7cb316d491ab",
+            "59482b469a6f76b767934461",
+            "b6f362ec683316b1d0758e4f",
             "ab9e51cd984e1b578c7ca0c2",
             "4fb6b933c6c8290b1261e0c5",
             "c02a21ec941e754459c61f01",
@@ -18133,6 +18739,7 @@
             "19f1c6d05224a959b00207bf",
             "fc54858966b7c70899373a5c",
             "e6a761f2a289aa38b9946949",
+            "4e1deda0382d627aa85beafe",
             "d92dd46ee9bb1287fea33f20",
             "0a24346eb30752c44b6ed776",
             "bc5d95cda4dbabee0c954ff2",
@@ -18146,15 +18753,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 42,
-          "publisher_count": 16,
+          "count": 45,
+          "publisher_count": 18,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
+            "ed9835781c8554a9d6caa767",
             "ddeb03d543ccda068b5c7b11",
-            "6d14f73009a7bceb116345b5",
-            "520064092223ba7f89eec100"
+            "6d14f73009a7bceb116345b5"
           ],
           "article_ids": [
+            "ed9835781c8554a9d6caa767",
             "ddeb03d543ccda068b5c7b11",
             "6d14f73009a7bceb116345b5",
             "520064092223ba7f89eec100",
@@ -18168,6 +18776,7 @@
             "b204e181ec89e32fed0ef77b",
             "1e5d605ff0d691020f0d4e8d",
             "9996603dee33e2a0c86f192c",
+            "d9a2c4a463c9bf189be8a2e2",
             "1e1bb8d1153a39380c427d16",
             "ddb44ff3cff64c0da769ecc5",
             "ebb2d9c04f8e20040fd1447d",
@@ -18177,6 +18786,7 @@
             "0cc884ac8dd138cc0408af2a",
             "0affbad9fa80efd52ce71208",
             "e7798d506ca6ea17e0ca320f",
+            "e833aed5d4d282b98c6e69c7",
             "e700d08ac53b99cb9936a38e",
             "984926d97b69cc89f67dad35",
             "a0fcf89330d95e7155f7f16b",
@@ -18214,16 +18824,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 10,
-          "publisher_count": 7,
+          "count": 11,
+          "publisher_count": 8,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "32194216853b9df386b3f26c",
-            "4a204d7bd8653c170f26778b",
-            "72a5bf3c3f7c188d57f69115"
+            "307abb06b1e417d522dee3c1",
+            "4a204d7bd8653c170f26778b"
           ],
           "article_ids": [
             "32194216853b9df386b3f26c",
+            "307abb06b1e417d522dee3c1",
             "4a204d7bd8653c170f26778b",
             "72a5bf3c3f7c188d57f69115",
             "bba44f898220fcf85c3c28c2",
@@ -18250,16 +18861,17 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 7,
-          "publisher_count": 7,
+          "count": 8,
+          "publisher_count": 8,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "0162690001104b6b28a3acf0",
-            "4a4e1910f35b458d17f17d6e",
-            "f8d706a76a6348cb2a956c33"
+            "8d713301ca9592825be34717",
+            "4a4e1910f35b458d17f17d6e"
           ],
           "article_ids": [
             "0162690001104b6b28a3acf0",
+            "8d713301ca9592825be34717",
             "4a4e1910f35b458d17f17d6e",
             "f8d706a76a6348cb2a956c33",
             "884d34ad9326cb889e3bb44d",
@@ -18318,6 +18930,12 @@
       "article_ids": [
         "0162690001104b6b28a3acf0",
         "6468fcfd514c01a2c23f5b2f",
+        "ed9835781c8554a9d6caa767",
+        "cea1174371f8c449ff4adaa2",
+        "7d9f820349e6b4174329c9b7",
+        "33b4f566e3498437d2c0c4e6",
+        "8d713301ca9592825be34717",
+        "495250eca757336c11d6bb21",
         "408905ac85f7ce3a6332cb2d",
         "ddeb03d543ccda068b5c7b11",
         "6d14f73009a7bceb116345b5",
@@ -18334,10 +18952,12 @@
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
-        "3091b6464a24712f17bd36ed",
         "3ddda55c954497f19600acb1",
+        "3091b6464a24712f17bd36ed",
         "f50bc24dce751fed56dd6193",
+        "307abb06b1e417d522dee3c1",
         "609a82e33be676cbd6d6bc88",
+        "6875665eb7ef00ccc7474e22",
         "d08b03a2a01071fb1cbb95d8",
         "a1374b861ae75220923037f1",
         "23ad61e231c3edc1e3d38a1e",
@@ -18376,6 +18996,7 @@
         "067aac2737244508e8d6c5de",
         "e6ba0560e23f6725aa25080f",
         "daf4bbb831476a90511ef506",
+        "28ae8a7d428690cfb1771cf8",
         "8deace5258730993e77ce83a",
         "9a0d53c33baada63dbffcf16",
         "7309ab3c197d8677af0b480d",
@@ -18392,6 +19013,7 @@
         "e6c0db477924d07d8c6724c3",
         "87126dabfbc750fd0851420c",
         "7659b79c25b818a6ae7918cf",
+        "f7a2c36229e753a87ace57d4",
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
@@ -18400,6 +19022,7 @@
         "3a03dce42662387d439d021a",
         "827b7264bc44ed6d1f12f24c",
         "c51a8457ec4a2aebd59b16a2",
+        "a6cfc345b7e5f084b9059f25",
         "54e21c38b85ee21a4eb9bb2e",
         "a0b2ef6f48d35f2a8bc10c89",
         "4c73eef9ae54b5806fc6af65",
@@ -18408,6 +19031,7 @@
         "251cf79fc4eabf78a9f341b9",
         "cc3db6b21ce525514664efb3",
         "09c6cfadaed4dfbfc4866569",
+        "d9a2c4a463c9bf189be8a2e2",
         "884d34ad9326cb889e3bb44d",
         "69c9edfa54feb57127d2cec7",
         "1e8f091ed75b16f3c25b28e4",
@@ -18434,7 +19058,10 @@
         "ac0c4754713ca7df94f45a76",
         "c8fbac2e8bf598193f2e16a1",
         "d09648279371c49a499ee499",
+        "5888079b2e776d91a1d82b16",
         "ced6b3a067bd7cb316d491ab",
+        "59482b469a6f76b767934461",
+        "b6f362ec683316b1d0758e4f",
         "0cc884ac8dd138cc0408af2a",
         "beb64b0aff02ca70159b70fc",
         "105088e1eaa32879961c6c56",
@@ -18444,6 +19071,7 @@
         "4fb6b933c6c8290b1261e0c5",
         "e7798d506ca6ea17e0ca320f",
         "afa82cbe749b90ac0dc134a1",
+        "e833aed5d4d282b98c6e69c7",
         "e700d08ac53b99cb9936a38e",
         "0703ecd6435a05f35af26ffc",
         "8bfb7d62271b16fd10046a23",
@@ -18489,6 +19117,7 @@
         "0749c7ee80eb370dc536c157",
         "693b6e999447922f597bab5c",
         "9e21984a22673ce953b44be1",
+        "4e1deda0382d627aa85beafe",
         "d92dd46ee9bb1287fea33f20",
         "0a24346eb30752c44b6ed776",
         "a869d2b7c346d380119b7dfb",
@@ -18504,25 +19133,26 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-12T09:22:56.823618+09:00",
+      "generated_at": "2026-10-13T06:02:47.209347+09:00",
       "is_complete": false,
-      "article_count": 260,
+      "article_count": 286,
       "category_counts": {
-        "parenting": 67,
-        "ai": 128,
-        "tech": 65
+        "parenting": 75,
+        "tech": 79,
+        "ai": 132
       },
-      "overview": "SophosはMDRで情報収集、調査計画の実行・見直し、対応案提示を行うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に渡す。使用案件の平均対応時間は約38分から89秒になったと報告した。Asanaはブラウザー履歴のキャッシュや画像削除を改善し、変更を提供済み。書籍情報収集の限定試験で費用・速度の改善を報告している。 MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表。開発者向けRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信事業者向けモデルと自社データによる追加学習手順を公開し、Omniverseではロボットや自動運転の試験用プロトタイプを紹介した。後者の成功結果はシミュレーション内に限られる。 Khan Academyは次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoの設計を紹介。Gem Jamは提携学区向けで、教師が時間・参加者を設定し、指定課題の習熟をチームで競う。対象学年は資料にない。一方、スウェーデンのYear 7〜9の教員はSitesでの共同共有とVidsでの動画制作を授業実践として紹介した。",
+      "overview": "SophosはMDRに調査計画の作成・実行・見直しと対応案提示を担うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に引き継ぐ。使用案件の平均対応時間を89秒と報告した。Asanaはブラウザー履歴のキャッシュや画像のまとめ削除を提供済みで、特定の情報収集試験で推定モデル費用の削減を報告した。いずれも限定された条件の結果である。 NVIDIAはクラウド事業者などに向け、液冷接続や最大250kWに対応するラック設計と、設定・検証・管理・導入を担うDSXのオープンソース部品を公開した。MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表した。一方、最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、発売予定日は10月16日である。 Khan Academyは、次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoを紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、指定課題の習熟をチームで競う。別の実践では、スウェーデンのYear 7〜9の教員がGoogle Sitesでの共同共有とGoogle Vidsでの動画発表を紹介した。Khan Academyの記事には対象学年の記載がなく、幼児向けの実践としては扱えない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+        "attempted_at": "2026-10-12T21:02:46.995023+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
@@ -18533,32 +19163,30 @@
           {
             "article_id": "8a8e63b1add55db2b87f9687",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "66db625303cf90e7dff74e0b",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "fbe43b5ad4a3ba3733859517",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "15c6c0631585bca92ac22e41",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-          "status": "ok",
-          "new_reviews": 7,
+          "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+          "status": "partial",
+          "new_reviews": 4,
           "updated_periods": [
             "overview",
+            "weekly",
             "monthly"
           ],
-          "errors": [],
-          "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+          "errors": [
+            {
+              "article_id": "bba44f898220fcf85c3c28c2",
+              "stage": "original_fetch"
+            },
+            {
+              "article_id": "8a8e63b1add55db2b87f9687",
+              "stage": "original_fetch"
+            }
+          ],
+          "last_success_at": "2026-10-12T21:00:23.171913+00:00"
         },
-        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+        "last_success_at": "2026-10-12T21:02:46.995023+00:00"
       },
       "genre_briefs": [
         {
@@ -18628,6 +19256,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "214de09c0748f52669ed1bc6",
+              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
+              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-12T21:00:23.171913+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
+              "published_at": "2026-10-12T15:00:25Z"
+            },
+            {
               "article_id": "badda310cca07906cc76c487",
               "headline": "NVIDIA、AIエージェントとOmniverseによるシミュレーション開発事例を紹介",
               "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。",
@@ -18664,26 +19310,6 @@
               "model": "codex-cli",
               "evidence_quote": "with laptop preorders open today and available October 16. Compact desktops will be available for sale in November.",
               "published_at": "2026-10-07T18:45:28Z"
-            },
-            {
-              "article_id": "be420afc3a2f48e111f957cf",
-              "headline": "NVIDIA、通信業務向け300億パラメータモデルと追加学習手順を公開",
-              "summary": "NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
-              "impact": "考察：公開モデルと学習手順がそろうことで、通信事業者が自社業務に合わせたAIを構築し、配置場所や運用方針を選ぶ際の選択肢が広がる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。通信タスクで精度が向上したとの説明はあるが、本文には具体的な評価値や比較条件がない。モデル発表と手順公開は、各社での本番導入完了や安全な自律運用の実証を意味しない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
-              "published_at": "2026-10-06T13:00:19Z"
             }
           ]
         },
@@ -18763,16 +19389,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 109,
+          "count": 111,
           "publisher_count": 26,
           "summary": "SophosはOpenAI Daybreakで構築したエージェントをMDRに導入。顧客情報や脅威情報を集め、調査計画の作成・実行・見直しと対応案の提示を行う。エージェント使用案件の平均対応時間は約38分から89秒に短縮し、MDR案件の52％をAIで一貫処理したと報告。顧客が選ぶ通知・共同対応・代理対応の権限境界を維持し、判断が難しい処理は人に渡す。 AsanaはStackAIのブラウザーエージェントをGPT‑6 Astra搭載Codexで調査し、閲覧履歴のキャッシュ、保持文字数の拡大、画像のまとめ削除を実装した。公開デモの書籍32冊から情報を集める144回の試験では、最適化したGPT‑6.1 Sol構成が平均推定モデル費用0.47ドル、約4分を記録。旧Model B構成比で費用76分の1、速度5倍と報告し、変更は提供済み。 Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。",
           "evidence_ids": [
             "6468fcfd514c01a2c23f5b2f",
-            "65d6ed166cc41f4c74ab39d9",
-            "a86b0b0769ae6d341a4a51d3"
+            "7d9f820349e6b4174329c9b7",
+            "65d6ed166cc41f4c74ab39d9"
           ],
           "article_ids": [
             "6468fcfd514c01a2c23f5b2f",
+            "7d9f820349e6b4174329c9b7",
+            "33b4f566e3498437d2c0c4e6",
             "65d6ed166cc41f4c74ab39d9",
             "a86b0b0769ae6d341a4a51d3",
             "2b377d96caa506e6dca73b03",
@@ -18844,8 +19472,8 @@
             "9e21984a22673ce953b44be1",
             "a869d2b7c346d380119b7dfb",
             "fe3b1779077b0f1f29399d73",
-            "efae61d28ac8ca58995977e9",
             "6073eeb9386779685a4be513",
+            "efae61d28ac8ca58995977e9",
             "ff1ae3ce021d8f893eb76b95",
             "86c5c60a7d6f612a5909aae3",
             "ad553b6d64420c64464a3b1f",
@@ -18890,15 +19518,19 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 65,
-          "publisher_count": 33,
-          "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
+          "count": 79,
+          "publisher_count": 42,
+          "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
           "evidence_ids": [
-            "33587c5891ba211e5bd5813d",
-            "71781648f372d873d84d0f89",
-            "34d589546ac86c98f1f8e606"
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5",
+            "cea1174371f8c449ff4adaa2"
           ],
           "article_ids": [
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5",
+            "cea1174371f8c449ff4adaa2",
+            "495250eca757336c11d6bb21",
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
             "34d589546ac86c98f1f8e606",
@@ -18906,6 +19538,7 @@
             "19a04ce01ea236c1a95b9579",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
+            "6875665eb7ef00ccc7474e22",
             "a1374b861ae75220923037f1",
             "badda310cca07906cc76c487",
             "8960d69fbf11f4b54dc88257",
@@ -18915,23 +19548,29 @@
             "e1af22bf82ad5472829a9a86",
             "7b737cd04fe709e860e5f700",
             "e6ba0560e23f6725aa25080f",
+            "28ae8a7d428690cfb1771cf8",
             "8deace5258730993e77ce83a",
             "9a0d53c33baada63dbffcf16",
             "2eb505ba5b80d355bc79c57a",
             "c8c04651e19142e1c5f256c6",
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
+            "f7a2c36229e753a87ace57d4",
             "51b4a20d4aa52b4704ed3007",
             "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "3a03dce42662387d439d021a",
             "827b7264bc44ed6d1f12f24c",
+            "a6cfc345b7e5f084b9059f25",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
             "662b6eb0cd7fceffe9d31220",
             "c8fbac2e8bf598193f2e16a1",
             "d09648279371c49a499ee499",
+            "5888079b2e776d91a1d82b16",
             "ced6b3a067bd7cb316d491ab",
+            "59482b469a6f76b767934461",
+            "b6f362ec683316b1d0758e4f",
             "ab9e51cd984e1b578c7ca0c2",
             "4fb6b933c6c8290b1261e0c5",
             "c02a21ec941e754459c61f01",
@@ -18941,6 +19580,7 @@
             "19f1c6d05224a959b00207bf",
             "fc54858966b7c70899373a5c",
             "e6a761f2a289aa38b9946949",
+            "4e1deda0382d627aa85beafe",
             "d92dd46ee9bb1287fea33f20",
             "0a24346eb30752c44b6ed776",
             "bc5d95cda4dbabee0c954ff2",
@@ -18961,8 +19601,10 @@
             "8968abce793d306b206c976e",
             "acf5537472dead5dd4bfa113",
             "7973bc954a31503d986ea735",
-            "09ce74a03823c0ba888415f1",
+            "9ec01c69ca10a0a0ad891a3b",
             "115602899c96d16150e8ef5f",
+            "b039138b95caaff293b50bfd",
+            "09ce74a03823c0ba888415f1",
             "7955f4e0bd7bb1404b3cf2bc"
           ]
         },
@@ -18973,16 +19615,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 59,
-          "publisher_count": 22,
+          "count": 66,
+          "publisher_count": 27,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
-            "5dda5578f36893c3c1616518",
-            "ddeb03d543ccda068b5c7b11",
-            "6d14f73009a7bceb116345b5"
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
+            "5dda5578f36893c3c1616518"
           ],
           "article_ids": [
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
             "5dda5578f36893c3c1616518",
+            "ed9835781c8554a9d6caa767",
             "ddeb03d543ccda068b5c7b11",
             "6d14f73009a7bceb116345b5",
             "520064092223ba7f89eec100",
@@ -18996,6 +19641,7 @@
             "b204e181ec89e32fed0ef77b",
             "1e5d605ff0d691020f0d4e8d",
             "9996603dee33e2a0c86f192c",
+            "d9a2c4a463c9bf189be8a2e2",
             "1e1bb8d1153a39380c427d16",
             "ddb44ff3cff64c0da769ecc5",
             "ebb2d9c04f8e20040fd1447d",
@@ -19005,6 +19651,7 @@
             "0cc884ac8dd138cc0408af2a",
             "0affbad9fa80efd52ce71208",
             "e7798d506ca6ea17e0ca320f",
+            "e833aed5d4d282b98c6e69c7",
             "e700d08ac53b99cb9936a38e",
             "984926d97b69cc89f67dad35",
             "a0fcf89330d95e7155f7f16b",
@@ -19025,11 +19672,13 @@
             "5450b8f0206c5fd301fb7872",
             "537e84744c37dfc04b77c754",
             "d96e0c5c3f44c023c84c7cc5",
-            "4a828ce5d3f0d2341e14abb3",
             "227aa10b7de793ba52923b5d",
             "8c750d73c75d54a52e6d951f",
+            "4a828ce5d3f0d2341e14abb3",
             "ecbf3d4fddf2647424da1ed0",
+            "26faf5007e45ccd51e5f4f86",
             "d02ea7173e01e1aa73d2d49e",
+            "6a9f2632f5001f1a3c914d0d",
             "f6601b45475178bc226091b5",
             "1af5d69e5db224a9f8cc0fcb",
             "1b7d844eaac66df12e1b643e",
@@ -19058,16 +19707,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 14,
-          "publisher_count": 10,
+          "count": 16,
+          "publisher_count": 12,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
-            "4a204d7bd8653c170f26778b",
-            "72a5bf3c3f7c188d57f69115"
+            "307abb06b1e417d522dee3c1"
           ],
           "article_ids": [
+            "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
+            "307abb06b1e417d522dee3c1",
             "4a204d7bd8653c170f26778b",
             "72a5bf3c3f7c188d57f69115",
             "bba44f898220fcf85c3c28c2",
@@ -19098,16 +19749,17 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 9,
+          "publisher_count": 9,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "0162690001104b6b28a3acf0",
-            "4a4e1910f35b458d17f17d6e",
-            "f8d706a76a6348cb2a956c33"
+            "8d713301ca9592825be34717",
+            "4a4e1910f35b458d17f17d6e"
           ],
           "article_ids": [
             "0162690001104b6b28a3acf0",
+            "8d713301ca9592825be34717",
             "4a4e1910f35b458d17f17d6e",
             "f8d706a76a6348cb2a956c33",
             "884d34ad9326cb889e3bb44d",
@@ -19122,10 +19774,10 @@
       "insights": [
         {
           "category": "ai",
-          "label": "エージェントの実用性を左右する運用設計",
-          "observation": "SophosはMDRで情報収集、調査計画の実行・見直し、対応案提示を行うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に渡す。使用案件の平均対応時間は約38分から89秒になったと報告した。Asanaはブラウザー履歴のキャッシュや画像削除を改善し、変更を提供済み。書籍情報収集の限定試験で費用・速度の改善を報告している。",
-          "interpretation": "エージェントの実用性には、モデル選択に加えて、履歴管理と人に判断を戻す仕組みが寄与する可能性がある。ただし、個別事例の結果から他の業務や全案件への効果は推定できない。",
-          "next_question": "Sophosの同程度の難易度の案件で、再調査率や人への引き継ぎ後の時間を含めても改善が維持されるか。Asanaの履歴管理変更は、別の閲覧課題でも完了率を保ちながら費用を下げられるか。",
+          "label": "エージェントの処理設計と権限管理",
+          "observation": "SophosはMDRに調査計画の作成・実行・見直しと対応案提示を担うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に引き継ぐ。使用案件の平均対応時間を89秒と報告した。Asanaはブラウザー履歴のキャッシュや画像のまとめ削除を提供済みで、特定の情報収集試験で推定モデル費用の削減を報告した。いずれも限定された条件の結果である。",
+          "interpretation": "エージェントの実用性は、モデル選択に加えて、履歴の保持方法や人へ引き継ぐ境界の設計に左右される可能性がある。両事例から一般的な費用削減や対応品質の改善までは判断できない。",
+          "next_question": "Sophosでは案件の難易度別に対応品質と人への引き継ぎ率がどう変わるか。Asanaでは別の情報収集課題でも、完了率と情報の正確性を維持して費用削減を再現できるか。",
           "required_ids": [
             "2b377d96caa506e6dca73b03",
             "9778a611a11a74213de7871d"
@@ -19138,28 +19790,26 @@
         },
         {
           "category": "tech",
-          "label": "エージェント開発基盤と実運用の間にある検証課題",
-          "observation": "MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表。開発者向けRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信事業者向けモデルと自社データによる追加学習手順を公開し、Omniverseではロボットや自動運転の試験用プロトタイプを紹介した。後者の成功結果はシミュレーション内に限られる。",
-          "interpretation": "ローカル実行、業務への適応、仮想環境での試験を組み合わせることで、用途に合わせたエージェント開発を進めやすくなる可能性がある。ただし、これらが一体として検証されたわけではなく、本番運用の安全性や実機への再現性は別途確認が必要と考えられる。",
-          "next_question": "RTX Spark発売後、通信モデルの追加学習と継続実行に必要なメモリ・処理時間はどの程度か。Omniverseで成功した動作は、実機でも同じ条件と成功基準で再現できるか。",
+          "label": "AI実行環境の整備は提供段階の確認が必要",
+          "observation": "NVIDIAはクラウド事業者などに向け、液冷接続や最大250kWに対応するラック設計と、設定・検証・管理・導入を担うDSXのオープンソース部品を公開した。MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表した。一方、最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、発売予定日は10月16日である。",
+          "interpretation": "AIを継続稼働させるため、データセンターの電力・冷却・運用と、PCのメモリ・OS管理をそれぞれ整える動きと捉えられる。ただし、設計公開や発売予告が実際の導入容易性、安全性、運用効率につながるかは未検証である。",
+          "next_question": "公開設計とDSXを使った導入で、構築時間・消費電力・障害復旧時間はどうなるか。RTX Spark発売後、MXC上の継続実行ではメモリ使用量、電力、権限制御をどこまで確認できるか。",
           "required_ids": [
-            "e6ba0560e23f6725aa25080f",
-            "be420afc3a2f48e111f957cf",
-            "badda310cca07906cc76c487"
+            "214de09c0748f52669ed1bc6",
+            "e6ba0560e23f6725aa25080f"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "e6ba0560e23f6725aa25080f",
-            "be420afc3a2f48e111f957cf",
-            "badda310cca07906cc76c487"
+            "214de09c0748f52669ed1bc6",
+            "e6ba0560e23f6725aa25080f"
           ]
         },
         {
           "category": "parenting",
-          "label": "課題への誘導と制作活動で異なる学習支援",
-          "observation": "Khan Academyは次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoの設計を紹介。Gem Jamは提携学区向けで、教師が時間・参加者を設定し、指定課題の習熟をチームで競う。対象学年は資料にない。一方、スウェーデンのYear 7〜9の教員はSitesでの共同共有とVidsでの動画制作を授業実践として紹介した。",
-          "interpretation": "課題の進め方を支える仕組みと、学んだ内容を制作・共有する活動は、異なる学習過程を支援する可能性がある。競争形式や制作活動の適合性は年齢・習熟度によって検証する必要があり、幼児への適用や学力向上はこの資料から判断できない。",
-          "next_question": "Gem Jamの対象学年と、習熟度別の参加率・理解度・競争への負担はどうか。Year 7〜9の制作活動では、評価基準をそろえた学習成果と教師の準備時間にどのような結果が出るか。",
+          "label": "課題への誘導と生徒自身の制作を支える授業設計",
+          "observation": "Khan Academyは、次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoを紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、指定課題の習熟をチームで競う。別の実践では、スウェーデンのYear 7〜9の教員がGoogle Sitesでの共同共有とGoogle Vidsでの動画発表を紹介した。Khan Academyの記事には対象学年の記載がなく、幼児向けの実践としては扱えない。",
+          "interpretation": "課題への着手を支える案内・競争と、学んだ内容を自分で表現する制作活動は、学習参加を支える異なる方法になり得る。ただし、対象年齢や授業条件が異なるため、学習継続や成績への効果を共通して推定することはできない。",
+          "next_question": "Khan Academy各機能の対象学年と提供条件は何か。学年別に、競争型課題と制作活動が理解度、継続参加、参加しにくい生徒の経験に与える影響を測定できるか。",
           "required_ids": [
             "40a1ca2db5e26599685ce199",
             "d6c2047bf7af12e6182205dd",
@@ -19175,9 +19825,20 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "95d67afd9472e7a9101ad8f0",
+        "214de09c0748f52669ed1bc6",
+        "07a0c493f650e4675cb2beb2",
+        "6fed762c68101f497f1e4577",
+        "4e56d0edee04a66d1a17a7b5",
         "5dda5578f36893c3c1616518",
         "0162690001104b6b28a3acf0",
         "6468fcfd514c01a2c23f5b2f",
+        "ed9835781c8554a9d6caa767",
+        "cea1174371f8c449ff4adaa2",
+        "7d9f820349e6b4174329c9b7",
+        "33b4f566e3498437d2c0c4e6",
+        "8d713301ca9592825be34717",
+        "495250eca757336c11d6bb21",
         "408905ac85f7ce3a6332cb2d",
         "ddeb03d543ccda068b5c7b11",
         "6d14f73009a7bceb116345b5",
@@ -19194,10 +19855,12 @@
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
-        "3091b6464a24712f17bd36ed",
         "3ddda55c954497f19600acb1",
+        "3091b6464a24712f17bd36ed",
         "f50bc24dce751fed56dd6193",
+        "307abb06b1e417d522dee3c1",
         "609a82e33be676cbd6d6bc88",
+        "6875665eb7ef00ccc7474e22",
         "d08b03a2a01071fb1cbb95d8",
         "a1374b861ae75220923037f1",
         "23ad61e231c3edc1e3d38a1e",
@@ -19236,6 +19899,7 @@
         "067aac2737244508e8d6c5de",
         "e6ba0560e23f6725aa25080f",
         "daf4bbb831476a90511ef506",
+        "28ae8a7d428690cfb1771cf8",
         "8deace5258730993e77ce83a",
         "9a0d53c33baada63dbffcf16",
         "7309ab3c197d8677af0b480d",
@@ -19252,6 +19916,7 @@
         "e6c0db477924d07d8c6724c3",
         "87126dabfbc750fd0851420c",
         "7659b79c25b818a6ae7918cf",
+        "f7a2c36229e753a87ace57d4",
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
@@ -19260,6 +19925,7 @@
         "3a03dce42662387d439d021a",
         "827b7264bc44ed6d1f12f24c",
         "c51a8457ec4a2aebd59b16a2",
+        "a6cfc345b7e5f084b9059f25",
         "54e21c38b85ee21a4eb9bb2e",
         "a0b2ef6f48d35f2a8bc10c89",
         "4c73eef9ae54b5806fc6af65",
@@ -19268,6 +19934,7 @@
         "251cf79fc4eabf78a9f341b9",
         "cc3db6b21ce525514664efb3",
         "09c6cfadaed4dfbfc4866569",
+        "d9a2c4a463c9bf189be8a2e2",
         "884d34ad9326cb889e3bb44d",
         "69c9edfa54feb57127d2cec7",
         "1e8f091ed75b16f3c25b28e4",
@@ -19294,7 +19961,10 @@
         "ac0c4754713ca7df94f45a76",
         "c8fbac2e8bf598193f2e16a1",
         "d09648279371c49a499ee499",
+        "5888079b2e776d91a1d82b16",
         "ced6b3a067bd7cb316d491ab",
+        "59482b469a6f76b767934461",
+        "b6f362ec683316b1d0758e4f",
         "0cc884ac8dd138cc0408af2a",
         "beb64b0aff02ca70159b70fc",
         "105088e1eaa32879961c6c56",
@@ -19304,6 +19974,7 @@
         "4fb6b933c6c8290b1261e0c5",
         "e7798d506ca6ea17e0ca320f",
         "afa82cbe749b90ac0dc134a1",
+        "e833aed5d4d282b98c6e69c7",
         "e700d08ac53b99cb9936a38e",
         "0703ecd6435a05f35af26ffc",
         "8bfb7d62271b16fd10046a23",
@@ -19349,6 +20020,7 @@
         "0749c7ee80eb370dc536c157",
         "693b6e999447922f597bab5c",
         "9e21984a22673ce953b44be1",
+        "4e1deda0382d627aa85beafe",
         "d92dd46ee9bb1287fea33f20",
         "0a24346eb30752c44b6ed776",
         "a869d2b7c346d380119b7dfb",
@@ -19357,12 +20029,12 @@
         "537e84744c37dfc04b77c754",
         "d96e0c5c3f44c023c84c7cc5",
         "fd23d40e9debbc980f7e5319",
-        "efae61d28ac8ca58995977e9",
         "6073eeb9386779685a4be513",
-        "4a828ce5d3f0d2341e14abb3",
         "227aa10b7de793ba52923b5d",
-        "ff1ae3ce021d8f893eb76b95",
         "8c750d73c75d54a52e6d951f",
+        "efae61d28ac8ca58995977e9",
+        "4a828ce5d3f0d2341e14abb3",
+        "ff1ae3ce021d8f893eb76b95",
         "ecbf3d4fddf2647424da1ed0",
         "f18538f91726c2565bfe9ad5",
         "86c5c60a7d6f612a5909aae3",
@@ -19370,12 +20042,14 @@
         "ad553b6d64420c64464a3b1f",
         "57b972642ba001cc78424cfd",
         "9dcb646d0abc42880ac890a3",
+        "26faf5007e45ccd51e5f4f86",
         "843760f8a0bb975f501b577c",
         "ce9c55e5f2990580577917b8",
         "9b4590005950ccc6b7bd29b8",
         "d0f9b9243030df8fc46b3685",
         "d02ea7173e01e1aa73d2d49e",
         "292a1eb5d767bc41f4973ec6",
+        "6a9f2632f5001f1a3c914d0d",
         "230442aec624c68914952248",
         "b46c6eaad2a8a20a0df5934b",
         "84ad53e79d76b0e8236b62a1",
@@ -19412,6 +20086,9 @@
         "8d335e4e2bc7d4275baaa36b",
         "1e9f31968436f5e9de786f0d",
         "7973bc954a31503d986ea735",
+        "9ec01c69ca10a0a0ad891a3b",
+        "115602899c96d16150e8ef5f",
+        "b039138b95caaff293b50bfd",
         "f8584bf8c3c786b1c2eeda4b",
         "1f1f906de11a35d87711d752",
         "6046ba627fe490620724c369",
@@ -19430,7 +20107,6 @@
         "89be7a63c36112c593c20967",
         "8fec39b02b014209f723cd73",
         "7590f87f4d5515fb1d3f0928",
-        "115602899c96d16150e8ef5f",
         "0f3f70e2c33289ad9aa8b473",
         "2d50f335da0efa4331d8fb6f",
         "241aa415650ab203eda465e3",
@@ -21001,11 +21677,11 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-12T09:22:56.823618+09:00",
+      "generated_at": "2026-10-13T06:02:47.209347+09:00",
       "is_complete": true,
-      "article_count": 497,
+      "article_count": 498,
       "category_counts": {
-        "tech": 131,
+        "tech": 132,
         "ai": 242,
         "parenting": 124
       },
@@ -21014,12 +21690,13 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+        "attempted_at": "2026-10-12T21:02:46.995023+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
@@ -21030,32 +21707,30 @@
           {
             "article_id": "8a8e63b1add55db2b87f9687",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "66db625303cf90e7dff74e0b",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "fbe43b5ad4a3ba3733859517",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "15c6c0631585bca92ac22e41",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-          "status": "ok",
-          "new_reviews": 7,
+          "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+          "status": "partial",
+          "new_reviews": 4,
           "updated_periods": [
             "overview",
+            "weekly",
             "monthly"
           ],
-          "errors": [],
-          "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+          "errors": [
+            {
+              "article_id": "bba44f898220fcf85c3c28c2",
+              "stage": "original_fetch"
+            },
+            {
+              "article_id": "8a8e63b1add55db2b87f9687",
+              "stage": "original_fetch"
+            }
+          ],
+          "last_success_at": "2026-10-12T21:00:23.171913+00:00"
         },
-        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+        "last_success_at": "2026-10-12T21:02:46.995023+00:00"
       },
       "genre_briefs": [
         {
@@ -21452,8 +22127,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 125,
-          "publisher_count": 56,
+          "count": 126,
+          "publisher_count": 57,
           "summary": "Amazonが薄型のFire TV Stick 4Kと新デザインのリモコンを発表。対応するテレビのUSB端子から給電でき、設置時の電源アダプターを省けます。リモコンにはよく使う機能を呼び出すカスタムボタンも用意しました。 WSL 3.0の更新記事で注目したいのは、WindowsからLinuxコンテナを操作する仕組み。Microsoftの説明では、wslcコマンドで実行やテストを行い、SDKを使ってWindowsアプリにもコンテナ処理を組み込めます。 GoogleはGemini LiveのGuided visionを案内。カメラに映った文字や物を音声で説明し、対象がうまく入っていない場合は向きや構図を直すよう案内します。見えづらさのある人とともに設計した機能です。",
           "evidence_ids": [
             "56d775acd6bc5c644ff79ae2",
@@ -21481,6 +22156,7 @@
             "50bbd90d252cc883143b1c2d",
             "59da5a592107f62c54f36b8b",
             "6274fbef5a5ad1aca8da5b17",
+            "e2f6b69f0e8a1f6e20fc8ba3",
             "9832eab72a1744079142e1b9",
             "8999c03147733dde92418fe8",
             "ea66b39c5dca0c7af8559655",
@@ -21921,6 +22597,7 @@
         "59da5a592107f62c54f36b8b",
         "e77d6df54d338e463c93b41f",
         "6274fbef5a5ad1aca8da5b17",
+        "e2f6b69f0e8a1f6e20fc8ba3",
         "9832eab72a1744079142e1b9",
         "fe5a8b0898ea1d7d060bc16a",
         "24eeee4fdac047f6d851ee0f",
@@ -22359,29 +23036,30 @@
   ],
   "reports": {
     "overview": {
-      "id": "eec4fa1015f3d5971c0da672",
+      "id": "7f4c6a0e4edd436344c85d9a",
       "kind": "overview",
-      "period_start": "2026-10-06",
-      "period_end": "2026-10-12",
-      "generated_at": "2026-10-12T09:22:56.823618+09:00",
+      "period_start": "2026-10-07",
+      "period_end": "2026-10-13",
+      "generated_at": "2026-10-13T06:02:47.209347+09:00",
       "is_complete": false,
-      "article_count": 151,
+      "article_count": 117,
       "category_counts": {
-        "parenting": 42,
-        "ai": 74,
-        "tech": 35
+        "parenting": 24,
+        "tech": 35,
+        "ai": 58
       },
-      "overview": "SophosはMDRに調査計画の作成・実行・見直しと対応案を提示するエージェントを導入し、使用案件の平均対応時間を約38分から89秒に短縮したと報告した。顧客が選ぶ対応権限を維持し、難しい判断は人に渡す。Asanaはブラウザー履歴のキャッシュや画像のまとめ削除などを提供済みで、書籍情報を集める単一課題では、最適化構成の推定モデル費用と所要時間が改善したと報告した。 MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。一方、最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信事業者向けに300億パラメータのモデルと自社データへの追加学習手順を公開し、別記事ではOmniverseを使った倉庫ロボットや自動運転の試験用プロトタイプを紹介した。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる技能の進歩の可視化、Khanmigoによる解答提出前のヒントと誤答提出後の説明を紹介した。提携学区向けのGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の技能をProficientに進めて競う。対象学年や学習効果の定量的な検証結果は示されていない。",
+      "overview": "SophosはMDRで情報収集、調査計画の実行・見直し、対応案提示を行うエージェントを導入し、顧客が選ぶ対応権限と人への引き継ぎを維持した。使用案件の平均対応時間は89秒と報告。Asanaはブラウザー履歴のキャッシュと画像削除などを提供済みで、単一課題の試験でモデル費用と処理時間の改善を報告した。いずれも対象を限定した導入・試験結果である。 MicrosoftはWindowsでエージェントを継続的にバックグラウンド実行するMXCの一般提供を発表した。開発者向けRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAはクラウド事業者などに向け、最大250kWに対応するラック設計と、ネットワーク設定・クラスタ検証・ラック管理などを担うDSXのオープンソース部品を公開した。電力対応値は設計上の範囲で、導入実績ではない。 Khan Academyは、Missionsで次の課題を示し、Gemsで技能の進歩を可視化する設計を説明した。Khanmigoは提出前に質問やヒントを出し、誤答後には間違いの説明と追加練習で支援する。提携学区向けGem Jamでは、教師が時間と参加者を設定し、生徒が指定課題の習熟をチームで競う。対象学年は示されず、未就学児向けの提供や学力への効果は確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+        "attempted_at": "2026-10-12T21:02:46.995023+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
@@ -22392,32 +23070,30 @@
           {
             "article_id": "8a8e63b1add55db2b87f9687",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "66db625303cf90e7dff74e0b",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "fbe43b5ad4a3ba3733859517",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "15c6c0631585bca92ac22e41",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-          "status": "ok",
-          "new_reviews": 7,
+          "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+          "status": "partial",
+          "new_reviews": 4,
           "updated_periods": [
             "overview",
+            "weekly",
             "monthly"
           ],
-          "errors": [],
-          "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+          "errors": [
+            {
+              "article_id": "bba44f898220fcf85c3c28c2",
+              "stage": "original_fetch"
+            },
+            {
+              "article_id": "8a8e63b1add55db2b87f9687",
+              "stage": "original_fetch"
+            }
+          ],
+          "last_success_at": "2026-10-12T21:00:23.171913+00:00"
         },
-        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+        "last_success_at": "2026-10-12T21:02:46.995023+00:00"
       },
       "genre_briefs": [
         {
@@ -22487,6 +23163,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "214de09c0748f52669ed1bc6",
+              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
+              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-12T21:00:23.171913+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
+              "published_at": "2026-10-12T15:00:25Z"
+            },
+            {
               "article_id": "badda310cca07906cc76c487",
               "headline": "NVIDIA、AIエージェントとOmniverseによるシミュレーション開発事例を紹介",
               "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。",
@@ -22523,26 +23217,6 @@
               "model": "codex-cli",
               "evidence_quote": "with laptop preorders open today and available October 16. Compact desktops will be available for sale in November.",
               "published_at": "2026-10-07T18:45:28Z"
-            },
-            {
-              "article_id": "be420afc3a2f48e111f957cf",
-              "headline": "NVIDIA、通信業務向け300億パラメータモデルと追加学習手順を公開",
-              "summary": "NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
-              "impact": "考察：公開モデルと学習手順がそろうことで、通信事業者が自社業務に合わせたAIを構築し、配置場所や運用方針を選ぶ際の選択肢が広がる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。通信タスクで精度が向上したとの説明はあるが、本文には具体的な評価値や比較条件がない。モデル発表と手順公開は、各社での本番導入完了や安全な自律運用の実証を意味しない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
-              "published_at": "2026-10-06T13:00:19Z"
             }
           ]
         },
@@ -22589,26 +23263,6 @@
               "model": "codex-cli",
               "evidence_quote": "Gem Jam is available to Khan Academy district partners.",
               "published_at": "2026-10-07T20:36:48Z"
-            },
-            {
-              "article_id": "37fcc66a5bb1c22ea2891c48",
-              "headline": "スウェーデンのYear 7〜9教員、Sitesと動画制作を使った学習実践を紹介",
-              "summary": "スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
-              "impact": "共有・個別進行・動画発表を組み合わせる設計は、生徒が考えを表現する手段を増やす参考になると考えられる。",
-              "category": "parenting",
-              "source_url": "https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/",
-              "source_label": "Google for Education 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。教員本人による実践紹介であり、分析力や参加機会の改善を示す測定結果はない。利用条件や他校での導入範囲も記載されていない。",
-              "provider": "Google for Education",
-              "origin_kind": "official",
-              "tags": [
-                "education"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "They work through self-paced study notebooks, and use Vids to turn their ideas into creative video presentations.",
-              "published_at": "2026-10-05T16:00:00Z"
             }
           ]
         }
@@ -22622,16 +23276,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 61,
-          "publisher_count": 20,
+          "count": 50,
+          "publisher_count": 18,
           "summary": "SophosはOpenAI Daybreakで構築したエージェントをMDRに導入。顧客情報や脅威情報を集め、調査計画の作成・実行・見直しと対応案の提示を行う。エージェント使用案件の平均対応時間は約38分から89秒に短縮し、MDR案件の52％をAIで一貫処理したと報告。顧客が選ぶ通知・共同対応・代理対応の権限境界を維持し、判断が難しい処理は人に渡す。 AsanaはStackAIのブラウザーエージェントをGPT‑6 Astra搭載Codexで調査し、閲覧履歴のキャッシュ、保持文字数の拡大、画像のまとめ削除を実装した。公開デモの書籍32冊から情報を集める144回の試験では、最適化したGPT‑6.1 Sol構成が平均推定モデル費用0.47ドル、約4分を記録。旧Model B構成比で費用76分の1、速度5倍と報告し、変更は提供済み。 Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。",
           "evidence_ids": [
             "6468fcfd514c01a2c23f5b2f",
-            "65d6ed166cc41f4c74ab39d9",
-            "a86b0b0769ae6d341a4a51d3"
+            "7d9f820349e6b4174329c9b7",
+            "65d6ed166cc41f4c74ab39d9"
           ],
           "article_ids": [
             "6468fcfd514c01a2c23f5b2f",
+            "7d9f820349e6b4174329c9b7",
+            "33b4f566e3498437d2c0c4e6",
             "65d6ed166cc41f4c74ab39d9",
             "a86b0b0769ae6d341a4a51d3",
             "2b377d96caa506e6dca73b03",
@@ -22678,20 +23334,7 @@
             "1e8f091ed75b16f3c25b28e4",
             "a24bf1e086eb79015ad43b0c",
             "723d7c39c9b0f76ae34ed0f7",
-            "5eab9362130c32ef1ed8e809",
-            "ced3e29d350af5b9aed497a1",
-            "66db625303cf90e7dff74e0b",
-            "fbe43b5ad4a3ba3733859517",
-            "a01c7fdb5f8dabde66cc16e0",
-            "d0005f64f2c4c753dabcc62f",
-            "2e4a0ab1de9cc18faa17b37b",
-            "ac0c4754713ca7df94f45a76",
-            "afa82cbe749b90ac0dc134a1",
-            "0703ecd6435a05f35af26ffc",
-            "8bfb7d62271b16fd10046a23",
-            "d75b2498ba98e2e3b38c0c8e",
-            "f36c9bfb91102d2d32e50db1",
-            "15c6c0631585bca92ac22e41"
+            "5eab9362130c32ef1ed8e809"
           ]
         },
         {
@@ -22702,14 +23345,18 @@
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
           "count": 35,
-          "publisher_count": 22,
-          "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
+          "publisher_count": 24,
+          "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
           "evidence_ids": [
-            "33587c5891ba211e5bd5813d",
-            "71781648f372d873d84d0f89",
-            "34d589546ac86c98f1f8e606"
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5",
+            "cea1174371f8c449ff4adaa2"
           ],
           "article_ids": [
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5",
+            "cea1174371f8c449ff4adaa2",
+            "495250eca757336c11d6bb21",
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
             "34d589546ac86c98f1f8e606",
@@ -22717,6 +23364,7 @@
             "19a04ce01ea236c1a95b9579",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
+            "6875665eb7ef00ccc7474e22",
             "a1374b861ae75220923037f1",
             "badda310cca07906cc76c487",
             "8960d69fbf11f4b54dc88257",
@@ -22726,25 +23374,20 @@
             "e1af22bf82ad5472829a9a86",
             "7b737cd04fe709e860e5f700",
             "e6ba0560e23f6725aa25080f",
+            "28ae8a7d428690cfb1771cf8",
             "8deace5258730993e77ce83a",
             "9a0d53c33baada63dbffcf16",
             "2eb505ba5b80d355bc79c57a",
             "c8c04651e19142e1c5f256c6",
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
+            "f7a2c36229e753a87ace57d4",
             "51b4a20d4aa52b4704ed3007",
             "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "3a03dce42662387d439d021a",
             "827b7264bc44ed6d1f12f24c",
-            "be420afc3a2f48e111f957cf",
-            "544093c4b039eee7ab8e3aaf",
-            "662b6eb0cd7fceffe9d31220",
-            "c8fbac2e8bf598193f2e16a1",
-            "d09648279371c49a499ee499",
-            "ced6b3a067bd7cb316d491ab",
-            "ab9e51cd984e1b578c7ca0c2",
-            "4fb6b933c6c8290b1261e0c5"
+            "a6cfc345b7e5f084b9059f25"
           ]
         },
         {
@@ -22754,16 +23397,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 37,
-          "publisher_count": 15,
-          "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
+          "count": 19,
+          "publisher_count": 14,
+          "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。",
           "evidence_ids": [
-            "5dda5578f36893c3c1616518",
-            "ddeb03d543ccda068b5c7b11",
-            "6d14f73009a7bceb116345b5"
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
+            "5dda5578f36893c3c1616518"
           ],
           "article_ids": [
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
             "5dda5578f36893c3c1616518",
+            "ed9835781c8554a9d6caa767",
             "ddeb03d543ccda068b5c7b11",
             "6d14f73009a7bceb116345b5",
             "520064092223ba7f89eec100",
@@ -22777,29 +23423,8 @@
             "b204e181ec89e32fed0ef77b",
             "1e5d605ff0d691020f0d4e8d",
             "9996603dee33e2a0c86f192c",
-            "1e1bb8d1153a39380c427d16",
-            "ddb44ff3cff64c0da769ecc5",
-            "ebb2d9c04f8e20040fd1447d",
-            "f556fa3ccd7058d7d3330a9c",
-            "bc1072230f3be6b3a48cb066",
-            "d5b7fb3fe608801cd8e47814",
-            "0cc884ac8dd138cc0408af2a",
-            "0affbad9fa80efd52ce71208",
-            "e7798d506ca6ea17e0ca320f",
-            "e700d08ac53b99cb9936a38e",
-            "984926d97b69cc89f67dad35",
-            "a0fcf89330d95e7155f7f16b",
-            "37fcc66a5bb1c22ea2891c48",
-            "50f1a7b9c9cef75cecd1a856",
-            "30c608da5126af00d73f16d8",
-            "7e29ebb6c1517aa6a1f07f35",
-            "f9aa3e7f7573ced860b2d5d7",
-            "1e46a96f976c7a7497f1263e",
-            "d59f4515d123b625ef2e0565",
-            "f995bae745daf685bdafaf64",
-            "99ca9a54971795bf53031285",
-            "296e47ff138bb422dd04edc8",
-            "c567131959a50f45a9a5fb09"
+            "d9a2c4a463c9bf189be8a2e2",
+            "1e1bb8d1153a39380c427d16"
           ]
         },
         {
@@ -22817,24 +23442,22 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 9,
+          "count": 7,
           "publisher_count": 6,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
-            "4a204d7bd8653c170f26778b",
-            "72a5bf3c3f7c188d57f69115"
+            "307abb06b1e417d522dee3c1"
           ],
           "article_ids": [
+            "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
+            "307abb06b1e417d522dee3c1",
             "4a204d7bd8653c170f26778b",
             "72a5bf3c3f7c188d57f69115",
             "bba44f898220fcf85c3c28c2",
-            "6fa289d85c30c2f719c222c5",
-            "f647df9ef1f30471f2808ee0",
-            "105088e1eaa32879961c6c56",
-            "7f5668c38f227617954d144c",
-            "a00e5bed0c86c17a69a84059"
+            "6fa289d85c30c2f719c222c5"
           ]
         },
         {
@@ -22857,15 +23480,15 @@
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "0162690001104b6b28a3acf0",
-            "4a4e1910f35b458d17f17d6e",
-            "f8d706a76a6348cb2a956c33"
+            "8d713301ca9592825be34717",
+            "4a4e1910f35b458d17f17d6e"
           ],
           "article_ids": [
             "0162690001104b6b28a3acf0",
+            "8d713301ca9592825be34717",
             "4a4e1910f35b458d17f17d6e",
             "f8d706a76a6348cb2a956c33",
-            "884d34ad9326cb889e3bb44d",
-            "beb64b0aff02ca70159b70fc"
+            "884d34ad9326cb889e3bb44d"
           ]
         }
       ],
@@ -22873,10 +23496,10 @@
       "insights": [
         {
           "category": "ai",
-          "label": "エージェントの成果は処理範囲と評価条件で見る",
-          "observation": "SophosはMDRに調査計画の作成・実行・見直しと対応案を提示するエージェントを導入し、使用案件の平均対応時間を約38分から89秒に短縮したと報告した。顧客が選ぶ対応権限を維持し、難しい判断は人に渡す。Asanaはブラウザー履歴のキャッシュや画像のまとめ削除などを提供済みで、書籍情報を集める単一課題では、最適化構成の推定モデル費用と所要時間が改善したと報告した。",
-          "interpretation": "業務エージェントの実用性には、モデル選択に加え、履歴管理と人へ引き継ぐ条件の設計が寄与する可能性がある。ただし、対象案件や試験条件が限定されており、業務全体の費用削減や他環境での効果は判断できない。",
-          "next_question": "Sophosで案件の難易度別に対応品質と人への引き継ぎ率を測ると、時間短縮は維持されるか。Asanaの変更を別の閲覧課題で試した場合、完了率と回答精度を保ちながら費用を削減できるか。",
+          "label": "業務エージェントは処理設計と権限管理が検証の焦点",
+          "observation": "SophosはMDRで情報収集、調査計画の実行・見直し、対応案提示を行うエージェントを導入し、顧客が選ぶ対応権限と人への引き継ぎを維持した。使用案件の平均対応時間は89秒と報告。Asanaはブラウザー履歴のキャッシュと画像削除などを提供済みで、単一課題の試験でモデル費用と処理時間の改善を報告した。いずれも対象を限定した導入・試験結果である。",
+          "interpretation": "業務エージェントの実用性は、モデル選択に加えて、履歴の保持方法や人に判断を戻す条件の設計に左右される可能性がある。報告値だけでは、別の業務でも同じ改善が得られるとは判断できない。",
+          "next_question": "同じ難易度の案件・課題で、誤対応率、完了率、人による修正時間を含めて比較した場合にも、時間と総費用の改善が維持されるか。",
           "required_ids": [
             "2b377d96caa506e6dca73b03",
             "9778a611a11a74213de7871d"
@@ -22889,28 +23512,26 @@
         },
         {
           "category": "tech",
-          "label": "ローカル実行・業界適応・シミュレーションで異なる提供段階",
-          "observation": "MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。一方、最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信事業者向けに300億パラメータのモデルと自社データへの追加学習手順を公開し、別記事ではOmniverseを使った倉庫ロボットや自動運転の試験用プロトタイプを紹介した。",
-          "interpretation": "開発者や通信事業者が用途に合わせてAIを動かし、調整・検証するための選択肢が広がる可能性がある。ただし、実行基盤の一般提供、機器の発売予定、モデルと手順の公開、シミュレーション事例はそれぞれ段階が異なり、本番運用の安全性や実機性能を一括して示すものではない。",
-          "next_question": "RTX Spark発売後の実測では、対象モデルの処理速度とメモリ使用量はどうなるか。通信モデルの自社データによる評価と、Omniverseで成功した動作の実機試験では、誤動作率や人による介入の必要性をどこまで確認できるか。",
+          "label": "AI実行基盤は端末とデータセンターで整備が進む",
+          "observation": "MicrosoftはWindowsでエージェントを継続的にバックグラウンド実行するMXCの一般提供を発表した。開発者向けRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAはクラウド事業者などに向け、最大250kWに対応するラック設計と、ネットワーク設定・クラスタ検証・ラック管理などを担うDSXのオープンソース部品を公開した。電力対応値は設計上の範囲で、導入実績ではない。",
+          "interpretation": "AIを継続運用する際の課題が、モデルの実行性能だけでなく、端末の実行管理や設備の冷却・構成検証まで広がっている可能性がある。ただし、公開された基盤が運用負担を減らす効果は、この資料では確認できない。",
+          "next_question": "MXCの実運用では権限管理と停止・復旧がどう機能し、DSX導入環境では構築時間、障害復旧時間、消費電力が従来構成からどう変わるか。",
           "required_ids": [
             "e6ba0560e23f6725aa25080f",
-            "be420afc3a2f48e111f957cf",
-            "badda310cca07906cc76c487"
+            "214de09c0748f52669ed1bc6"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
             "e6ba0560e23f6725aa25080f",
-            "be420afc3a2f48e111f957cf",
-            "badda310cca07906cc76c487"
+            "214de09c0748f52669ed1bc6"
           ]
         },
         {
           "category": "parenting",
-          "label": "課題案内と誤答支援に授業内の競争を組み合わせる",
-          "observation": "Khan Academyは、Missionsによる次の課題の案内、Gemsによる技能の進歩の可視化、Khanmigoによる解答提出前のヒントと誤答提出後の説明を紹介した。提携学区向けのGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の技能をProficientに進めて競う。対象学年や学習効果の定量的な検証結果は示されていない。",
-          "interpretation": "次に取り組む課題と誤答後の行動を明確にする設計は、授業中の学習再開を支える可能性がある。一方、順位表示やチーム競争の受け止め方は学年や習熟度で異なる可能性があり、幼児への適用や成績向上は推定できない。",
-          "next_question": "提供対象の学年と利用条件は何か。学年・開始時の習熟度別に、Gem Jam利用時と通常授業で課題への再挑戦率、後日の技能定着、順位表示への反応を比較した結果はあるか。",
+          "label": "学校向け学習支援は誤答対応と習熟の可視化を組み合わせる",
+          "observation": "Khan Academyは、Missionsで次の課題を示し、Gemsで技能の進歩を可視化する設計を説明した。Khanmigoは提出前に質問やヒントを出し、誤答後には間違いの説明と追加練習で支援する。提携学区向けGem Jamでは、教師が時間と参加者を設定し、生徒が指定課題の習熟をチームで競う。対象学年は示されず、未就学児向けの提供や学力への効果は確認できない。",
+          "interpretation": "次の行動の案内、誤答後の支援、学級内の目標を組み合わせることで、生徒が練習を続けやすくなる可能性がある。一方、競争形式が学習参加に与える影響は、年齢や習熟度によって異なる可能性がある。",
+          "next_question": "対象学年と提供条件は何か。学年・開始時の習熟度別に、競争形式の有無で継続率、後日の技能定着、参加しづらさ、教師の準備時間に差が生じるか。",
           "required_ids": [
             "40a1ca2db5e26599685ce199",
             "d6c2047bf7af12e6182205dd"
@@ -22924,9 +23545,20 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "95d67afd9472e7a9101ad8f0",
+        "214de09c0748f52669ed1bc6",
+        "07a0c493f650e4675cb2beb2",
+        "6fed762c68101f497f1e4577",
+        "4e56d0edee04a66d1a17a7b5",
         "5dda5578f36893c3c1616518",
         "0162690001104b6b28a3acf0",
         "6468fcfd514c01a2c23f5b2f",
+        "ed9835781c8554a9d6caa767",
+        "cea1174371f8c449ff4adaa2",
+        "7d9f820349e6b4174329c9b7",
+        "33b4f566e3498437d2c0c4e6",
+        "8d713301ca9592825be34717",
+        "495250eca757336c11d6bb21",
         "408905ac85f7ce3a6332cb2d",
         "ddeb03d543ccda068b5c7b11",
         "6d14f73009a7bceb116345b5",
@@ -22943,10 +23575,12 @@
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
-        "3091b6464a24712f17bd36ed",
         "3ddda55c954497f19600acb1",
+        "3091b6464a24712f17bd36ed",
         "f50bc24dce751fed56dd6193",
+        "307abb06b1e417d522dee3c1",
         "609a82e33be676cbd6d6bc88",
+        "6875665eb7ef00ccc7474e22",
         "d08b03a2a01071fb1cbb95d8",
         "a1374b861ae75220923037f1",
         "23ad61e231c3edc1e3d38a1e",
@@ -22985,6 +23619,7 @@
         "067aac2737244508e8d6c5de",
         "e6ba0560e23f6725aa25080f",
         "daf4bbb831476a90511ef506",
+        "28ae8a7d428690cfb1771cf8",
         "8deace5258730993e77ce83a",
         "9a0d53c33baada63dbffcf16",
         "7309ab3c197d8677af0b480d",
@@ -23001,6 +23636,7 @@
         "e6c0db477924d07d8c6724c3",
         "87126dabfbc750fd0851420c",
         "7659b79c25b818a6ae7918cf",
+        "f7a2c36229e753a87ace57d4",
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
@@ -23009,6 +23645,7 @@
         "3a03dce42662387d439d021a",
         "827b7264bc44ed6d1f12f24c",
         "c51a8457ec4a2aebd59b16a2",
+        "a6cfc345b7e5f084b9059f25",
         "54e21c38b85ee21a4eb9bb2e",
         "a0b2ef6f48d35f2a8bc10c89",
         "4c73eef9ae54b5806fc6af65",
@@ -23017,64 +23654,14 @@
         "251cf79fc4eabf78a9f341b9",
         "cc3db6b21ce525514664efb3",
         "09c6cfadaed4dfbfc4866569",
+        "d9a2c4a463c9bf189be8a2e2",
         "884d34ad9326cb889e3bb44d",
         "69c9edfa54feb57127d2cec7",
         "1e8f091ed75b16f3c25b28e4",
         "1e1bb8d1153a39380c427d16",
         "a24bf1e086eb79015ad43b0c",
         "723d7c39c9b0f76ae34ed0f7",
-        "5eab9362130c32ef1ed8e809",
-        "ddb44ff3cff64c0da769ecc5",
-        "be420afc3a2f48e111f957cf",
-        "ced3e29d350af5b9aed497a1",
-        "f647df9ef1f30471f2808ee0",
-        "66db625303cf90e7dff74e0b",
-        "fbe43b5ad4a3ba3733859517",
-        "a01c7fdb5f8dabde66cc16e0",
-        "ebb2d9c04f8e20040fd1447d",
-        "97622c8822e2d005ae38ecc8",
-        "d0005f64f2c4c753dabcc62f",
-        "544093c4b039eee7ab8e3aaf",
-        "f556fa3ccd7058d7d3330a9c",
-        "662b6eb0cd7fceffe9d31220",
-        "bc1072230f3be6b3a48cb066",
-        "d5b7fb3fe608801cd8e47814",
-        "2e4a0ab1de9cc18faa17b37b",
-        "ac0c4754713ca7df94f45a76",
-        "c8fbac2e8bf598193f2e16a1",
-        "d09648279371c49a499ee499",
-        "ced6b3a067bd7cb316d491ab",
-        "0cc884ac8dd138cc0408af2a",
-        "beb64b0aff02ca70159b70fc",
-        "105088e1eaa32879961c6c56",
-        "0affbad9fa80efd52ce71208",
-        "7f5668c38f227617954d144c",
-        "ab9e51cd984e1b578c7ca0c2",
-        "4fb6b933c6c8290b1261e0c5",
-        "e7798d506ca6ea17e0ca320f",
-        "afa82cbe749b90ac0dc134a1",
-        "e700d08ac53b99cb9936a38e",
-        "0703ecd6435a05f35af26ffc",
-        "8bfb7d62271b16fd10046a23",
-        "d75b2498ba98e2e3b38c0c8e",
-        "f36c9bfb91102d2d32e50db1",
-        "a00e5bed0c86c17a69a84059",
-        "984926d97b69cc89f67dad35",
-        "a0fcf89330d95e7155f7f16b",
-        "20de2a919bf25dafc821a9b2",
-        "a7ff1975357ab38e37b5b94f",
-        "37fcc66a5bb1c22ea2891c48",
-        "50f1a7b9c9cef75cecd1a856",
-        "30c608da5126af00d73f16d8",
-        "7e29ebb6c1517aa6a1f07f35",
-        "f9aa3e7f7573ced860b2d5d7",
-        "1e46a96f976c7a7497f1263e",
-        "d59f4515d123b625ef2e0565",
-        "f995bae745daf685bdafaf64",
-        "99ca9a54971795bf53031285",
-        "296e47ff138bb422dd04edc8",
-        "c567131959a50f45a9a5fb09",
-        "15c6c0631585bca92ac22e41"
+        "5eab9362130c32ef1ed8e809"
       ]
     },
     "weekly": {
@@ -23082,23 +23669,26 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-12T09:22:56.823618+09:00",
+      "generated_at": "2026-10-13T06:02:47.209347+09:00",
       "is_complete": false,
-      "article_count": 1,
+      "article_count": 6,
       "category_counts": {
-        "parenting": 1
+        "parenting": 3,
+        "tech": 2,
+        "ai": 1
       },
-      "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
+      "overview": "NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2には液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上は最大250kWのラック構成を支える。クラウド事業者などを対象に、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。最大250kWは導入実績を示す数値ではなく、効率改善の比較測定も示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+        "attempted_at": "2026-10-12T21:02:46.995023+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
@@ -23109,36 +23699,103 @@
           {
             "article_id": "8a8e63b1add55db2b87f9687",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "66db625303cf90e7dff74e0b",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "fbe43b5ad4a3ba3733859517",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "15c6c0631585bca92ac22e41",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-          "status": "ok",
-          "new_reviews": 7,
+          "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+          "status": "partial",
+          "new_reviews": 4,
           "updated_periods": [
             "overview",
+            "weekly",
             "monthly"
           ],
-          "errors": [],
-          "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+          "errors": [
+            {
+              "article_id": "bba44f898220fcf85c3c28c2",
+              "stage": "original_fetch"
+            },
+            {
+              "article_id": "8a8e63b1add55db2b87f9687",
+              "stage": "original_fetch"
+            }
+          ],
+          "last_success_at": "2026-10-12T21:00:23.171913+00:00"
         },
-        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+        "last_success_at": "2026-10-12T21:02:46.995023+00:00"
       },
-      "genre_briefs": [],
-      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "genre_briefs": [
+        {
+          "category": "tech",
+          "label": "テック",
+          "stories": [
+            {
+              "article_id": "214de09c0748f52669ed1bc6",
+              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
+              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-12T21:00:23.171913+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
+              "published_at": "2026-10-12T15:00:25Z"
+            }
+          ]
+        }
+      ],
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
+        {
+          "id": "ai-agents",
+          "category": "ai",
+          "label": "AIエージェント・開発の自動化",
+          "words": [
+            "エージェント",
+            "agent",
+            "Claude Code",
+            "Codex",
+            "自動化",
+            "交渉",
+            "開発"
+          ],
+          "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
+          "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "6fed762c68101f497f1e4577"
+          ],
+          "article_ids": [
+            "6fed762c68101f497f1e4577"
+          ]
+        },
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 2,
+          "publisher_count": 2,
+          "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+          "evidence_ids": [
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5"
+          ],
+          "article_ids": [
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5"
+          ]
+        },
         {
           "id": "parent-ict",
           "category": "parenting",
@@ -23146,21 +23803,45 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 1,
-          "publisher_count": 1,
+          "count": 3,
+          "publisher_count": 3,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
             "5dda5578f36893c3c1616518"
           ],
           "article_ids": [
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
             "5dda5578f36893c3c1616518"
           ]
         }
       ],
-      "total_topics": 1,
-      "insights": [],
+      "total_topics": 3,
+      "insights": [
+        {
+          "category": "tech",
+          "label": "高電力AIラックの設計と運用手順の共有",
+          "observation": "NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2には液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上は最大250kWのラック構成を支える。クラウド事業者などを対象に、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。最大250kWは導入実績を示す数値ではなく、効率改善の比較測定も示されていない。",
+          "interpretation": "設計と運用ソフトの共有は、高電力AI設備を構築する事業者が接続仕様や導入手順を共通化する助けになる可能性がある。ただし、実際の導入負担や運用効率が改善するかは、設備条件や公開部品の適用範囲に左右されるという仮説である。",
+          "next_question": "公開されたMGX 1.2設計とDSX部品を使った導入で、個別設計の場合と比べて構築期間、検証工数、冷却・電力運用の効率がどう変わるかを示す実測結果は得られるか。",
+          "required_ids": [
+            "214de09c0748f52669ed1bc6"
+          ],
+          "review_method": "ai_source_grounded",
+          "evidence_ids": [
+            "214de09c0748f52669ed1bc6"
+          ]
+        }
+      ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "95d67afd9472e7a9101ad8f0",
+        "214de09c0748f52669ed1bc6",
+        "07a0c493f650e4675cb2beb2",
+        "6fed762c68101f497f1e4577",
+        "4e56d0edee04a66d1a17a7b5",
         "5dda5578f36893c3c1616518"
       ]
     },
@@ -23169,25 +23850,26 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-12T09:22:56.823618+09:00",
+      "generated_at": "2026-10-13T06:02:47.209347+09:00",
       "is_complete": false,
-      "article_count": 260,
+      "article_count": 286,
       "category_counts": {
-        "parenting": 67,
-        "ai": 128,
-        "tech": 65
+        "parenting": 75,
+        "tech": 79,
+        "ai": 132
       },
-      "overview": "SophosはMDRで情報収集、調査計画の実行・見直し、対応案提示を行うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に渡す。使用案件の平均対応時間は約38分から89秒になったと報告した。Asanaはブラウザー履歴のキャッシュや画像削除を改善し、変更を提供済み。書籍情報収集の限定試験で費用・速度の改善を報告している。 MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表。開発者向けRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信事業者向けモデルと自社データによる追加学習手順を公開し、Omniverseではロボットや自動運転の試験用プロトタイプを紹介した。後者の成功結果はシミュレーション内に限られる。 Khan Academyは次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoの設計を紹介。Gem Jamは提携学区向けで、教師が時間・参加者を設定し、指定課題の習熟をチームで競う。対象学年は資料にない。一方、スウェーデンのYear 7〜9の教員はSitesでの共同共有とVidsでの動画制作を授業実践として紹介した。",
+      "overview": "SophosはMDRに調査計画の作成・実行・見直しと対応案提示を担うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に引き継ぐ。使用案件の平均対応時間を89秒と報告した。Asanaはブラウザー履歴のキャッシュや画像のまとめ削除を提供済みで、特定の情報収集試験で推定モデル費用の削減を報告した。いずれも限定された条件の結果である。 NVIDIAはクラウド事業者などに向け、液冷接続や最大250kWに対応するラック設計と、設定・検証・管理・導入を担うDSXのオープンソース部品を公開した。MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表した。一方、最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、発売予定日は10月16日である。 Khan Academyは、次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoを紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、指定課題の習熟をチームで競う。別の実践では、スウェーデンのYear 7〜9の教員がGoogle Sitesでの共同共有とGoogle Vidsでの動画発表を紹介した。Khan Academyの記事には対象学年の記載がなく、幼児向けの実践としては扱えない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+        "attempted_at": "2026-10-12T21:02:46.995023+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
@@ -23198,32 +23880,30 @@
           {
             "article_id": "8a8e63b1add55db2b87f9687",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "66db625303cf90e7dff74e0b",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "fbe43b5ad4a3ba3733859517",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "15c6c0631585bca92ac22e41",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-          "status": "ok",
-          "new_reviews": 7,
+          "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+          "status": "partial",
+          "new_reviews": 4,
           "updated_periods": [
             "overview",
+            "weekly",
             "monthly"
           ],
-          "errors": [],
-          "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+          "errors": [
+            {
+              "article_id": "bba44f898220fcf85c3c28c2",
+              "stage": "original_fetch"
+            },
+            {
+              "article_id": "8a8e63b1add55db2b87f9687",
+              "stage": "original_fetch"
+            }
+          ],
+          "last_success_at": "2026-10-12T21:00:23.171913+00:00"
         },
-        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+        "last_success_at": "2026-10-12T21:02:46.995023+00:00"
       },
       "genre_briefs": [
         {
@@ -23293,6 +23973,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "214de09c0748f52669ed1bc6",
+              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
+              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-12T21:00:23.171913+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
+              "published_at": "2026-10-12T15:00:25Z"
+            },
+            {
               "article_id": "badda310cca07906cc76c487",
               "headline": "NVIDIA、AIエージェントとOmniverseによるシミュレーション開発事例を紹介",
               "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。",
@@ -23329,26 +24027,6 @@
               "model": "codex-cli",
               "evidence_quote": "with laptop preorders open today and available October 16. Compact desktops will be available for sale in November.",
               "published_at": "2026-10-07T18:45:28Z"
-            },
-            {
-              "article_id": "be420afc3a2f48e111f957cf",
-              "headline": "NVIDIA、通信業務向け300億パラメータモデルと追加学習手順を公開",
-              "summary": "NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
-              "impact": "考察：公開モデルと学習手順がそろうことで、通信事業者が自社業務に合わせたAIを構築し、配置場所や運用方針を選ぶ際の選択肢が広がる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/telecom-operators-open-models/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。通信タスクで精度が向上したとの説明はあるが、本文には具体的な評価値や比較条件がない。モデル発表と手順公開は、各社での本番導入完了や安全な自律運用の実証を意味しない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-06T21:00:12.748138+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "NVIDIA announced the 30-billion-parameter Nemotron 3 Large Telco Model (LTM)",
-              "published_at": "2026-10-06T13:00:19Z"
             }
           ]
         },
@@ -23428,16 +24106,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 109,
+          "count": 111,
           "publisher_count": 26,
           "summary": "SophosはOpenAI Daybreakで構築したエージェントをMDRに導入。顧客情報や脅威情報を集め、調査計画の作成・実行・見直しと対応案の提示を行う。エージェント使用案件の平均対応時間は約38分から89秒に短縮し、MDR案件の52％をAIで一貫処理したと報告。顧客が選ぶ通知・共同対応・代理対応の権限境界を維持し、判断が難しい処理は人に渡す。 AsanaはStackAIのブラウザーエージェントをGPT‑6 Astra搭載Codexで調査し、閲覧履歴のキャッシュ、保持文字数の拡大、画像のまとめ削除を実装した。公開デモの書籍32冊から情報を集める144回の試験では、最適化したGPT‑6.1 Sol構成が平均推定モデル費用0.47ドル、約4分を記録。旧Model B構成比で費用76分の1、速度5倍と報告し、変更は提供済み。 Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。",
           "evidence_ids": [
             "6468fcfd514c01a2c23f5b2f",
-            "65d6ed166cc41f4c74ab39d9",
-            "a86b0b0769ae6d341a4a51d3"
+            "7d9f820349e6b4174329c9b7",
+            "65d6ed166cc41f4c74ab39d9"
           ],
           "article_ids": [
             "6468fcfd514c01a2c23f5b2f",
+            "7d9f820349e6b4174329c9b7",
+            "33b4f566e3498437d2c0c4e6",
             "65d6ed166cc41f4c74ab39d9",
             "a86b0b0769ae6d341a4a51d3",
             "2b377d96caa506e6dca73b03",
@@ -23509,8 +24189,8 @@
             "9e21984a22673ce953b44be1",
             "a869d2b7c346d380119b7dfb",
             "fe3b1779077b0f1f29399d73",
-            "efae61d28ac8ca58995977e9",
             "6073eeb9386779685a4be513",
+            "efae61d28ac8ca58995977e9",
             "ff1ae3ce021d8f893eb76b95",
             "86c5c60a7d6f612a5909aae3",
             "ad553b6d64420c64464a3b1f",
@@ -23555,15 +24235,19 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 65,
-          "publisher_count": 33,
-          "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
+          "count": 79,
+          "publisher_count": 42,
+          "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
           "evidence_ids": [
-            "33587c5891ba211e5bd5813d",
-            "71781648f372d873d84d0f89",
-            "34d589546ac86c98f1f8e606"
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5",
+            "cea1174371f8c449ff4adaa2"
           ],
           "article_ids": [
+            "214de09c0748f52669ed1bc6",
+            "4e56d0edee04a66d1a17a7b5",
+            "cea1174371f8c449ff4adaa2",
+            "495250eca757336c11d6bb21",
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
             "34d589546ac86c98f1f8e606",
@@ -23571,6 +24255,7 @@
             "19a04ce01ea236c1a95b9579",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
+            "6875665eb7ef00ccc7474e22",
             "a1374b861ae75220923037f1",
             "badda310cca07906cc76c487",
             "8960d69fbf11f4b54dc88257",
@@ -23580,23 +24265,29 @@
             "e1af22bf82ad5472829a9a86",
             "7b737cd04fe709e860e5f700",
             "e6ba0560e23f6725aa25080f",
+            "28ae8a7d428690cfb1771cf8",
             "8deace5258730993e77ce83a",
             "9a0d53c33baada63dbffcf16",
             "2eb505ba5b80d355bc79c57a",
             "c8c04651e19142e1c5f256c6",
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
+            "f7a2c36229e753a87ace57d4",
             "51b4a20d4aa52b4704ed3007",
             "7457fc3c7fba94bf97c9b50a",
             "2d3fe0fb16101f31704006ff",
             "3a03dce42662387d439d021a",
             "827b7264bc44ed6d1f12f24c",
+            "a6cfc345b7e5f084b9059f25",
             "be420afc3a2f48e111f957cf",
             "544093c4b039eee7ab8e3aaf",
             "662b6eb0cd7fceffe9d31220",
             "c8fbac2e8bf598193f2e16a1",
             "d09648279371c49a499ee499",
+            "5888079b2e776d91a1d82b16",
             "ced6b3a067bd7cb316d491ab",
+            "59482b469a6f76b767934461",
+            "b6f362ec683316b1d0758e4f",
             "ab9e51cd984e1b578c7ca0c2",
             "4fb6b933c6c8290b1261e0c5",
             "c02a21ec941e754459c61f01",
@@ -23606,6 +24297,7 @@
             "19f1c6d05224a959b00207bf",
             "fc54858966b7c70899373a5c",
             "e6a761f2a289aa38b9946949",
+            "4e1deda0382d627aa85beafe",
             "d92dd46ee9bb1287fea33f20",
             "0a24346eb30752c44b6ed776",
             "bc5d95cda4dbabee0c954ff2",
@@ -23626,8 +24318,10 @@
             "8968abce793d306b206c976e",
             "acf5537472dead5dd4bfa113",
             "7973bc954a31503d986ea735",
-            "09ce74a03823c0ba888415f1",
+            "9ec01c69ca10a0a0ad891a3b",
             "115602899c96d16150e8ef5f",
+            "b039138b95caaff293b50bfd",
+            "09ce74a03823c0ba888415f1",
             "7955f4e0bd7bb1404b3cf2bc"
           ]
         },
@@ -23638,16 +24332,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 59,
-          "publisher_count": 22,
+          "count": 66,
+          "publisher_count": 27,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
-            "5dda5578f36893c3c1616518",
-            "ddeb03d543ccda068b5c7b11",
-            "6d14f73009a7bceb116345b5"
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
+            "5dda5578f36893c3c1616518"
           ],
           "article_ids": [
+            "95d67afd9472e7a9101ad8f0",
+            "07a0c493f650e4675cb2beb2",
             "5dda5578f36893c3c1616518",
+            "ed9835781c8554a9d6caa767",
             "ddeb03d543ccda068b5c7b11",
             "6d14f73009a7bceb116345b5",
             "520064092223ba7f89eec100",
@@ -23661,6 +24358,7 @@
             "b204e181ec89e32fed0ef77b",
             "1e5d605ff0d691020f0d4e8d",
             "9996603dee33e2a0c86f192c",
+            "d9a2c4a463c9bf189be8a2e2",
             "1e1bb8d1153a39380c427d16",
             "ddb44ff3cff64c0da769ecc5",
             "ebb2d9c04f8e20040fd1447d",
@@ -23670,6 +24368,7 @@
             "0cc884ac8dd138cc0408af2a",
             "0affbad9fa80efd52ce71208",
             "e7798d506ca6ea17e0ca320f",
+            "e833aed5d4d282b98c6e69c7",
             "e700d08ac53b99cb9936a38e",
             "984926d97b69cc89f67dad35",
             "a0fcf89330d95e7155f7f16b",
@@ -23690,11 +24389,13 @@
             "5450b8f0206c5fd301fb7872",
             "537e84744c37dfc04b77c754",
             "d96e0c5c3f44c023c84c7cc5",
-            "4a828ce5d3f0d2341e14abb3",
             "227aa10b7de793ba52923b5d",
             "8c750d73c75d54a52e6d951f",
+            "4a828ce5d3f0d2341e14abb3",
             "ecbf3d4fddf2647424da1ed0",
+            "26faf5007e45ccd51e5f4f86",
             "d02ea7173e01e1aa73d2d49e",
+            "6a9f2632f5001f1a3c914d0d",
             "f6601b45475178bc226091b5",
             "1af5d69e5db224a9f8cc0fcb",
             "1b7d844eaac66df12e1b643e",
@@ -23723,16 +24424,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 14,
-          "publisher_count": 10,
+          "count": 16,
+          "publisher_count": 12,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
-            "4a204d7bd8653c170f26778b",
-            "72a5bf3c3f7c188d57f69115"
+            "307abb06b1e417d522dee3c1"
           ],
           "article_ids": [
+            "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
+            "307abb06b1e417d522dee3c1",
             "4a204d7bd8653c170f26778b",
             "72a5bf3c3f7c188d57f69115",
             "bba44f898220fcf85c3c28c2",
@@ -23763,16 +24466,17 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 9,
+          "publisher_count": 9,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "0162690001104b6b28a3acf0",
-            "4a4e1910f35b458d17f17d6e",
-            "f8d706a76a6348cb2a956c33"
+            "8d713301ca9592825be34717",
+            "4a4e1910f35b458d17f17d6e"
           ],
           "article_ids": [
             "0162690001104b6b28a3acf0",
+            "8d713301ca9592825be34717",
             "4a4e1910f35b458d17f17d6e",
             "f8d706a76a6348cb2a956c33",
             "884d34ad9326cb889e3bb44d",
@@ -23787,10 +24491,10 @@
       "insights": [
         {
           "category": "ai",
-          "label": "エージェントの実用性を左右する運用設計",
-          "observation": "SophosはMDRで情報収集、調査計画の実行・見直し、対応案提示を行うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に渡す。使用案件の平均対応時間は約38分から89秒になったと報告した。Asanaはブラウザー履歴のキャッシュや画像削除を改善し、変更を提供済み。書籍情報収集の限定試験で費用・速度の改善を報告している。",
-          "interpretation": "エージェントの実用性には、モデル選択に加えて、履歴管理と人に判断を戻す仕組みが寄与する可能性がある。ただし、個別事例の結果から他の業務や全案件への効果は推定できない。",
-          "next_question": "Sophosの同程度の難易度の案件で、再調査率や人への引き継ぎ後の時間を含めても改善が維持されるか。Asanaの履歴管理変更は、別の閲覧課題でも完了率を保ちながら費用を下げられるか。",
+          "label": "エージェントの処理設計と権限管理",
+          "observation": "SophosはMDRに調査計画の作成・実行・見直しと対応案提示を担うエージェントを導入し、顧客が選ぶ対応権限を維持して難しい判断を人に引き継ぐ。使用案件の平均対応時間を89秒と報告した。Asanaはブラウザー履歴のキャッシュや画像のまとめ削除を提供済みで、特定の情報収集試験で推定モデル費用の削減を報告した。いずれも限定された条件の結果である。",
+          "interpretation": "エージェントの実用性は、モデル選択に加えて、履歴の保持方法や人へ引き継ぐ境界の設計に左右される可能性がある。両事例から一般的な費用削減や対応品質の改善までは判断できない。",
+          "next_question": "Sophosでは案件の難易度別に対応品質と人への引き継ぎ率がどう変わるか。Asanaでは別の情報収集課題でも、完了率と情報の正確性を維持して費用削減を再現できるか。",
           "required_ids": [
             "2b377d96caa506e6dca73b03",
             "9778a611a11a74213de7871d"
@@ -23803,28 +24507,26 @@
         },
         {
           "category": "tech",
-          "label": "エージェント開発基盤と実運用の間にある検証課題",
-          "observation": "MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表。開発者向けRTX Spark搭載ノートは予約段階で、10月16日発売予定。NVIDIAは通信事業者向けモデルと自社データによる追加学習手順を公開し、Omniverseではロボットや自動運転の試験用プロトタイプを紹介した。後者の成功結果はシミュレーション内に限られる。",
-          "interpretation": "ローカル実行、業務への適応、仮想環境での試験を組み合わせることで、用途に合わせたエージェント開発を進めやすくなる可能性がある。ただし、これらが一体として検証されたわけではなく、本番運用の安全性や実機への再現性は別途確認が必要と考えられる。",
-          "next_question": "RTX Spark発売後、通信モデルの追加学習と継続実行に必要なメモリ・処理時間はどの程度か。Omniverseで成功した動作は、実機でも同じ条件と成功基準で再現できるか。",
+          "label": "AI実行環境の整備は提供段階の確認が必要",
+          "observation": "NVIDIAはクラウド事業者などに向け、液冷接続や最大250kWに対応するラック設計と、設定・検証・管理・導入を担うDSXのオープンソース部品を公開した。MicrosoftはエージェントをOS管理下でバックグラウンド実行するMXCの一般提供を発表した。一方、最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、発売予定日は10月16日である。",
+          "interpretation": "AIを継続稼働させるため、データセンターの電力・冷却・運用と、PCのメモリ・OS管理をそれぞれ整える動きと捉えられる。ただし、設計公開や発売予告が実際の導入容易性、安全性、運用効率につながるかは未検証である。",
+          "next_question": "公開設計とDSXを使った導入で、構築時間・消費電力・障害復旧時間はどうなるか。RTX Spark発売後、MXC上の継続実行ではメモリ使用量、電力、権限制御をどこまで確認できるか。",
           "required_ids": [
-            "e6ba0560e23f6725aa25080f",
-            "be420afc3a2f48e111f957cf",
-            "badda310cca07906cc76c487"
+            "214de09c0748f52669ed1bc6",
+            "e6ba0560e23f6725aa25080f"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "e6ba0560e23f6725aa25080f",
-            "be420afc3a2f48e111f957cf",
-            "badda310cca07906cc76c487"
+            "214de09c0748f52669ed1bc6",
+            "e6ba0560e23f6725aa25080f"
           ]
         },
         {
           "category": "parenting",
-          "label": "課題への誘導と制作活動で異なる学習支援",
-          "observation": "Khan Academyは次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoの設計を紹介。Gem Jamは提携学区向けで、教師が時間・参加者を設定し、指定課題の習熟をチームで競う。対象学年は資料にない。一方、スウェーデンのYear 7〜9の教員はSitesでの共同共有とVidsでの動画制作を授業実践として紹介した。",
-          "interpretation": "課題の進め方を支える仕組みと、学んだ内容を制作・共有する活動は、異なる学習過程を支援する可能性がある。競争形式や制作活動の適合性は年齢・習熟度によって検証する必要があり、幼児への適用や学力向上はこの資料から判断できない。",
-          "next_question": "Gem Jamの対象学年と、習熟度別の参加率・理解度・競争への負担はどうか。Year 7〜9の制作活動では、評価基準をそろえた学習成果と教師の準備時間にどのような結果が出るか。",
+          "label": "課題への誘導と生徒自身の制作を支える授業設計",
+          "observation": "Khan Academyは、次の課題を示すMissions、進歩を可視化するGems、提出前のヒントと誤答後の説明を使い分けるKhanmigoを紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、指定課題の習熟をチームで競う。別の実践では、スウェーデンのYear 7〜9の教員がGoogle Sitesでの共同共有とGoogle Vidsでの動画発表を紹介した。Khan Academyの記事には対象学年の記載がなく、幼児向けの実践としては扱えない。",
+          "interpretation": "課題への着手を支える案内・競争と、学んだ内容を自分で表現する制作活動は、学習参加を支える異なる方法になり得る。ただし、対象年齢や授業条件が異なるため、学習継続や成績への効果を共通して推定することはできない。",
+          "next_question": "Khan Academy各機能の対象学年と提供条件は何か。学年別に、競争型課題と制作活動が理解度、継続参加、参加しにくい生徒の経験に与える影響を測定できるか。",
           "required_ids": [
             "40a1ca2db5e26599685ce199",
             "d6c2047bf7af12e6182205dd",
@@ -23840,9 +24542,20 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "95d67afd9472e7a9101ad8f0",
+        "214de09c0748f52669ed1bc6",
+        "07a0c493f650e4675cb2beb2",
+        "6fed762c68101f497f1e4577",
+        "4e56d0edee04a66d1a17a7b5",
         "5dda5578f36893c3c1616518",
         "0162690001104b6b28a3acf0",
         "6468fcfd514c01a2c23f5b2f",
+        "ed9835781c8554a9d6caa767",
+        "cea1174371f8c449ff4adaa2",
+        "7d9f820349e6b4174329c9b7",
+        "33b4f566e3498437d2c0c4e6",
+        "8d713301ca9592825be34717",
+        "495250eca757336c11d6bb21",
         "408905ac85f7ce3a6332cb2d",
         "ddeb03d543ccda068b5c7b11",
         "6d14f73009a7bceb116345b5",
@@ -23859,10 +24572,12 @@
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
-        "3091b6464a24712f17bd36ed",
         "3ddda55c954497f19600acb1",
+        "3091b6464a24712f17bd36ed",
         "f50bc24dce751fed56dd6193",
+        "307abb06b1e417d522dee3c1",
         "609a82e33be676cbd6d6bc88",
+        "6875665eb7ef00ccc7474e22",
         "d08b03a2a01071fb1cbb95d8",
         "a1374b861ae75220923037f1",
         "23ad61e231c3edc1e3d38a1e",
@@ -23901,6 +24616,7 @@
         "067aac2737244508e8d6c5de",
         "e6ba0560e23f6725aa25080f",
         "daf4bbb831476a90511ef506",
+        "28ae8a7d428690cfb1771cf8",
         "8deace5258730993e77ce83a",
         "9a0d53c33baada63dbffcf16",
         "7309ab3c197d8677af0b480d",
@@ -23917,6 +24633,7 @@
         "e6c0db477924d07d8c6724c3",
         "87126dabfbc750fd0851420c",
         "7659b79c25b818a6ae7918cf",
+        "f7a2c36229e753a87ace57d4",
         "51b4a20d4aa52b4704ed3007",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
@@ -23925,6 +24642,7 @@
         "3a03dce42662387d439d021a",
         "827b7264bc44ed6d1f12f24c",
         "c51a8457ec4a2aebd59b16a2",
+        "a6cfc345b7e5f084b9059f25",
         "54e21c38b85ee21a4eb9bb2e",
         "a0b2ef6f48d35f2a8bc10c89",
         "4c73eef9ae54b5806fc6af65",
@@ -23933,6 +24651,7 @@
         "251cf79fc4eabf78a9f341b9",
         "cc3db6b21ce525514664efb3",
         "09c6cfadaed4dfbfc4866569",
+        "d9a2c4a463c9bf189be8a2e2",
         "884d34ad9326cb889e3bb44d",
         "69c9edfa54feb57127d2cec7",
         "1e8f091ed75b16f3c25b28e4",
@@ -23959,7 +24678,10 @@
         "ac0c4754713ca7df94f45a76",
         "c8fbac2e8bf598193f2e16a1",
         "d09648279371c49a499ee499",
+        "5888079b2e776d91a1d82b16",
         "ced6b3a067bd7cb316d491ab",
+        "59482b469a6f76b767934461",
+        "b6f362ec683316b1d0758e4f",
         "0cc884ac8dd138cc0408af2a",
         "beb64b0aff02ca70159b70fc",
         "105088e1eaa32879961c6c56",
@@ -23969,6 +24691,7 @@
         "4fb6b933c6c8290b1261e0c5",
         "e7798d506ca6ea17e0ca320f",
         "afa82cbe749b90ac0dc134a1",
+        "e833aed5d4d282b98c6e69c7",
         "e700d08ac53b99cb9936a38e",
         "0703ecd6435a05f35af26ffc",
         "8bfb7d62271b16fd10046a23",
@@ -24014,6 +24737,7 @@
         "0749c7ee80eb370dc536c157",
         "693b6e999447922f597bab5c",
         "9e21984a22673ce953b44be1",
+        "4e1deda0382d627aa85beafe",
         "d92dd46ee9bb1287fea33f20",
         "0a24346eb30752c44b6ed776",
         "a869d2b7c346d380119b7dfb",
@@ -24022,12 +24746,12 @@
         "537e84744c37dfc04b77c754",
         "d96e0c5c3f44c023c84c7cc5",
         "fd23d40e9debbc980f7e5319",
-        "efae61d28ac8ca58995977e9",
         "6073eeb9386779685a4be513",
-        "4a828ce5d3f0d2341e14abb3",
         "227aa10b7de793ba52923b5d",
-        "ff1ae3ce021d8f893eb76b95",
         "8c750d73c75d54a52e6d951f",
+        "efae61d28ac8ca58995977e9",
+        "4a828ce5d3f0d2341e14abb3",
+        "ff1ae3ce021d8f893eb76b95",
         "ecbf3d4fddf2647424da1ed0",
         "f18538f91726c2565bfe9ad5",
         "86c5c60a7d6f612a5909aae3",
@@ -24035,12 +24759,14 @@
         "ad553b6d64420c64464a3b1f",
         "57b972642ba001cc78424cfd",
         "9dcb646d0abc42880ac890a3",
+        "26faf5007e45ccd51e5f4f86",
         "843760f8a0bb975f501b577c",
         "ce9c55e5f2990580577917b8",
         "9b4590005950ccc6b7bd29b8",
         "d0f9b9243030df8fc46b3685",
         "d02ea7173e01e1aa73d2d49e",
         "292a1eb5d767bc41f4973ec6",
+        "6a9f2632f5001f1a3c914d0d",
         "230442aec624c68914952248",
         "b46c6eaad2a8a20a0df5934b",
         "84ad53e79d76b0e8236b62a1",
@@ -24077,6 +24803,9 @@
         "8d335e4e2bc7d4275baaa36b",
         "1e9f31968436f5e9de786f0d",
         "7973bc954a31503d986ea735",
+        "9ec01c69ca10a0a0ad891a3b",
+        "115602899c96d16150e8ef5f",
+        "b039138b95caaff293b50bfd",
         "f8584bf8c3c786b1c2eeda4b",
         "1f1f906de11a35d87711d752",
         "6046ba627fe490620724c369",
@@ -24095,7 +24824,6 @@
         "89be7a63c36112c593c20967",
         "8fec39b02b014209f723cd73",
         "7590f87f4d5515fb1d3f0928",
-        "115602899c96d16150e8ef5f",
         "0f3f70e2c33289ad9aa8b473",
         "2d50f335da0efa4331d8fb6f",
         "241aa415650ab203eda465e3",
@@ -24103,15 +24831,16 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-12T09:22:56.823618+09:00",
+  "report_updated_at": "2026-10-13T06:02:47.209347+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-12T00:22:56.547686+00:00",
+    "attempted_at": "2026-10-12T21:02:46.995023+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
     "updated_periods": [
       "overview",
+      "weekly",
       "monthly"
     ],
     "errors": [
@@ -24122,32 +24851,30 @@
       {
         "article_id": "8a8e63b1add55db2b87f9687",
         "stage": "original_fetch"
-      },
-      {
-        "article_id": "66db625303cf90e7dff74e0b",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "fbe43b5ad4a3ba3733859517",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "15c6c0631585bca92ac22e41",
-        "stage": "original_fetch"
       }
     ],
     "local_codex": {
-      "attempted_at": "2026-10-11T21:00:13.195726+00:00",
-      "status": "ok",
-      "new_reviews": 7,
+      "attempted_at": "2026-10-12T21:00:23.171913+00:00",
+      "status": "partial",
+      "new_reviews": 4,
       "updated_periods": [
         "overview",
+        "weekly",
         "monthly"
       ],
-      "errors": [],
-      "last_success_at": "2026-10-11T21:00:13.195726+00:00"
+      "errors": [
+        {
+          "article_id": "bba44f898220fcf85c3c28c2",
+          "stage": "original_fetch"
+        },
+        {
+          "article_id": "8a8e63b1add55db2b87f9687",
+          "stage": "original_fetch"
+        }
+      ],
+      "last_success_at": "2026-10-12T21:00:23.171913+00:00"
     },
-    "last_success_at": "2026-10-12T00:22:56.547686+00:00"
+    "last_success_at": "2026-10-12T21:02:46.995023+00:00"
   },
   "topic_definitions": [
     {
@@ -24267,18 +24994,20 @@
         "provider": "Google / Gemini",
         "story": {
           "article_id": "09c6cfadaed4dfbfc4866569",
+          "headline": "Google、SynthID Detectorを英語で世界の一般利用者に公開",
+          "summary": "Googleは、従来メディア関係者向けに先行提供していたSynthID Detectorを、発表日から英語で世界の一般利用者に公開した。画像・動画・音声に埋め込まれた不可視の透かしを使い、GoogleやOpenAI、NVIDIA、KakaoなどのAIで作られたファイルかを確認できる。Appleへの対応は今後の予定。同社はこれまでに画像・動画1800億件超、音声24万年分に透かしを付けたと報告した。",
+          "impact": "考察：一般利用者がファイルの生成元を確認する手段が増え、オンラインの画像や音声を判断する際の補助情報になり得る。",
           "category": "ai",
-          "headline": "We're making it easier to identify AI-generated content globally.",
-          "summary": "Pushmeet Kohli VP, Science and Strategic Initiatives, Google DeepMind Oct 07, 2026 As AI tools become better and easier to use, having clear context about…",
-          "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
           "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/",
-          "source_label": "Google / Gemini 公式（本文の自動抜粋）",
-          "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+          "source_label": "Google / Gemini 公式（AI要約）",
+          "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象はGoogleや対応するパートナーの透かし付きコンテンツ。本文は全AI生成物の検出や精度を保証しておらず、透かしが見つからないことだけで真正性は判断できない。",
           "provider": "Google / Gemini",
           "origin_kind": "official",
           "tags": [],
-          "review_method": "extractive",
-          "generated_at": "2026-10-07T21:03:26.548021+00:00",
+          "review_method": "ai_source_grounded",
+          "generated_at": "2026-10-12T21:00:23.171913+00:00",
+          "model": "codex-cli",
+          "evidence_quote": "Now, we’re expanding access to everyone – with the tool available globally in English starting today.",
           "published_at": "2026-10-07T00:00:00Z"
         }
       },
@@ -24694,11 +25423,11 @@
     ]
   },
   "picks": [
+    "6fed762c68101f497f1e4577",
     "6468fcfd514c01a2c23f5b2f",
-    "408905ac85f7ce3a6332cb2d",
-    "33587c5891ba211e5bd5813d",
-    "71781648f372d873d84d0f89",
-    "5dda5578f36893c3c1616518",
-    "0162690001104b6b28a3acf0"
+    "214de09c0748f52669ed1bc6",
+    "4e56d0edee04a66d1a17a7b5",
+    "95d67afd9472e7a9101ad8f0",
+    "07a0c493f650e4675cb2beb2"
   ]
 }
