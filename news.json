@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T21:02:38.357744Z",
-  "last_attempt_at": "2026-10-11T21:02:38.357744Z",
+  "updated_at": "2026-10-12T00:22:51.603715Z",
+  "last_attempt_at": "2026-10-12T00:22:51.603715Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 4,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 42,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-11T21:02:38.357744Z",
+      "checked_at": "2026-10-12T00:22:51.603715Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-12T00:22:51.603715Z",
+      "new_count": 0,
+      "status": "ok"
+    },
     {
       "at": "2026-10-11T21:02:38.357744Z",
       "new_count": 1,
@@ -622,6 +627,24 @@
       ]
     },
     {
+      "id": "34d589546ac86c98f1f8e606",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "クマを自動検知し注意喚起 最新のＡＩカメラ - khb東日本放送",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2T3RTa3k5ZmQ2TU5xSVJiZGxDNmhDbXVFa09pVXZuTGRwTUdyNDRDZEF2WDdPVHpuS0M5TjN1WWc3U2FsMmZudVU3RjZDNHM?oc=5",
+      "publisher": "khb東日本放送",
+      "summary": "クマを自動検知し注意喚起 最新のＡＩカメラ khb東日本放送",
+      "published_at": "2026-10-09T09:31:24Z",
+      "collected_at": "2026-10-11T00:10:29.718090Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "e23a3658599dbf004707cf6f",
       "category": "tech",
       "source_id": "tech",
@@ -656,24 +679,6 @@
       "theme_ids": []
     },
     {
-      "id": "34d589546ac86c98f1f8e606",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "クマを自動検知し注意喚起 最新のＡＩカメラ - khb東日本放送",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2T3RTa3k5ZmQ2TU5xSVJiZGxDNmhDbXVFa09pVXZuTGRwTUdyNDRDZEF2WDdPVHpuS0M5TjN1WWc3U2FsMmZudVU3RjZDNHM?oc=5",
-      "publisher": "khb東日本放送",
-      "summary": "クマを自動検知し注意喚起 最新のＡＩカメラ khb東日本放送",
-      "published_at": "2026-10-09T09:15:00Z",
-      "collected_at": "2026-10-11T00:10:29.718090Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
       "id": "3d10b98c47374dc195598741",
       "category": "tech",
       "source_id": "tech",
@@ -681,7 +686,7 @@
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBmX3ZYUHR1dDIyc3Z4dUJBejJ1Y1BFTXNWWkI1Wkh4b204UUFJbU5vTlhXSjJVNnQ5TlV3elBIaTNpdnp4QXdqZWpaZlk2S0UwN1lXQ1piV1pKWlM0enhv?oc=5",
       "publisher": "NHKニュース",
       "summary": "宮城 仙台 ＡＩカメラでクマ識別のシステムを紹介 NHKニュース",
-      "published_at": "2026-10-09T08:48:54Z",
+      "published_at": "2026-10-09T08:48:00Z",
       "collected_at": "2026-10-10T00:39:25.100100Z",
       "provider": null,
       "origin_kind": "media",
@@ -7267,10 +7272,10 @@
       "id": "9880547bce9388dcde785d77",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "Google for Education、「高等教育 DX フォーラム：生成 AI と AI エージェントが拓く高等教育機関の未来」10月開催 - ict-enews.net",
+      "title": "Google for Education、「高等教育 DX フォーラム：生成 AI と AI エージェントが拓く高等教育機関の未来」10月開催 - ICT教育ニュース",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1nejBZVUIzNVMwUmpjRXdzaElQMmI3UmtkaVZ2ZWZPcXNFNnF3c3d6WE5SYTdaWGJLOHhPbWJWRUpKWktneVBkVExENTVPcVhp?oc=5",
-      "publisher": "ict-enews.net",
-      "summary": "Google for Education、「高等教育 DX フォーラム：生成 AI と AI エージェントが拓く高等教育機関の未来」10月開催 ict-enews.net",
+      "publisher": "ICT教育ニュース",
+      "summary": "Google for Education、「高等教育 DX フォーラム：生成 AI と AI エージェントが拓く高等教育機関の未来」10月開催 ICT教育ニュース",
       "published_at": "2026-09-30T01:03:43Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -13878,10 +13883,10 @@
       "id": "b20c93dbcc790b09ece7ff6c",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も - 日テレNEWS NNN",
+      "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月21日掲載） - 日テレNEWS NNN",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1HRGh3SlRWNE9NT3Y1NW05Tkl3V3BVdXNsZ0U4eWc0U05ublo1a1F5ajhlX0l3WXJrLUNSN05xcjEzTEpUV19VakdTVG9QRkhpaWZDdGN3S3FjUmJnUHByYmJyTFkwaEtXUzhoZllQc2tDVXBuanpJc0RPRkg?oc=5",
       "publisher": "日テレNEWS NNN",
-      "summary": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も 日テレNEWS NNN",
+      "summary": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月21日掲載） 日テレNEWS NNN",
       "published_at": "2026-09-21T07:00:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -17641,7 +17646,7 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-12T06:02:44.557868+09:00",
+      "generated_at": "2026-10-12T09:22:56.823618+09:00",
       "is_complete": false,
       "article_count": 1,
       "category_counts": {
@@ -17652,7 +17657,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -17693,7 +17698,7 @@
           "errors": [],
           "last_success_at": "2026-10-11T21:00:13.195726+00:00"
         },
-        "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
@@ -17728,7 +17733,7 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-12T06:02:44.557868+09:00",
+      "generated_at": "2026-10-12T09:22:56.823618+09:00",
       "is_complete": true,
       "article_count": 181,
       "category_counts": {
@@ -17741,7 +17746,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -17782,7 +17787,7 @@
           "errors": [],
           "last_success_at": "2026-10-11T21:00:13.195726+00:00"
         },
-        "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
       },
       "genre_briefs": [
         {
@@ -18088,9 +18093,9 @@
           "article_ids": [
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
+            "34d589546ac86c98f1f8e606",
             "e23a3658599dbf004707cf6f",
             "19a04ce01ea236c1a95b9579",
-            "34d589546ac86c98f1f8e606",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
             "a1374b861ae75220923037f1",
@@ -18323,9 +18328,9 @@
         "a86b0b0769ae6d341a4a51d3",
         "33587c5891ba211e5bd5813d",
         "71781648f372d873d84d0f89",
+        "34d589546ac86c98f1f8e606",
         "e23a3658599dbf004707cf6f",
         "19a04ce01ea236c1a95b9579",
-        "34d589546ac86c98f1f8e606",
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
@@ -18499,7 +18504,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-12T06:02:44.557868+09:00",
+      "generated_at": "2026-10-12T09:22:56.823618+09:00",
       "is_complete": false,
       "article_count": 260,
       "category_counts": {
@@ -18512,7 +18517,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -18553,7 +18558,7 @@
           "errors": [],
           "last_success_at": "2026-10-11T21:00:13.195726+00:00"
         },
-        "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
       },
       "genre_briefs": [
         {
@@ -18896,9 +18901,9 @@
           "article_ids": [
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
+            "34d589546ac86c98f1f8e606",
             "e23a3658599dbf004707cf6f",
             "19a04ce01ea236c1a95b9579",
-            "34d589546ac86c98f1f8e606",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
             "a1374b861ae75220923037f1",
@@ -19183,9 +19188,9 @@
         "a86b0b0769ae6d341a4a51d3",
         "33587c5891ba211e5bd5813d",
         "71781648f372d873d84d0f89",
+        "34d589546ac86c98f1f8e606",
         "e23a3658599dbf004707cf6f",
         "19a04ce01ea236c1a95b9579",
-        "34d589546ac86c98f1f8e606",
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
@@ -20996,7 +21001,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-12T06:02:44.557868+09:00",
+      "generated_at": "2026-10-12T09:22:56.823618+09:00",
       "is_complete": true,
       "article_count": 497,
       "category_counts": {
@@ -21009,7 +21014,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -21050,7 +21055,7 @@
           "errors": [],
           "last_success_at": "2026-10-11T21:00:13.195726+00:00"
         },
-        "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
       },
       "genre_briefs": [
         {
@@ -21591,7 +21596,7 @@
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
           "count": 98,
-          "publisher_count": 53,
+          "publisher_count": 52,
           "summary": "GoogleがGemini Notebookの学習機能を拡充。教材の要約・図解・小テスト・フラッシュカードを組み合わせた学習画面や、回答結果をもとに復習箇所を考える使い方を紹介しています。",
           "evidence_ids": [
             "28ec2b9c20fa86b2043a8c91",
@@ -22358,7 +22363,7 @@
       "kind": "overview",
       "period_start": "2026-10-06",
       "period_end": "2026-10-12",
-      "generated_at": "2026-10-12T06:02:44.557868+09:00",
+      "generated_at": "2026-10-12T09:22:56.823618+09:00",
       "is_complete": false,
       "article_count": 151,
       "category_counts": {
@@ -22371,7 +22376,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -22412,7 +22417,7 @@
           "errors": [],
           "last_success_at": "2026-10-11T21:00:13.195726+00:00"
         },
-        "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
       },
       "genre_briefs": [
         {
@@ -22707,9 +22712,9 @@
           "article_ids": [
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
+            "34d589546ac86c98f1f8e606",
             "e23a3658599dbf004707cf6f",
             "19a04ce01ea236c1a95b9579",
-            "34d589546ac86c98f1f8e606",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
             "a1374b861ae75220923037f1",
@@ -22932,9 +22937,9 @@
         "a86b0b0769ae6d341a4a51d3",
         "33587c5891ba211e5bd5813d",
         "71781648f372d873d84d0f89",
+        "34d589546ac86c98f1f8e606",
         "e23a3658599dbf004707cf6f",
         "19a04ce01ea236c1a95b9579",
-        "34d589546ac86c98f1f8e606",
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
@@ -23077,7 +23082,7 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-12T06:02:44.557868+09:00",
+      "generated_at": "2026-10-12T09:22:56.823618+09:00",
       "is_complete": false,
       "article_count": 1,
       "category_counts": {
@@ -23088,7 +23093,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -23129,7 +23134,7 @@
           "errors": [],
           "last_success_at": "2026-10-11T21:00:13.195726+00:00"
         },
-        "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
@@ -23164,7 +23169,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-12T06:02:44.557868+09:00",
+      "generated_at": "2026-10-12T09:22:56.823618+09:00",
       "is_complete": false,
       "article_count": 260,
       "category_counts": {
@@ -23177,7 +23182,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+        "attempted_at": "2026-10-12T00:22:56.547686+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -23218,7 +23223,7 @@
           "errors": [],
           "last_success_at": "2026-10-11T21:00:13.195726+00:00"
         },
-        "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+        "last_success_at": "2026-10-12T00:22:56.547686+00:00"
       },
       "genre_briefs": [
         {
@@ -23561,9 +23566,9 @@
           "article_ids": [
             "33587c5891ba211e5bd5813d",
             "71781648f372d873d84d0f89",
+            "34d589546ac86c98f1f8e606",
             "e23a3658599dbf004707cf6f",
             "19a04ce01ea236c1a95b9579",
-            "34d589546ac86c98f1f8e606",
             "3d10b98c47374dc195598741",
             "3091b6464a24712f17bd36ed",
             "a1374b861ae75220923037f1",
@@ -23848,9 +23853,9 @@
         "a86b0b0769ae6d341a4a51d3",
         "33587c5891ba211e5bd5813d",
         "71781648f372d873d84d0f89",
+        "34d589546ac86c98f1f8e606",
         "e23a3658599dbf004707cf6f",
         "19a04ce01ea236c1a95b9579",
-        "34d589546ac86c98f1f8e606",
         "3d10b98c47374dc195598741",
         "2b377d96caa506e6dca73b03",
         "9778a611a11a74213de7871d",
@@ -24098,10 +24103,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-12T06:02:44.557868+09:00",
+  "report_updated_at": "2026-10-12T09:22:56.823618+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-11T21:02:44.302403+00:00",
+    "attempted_at": "2026-10-12T00:22:56.547686+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -24142,7 +24147,7 @@
       "errors": [],
       "last_success_at": "2026-10-11T21:00:13.195726+00:00"
     },
-    "last_success_at": "2026-10-11T21:02:44.302403+00:00"
+    "last_success_at": "2026-10-12T00:22:56.547686+00:00"
   },
   "topic_definitions": [
     {
