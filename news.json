@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-13T21:02:13.300459Z",
-  "last_attempt_at": "2026-10-13T21:02:13.300459Z",
+  "updated_at": "2026-10-14T00:13:32.388470Z",
+  "last_attempt_at": "2026-10-14T00:13:32.388470Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 2,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 42,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-13T21:02:13.300459Z",
+      "checked_at": "2026-10-14T00:13:32.388470Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-14T00:13:32.388470Z",
+      "new_count": 31,
+      "status": "ok"
+    },
     {
       "at": "2026-10-13T21:02:13.300459Z",
       "new_count": 0,
@@ -558,6 +563,38 @@
       "theme_ids": []
     },
     {
+      "id": "6f4c63a3840a4d64ad222707",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "国内最大級・デジタル技術の展示会「CEATEC」 JR西日本などが800社以上が参加 AI時代について対談も - KSBニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LX2doQmV5RGk4bUhBVk81MlRZcDNTNXJubU8tdWVtRVNsZjBQSnpJNldERFU4Z1plb01Hd0x6Zmc5emZLRDRyeHBLLTA3NTE4?oc=5",
+      "publisher": "KSBニュース",
+      "summary": "国内最大級・デジタル技術の展示会「CEATEC」 JR西日本などが800社以上が参加 AI時代について対談も KSBニュース",
+      "published_at": "2026-10-13T10:55:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "5eae05b5aa60f1bc4430bf04",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "デジタル教科書、動画1本あたり3分程度まで AI搭載は当面認めず [AIの時代] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CdXBRc2dUbjFVZVlKemRUX082YUQxNXFhMDNGTi0xTnVXOWs2ektydEFIU0o2Z0xzR0JXZ3RsQVVPRnh4LThiRE8wWi03YWF2bS1qWDZadHV0RlpRUzNVWG05ZndCYms?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "デジタル教科書、動画1本あたり3分程度まで AI搭載は当面認めず [AIの時代] 朝日新聞",
+      "published_at": "2026-10-13T09:45:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
       "id": "2b64615106f0930c5ea17607",
       "category": "parenting",
       "source_id": "parenting",
@@ -609,6 +646,42 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "6b97a6de33982ad13b50f4d8",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "停止履歴を映像で追跡、セーフィーが設備監視AI - LOGISTICS TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13NlNNaEdqYlg5OW9nRmlmWTJSUmVJV3FFUlBLZFJSLVh5LUgzMXEybmZUU1NubGZMTlBtOFFXd0J2d1lxT0ZYWHFn?oc=5",
+      "publisher": "LOGISTICS TODAY",
+      "summary": "停止履歴を映像で追跡、セーフィーが設備監視AI LOGISTICS TODAY",
+      "published_at": "2026-10-13T08:07:38Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "84bb2855903414d496b19cbb",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "一宮市 自宅への防犯用具（防犯カメラ・センサーライト） 購入費用補助 令和９年１月まで - 選挙ドットコム",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92bjZaRUk5SV9TNkZHY20zOHZBRklWRXhlQ3FnZ29EekR1QW5VRGljU0RjNjhEUDBFVDlJeDVGVW5YbjFqdzdseGVGcDQya3UxXzBlN3pIcG5QQ0x0ZW40?oc=5",
+      "publisher": "選挙ドットコム",
+      "summary": "一宮市 自宅への防犯用具（防犯カメラ・センサーライト） 購入費用補助 令和９年１月まで 選挙ドットコム",
+      "published_at": "2026-10-13T07:38:18Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -736,6 +809,40 @@
       ]
     },
     {
+      "id": "c264c5f737fd9312568a0453",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lT3NhdkN0aW9CVGFzc0wwX0RVQW1hTkpXc1pkN1Iwc3VvajY5MDl6R3pVVkluYVlUWTFRRDY2SXdvNXpkRmhhNFNsWTNJa24xSXlVOXJpemVrVlg3RHpQUmNLTzZ2Q1RxcWc?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Anthropic、自己複製AIの「兆し」を指摘 55ドルのTVボックス15台で26Bモデルが稼働 ITmedia",
+      "published_at": "2026-10-13T02:31:26Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "444b1264c373cd22d49b6441",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "エッジAIプロセッサ市場、2035年に156億6,000万米ドル到達へ｜CAGR 15.83％、自律型デバイスとオンデバイスAIの普及が成長を加速 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE96Y0xKbTY4SU01QTNBSW5pRVF3c3JPTXd0dWY1aHloOFhJSXh6Vm5yZm1CcnBwRTdDNnduR1VfYlgzRjdLejhYb1dhNlVHTTA?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "エッジAIプロセッサ市場、2035年に156億6,000万米ドル到達へ｜CAGR 15.83％、自律型デバイスとオンデバイスAIの普及が成長を加速 Newscast.jp",
+      "published_at": "2026-10-13T02:31:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "068339586a82f1bbbc6a35fc",
       "category": "tech",
       "source_id": "tech",
@@ -769,6 +876,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "13b85f448e5f174d9cee9f34",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "1インチ広角と60mm中望遠の2眼を手のひらに！ゴリラレンタルがポケットジンバルカメラ「DJI Osmo Pocket 4P」のレンタル取り扱いを開始。 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1wSXRma1pwcHB0emp0MkVxcjNjT201Uy1tOXFIcnNrYkpYTFdrRGZyX25pTmlmcG9GaS01SVFKbW5TVW5kWjNSSWtxcTctZTg?oc=5",
+      "publisher": "アットプレス",
+      "summary": "1インチ広角と60mm中望遠の2眼を手のひらに！ゴリラレンタルがポケットジンバルカメラ「DJI Osmo Pocket 4P」のレンタル取り扱いを開始。 アットプレス",
+      "published_at": "2026-10-13T00:44:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -894,6 +1019,22 @@
       "theme_ids": [
         "education"
       ]
+    },
+    {
+      "id": "4b62c45548aafe3b8fa282f5",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "創業者は23・24・25歳──元OpenAI研究者3人が起業、企業向けオープンウェイトAIで約553億円を調達 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TRk02eWNDQkUxOWxnX1dhbS1Rd2VNWjBENGhpU0lpd3ZwWmNuR21TXzZ4bHUwYXJjWEJVQ1B3NTBfRG1rR3M4dlhmcTgtZzQ5Zy16X0xtXzhLQQ?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "創業者は23・24・25歳──元OpenAI研究者3人が起業、企業向けオープンウェイトAIで約553億円を調達 Forbes JAPAN",
+      "published_at": "2026-10-12T04:14:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "6a59e4d478c6edc1c35979bc",
@@ -1080,6 +1221,25 @@
       "theme_ids": []
     },
     {
+      "id": "8eaa886898c6c72397e3c3c2",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIグラス 【レイバン メタ】に次世代モデルが登場。3Kカメラや最大9時間駆動バッテリーを搭載 - SPUR（シュプール）",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1fTFNFWmJoQzZqVkdtT0VpSWxNc1QtcWx0cXhIcFVNWC1BZGU1NlpWaUp2dzc2Ry1vX2tqS0FEY1k3cnUwSUlyOWVVR0V4QkJDcEJId2Z3?oc=5",
+      "publisher": "SPUR（シュプール）",
+      "summary": "AIグラス 【レイバン メタ】に次世代モデルが登場。3Kカメラや最大9時間駆動バッテリーを搭載 SPUR（シュプール）",
+      "published_at": "2026-10-10T23:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "camera"
+      ]
+    },
+    {
       "id": "cea1174371f8c449ff4adaa2",
       "category": "tech",
       "source_id": "tech",
@@ -1196,6 +1356,24 @@
       "topic_id": "ai-safety",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "ff7a7fb0df00ab4ad58ea041",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "Databricks、並列コーディングエージェント向けLakebaseブランチングの詳細 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOU1l1dFVqRDZPeGdrUjdTM2t4UFNlS01pR1ZmbGZTQ3hKeDVDclRlV1JKSzhvTW5nenZ6bXM2d2JFa3o0ei0xcm9DUUdqNW5YUk5ZNVRBbjZoWlpuRTVhQmY5ZEJKWTRJMWoyc05TZTBqYmVlVzM5VXBhQVB4MVZ5SmlUOHpFWmlYYmFkSzdWZ0hrUzQ?oc=5",
+      "publisher": "Unite.AI",
+      "summary": "Databricks、並列コーディングエージェント向けLakebaseブランチングの詳細 Unite.AI",
+      "published_at": "2026-10-09T22:13:50Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "development"
+      ]
     },
     {
       "id": "ddeb03d543ccda068b5c7b11",
@@ -1806,6 +1984,24 @@
       "in_scope": true,
       "theme_ids": [
         "development"
+      ]
+    },
+    {
+      "id": "a479b3347696d04733655d1e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "中国AI「Qwen」の挙動をローカル環境で試す、小型のモデルでも実用的 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WU1RZVHRZUmVMWWJ2bFQ5NXpodUNIcjhCSG1yLUlJcHU3c2xWU0ZoUDZoNHdaLTdIc0ZzZ1BJa0Z5TEI1MVdGbFNreEg3dHh1VmxZWjE5WHFBZVVvQWlkb0dWTmJTbWNSanFvdw?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "中国AI「Qwen」の挙動をローカル環境で試す、小型のモデルでも実用的 日経クロステック",
+      "published_at": "2026-10-08T20:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -4344,24 +4540,6 @@
       ]
     },
     {
-      "id": "0337ebbfea35c677d910ddb1",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "Gemini無料版、10月9日から「Flash-Lite」のみに変更 - PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WN2d3Mjl6U2RfbnJqZzI0TVJnMUI0U0hKUEVzcEhmTTJoUFVSZFJhdVZIenBocHd2UGJudWl5aDlmYmd0MXNSNlJ0d3gxX0wyOEs0N214NEVfbnh2MWtUaFQyUQ?oc=5",
-      "publisher": "PC Watch",
-      "summary": "Gemini無料版、10月9日から「Flash-Lite」のみに変更 PC Watch",
-      "published_at": "2026-10-05T08:43:08Z",
-      "collected_at": "2026-10-06T01:42:37.416812Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
-      ]
-    },
-    {
       "id": "a159f2ff40f8d61320d164ac",
       "category": "ai",
       "source_id": "ai",
@@ -4376,6 +4554,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "0337ebbfea35c677d910ddb1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini無料版、10月9日から「Flash-Lite」のみに変更 - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1WN2d3Mjl6U2RfbnJqZzI0TVJnMUI0U0hKUEVzcEhmTTJoUFVSZFJhdVZIenBocHd2UGJudWl5aDlmYmd0MXNSNlJ0d3gxX0wyOEs0N214NEVfbnh2MWtUaFQyUQ?oc=5",
+      "publisher": "PC Watch",
+      "summary": "Gemini無料版、10月9日から「Flash-Lite」のみに変更 PC Watch",
+      "published_at": "2026-10-05T07:00:00Z",
+      "collected_at": "2026-10-06T01:42:37.416812Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "ced6b3a067bd7cb316d491ab",
@@ -9982,6 +10178,24 @@
       ]
     },
     {
+      "id": "30d9c11affce5edc0ad31004",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "LiDAR不要、カメラのみで自動駐車が可能 AI認識技術で躍進するSTRADVISIONとは：自動運転技術（1/3 ページ） - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrVFJUaE16aklxU1lEREpVWUJ5V0RaV0FJM3JvdDlpTXBFeTZLekdOMmJqelZHZnI2bV9aQmxRek96dzduTm82Sm0tRDItV0VFUEpZeWZva243bk9HMnpyaTkwRF85WUZrSFpROVg5TQ?oc=5",
+      "publisher": "MONOist",
+      "summary": "LiDAR不要、カメラのみで自動駐車が可能 AI認識技術で躍進するSTRADVISIONとは：自動運転技術（1/3 ページ） MONOist",
+      "published_at": "2026-09-29T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "38dcb1a8af6700e45fc73243",
       "category": "ai",
       "source_id": "ai",
@@ -10657,24 +10871,6 @@
       ]
     },
     {
-      "id": "30d9c11affce5edc0ad31004",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "LiDAR不要、カメラのみで自動駐車が可能 AI認識技術で躍進するSTRADVISIONとは：自動運転技術（1/3 ページ） - MONOist",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrVFJUaE16aklxU1lEREpVWUJ5V0RaV0FJM3JvdDlpTXBFeTZLekdOMmJqelZHZnI2bV9aQmxRek96dzduTm82Sm0tRDItV0VFUEpZeWZva243bk9HMnpyaTkwRF85WUZrSFpROVg5TQ?oc=5",
-      "publisher": "MONOist",
-      "summary": "LiDAR不要、カメラのみで自動駐車が可能 AI認識技術で躍進するSTRADVISIONとは：自動運転技術（1/3 ページ） MONOist",
-      "published_at": "2026-09-28T21:15:00Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
       "id": "cde30b0562189b5688238e3f",
       "category": "ai",
       "source_id": "ai",
@@ -11104,6 +11300,24 @@
       "summary": "【ソブリンAI】国産コーディングエージェント「CodeSense」がリリース予定 PR TIMES",
       "published_at": "2026-09-28T07:00:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "c07df9284ac9b7ac145ee92e",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【ソブリンAI】国産コーディングエージェント「CodeSense」がリリース予定 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xa2JSUV9yeUNDLTRRX216MkV4WTlXNnpLbV9vWmRPX3d2Y0NubVBuVzlqTnRId1k2WHRyOWNtSnhQSHFsZVY2UDVvS0J3dWlNVlE?oc=5",
+      "publisher": "山陽新聞",
+      "summary": "【ソブリンAI】国産コーディングエージェント「CodeSense」がリリース予定 山陽新聞",
+      "published_at": "2026-09-28T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -12679,6 +12893,60 @@
       "theme_ids": []
     },
     {
+      "id": "89dc2c2678921be2026a9a0f",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "ソフトPLCがAIの「道具」に、簡単導入のPLCドラレコカメラも：産業オープンネット展2026 - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE95MWoxNkUtV2thNVdYaVFodmdvaUJ4cXhUbE8tcDVka0piTk1GWjJzb2NNMjBmUk5UcG1LT3BhX3JZWWx2QlhxYjV0eVJfUXlqSHVQQ1ZidWNYbTd6WElxcmdwVXZOckZPVjJnbU03dw?oc=5",
+      "publisher": "MONOist",
+      "summary": "ソフトPLCがAIの「道具」に、簡単導入のPLCドラレコカメラも：産業オープンネット展2026 MONOist",
+      "published_at": "2026-09-25T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "36dd0cfc1fa181e470a50ed6",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "スマートAIカメラの世界市場（2026年～2032年）、市場規模（有線、無線）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CUUN5LUlYZW9sbVZUUER4enF1MVNEd1NQZnl6Z2RxWGtVTUNVWTdCUnpub1lNVmNGS0dhZ0NtVHo5TmlVZlpSTkdaWmh5UTQ?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "スマートAIカメラの世界市場（2026年～2032年）、市場規模（有線、無線）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-25T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "ec63d69b546f95e9e009322b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "Metaはなぜオーディオ専用のAIグラスをつくるのか 「カメラを内蔵しない」本当の意図 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12TjR0ZlZzUXlueFI0cGxvd0RKeFpDdnBfNG11Zi1kNldzVGxYZUhGLVFjWjF2bXdLSWVXMTNsZE1jVlg0Vy1NX3pRTnNSVkFzclZmVFBWVDlaQQ?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "Metaはなぜオーディオ専用のAIグラスをつくるのか 「カメラを内蔵しない」本当の意図 Forbes JAPAN",
+      "published_at": "2026-09-25T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "08dd358013b87cbfc257c092",
       "category": "ai",
       "source_id": "ai",
@@ -13259,24 +13527,6 @@
       "theme_ids": []
     },
     {
-      "id": "76419033f795c95ce21adc8b",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "AI搭載監視カメラの世界市場（2026年～2032年）、市場規模（バレット型AI監視カメラ、ドーム型AI監視カメラ、PTZ型AI監視カメラ）・分析レポートを発表 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUGNtWldTLVdESERSdGd4R2N1dUJYbGlVaERsTFBVNS1kQzBSYi1OWkZDUUM5eHIwMXdSUlgzRTY1dkhfVjBOak9pcWoyUEk?oc=5",
-      "publisher": "Newscast.jp",
-      "summary": "AI搭載監視カメラの世界市場（2026年～2032年）、市場規模（バレット型AI監視カメラ、ドーム型AI監視カメラ、PTZ型AI監視カメラ）・分析レポートを発表 Newscast.jp",
-      "published_at": "2026-09-24T09:30:00Z",
-      "collected_at": "2026-10-02T00:38:20.581370Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
       "id": "99f3f63bca8fe957a32e7ec2",
       "category": "parenting",
       "source_id": "parenting",
@@ -13425,6 +13675,24 @@
       ]
     },
     {
+      "id": "76419033f795c95ce21adc8b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AI搭載監視カメラの世界市場（2026年～2032年）、市場規模（バレット型AI監視カメラ、ドーム型AI監視カメラ、PTZ型AI監視カメラ）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ZUGNtWldTLVdESERSdGd4R2N1dUJYbGlVaERsTFBVNS1kQzBSYi1OWkZDUUM5eHIwMXdSUlgzRTY1dkhfVjBOak9pcWoyUEk?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "AI搭載監視カメラの世界市場（2026年～2032年）、市場規模（バレット型AI監視カメラ、ドーム型AI監視カメラ、PTZ型AI監視カメラ）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-24T07:00:00Z",
+      "collected_at": "2026-10-02T00:38:20.581370Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "0662bbd919e5675903ed42ed",
       "category": "tech",
       "source_id": "tech",
@@ -13566,10 +13834,10 @@
       "id": "e00b8c9f7a42e11ab7e382c4",
       "category": "tech",
       "source_id": "tech",
-      "title": "カメラ×AI活用で歯間のフロスケアが可能 ダイソンの「次世代電動歯ブラシ」とは：イノベーションのレシピ（1/2 ページ） - monoist.itmedia.co.jp",
+      "title": "カメラ×AI活用で歯間のフロスケアが可能 ダイソンの「次世代電動歯ブラシ」とは：イノベーションのレシピ（1/2 ページ） - MONOist",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ocVFOLU00eWpqcy1CTU9HYllqYVRPM0o2Q2xVUER3NDZkNldCWHkyTmZsX0hxcXg0b0FVVUIyMlpmMUg3bGh1UHJJWHBIbTZrNDExS29wQm9OTk1pU294Sl9UQXBoZV9vU0pYVDF1OA?oc=5",
-      "publisher": "monoist.itmedia.co.jp",
-      "summary": "カメラ×AI活用で歯間のフロスケアが可能 ダイソンの「次世代電動歯ブラシ」とは：イノベーションのレシピ（1/2 ページ） monoist.itmedia.co.jp",
+      "publisher": "MONOist",
+      "summary": "カメラ×AI活用で歯間のフロスケアが可能 ダイソンの「次世代電動歯ブラシ」とは：イノベーションのレシピ（1/2 ページ） MONOist",
       "published_at": "2026-09-24T07:00:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
@@ -13739,6 +14007,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "b0605f0710d48a31389498ad",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "“AIスマホ”としての個性がより鮮明に 望遠カメラ刷新＆AI処理が飛躍した「Pixel 11 Pro」 の実力とベンチマーク結果を検証（2/3 ページ） - ITmedia PC USER - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqR3U5b3NOeUFiZUloRDlROTdhQzg0a3gzZTJ5X3VaSnlxd0tSdmtNaU5WNk1JOTBabEpmUF9KRkV2ZnJERHVqZmVURWV6TkxVYmlKMlROMVdYXzV2VUlNd0NLNWZWZ0tfeVowMzByN0VuZ9IBa0FVX3lxTE16LTNoYkZSTjRMbzNSVzRoWko1SEZoTTFZWUlRa0EtWURna0hQT1EyWDlsdFZkOEl2dXUyQUpOMzFzR19QeFlqWkdMclhPbl9tREJaRWJkN2VNVEFUcnJQUUVwRU9hOXpWQzdV?oc=5",
+      "publisher": "ITmedia",
+      "summary": "“AIスマホ”としての個性がより鮮明に 望遠カメラ刷新＆AI処理が飛躍した「Pixel 11 Pro」 の実力とベンチマーク結果を検証（2/3 ページ） - ITmedia PC USER ITmedia",
+      "published_at": "2026-09-24T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -14259,24 +14545,6 @@
       "theme_ids": []
     },
     {
-      "id": "a7a9cf33d351de94acd8fa47",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DVy1LZUVmdnI1UTgtcUw0YlJUYklBT3YweE9leE1wTjhiSHRHaVozbVpvb1RaSWEySUcybHBJT2pxeHpCUU12SkIwS1F6QVE?oc=5",
-      "publisher": "Newscast.jp",
-      "summary": "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 Newscast.jp",
-      "published_at": "2026-09-23T09:30:00Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
       "id": "46d8c3ca5ccd8713daddfc43",
       "category": "tech",
       "source_id": "tech",
@@ -14286,6 +14554,24 @@
       "summary": "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 アットプレス",
       "published_at": "2026-09-23T09:30:00Z",
       "collected_at": "2026-10-01T13:19:48.979874Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "a7a9cf33d351de94acd8fa47",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DVy1LZUVmdnI1UTgtcUw0YlJUYklBT3YweE9leE1wTjhiSHRHaVozbVpvb1RaSWEySUcybHBJT2pxeHpCUU12SkIwS1F6QVE?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "HD AI知覚カメラの世界市場（2026年～2032年）、市場規模（シリンダー型、半球型）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-23T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -14399,6 +14685,24 @@
       ]
     },
     {
+      "id": "fa60ca1efe26fa0942dc18b7",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "家庭用AI防犯カメラの世界市場（2026年～2032年）、市場規模（1080P、2K、4K）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HTjBRWEVfTTJWS0MyU0IwWlA0dFp4aDRhckNRR3FjQ2JFZmhVeG5jZ1dzeEtnUVJaVGM1SVBzbkFXWEtFZ1NWVS0teU9PNjg?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "家庭用AI防犯カメラの世界市場（2026年～2032年）、市場規模（1080P、2K、4K）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-23T07:00:00Z",
+      "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "32cdd28d133e0df44948b647",
       "category": "parenting",
       "source_id": "parenting",
@@ -14414,24 +14718,6 @@
       "in_scope": true,
       "theme_ids": [
         "education"
-      ]
-    },
-    {
-      "id": "fa60ca1efe26fa0942dc18b7",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "家庭用AI防犯カメラの世界市場（2026年～2032年）、市場規模（1080P、2K、4K）・分析レポートを発表 - Newscast.jp",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HTjBRWEVfTTJWS0MyU0IwWlA0dFp4aDRhckNRR3FjQ2JFZmhVeG5jZ1dzeEtnUVJaVGM1SVBzbkFXWEtFZ1NWVS0teU9PNjg?oc=5",
-      "publisher": "Newscast.jp",
-      "summary": "家庭用AI防犯カメラの世界市場（2026年～2032年）、市場規模（1080P、2K、4K）・分析レポートを発表 Newscast.jp",
-      "published_at": "2026-09-23T04:30:00Z",
-      "collected_at": "2026-10-01T03:16:35.341003Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
       ]
     },
     {
@@ -15129,8 +15415,26 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9fYUVTLUtLN1VDVUItY2xFTG5RSnVFMWEwM2ltR20yLXdQMzEwUkZVSGUxclpVLWE0WGYzMjU4Rm1UVUFuQkVlUzcxaUtBdlk?oc=5",
       "publisher": "Newscast.jp",
       "summary": "AI搭載カメラの世界市場（2026年～2032年）、市場規模（AIセキュリティカメラ、AI交通カメラ）・分析レポートを発表 Newscast.jp",
-      "published_at": "2026-09-21T04:30:00Z",
+      "published_at": "2026-09-21T07:00:00Z",
       "collected_at": "2026-10-01T03:16:35.341003Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-security",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "45ef2dab95e5cd835e12b76d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "商用AIセキュリティカメラの世界市場（2026年～2032年）、市場規模（1080P、2K、4K）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qNFRqbzBXWjdiUVZ1dnRYbmtVMk5sTGVOU2o3aUFtblVEeVVFX3Fya3dxbENhVFNVbTRSYlJIVnRXNGlMNHFWbDBtbnlFSnM?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "商用AIセキュリティカメラの世界市場（2026年～2032年）、市場規模（1080P、2K、4K）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-21T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-security",
@@ -15242,6 +15546,60 @@
       ]
     },
     {
+      "id": "2946d4489296ff04600f52b1",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "遊園地にAIカメラ50台 来場者の劇的瞬間を自動撮影 「自然な表情が撮れた」と好評 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE84cE8xSlB4a25NMGxBSzA5T3R1X09OTXRheU5wa1R4V01YYkdFeXVteUNReXR1ZE5RR2hIdXFvem1hXzY0YWhZYWtFbDRJNndvemNNeTZJdmppU0RaNFBBbEtXVjlqTS0zb1NKS05UYWJnQQ?oc=5",
+      "publisher": "テレ朝NEWS",
+      "summary": "遊園地にAIカメラ50台 来場者の劇的瞬間を自動撮影 「自然な表情が撮れた」と好評 テレ朝NEWS",
+      "published_at": "2026-09-20T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "2baa21b8747db0b51465a596",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AI追跡機能付きPTZカメラの世界市場（2026年～2032年）、市場規模（4K、1080p）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01M2EybUE2SEtndzlyWVhpQXZMVUtPUXJkbG5weGNyUGo2bV9EbV9iZEpzR0pWTC1vYmk2TUd2N2ZCaWdNVmlkZWFNeXdBZUE?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "AI追跡機能付きPTZカメラの世界市場（2026年～2032年）、市場規模（4K、1080p）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-20T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "b119e36bf4a1edc55ee437af",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AI ISPカメラ用チップの世界市場（2026年～2032年）、市場規模（10TOPs未満、10TOPs～15TOPs、15TOPs以上）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NTVNudDBrREtEdWNvWU9Welk1Tk82UWVqX0NLbjhtbkRPUkdsR3dxY3NXYTN1NHpVNno1UUYtQUV2bjhCUmI5eGJGWmEtaFU?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "AI ISPカメラ用チップの世界市場（2026年～2032年）、市場規模（10TOPs未満、10TOPs～15TOPs、15TOPs以上）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-20T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "9707871da3a56433eefbdc56",
       "category": "ai",
       "source_id": "ai",
@@ -15283,6 +15641,78 @@
       "summary": "遊園地にAIカメラ50台 来場者の劇的瞬間を自動撮影 「自然な表情が撮れた」と好評 ABEMA",
       "published_at": "2026-09-19T07:00:00Z",
       "collected_at": "2026-10-04T21:00:06.754933Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "c1cc639e295f66811f018754",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIスマート監視カメラの世界市場（2026年～2032年）、市場規模（Webカメラ、アナログカメラ）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VcTBuLTJPclh2SzVPbFFkc2h6dGNEZDhZUFBVbHJ3NGFBd0JHMEM0WVhlZHR3dzAtS1NCNS1pMU5vVEJVdkNBaWlDWElRUE0?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "AIスマート監視カメラの世界市場（2026年～2032年）、市場規模（Webカメラ、アナログカメラ）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-19T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "ed380fa3378bf62265ee344e",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "産業用組み込みAIビジョンカメラの世界市場（2026年～2032年）、市場規模（エリアスキャン型組み込みAIカメラ、ラインスキャン型組み込みAIカメラ、3D組み込みAIカメラ）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ub3JvZFUzdVFiZGRKdzJGTUtBM3piZndpMDVOVXhRVklDWTRaSVVWeDE2bmNzRl9sZi1zWm1RNDQxSmJtWXlr?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "産業用組み込みAIビジョンカメラの世界市場（2026年～2032年）、市場規模（エリアスキャン型組み込みAIカメラ、ラインスキャン型組み込みAIカメラ、3D組み込みAIカメラ）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-19T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "a86aff5cb7844c70654e9fb6",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "人工知能（AI）カメラの世界市場（2026年～2032年）、市場規模（コンパクトカメラ、デジタル一眼レフカメラ、民生用電子機器／スマートフォン用カメラ、CCTVカメラ）・分析レポートを発表 - アットプレス",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QWkpEUWRNY0JXbG1CSGNZZXRyRU5BYUtDMTBZdk9TUV9Iakc1a2xPYzE4b2VkeWktN210a1B5VG85VnFkSmNXTU1MTHNfOTg?oc=5",
+      "publisher": "アットプレス",
+      "summary": "人工知能（AI）カメラの世界市場（2026年～2032年）、市場規模（コンパクトカメラ、デジタル一眼レフカメラ、民生用電子機器／スマートフォン用カメラ、CCTVカメラ）・分析レポートを発表 アットプレス",
+      "published_at": "2026-09-19T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "f906bf2d40f3adf9185b5925",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "踏切事故防止に「ＡＩカメラ」、異常を検知→運転士に即通知…「ＡＩが非常ボタン押してくれるようなもの」 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12MGNndkp5VnN1aTd2OUNlUFgwTXEwVWtSeUI3M3F4c2UyYTNfV3JCdjhRdWcxZ19kUjFfRGxOcVV3WjNQVGUwR1VpcWZqMmh0aC1uMXp0SEJTc0tSRDlVSVM5aVhZQQ?oc=5",
+      "publisher": "読売新聞",
+      "summary": "踏切事故防止に「ＡＩカメラ」、異常を検知→運転士に即通知…「ＡＩが非常ボタン押してくれるようなもの」 読売新聞",
+      "published_at": "2026-09-19T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -15424,6 +15854,24 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "973a390ff3abda25c5b29566",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "音声で質問できる「AIグラス」、周囲の様子をカメラで認識して回答する - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84X3F3SUV4TlpIekI3Yks1ZmJfSV9ybC1GaGRCMGE3V2daTHJhbzN3RmpndDBmd3FFd0VzSlJ1WDZhZHBfdGM3YlliRmFpZlBmd1VhMDdKeEtqd1dtYWFZelhVMGxsWjkyYzlicw?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "音声で質問できる「AIグラス」、周囲の様子をカメラで認識して回答する 日経クロステック",
+      "published_at": "2026-09-18T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "f16901efe8626d542b4421a7",
@@ -15821,6 +16269,24 @@
       ]
     },
     {
+      "id": "845b422e98d83efaacaba54f",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AI搭載ウェブカメラの世界市場（2026年～2032年）、市場規模（2K AI搭載ウェブカメラ、4K AI搭載ウェブカメラ）・分析レポートを発表 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ZdEVTSExhdk5PbGxudzVRSmNUcUVrU1poN0hONjI4VmtZLVdQazFIVnVPcTRwLVZWYVN0djVVQWIyY2JzWHMwQUlrVTBsOUU?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "AI搭載ウェブカメラの世界市場（2026年～2032年）、市場規模（2K AI搭載ウェブカメラ、4K AI搭載ウェブカメラ）・分析レポートを発表 Newscast.jp",
+      "published_at": "2026-09-17T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "064899f7da6ba9a3b7dac224",
       "category": "ai",
       "source_id": "openai",
@@ -16054,6 +16520,24 @@
       ]
     },
     {
+      "id": "b22b6f3b76bc6280d666e69d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIメガネ「Rokid Ai Glasses Style」国内発売 カメラ付き・画面なし - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBUeGc0ODgyd3VLVmpYX1ItcnB5Y2VaSDhXSzV0NWFpaE1NLUNfYzV3S1lWbE1MdHhmOTNaSUJpTDFIcjdldDJCXzFLSV84d25MVjNvbEhNTU1nbmpSSXRWSHA2Z3FJQUk?oc=5",
+      "publisher": "ケータイ Watch",
+      "summary": "AIメガネ「Rokid Ai Glasses Style」国内発売 カメラ付き・画面なし ケータイ Watch",
+      "published_at": "2026-09-16T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "f43d433caafdeacdeef4d517",
       "category": "tech",
       "source_id": "nvidia",
@@ -16135,6 +16619,62 @@
       "in_scope": false,
       "theme_ids": [
         "parenting"
+      ]
+    },
+    {
+      "id": "cf13aafb1ffd5801805247d3",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "オープンAI、スマホ向けカメラ開発の新興企業を買収 | The Wall Street Journal発 - ダイヤモンド・オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kbFVKZ1hnSzNQRFFqSkJNd0pWVnNJcUF4N21ZUUd4UklNTGh5b0lfRjE0SjJ3NnMyMW92TTYzMC1pWHdybi1OdXAzRnU?oc=5",
+      "publisher": "ダイヤモンド・オンライン",
+      "summary": "オープンAI、スマホ向けカメラ開発の新興企業を買収 | The Wall Street Journal発 ダイヤモンド・オンライン",
+      "published_at": "2026-09-15T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera",
+        "development"
+      ]
+    },
+    {
+      "id": "22afa03440ff263f0737c3cf",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "クラウド型カメラ×生成AIの可能性がもっと広がる！ソラカメ＆SORACOM Fluxの新たな活用方法のご紹介 - ASCII.jp",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94c1A0SHJTWXdsSER0RnB1UWwwM1RDRi1mSVkzaVNTcl9mS0RwUUdNa0V3TDNfNWo3Tmd1amVwdVhmLUFhY3JJbEZMc2g2TFhwLUNJYw?oc=5",
+      "publisher": "ASCII.jp",
+      "summary": "クラウド型カメラ×生成AIの可能性がもっと広がる！ソラカメ＆SORACOM Fluxの新たな活用方法のご紹介 ASCII.jp",
+      "published_at": "2026-09-15T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "236a7e8fc33b874c6fc80970",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【本日の材料と銘柄】オープンAI、スマホ向けカメラ開発のスタートアップを買収(フィスコ) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT0lnS3p0X2p1QmVUekNIR2hZeno1NmYyTURxM0I2TEx0M1pucFp3a1VmdlBIMEpNWG9tRVBhNm1rZll4OXJvRGhSVFBCR1ZVWEJFRGNrVnJsLTVSNWdLRWxxV2dEeVEzREpvc3RuWXJySTQwa1FSN0pTMWthQ0s5Q3NtV1Y3Mnc?oc=5",
+      "publisher": "Yahoo!ファイナンス",
+      "summary": "【本日の材料と銘柄】オープンAI、スマホ向けカメラ開発のスタートアップを買収(フィスコ) Yahoo!ファイナンス",
+      "published_at": "2026-09-15T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera",
+        "development"
       ]
     },
     {
@@ -16241,6 +16781,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "f75b6d60d62475b774e685a2",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIとカメラを日常に溶け込ませる 画面を省いた「Rokid Ai Glasses Style」は買いか？（1/3 ページ） - ITmedia PC USER - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGQ3lLYmJRU253bEFsRFY2cThEZnE5ZGxUYmowLVZEVERpSy1UVWo3V2d2U0pTdTNBeVRRX3ktNFpWcHZSZU8xYzFIVGxCR0ZpandqdFlsRnRrTmRtVTQxWjc4WUx4cmhScml2Ui1md9IBaEFVX3lxTE5iWHdFeExJQ0gwMjNlbzl6TUNfbmI0aHpMWno5X081ZkdmakR5THdBOTUzdGE1cTNsLTdwcFpBb3Z4VTZFejl5MlBVdTVEOUtmZlhLUXlKTWVCT2k3bHpnS1FHbHF1aEFs?oc=5",
+      "publisher": "ITmedia",
+      "summary": "AIとカメラを日常に溶け込ませる 画面を省いた「Rokid Ai Glasses Style」は買いか？（1/3 ページ） - ITmedia PC USER ITmedia",
+      "published_at": "2026-09-14T07:00:00Z",
+      "collected_at": "2026-10-14T00:13:32.388470Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "a995bbfd79ceae821f556622",
@@ -18870,12 +19428,12 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-14T06:02:20.084184+09:00",
+      "generated_at": "2026-10-14T09:13:38.856050+09:00",
       "is_complete": false,
-      "article_count": 30,
+      "article_count": 37,
       "category_counts": {
-        "tech": 7,
-        "ai": 11,
+        "tech": 12,
+        "ai": 13,
         "parenting": 12
       },
       "overview": "GoogleはGemini 4 ArgonをAPIなどで公開し、Pro・Ultra契約者向けGeminiアプリでタスク実行を提供開始した。macOS版にはAntigravityの開発インターフェースを搭載したが、地域別の提供状況や接続アプリごとの操作範囲は不明。HiggsfieldのCEOは、外部3Dモデリングツールを呼び出す制作エージェントにより10分超の動画を制作できると説明した。音声で映画を作る機能は今後の目標であり、品質や制作時間の独立検証は示されていない。 NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2には液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上は最大250kWのラック構成を支える。クラウド事業者など向けに、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。最大電力での導入実績や効率改善の比較測定は示されていない。",
@@ -18883,7 +19441,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+        "attempted_at": "2026-10-14T00:13:38.651261+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -18914,7 +19472,7 @@
           "errors": [],
           "last_success_at": "2026-10-13T21:00:12.770932+00:00"
         },
-        "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+        "last_success_at": "2026-10-14T00:13:38.651261+00:00"
       },
       "genre_briefs": [
         {
@@ -19015,21 +19573,23 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 10,
-          "publisher_count": 8,
+          "count": 12,
+          "publisher_count": 9,
           "summary": "Higgsfieldは、GPT‑6 Astraを使い、従来約1分だった動画を10分超まで制作できるようになったとCEOが説明した。制作エージェントが外部の3Dモデリングツールを呼び出し、長尺映像の一貫性を支える。自社の解説動画制作にも活用し、小規模事業者向け画像制作やCodexによる試作も紹介。音声で映画を作る構想は今後の目標としている。 GoogleはGemini 4 Argonを世界向けに公開。開発者・企業はAI StudioなどのAPI、Ultra契約者はAntigravity、Pro・Ultra契約者はGeminiアプリと検索のAI Modeで利用できる。導入価格は100万トークン当たり入力2ドル、出力10ドル。社内ではエージェントによるコード提出が35％超増え、ADKの最適化では長いセッションの準備時間を40％削減したと報告した。 GoogleはPro・Ultra契約者向けに、GeminiアプリでGemini 4 Argonとタスク実行を提供開始した。チャット画面の切り替えで、利用者がパソコンを離れていても作業を進められるとしている。macOS版にはAntigravityの開発インターフェースを直接搭載。Instacart、OpenTable、Adobe、Shopifyなど40超のアプリとの接続も案内した。",
           "evidence_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
-            "60e5f8e6266c6ba5f52f89a8"
+            "c264c5f737fd9312568a0453"
           ],
           "article_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
             "1ca82228ad1ea9b35bb67211",
+            "c264c5f737fd9312568a0453",
             "60e5f8e6266c6ba5f52f89a8",
             "cab1b28ca56df4f09f29733b",
             "5bc21fe968ea49e59301a934",
+            "4b62c45548aafe3b8fa282f5",
             "6a59e4d478c6edc1c35979bc",
             "6a63c1c0742e9867b6262247",
             "1cad5d9181158877166b0544",
@@ -19043,18 +19603,23 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 6,
-          "publisher_count": 5,
+          "count": 11,
+          "publisher_count": 9,
           "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
           "evidence_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
-            "508fd7d586db35f1b6f09bfe"
+            "6f4c63a3840a4d64ad222707"
           ],
           "article_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
+            "6f4c63a3840a4d64ad222707",
+            "6b97a6de33982ad13b50f4d8",
+            "84bb2855903414d496b19cbb",
+            "444b1264c373cd22d49b6441",
             "068339586a82f1bbbc6a35fc",
+            "13b85f448e5f174d9cee9f34",
             "508fd7d586db35f1b6f09bfe",
             "214de09c0748f52669ed1bc6",
             "4e56d0edee04a66d1a17a7b5"
@@ -19183,16 +19748,22 @@
         "f3e9ce721161b25009490f14",
         "c04f1d75600c2bafb349a5df",
         "c34ab70bc0f952ddd2c8c908",
+        "6f4c63a3840a4d64ad222707",
         "2b64615106f0930c5ea17607",
         "69623dea7b3922282f85190a",
         "646daf58eb684f07ac320ec2",
+        "6b97a6de33982ad13b50f4d8",
+        "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "252b8951f608e5ecf2e505f2",
         "279b8c0ad08ae31d8a94feb5",
         "1ca82228ad1ea9b35bb67211",
         "6a15c0b11f9aaf0259b3e468",
+        "c264c5f737fd9312568a0453",
+        "444b1264c373cd22d49b6441",
         "068339586a82f1bbbc6a35fc",
         "6df1a003d4d8898e0b8b550d",
+        "13b85f448e5f174d9cee9f34",
         "60e5f8e6266c6ba5f52f89a8",
         "cab1b28ca56df4f09f29733b",
         "508fd7d586db35f1b6f09bfe",
@@ -19200,6 +19771,7 @@
         "95d67afd9472e7a9101ad8f0",
         "214de09c0748f52669ed1bc6",
         "07a0c493f650e4675cb2beb2",
+        "4b62c45548aafe3b8fa282f5",
         "6a59e4d478c6edc1c35979bc",
         "6a63c1c0742e9867b6262247",
         "1cad5d9181158877166b0544",
@@ -19214,20 +19786,20 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-14T06:02:20.084184+09:00",
+      "generated_at": "2026-10-14T09:13:38.856050+09:00",
       "is_complete": true,
-      "article_count": 208,
+      "article_count": 210,
       "category_counts": {
         "parenting": 54,
-        "ai": 95,
-        "tech": 59
+        "ai": 96,
+        "tech": 60
       },
       "overview": "SophosはOpenAI Daybreakで構築したエージェントをMDRに導入。顧客情報や脅威情報を集め、調査計画の作成・実行・見直しと対応案の提示を行う。エージェント使用案件の平均対応時間は約38分から89秒に短縮し、MDR案件の52％をAIで一貫処理したと報告。顧客が選ぶ通知・共同対応・代理対応の権限境界を維持し、判断が難しい処理は人に渡す。 MicrosoftはAIエージェントをOS管理下で継続的にバックグラウンド実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Sparkは、ノートが予約段階で10月16日発売予定、小型デスクトップは11月販売予定。別途NVIDIAは、通信事業者の用語理解・ネットワーク設定・顧客障害の一次切り分けを対象とする300億パラメータモデルと、自社データや業務手順に合わせる追加学習手順を公開した。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答提出後の説明・練習支援を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年と各機能の詳細な提供条件は示されておらず、幼児向けの取り組みとは確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+        "attempted_at": "2026-10-14T00:13:38.651261+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -19258,7 +19830,7 @@
           "errors": [],
           "last_success_at": "2026-10-13T21:00:12.770932+00:00"
         },
-        "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+        "last_success_at": "2026-10-14T00:13:38.651261+00:00"
       },
       "genre_briefs": [
         {
@@ -19463,8 +20035,8 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 79,
-          "publisher_count": 26,
+          "count": 80,
+          "publisher_count": 27,
           "summary": "SophosはOpenAI Daybreakで構築したエージェントをMDRに導入。顧客情報や脅威情報を集め、調査計画の作成・実行・見直しと対応案の提示を行う。エージェント使用案件の平均対応時間は約38分から89秒に短縮し、MDR案件の52％をAIで一貫処理したと報告。顧客が選ぶ通知・共同対応・代理対応の権限境界を維持し、判断が難しい処理は人に渡す。 AsanaはStackAIのブラウザーエージェントをGPT‑6 Astra搭載Codexで調査し、閲覧履歴のキャッシュ、保持文字数の拡大、画像のまとめ削除を実装した。公開デモの書籍32冊から情報を集める144回の試験では、最適化したGPT‑6.1 Sol構成が平均推定モデル費用0.47ドル、約4分を記録。旧Model B構成比で費用76分の1、速度5倍と報告し、変更は提供済み。 Anthropicは利用規約の新版を公表し、11月12日に発効すると発表した。偽アカウントなどによる欺瞞的活動の禁止を集約し、個別化した投票・選挙活動のターゲティングの一律禁止を撤廃する。傷害を起こし得る自律動作機器には、有資格者による監視・停止とClaude切断時の安全状態維持を要求。目的のない継続的で極端なモデルへの虐待行為も禁止に加える。",
           "evidence_ids": [
             "6468fcfd514c01a2c23f5b2f",
@@ -19490,6 +20062,7 @@
             "a88646d1e59b71971e50bf61",
             "10bbb45c737fb467e6f44e2a",
             "ecff798ac878a4e96ba2bb7c",
+            "a479b3347696d04733655d1e",
             "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
@@ -19542,8 +20115,8 @@
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
             "8559a641c2c855dbb4baa1b2",
-            "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
+            "0337ebbfea35c677d910ddb1",
             "3a14248581106dd4b777cc03",
             "9e21984a22673ce953b44be1",
             "271e7f9eda46f7311237ce46",
@@ -19560,15 +20133,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 59,
-          "publisher_count": 35,
+          "count": 60,
+          "publisher_count": 36,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。 NVIDIAは、AdaptKeyが公開通信データで追加学習した300億パラメータのNemotron 3 Large Telco Modelを発表した。通信業界の用語理解やネットワーク設定、顧客障害の一次切り分けを対象とする。通信事業者が自社のネットワーク・顧客・業務手順に合わせて調整できるよう、NeMoの公開ライブラリを使う追加学習工程の手順も公開した。",
           "evidence_ids": [
+            "8eaa886898c6c72397e3c3c2",
             "cea1174371f8c449ff4adaa2",
-            "495250eca757336c11d6bb21",
-            "d95c38bb7c4d29fcbff528c4"
+            "495250eca757336c11d6bb21"
           ],
           "article_ids": [
+            "8eaa886898c6c72397e3c3c2",
             "cea1174371f8c449ff4adaa2",
             "495250eca757336c11d6bb21",
             "d95c38bb7c4d29fcbff528c4",
@@ -19818,6 +20392,7 @@
         "6468fcfd514c01a2c23f5b2f",
         "ed9835781c8554a9d6caa767",
         "4a2a03fcf6e708ff5feb8488",
+        "8eaa886898c6c72397e3c3c2",
         "cea1174371f8c449ff4adaa2",
         "4051d499c25d740cf897a5ac",
         "7d9f820349e6b4174329c9b7",
@@ -19859,6 +20434,7 @@
         "badda310cca07906cc76c487",
         "ecff798ac878a4e96ba2bb7c",
         "8960d69fbf11f4b54dc88257",
+        "a479b3347696d04733655d1e",
         "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
@@ -19994,8 +20570,8 @@
         "c73fbd280b86d1027c981cd6",
         "9028e68d2253aa5b7518df67",
         "8559a641c2c855dbb4baa1b2",
-        "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
+        "0337ebbfea35c677d910ddb1",
         "ced6b3a067bd7cb316d491ab",
         "c219e83c3b773f8017422c83",
         "e6a761f2a289aa38b9946949",
@@ -20029,12 +20605,12 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-14T06:02:20.084184+09:00",
+      "generated_at": "2026-10-14T09:13:38.856050+09:00",
       "is_complete": false,
-      "article_count": 321,
+      "article_count": 330,
       "category_counts": {
-        "tech": 87,
-        "ai": 149,
+        "tech": 93,
+        "ai": 152,
         "parenting": 85
       },
       "overview": "GoogleはPro・Ultra契約者向けGeminiアプリでArgonとタスク実行を提供開始し、macOS版にはAntigravityの開発画面を搭載した。Higgsfieldは、制作エージェントが外部3Dツールを呼び出し、10分超の動画を制作できるとCEOが説明した。音声による映画制作は今後の構想である。 NVIDIAはクラウド事業者など向けに、最大250kWに対応する液冷ラック設計と、クラスタ検証・ラック管理などを担うDSXのオープンソース部品を公開した。MicrosoftはAIエージェントをOS管理下で継続実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、10月16日発売予定である。 Khan Academyは、解答前の質問・ヒントと誤答後の説明・再練習を組み合わせた支援を説明し、提携学区向けGem Jamでは指定課題の習熟をチームで競う。対象学年は資料にない。一方、スウェーデンのYear 7〜9教員は、Google Sitesでの共同共有とGoogle Vidsでの動画発表を授業実践として紹介した。",
@@ -20042,7 +20618,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+        "attempted_at": "2026-10-14T00:13:38.651261+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -20073,7 +20649,7 @@
           "errors": [],
           "last_success_at": "2026-10-13T21:00:12.770932+00:00"
         },
-        "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+        "last_success_at": "2026-10-14T00:13:38.651261+00:00"
       },
       "genre_briefs": [
         {
@@ -20278,21 +20854,23 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 126,
-          "publisher_count": 31,
+          "count": 129,
+          "publisher_count": 32,
           "summary": "Higgsfieldは、GPT‑6 Astraを使い、従来約1分だった動画を10分超まで制作できるようになったとCEOが説明した。制作エージェントが外部の3Dモデリングツールを呼び出し、長尺映像の一貫性を支える。自社の解説動画制作にも活用し、小規模事業者向け画像制作やCodexによる試作も紹介。音声で映画を作る構想は今後の目標としている。 GoogleはGemini 4 Argonを世界向けに公開。開発者・企業はAI StudioなどのAPI、Ultra契約者はAntigravity、Pro・Ultra契約者はGeminiアプリと検索のAI Modeで利用できる。導入価格は100万トークン当たり入力2ドル、出力10ドル。社内ではエージェントによるコード提出が35％超増え、ADKの最適化では長いセッションの準備時間を40％削減したと報告した。 GoogleはPro・Ultra契約者向けに、GeminiアプリでGemini 4 Argonとタスク実行を提供開始した。チャット画面の切り替えで、利用者がパソコンを離れていても作業を進められるとしている。macOS版にはAntigravityの開発インターフェースを直接搭載。Instacart、OpenTable、Adobe、Shopifyなど40超のアプリとの接続も案内した。",
           "evidence_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
-            "60e5f8e6266c6ba5f52f89a8"
+            "c264c5f737fd9312568a0453"
           ],
           "article_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
             "1ca82228ad1ea9b35bb67211",
+            "c264c5f737fd9312568a0453",
             "60e5f8e6266c6ba5f52f89a8",
             "cab1b28ca56df4f09f29733b",
             "5bc21fe968ea49e59301a934",
+            "4b62c45548aafe3b8fa282f5",
             "6a59e4d478c6edc1c35979bc",
             "6a63c1c0742e9867b6262247",
             "1cad5d9181158877166b0544",
@@ -20315,6 +20893,7 @@
             "a88646d1e59b71971e50bf61",
             "10bbb45c737fb467e6f44e2a",
             "ecff798ac878a4e96ba2bb7c",
+            "a479b3347696d04733655d1e",
             "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
@@ -20367,8 +20946,8 @@
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
             "8559a641c2c855dbb4baa1b2",
-            "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
+            "0337ebbfea35c677d910ddb1",
             "3a14248581106dd4b777cc03",
             "9e21984a22673ce953b44be1",
             "271e7f9eda46f7311237ce46",
@@ -20422,21 +21001,27 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 86,
-          "publisher_count": 43,
+          "count": 92,
+          "publisher_count": 46,
           "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
           "evidence_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
-            "508fd7d586db35f1b6f09bfe"
+            "6f4c63a3840a4d64ad222707"
           ],
           "article_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
+            "6f4c63a3840a4d64ad222707",
+            "6b97a6de33982ad13b50f4d8",
+            "84bb2855903414d496b19cbb",
+            "444b1264c373cd22d49b6441",
             "068339586a82f1bbbc6a35fc",
+            "13b85f448e5f174d9cee9f34",
             "508fd7d586db35f1b6f09bfe",
             "214de09c0748f52669ed1bc6",
             "4e56d0edee04a66d1a17a7b5",
+            "8eaa886898c6c72397e3c3c2",
             "cea1174371f8c449ff4adaa2",
             "495250eca757336c11d6bb21",
             "d95c38bb7c4d29fcbff528c4",
@@ -20753,16 +21338,22 @@
         "f3e9ce721161b25009490f14",
         "c04f1d75600c2bafb349a5df",
         "c34ab70bc0f952ddd2c8c908",
+        "6f4c63a3840a4d64ad222707",
         "2b64615106f0930c5ea17607",
         "69623dea7b3922282f85190a",
         "646daf58eb684f07ac320ec2",
+        "6b97a6de33982ad13b50f4d8",
+        "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "252b8951f608e5ecf2e505f2",
         "279b8c0ad08ae31d8a94feb5",
         "1ca82228ad1ea9b35bb67211",
         "6a15c0b11f9aaf0259b3e468",
+        "c264c5f737fd9312568a0453",
+        "444b1264c373cd22d49b6441",
         "068339586a82f1bbbc6a35fc",
         "6df1a003d4d8898e0b8b550d",
+        "13b85f448e5f174d9cee9f34",
         "60e5f8e6266c6ba5f52f89a8",
         "cab1b28ca56df4f09f29733b",
         "508fd7d586db35f1b6f09bfe",
@@ -20770,6 +21361,7 @@
         "95d67afd9472e7a9101ad8f0",
         "214de09c0748f52669ed1bc6",
         "07a0c493f650e4675cb2beb2",
+        "4b62c45548aafe3b8fa282f5",
         "6a59e4d478c6edc1c35979bc",
         "6a63c1c0742e9867b6262247",
         "1cad5d9181158877166b0544",
@@ -20781,6 +21373,7 @@
         "6468fcfd514c01a2c23f5b2f",
         "ed9835781c8554a9d6caa767",
         "4a2a03fcf6e708ff5feb8488",
+        "8eaa886898c6c72397e3c3c2",
         "cea1174371f8c449ff4adaa2",
         "4051d499c25d740cf897a5ac",
         "7d9f820349e6b4174329c9b7",
@@ -20822,6 +21415,7 @@
         "badda310cca07906cc76c487",
         "ecff798ac878a4e96ba2bb7c",
         "8960d69fbf11f4b54dc88257",
+        "a479b3347696d04733655d1e",
         "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
@@ -20957,8 +21551,8 @@
         "c73fbd280b86d1027c981cd6",
         "9028e68d2253aa5b7518df67",
         "8559a641c2c855dbb4baa1b2",
-        "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
+        "0337ebbfea35c677d910ddb1",
         "ced6b3a067bd7cb316d491ab",
         "c219e83c3b773f8017422c83",
         "e6a761f2a289aa38b9946949",
@@ -22634,11 +23228,11 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-14T06:02:20.084184+09:00",
+      "generated_at": "2026-10-14T09:13:38.856050+09:00",
       "is_complete": true,
-      "article_count": 500,
+      "article_count": 519,
       "category_counts": {
-        "tech": 134,
+        "tech": 153,
         "ai": 242,
         "parenting": 124
       },
@@ -22647,7 +23241,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+        "attempted_at": "2026-10-14T00:13:38.651261+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -22678,7 +23272,7 @@
           "errors": [],
           "last_success_at": "2026-10-13T21:00:12.770932+00:00"
         },
-        "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+        "last_success_at": "2026-10-14T00:13:38.651261+00:00"
       },
       "genre_briefs": [
         {
@@ -23075,8 +23669,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 128,
-          "publisher_count": 59,
+          "count": 146,
+          "publisher_count": 62,
           "summary": "Amazonが薄型のFire TV Stick 4Kと新デザインのリモコンを発表。対応するテレビのUSB端子から給電でき、設置時の電源アダプターを省けます。リモコンにはよく使う機能を呼び出すカスタムボタンも用意しました。 WSL 3.0の更新記事で注目したいのは、WindowsからLinuxコンテナを操作する仕組み。Microsoftの説明では、wslcコマンドで実行やテストを行い、SDKを使ってWindowsアプリにもコンテナ処理を組み込めます。 GoogleはGemini LiveのGuided visionを案内。カメラに映った文字や物を音声で説明し、対象がうまく入っていない場合は向きや構図を直すよう案内します。見えづらさのある人とともに設計した機能です。",
           "evidence_ids": [
             "56d775acd6bc5c644ff79ae2",
@@ -23133,6 +23727,7 @@
             "25f2522a196c6c3ef73ba03c",
             "a8219878c2c72e37412b4912",
             "52503aa6e2de13b778bc881e",
+            "30d9c11affce5edc0ad31004",
             "286177a687256158be3cd6ce",
             "eede8183e83700b87f19e1b8",
             "b7c9b4e106bd614c1bdc1730",
@@ -23140,7 +23735,6 @@
             "756e39d3a4b9c416cccae201",
             "5a6dfaf4ec8a50a3c133b05f",
             "9d3567016101e4ba789aa99a",
-            "30d9c11affce5edc0ad31004",
             "9a6a6114fc5aaf4be0872e48",
             "ce778cfc73411d48600e1351",
             "7bfd2913129531174c9974b0",
@@ -23148,6 +23742,7 @@
             "f46495a0c7203b53f526deca",
             "2f8762f92f0defda6d7170ab",
             "1c60a66112844ffb89d21b6b",
+            "c07df9284ac9b7ac145ee92e",
             "f533306a0b16b02a23ddf256",
             "d494d9e78f5daa7de6c921d9",
             "0cd25c133f0eb5158b0bdf81",
@@ -23165,26 +23760,29 @@
             "bac3eafcf8dd42664bb6befc",
             "c751d3e39959bf2ba5733054",
             "a9fc1f70b93e44b029b5e792",
+            "89dc2c2678921be2026a9a0f",
+            "36dd0cfc1fa181e470a50ed6",
+            "ec63d69b546f95e9e009322b",
             "c2180d004bad0791bf93ecb4",
             "577f766672bb219090e763cf",
             "32b5020b6ce8eb08e0e7c97d",
-            "74129fc8b18a9929e3b1ab60",
             "fad4065d2d857662e70e005d",
-            "76419033f795c95ce21adc8b",
             "67a2bef706b21d5aee59361e",
             "0ee40d6a1fb93b85d1b6c315",
+            "76419033f795c95ce21adc8b",
             "0662bbd919e5675903ed42ed",
             "e00b8c9f7a42e11ab7e382c4",
             "d77bbbaa6ee7391e787a677f",
             "e37eddf3e3415826fbe5a791",
             "95d899ccd10ca82fef7f3c9f",
+            "b0605f0710d48a31389498ad",
             "c7b35769312f371315892b77",
             "a5c59d57250731fa4e9d6ef3",
             "852032502845b9d08b5cbb54",
             "b6256b52b588ba8e14350abb",
             "53d12039bd23eb38a78bd009",
-            "a7a9cf33d351de94acd8fa47",
             "46d8c3ca5ccd8713daddfc43",
+            "a7a9cf33d351de94acd8fa47",
             "f0d069a9456e0215e476c562",
             "fa60ca1efe26fa0942dc18b7",
             "83e657c5f09a16d7a1b4e289",
@@ -23201,12 +23799,26 @@
             "1745ecb67b0fc23614a0b683",
             "33464cdf948d5c4695ad71f5",
             "be2190fad7e3e1801e02d226",
+            "2946d4489296ff04600f52b1",
+            "2baa21b8747db0b51465a596",
+            "b119e36bf4a1edc55ee437af",
             "8b27472e8bb60e5661c16456",
+            "c1cc639e295f66811f018754",
+            "ed380fa3378bf62265ee344e",
+            "a86aff5cb7844c70654e9fb6",
+            "f906bf2d40f3adf9185b5925",
             "a70787d8f6a5fc0203b44329",
+            "973a390ff3abda25c5b29566",
             "94c0af8fa8457004c2e3b748",
+            "845b422e98d83efaacaba54f",
             "60e90f196165711df20dd28c",
             "3bd8f6df2c2cf6b69943574f",
             "05beb57a9a28f3bbf0f2473f",
+            "b22b6f3b76bc6280d666e69d",
+            "cf13aafb1ffd5801805247d3",
+            "22afa03440ff263f0737c3cf",
+            "236a7e8fc33b874c6fc80970",
+            "f75b6d60d62475b774e685a2",
             "62eaa74742a9fbd744af1806",
             "1556a0ad84aeda3d4cbceb86",
             "53b9daac04a366546e0ac8b8",
@@ -23631,6 +24243,7 @@
         "25f2522a196c6c3ef73ba03c",
         "a8219878c2c72e37412b4912",
         "52503aa6e2de13b778bc881e",
+        "30d9c11affce5edc0ad31004",
         "38dcb1a8af6700e45fc73243",
         "7e0f9a14ba66aed8c0a2b834",
         "15925f6b6a6d8f45410e19e4",
@@ -23660,7 +24273,6 @@
         "9d3567016101e4ba789aa99a",
         "dc6ad4848645e82dfe541e74",
         "d87914b2bf99ce330db40d01",
-        "30d9c11affce5edc0ad31004",
         "cde30b0562189b5688238e3f",
         "28b6f3135668a5b98f1e429a",
         "312d0f5f2d3f5b74a67c65ef",
@@ -23685,6 +24297,7 @@
         "f46495a0c7203b53f526deca",
         "2f8762f92f0defda6d7170ab",
         "1c60a66112844ffb89d21b6b",
+        "c07df9284ac9b7ac145ee92e",
         "0732f4a49cc6c00240c65323",
         "e8c5980d4bd65df56d912c90",
         "9d06399f9b8e28506914013d",
@@ -23759,6 +24372,9 @@
         "c751d3e39959bf2ba5733054",
         "a9fc1f70b93e44b029b5e792",
         "a46f31d94d49e07bc989b75f",
+        "89dc2c2678921be2026a9a0f",
+        "36dd0cfc1fa181e470a50ed6",
+        "ec63d69b546f95e9e009322b",
         "08dd358013b87cbfc257c092",
         "c2180d004bad0791bf93ecb4",
         "577f766672bb219090e763cf",
@@ -23769,7 +24385,6 @@
         "a0c99e1b0f4f0bb4af46ca08",
         "aa0f20dc867ae26edf930178",
         "32b5020b6ce8eb08e0e7c97d",
-        "74129fc8b18a9929e3b1ab60",
         "1fee03338bdab8b09049af9e",
         "22852b6af87f0428fa11c546",
         "f05a1118abe70c66cc249143",
@@ -23783,7 +24398,6 @@
         "fad4065d2d857662e70e005d",
         "e2ee47c52cbc63825f6a20de",
         "d85cc19c68fd71b45e6f30ca",
-        "76419033f795c95ce21adc8b",
         "99f3f63bca8fe957a32e7ec2",
         "ed81cbf279fcae9a6d27e687",
         "2ceb08767c04e1e6b6dbcc66",
@@ -23791,6 +24405,7 @@
         "0ee40d6a1fb93b85d1b6c315",
         "3a7156019c8ecd91dfc4543f",
         "76064d2c342e17b7b4b78f65",
+        "76419033f795c95ce21adc8b",
         "0662bbd919e5675903ed42ed",
         "e27378ad3e88cf45ecd18e6f",
         "6418bf0adae9dc5499ee3b43",
@@ -23805,6 +24420,7 @@
         "e37eddf3e3415826fbe5a791",
         "95d899ccd10ca82fef7f3c9f",
         "1ffe66bb003e923d31c1a7af",
+        "b0605f0710d48a31389498ad",
         "6e7c6edea76c85e64d93745b",
         "c630a06c2a6a48ca50939892",
         "ebf1fe05d138a67226137e02",
@@ -23831,16 +24447,16 @@
         "53a70bbb250fcaf5b1fc98d2",
         "f2fa0bc354a05cb00e26c080",
         "35cb1583309dc16d04e7728b",
-        "a7a9cf33d351de94acd8fa47",
         "46d8c3ca5ccd8713daddfc43",
+        "a7a9cf33d351de94acd8fa47",
         "f0d069a9456e0215e476c562",
         "07ca00ad5cfed828558e121c",
         "083ee26fb4873a1936907864",
         "6b90c51444541b3b8e53b97e",
         "b611b62d977ea82785e22a90",
         "62bbcfa6da2f23c04d932258",
-        "32cdd28d133e0df44948b647",
         "fa60ca1efe26fa0942dc18b7",
+        "32cdd28d133e0df44948b647",
         "83e657c5f09a16d7a1b4e289",
         "1c1bc9b73727010d9b998eeb",
         "6fbce93386470a5a6b326b3b",
@@ -23878,20 +24494,29 @@
         "b20c93dbcc790b09ece7ff6c",
         "629113222fb3f707f90e4886",
         "21f34321ae665fbc13114ef3",
+        "45ef2dab95e5cd835e12b76d",
         "33464cdf948d5c4695ad71f5",
         "31e83640737669c6d2a4c55c",
         "c046fb23bafd74a9f6fc9c42",
         "09477a519e3d422f35937457",
         "76eb50b607834e005e3c81e6",
         "be2190fad7e3e1801e02d226",
+        "2946d4489296ff04600f52b1",
+        "2baa21b8747db0b51465a596",
+        "b119e36bf4a1edc55ee437af",
         "9707871da3a56433eefbdc56",
         "87e0c4341a07d787c6a49cca",
         "8b27472e8bb60e5661c16456",
+        "c1cc639e295f66811f018754",
+        "ed380fa3378bf62265ee344e",
+        "a86aff5cb7844c70654e9fb6",
+        "f906bf2d40f3adf9185b5925",
         "ee127083601accac493eca46",
         "79ac71e4125e0cdf3b0d9c8c",
         "da76648358dd9513610f5a38",
         "04ddf4f90c41c05d595fdc91",
         "a70787d8f6a5fc0203b44329",
+        "973a390ff3abda25c5b29566",
         "3a89665b214089c8f068029a",
         "bba4489223cfa56c6acb6fc5",
         "6dd4252baaee7645e18ccd67",
@@ -23904,6 +24529,7 @@
         "94c0af8fa8457004c2e3b748",
         "fb87da53197171343d55c3cf",
         "bff767a694a34132ca4fce01",
+        "845b422e98d83efaacaba54f",
         "064899f7da6ba9a3b7dac224",
         "767285bca0d636133da996bc",
         "4fb728d3e512bd869dac3eb8",
@@ -23917,12 +24543,17 @@
         "800de812a8f2b82384ffcbee",
         "3bd8f6df2c2cf6b69943574f",
         "05beb57a9a28f3bbf0f2473f",
+        "b22b6f3b76bc6280d666e69d",
         "8b60ff79a9d757ad9acd8f8a",
         "733643c14cc1f90e43dc865b",
+        "cf13aafb1ffd5801805247d3",
+        "22afa03440ff263f0737c3cf",
+        "236a7e8fc33b874c6fc80970",
         "228ddb52fc90bc036bb949d4",
         "25be64a0ee8135f7abd501b4",
         "125c38ae0e05f6915bf45281",
         "cf9890eff3de4d606c14615b",
+        "f75b6d60d62475b774e685a2",
         "a995bbfd79ceae821f556622",
         "66f71a029a024130cc3335ca",
         "16a9ad0d023fca8125e880b3",
@@ -23992,12 +24623,12 @@
       "kind": "overview",
       "period_start": "2026-10-08",
       "period_end": "2026-10-14",
-      "generated_at": "2026-10-14T06:02:20.084184+09:00",
+      "generated_at": "2026-10-14T09:13:38.856050+09:00",
       "is_complete": false,
-      "article_count": 106,
+      "article_count": 115,
       "category_counts": {
-        "tech": 28,
-        "ai": 52,
+        "tech": 34,
+        "ai": 55,
         "parenting": 26
       },
       "overview": "GoogleはPro・Ultra契約者向けにGemini 4 Argonとタスク実行をGeminiアプリで提供開始し、macOS版にはAntigravityの開発インターフェースを搭載した。HiggsfieldのCEOは、制作エージェントが外部の3Dモデリングツールを呼び出し、10分超の動画制作を可能にしたと説明している。後者の品質や制作時間は独立検証されていない。 NVIDIAはクラウド事業者などに向け、Vera Rubin用ラックと計算トレイの設計をOCPに提供した。MGX 1.2では液冷接続、5,000Aの液冷バスバー、19インチ機器対応を追加し、設計上最大250kWのラック構成を支える。ネットワーク設定やクラスタ検証、ラック管理などを担うDSXのオープンソース部品も公開した。 Khan Academyは、Missionsによる次の課題案内、Gemsによる技能の進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けのGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年は資料に示されておらず、幼児向けと判断できる根拠はない。",
@@ -24005,7 +24636,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+        "attempted_at": "2026-10-14T00:13:38.651261+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -24036,7 +24667,7 @@
           "errors": [],
           "last_success_at": "2026-10-13T21:00:12.770932+00:00"
         },
-        "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+        "last_success_at": "2026-10-14T00:13:38.651261+00:00"
       },
       "genre_briefs": [
         {
@@ -24221,21 +24852,23 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 43,
-          "publisher_count": 20,
+          "count": 46,
+          "publisher_count": 22,
           "summary": "Higgsfieldは、GPT‑6 Astraを使い、従来約1分だった動画を10分超まで制作できるようになったとCEOが説明した。制作エージェントが外部の3Dモデリングツールを呼び出し、長尺映像の一貫性を支える。自社の解説動画制作にも活用し、小規模事業者向け画像制作やCodexによる試作も紹介。音声で映画を作る構想は今後の目標としている。 GoogleはGemini 4 Argonを世界向けに公開。開発者・企業はAI StudioなどのAPI、Ultra契約者はAntigravity、Pro・Ultra契約者はGeminiアプリと検索のAI Modeで利用できる。導入価格は100万トークン当たり入力2ドル、出力10ドル。社内ではエージェントによるコード提出が35％超増え、ADKの最適化では長いセッションの準備時間を40％削減したと報告した。 GoogleはPro・Ultra契約者向けに、GeminiアプリでGemini 4 Argonとタスク実行を提供開始した。チャット画面の切り替えで、利用者がパソコンを離れていても作業を進められるとしている。macOS版にはAntigravityの開発インターフェースを直接搭載。Instacart、OpenTable、Adobe、Shopifyなど40超のアプリとの接続も案内した。",
           "evidence_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
-            "60e5f8e6266c6ba5f52f89a8"
+            "c264c5f737fd9312568a0453"
           ],
           "article_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
             "1ca82228ad1ea9b35bb67211",
+            "c264c5f737fd9312568a0453",
             "60e5f8e6266c6ba5f52f89a8",
             "cab1b28ca56df4f09f29733b",
             "5bc21fe968ea49e59301a934",
+            "4b62c45548aafe3b8fa282f5",
             "6a59e4d478c6edc1c35979bc",
             "6a63c1c0742e9867b6262247",
             "1cad5d9181158877166b0544",
@@ -24258,6 +24891,7 @@
             "a88646d1e59b71971e50bf61",
             "10bbb45c737fb467e6f44e2a",
             "ecff798ac878a4e96ba2bb7c",
+            "a479b3347696d04733655d1e",
             "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
@@ -24282,21 +24916,27 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 27,
-          "publisher_count": 16,
+          "count": 33,
+          "publisher_count": 21,
           "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
           "evidence_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
-            "508fd7d586db35f1b6f09bfe"
+            "6f4c63a3840a4d64ad222707"
           ],
           "article_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
+            "6f4c63a3840a4d64ad222707",
+            "6b97a6de33982ad13b50f4d8",
+            "84bb2855903414d496b19cbb",
+            "444b1264c373cd22d49b6441",
             "068339586a82f1bbbc6a35fc",
+            "13b85f448e5f174d9cee9f34",
             "508fd7d586db35f1b6f09bfe",
             "214de09c0748f52669ed1bc6",
             "4e56d0edee04a66d1a17a7b5",
+            "8eaa886898c6c72397e3c3c2",
             "cea1174371f8c449ff4adaa2",
             "495250eca757336c11d6bb21",
             "d95c38bb7c4d29fcbff528c4",
@@ -24481,16 +25121,22 @@
         "f3e9ce721161b25009490f14",
         "c04f1d75600c2bafb349a5df",
         "c34ab70bc0f952ddd2c8c908",
+        "6f4c63a3840a4d64ad222707",
         "2b64615106f0930c5ea17607",
         "69623dea7b3922282f85190a",
         "646daf58eb684f07ac320ec2",
+        "6b97a6de33982ad13b50f4d8",
+        "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "252b8951f608e5ecf2e505f2",
         "279b8c0ad08ae31d8a94feb5",
         "1ca82228ad1ea9b35bb67211",
         "6a15c0b11f9aaf0259b3e468",
+        "c264c5f737fd9312568a0453",
+        "444b1264c373cd22d49b6441",
         "068339586a82f1bbbc6a35fc",
         "6df1a003d4d8898e0b8b550d",
+        "13b85f448e5f174d9cee9f34",
         "60e5f8e6266c6ba5f52f89a8",
         "cab1b28ca56df4f09f29733b",
         "508fd7d586db35f1b6f09bfe",
@@ -24498,6 +25144,7 @@
         "95d67afd9472e7a9101ad8f0",
         "214de09c0748f52669ed1bc6",
         "07a0c493f650e4675cb2beb2",
+        "4b62c45548aafe3b8fa282f5",
         "6a59e4d478c6edc1c35979bc",
         "6a63c1c0742e9867b6262247",
         "1cad5d9181158877166b0544",
@@ -24509,6 +25156,7 @@
         "6468fcfd514c01a2c23f5b2f",
         "ed9835781c8554a9d6caa767",
         "4a2a03fcf6e708ff5feb8488",
+        "8eaa886898c6c72397e3c3c2",
         "cea1174371f8c449ff4adaa2",
         "4051d499c25d740cf897a5ac",
         "7d9f820349e6b4174329c9b7",
@@ -24550,6 +25198,7 @@
         "badda310cca07906cc76c487",
         "ecff798ac878a4e96ba2bb7c",
         "8960d69fbf11f4b54dc88257",
+        "a479b3347696d04733655d1e",
         "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
@@ -24588,12 +25237,12 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-14T06:02:20.084184+09:00",
+      "generated_at": "2026-10-14T09:13:38.856050+09:00",
       "is_complete": false,
-      "article_count": 30,
+      "article_count": 37,
       "category_counts": {
-        "tech": 7,
-        "ai": 11,
+        "tech": 12,
+        "ai": 13,
         "parenting": 12
       },
       "overview": "GoogleはGemini 4 ArgonをAPIなどで公開し、Pro・Ultra契約者向けGeminiアプリでタスク実行を提供開始した。macOS版にはAntigravityの開発インターフェースを搭載したが、地域別の提供状況や接続アプリごとの操作範囲は不明。HiggsfieldのCEOは、外部3Dモデリングツールを呼び出す制作エージェントにより10分超の動画を制作できると説明した。音声で映画を作る機能は今後の目標であり、品質や制作時間の独立検証は示されていない。 NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2には液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上は最大250kWのラック構成を支える。クラウド事業者など向けに、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。最大電力での導入実績や効率改善の比較測定は示されていない。",
@@ -24601,7 +25250,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+        "attempted_at": "2026-10-14T00:13:38.651261+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -24632,7 +25281,7 @@
           "errors": [],
           "last_success_at": "2026-10-13T21:00:12.770932+00:00"
         },
-        "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+        "last_success_at": "2026-10-14T00:13:38.651261+00:00"
       },
       "genre_briefs": [
         {
@@ -24733,21 +25382,23 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 10,
-          "publisher_count": 8,
+          "count": 12,
+          "publisher_count": 9,
           "summary": "Higgsfieldは、GPT‑6 Astraを使い、従来約1分だった動画を10分超まで制作できるようになったとCEOが説明した。制作エージェントが外部の3Dモデリングツールを呼び出し、長尺映像の一貫性を支える。自社の解説動画制作にも活用し、小規模事業者向け画像制作やCodexによる試作も紹介。音声で映画を作る構想は今後の目標としている。 GoogleはGemini 4 Argonを世界向けに公開。開発者・企業はAI StudioなどのAPI、Ultra契約者はAntigravity、Pro・Ultra契約者はGeminiアプリと検索のAI Modeで利用できる。導入価格は100万トークン当たり入力2ドル、出力10ドル。社内ではエージェントによるコード提出が35％超増え、ADKの最適化では長いセッションの準備時間を40％削減したと報告した。 GoogleはPro・Ultra契約者向けに、GeminiアプリでGemini 4 Argonとタスク実行を提供開始した。チャット画面の切り替えで、利用者がパソコンを離れていても作業を進められるとしている。macOS版にはAntigravityの開発インターフェースを直接搭載。Instacart、OpenTable、Adobe、Shopifyなど40超のアプリとの接続も案内した。",
           "evidence_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
-            "60e5f8e6266c6ba5f52f89a8"
+            "c264c5f737fd9312568a0453"
           ],
           "article_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
             "1ca82228ad1ea9b35bb67211",
+            "c264c5f737fd9312568a0453",
             "60e5f8e6266c6ba5f52f89a8",
             "cab1b28ca56df4f09f29733b",
             "5bc21fe968ea49e59301a934",
+            "4b62c45548aafe3b8fa282f5",
             "6a59e4d478c6edc1c35979bc",
             "6a63c1c0742e9867b6262247",
             "1cad5d9181158877166b0544",
@@ -24761,18 +25412,23 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 6,
-          "publisher_count": 5,
+          "count": 11,
+          "publisher_count": 9,
           "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
           "evidence_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
-            "508fd7d586db35f1b6f09bfe"
+            "6f4c63a3840a4d64ad222707"
           ],
           "article_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
+            "6f4c63a3840a4d64ad222707",
+            "6b97a6de33982ad13b50f4d8",
+            "84bb2855903414d496b19cbb",
+            "444b1264c373cd22d49b6441",
             "068339586a82f1bbbc6a35fc",
+            "13b85f448e5f174d9cee9f34",
             "508fd7d586db35f1b6f09bfe",
             "214de09c0748f52669ed1bc6",
             "4e56d0edee04a66d1a17a7b5"
@@ -24901,16 +25557,22 @@
         "f3e9ce721161b25009490f14",
         "c04f1d75600c2bafb349a5df",
         "c34ab70bc0f952ddd2c8c908",
+        "6f4c63a3840a4d64ad222707",
         "2b64615106f0930c5ea17607",
         "69623dea7b3922282f85190a",
         "646daf58eb684f07ac320ec2",
+        "6b97a6de33982ad13b50f4d8",
+        "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "252b8951f608e5ecf2e505f2",
         "279b8c0ad08ae31d8a94feb5",
         "1ca82228ad1ea9b35bb67211",
         "6a15c0b11f9aaf0259b3e468",
+        "c264c5f737fd9312568a0453",
+        "444b1264c373cd22d49b6441",
         "068339586a82f1bbbc6a35fc",
         "6df1a003d4d8898e0b8b550d",
+        "13b85f448e5f174d9cee9f34",
         "60e5f8e6266c6ba5f52f89a8",
         "cab1b28ca56df4f09f29733b",
         "508fd7d586db35f1b6f09bfe",
@@ -24918,6 +25580,7 @@
         "95d67afd9472e7a9101ad8f0",
         "214de09c0748f52669ed1bc6",
         "07a0c493f650e4675cb2beb2",
+        "4b62c45548aafe3b8fa282f5",
         "6a59e4d478c6edc1c35979bc",
         "6a63c1c0742e9867b6262247",
         "1cad5d9181158877166b0544",
@@ -24932,12 +25595,12 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-14T06:02:20.084184+09:00",
+      "generated_at": "2026-10-14T09:13:38.856050+09:00",
       "is_complete": false,
-      "article_count": 321,
+      "article_count": 330,
       "category_counts": {
-        "tech": 87,
-        "ai": 149,
+        "tech": 93,
+        "ai": 152,
         "parenting": 85
       },
       "overview": "GoogleはPro・Ultra契約者向けGeminiアプリでArgonとタスク実行を提供開始し、macOS版にはAntigravityの開発画面を搭載した。Higgsfieldは、制作エージェントが外部3Dツールを呼び出し、10分超の動画を制作できるとCEOが説明した。音声による映画制作は今後の構想である。 NVIDIAはクラウド事業者など向けに、最大250kWに対応する液冷ラック設計と、クラスタ検証・ラック管理などを担うDSXのオープンソース部品を公開した。MicrosoftはAIエージェントをOS管理下で継続実行するMXCの一般提供を発表した。最大128GBの統合メモリを備えるRTX Spark搭載ノートは予約段階で、10月16日発売予定である。 Khan Academyは、解答前の質問・ヒントと誤答後の説明・再練習を組み合わせた支援を説明し、提携学区向けGem Jamでは指定課題の習熟をチームで競う。対象学年は資料にない。一方、スウェーデンのYear 7〜9教員は、Google Sitesでの共同共有とGoogle Vidsでの動画発表を授業実践として紹介した。",
@@ -24945,7 +25608,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+        "attempted_at": "2026-10-14T00:13:38.651261+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -24976,7 +25639,7 @@
           "errors": [],
           "last_success_at": "2026-10-13T21:00:12.770932+00:00"
         },
-        "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+        "last_success_at": "2026-10-14T00:13:38.651261+00:00"
       },
       "genre_briefs": [
         {
@@ -25181,21 +25844,23 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 126,
-          "publisher_count": 31,
+          "count": 129,
+          "publisher_count": 32,
           "summary": "Higgsfieldは、GPT‑6 Astraを使い、従来約1分だった動画を10分超まで制作できるようになったとCEOが説明した。制作エージェントが外部の3Dモデリングツールを呼び出し、長尺映像の一貫性を支える。自社の解説動画制作にも活用し、小規模事業者向け画像制作やCodexによる試作も紹介。音声で映画を作る構想は今後の目標としている。 GoogleはGemini 4 Argonを世界向けに公開。開発者・企業はAI StudioなどのAPI、Ultra契約者はAntigravity、Pro・Ultra契約者はGeminiアプリと検索のAI Modeで利用できる。導入価格は100万トークン当たり入力2ドル、出力10ドル。社内ではエージェントによるコード提出が35％超増え、ADKの最適化では長いセッションの準備時間を40％削減したと報告した。 GoogleはPro・Ultra契約者向けに、GeminiアプリでGemini 4 Argonとタスク実行を提供開始した。チャット画面の切り替えで、利用者がパソコンを離れていても作業を進められるとしている。macOS版にはAntigravityの開発インターフェースを直接搭載。Instacart、OpenTable、Adobe、Shopifyなど40超のアプリとの接続も案内した。",
           "evidence_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
-            "60e5f8e6266c6ba5f52f89a8"
+            "c264c5f737fd9312568a0453"
           ],
           "article_ids": [
             "b993a6badffba2ce6cbc2431",
             "c04f1d75600c2bafb349a5df",
             "1ca82228ad1ea9b35bb67211",
+            "c264c5f737fd9312568a0453",
             "60e5f8e6266c6ba5f52f89a8",
             "cab1b28ca56df4f09f29733b",
             "5bc21fe968ea49e59301a934",
+            "4b62c45548aafe3b8fa282f5",
             "6a59e4d478c6edc1c35979bc",
             "6a63c1c0742e9867b6262247",
             "1cad5d9181158877166b0544",
@@ -25218,6 +25883,7 @@
             "a88646d1e59b71971e50bf61",
             "10bbb45c737fb467e6f44e2a",
             "ecff798ac878a4e96ba2bb7c",
+            "a479b3347696d04733655d1e",
             "e0f896be61398e52825432c4",
             "04c9cc7799e4fcc0fad8aac3",
             "b713bdb0fab978feb30db284",
@@ -25270,8 +25936,8 @@
             "f7dea1b19d1376d4579ffed0",
             "9028e68d2253aa5b7518df67",
             "8559a641c2c855dbb4baa1b2",
-            "0337ebbfea35c677d910ddb1",
             "a159f2ff40f8d61320d164ac",
+            "0337ebbfea35c677d910ddb1",
             "3a14248581106dd4b777cc03",
             "9e21984a22673ce953b44be1",
             "271e7f9eda46f7311237ce46",
@@ -25325,21 +25991,27 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 86,
-          "publisher_count": 43,
+          "count": 92,
+          "publisher_count": 46,
           "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Microsoftは、OSの管理下でAIエージェントを安全かつ継続的にバックグラウンド実行する基盤「MXC」の一般提供を発表。NVIDIAのRTX Sparkは最大128GBの統合メモリを備え、開発者らがPC上でAIモデルを動かせる。搭載ノートは予約開始、10月16日発売予定で、小型デスクトップは11月販売予定。企業・研究者向けのWindows版DGX Stationも予告した。",
           "evidence_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
-            "508fd7d586db35f1b6f09bfe"
+            "6f4c63a3840a4d64ad222707"
           ],
           "article_ids": [
             "bac01a4f68181f569247665e",
             "c34ab70bc0f952ddd2c8c908",
+            "6f4c63a3840a4d64ad222707",
+            "6b97a6de33982ad13b50f4d8",
+            "84bb2855903414d496b19cbb",
+            "444b1264c373cd22d49b6441",
             "068339586a82f1bbbc6a35fc",
+            "13b85f448e5f174d9cee9f34",
             "508fd7d586db35f1b6f09bfe",
             "214de09c0748f52669ed1bc6",
             "4e56d0edee04a66d1a17a7b5",
+            "8eaa886898c6c72397e3c3c2",
             "cea1174371f8c449ff4adaa2",
             "495250eca757336c11d6bb21",
             "d95c38bb7c4d29fcbff528c4",
@@ -25656,16 +26328,22 @@
         "f3e9ce721161b25009490f14",
         "c04f1d75600c2bafb349a5df",
         "c34ab70bc0f952ddd2c8c908",
+        "6f4c63a3840a4d64ad222707",
         "2b64615106f0930c5ea17607",
         "69623dea7b3922282f85190a",
         "646daf58eb684f07ac320ec2",
+        "6b97a6de33982ad13b50f4d8",
+        "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "252b8951f608e5ecf2e505f2",
         "279b8c0ad08ae31d8a94feb5",
         "1ca82228ad1ea9b35bb67211",
         "6a15c0b11f9aaf0259b3e468",
+        "c264c5f737fd9312568a0453",
+        "444b1264c373cd22d49b6441",
         "068339586a82f1bbbc6a35fc",
         "6df1a003d4d8898e0b8b550d",
+        "13b85f448e5f174d9cee9f34",
         "60e5f8e6266c6ba5f52f89a8",
         "cab1b28ca56df4f09f29733b",
         "508fd7d586db35f1b6f09bfe",
@@ -25673,6 +26351,7 @@
         "95d67afd9472e7a9101ad8f0",
         "214de09c0748f52669ed1bc6",
         "07a0c493f650e4675cb2beb2",
+        "4b62c45548aafe3b8fa282f5",
         "6a59e4d478c6edc1c35979bc",
         "6a63c1c0742e9867b6262247",
         "1cad5d9181158877166b0544",
@@ -25684,6 +26363,7 @@
         "6468fcfd514c01a2c23f5b2f",
         "ed9835781c8554a9d6caa767",
         "4a2a03fcf6e708ff5feb8488",
+        "8eaa886898c6c72397e3c3c2",
         "cea1174371f8c449ff4adaa2",
         "4051d499c25d740cf897a5ac",
         "7d9f820349e6b4174329c9b7",
@@ -25725,6 +26405,7 @@
         "badda310cca07906cc76c487",
         "ecff798ac878a4e96ba2bb7c",
         "8960d69fbf11f4b54dc88257",
+        "a479b3347696d04733655d1e",
         "e0f896be61398e52825432c4",
         "04c9cc7799e4fcc0fad8aac3",
         "4a204d7bd8653c170f26778b",
@@ -25860,8 +26541,8 @@
         "c73fbd280b86d1027c981cd6",
         "9028e68d2253aa5b7518df67",
         "8559a641c2c855dbb4baa1b2",
-        "0337ebbfea35c677d910ddb1",
         "a159f2ff40f8d61320d164ac",
+        "0337ebbfea35c677d910ddb1",
         "ced6b3a067bd7cb316d491ab",
         "c219e83c3b773f8017422c83",
         "e6a761f2a289aa38b9946949",
@@ -25974,10 +26655,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-14T06:02:20.084184+09:00",
+  "report_updated_at": "2026-10-14T09:13:38.856050+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-13T21:02:19.880430+00:00",
+    "attempted_at": "2026-10-14T00:13:38.651261+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -26008,7 +26689,7 @@
       "errors": [],
       "last_success_at": "2026-10-13T21:00:12.770932+00:00"
     },
-    "last_success_at": "2026-10-13T21:02:19.880430+00:00"
+    "last_success_at": "2026-10-14T00:13:38.651261+00:00"
   },
   "topic_definitions": [
     {
