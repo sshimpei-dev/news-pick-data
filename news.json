@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-16T21:01:48.072127Z",
-  "last_attempt_at": "2026-10-16T21:01:48.072127Z",
+  "updated_at": "2026-10-16T23:23:50.445738Z",
+  "last_attempt_at": "2026-10-16T23:23:50.445738Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 6,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 42,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-16T21:01:48.072127Z",
+      "checked_at": "2026-10-16T23:23:50.445738Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-16T23:23:50.445738Z",
+      "new_count": 2,
+      "status": "ok"
+    },
     {
       "at": "2026-10-16T21:01:48.072127Z",
       "new_count": 0,
@@ -462,6 +467,40 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "8dfa9139908af14941a16b47",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "声のAI利用のルールを発表 日俳連 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPeUREaEpQaFVPMUYxVWxHTnMwVFZHVzNHYVkyTFBIWG93bDVWWkxQRmQyNll2WWJ4ZXFWeFhmeHFzMnRvOXMyQzM1Q3Q5MFkxdFRzeEVzSmdDNUViVFExQjRTWC11ZFZf?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "声のAI利用のルールを発表 日俳連 朝日新聞",
+      "published_at": "2026-10-16T15:00:00Z",
+      "collected_at": "2026-10-16T23:23:50.445738Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "2fd4da5198d8dc7a281f5cf5",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "中国DeepSeek、AI利用停止5時間 計算資源の不足か - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tdHZvd1VGcXFEY0NINHdkdWsyUDN1N21hMzB1VWQ4N0Y3MVFSNkdqUkpSSlFreGNDUmdXZHdNN0ZKS2VobGxiMkxyRkZhSkhqeTdGZXphUVpPMVZXMGFPMzNpMkd3QmVvNk9DcA?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "中国DeepSeek、AI利用停止5時間 計算資源の不足か 日本経済新聞",
+      "published_at": "2026-10-16T09:54:56Z",
+      "collected_at": "2026-10-16T23:23:50.445738Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "946e5af1f84a53b2ce15480a",
@@ -5115,24 +5154,6 @@
       ]
     },
     {
-      "id": "8deace5258730993e77ce83a",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "今秋クマ出没は少ない？ AIカメラ・ドローンで進化するクマ対策 「基地式ドローン」で空からパトロール（富山テレビ） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyRUZPQ2t0Qng4SmpXUTNjR1BtTVVCUmJyWDVsMjFERXJSOUJUQjJ4U3FFdzJyNGVMNzY2YmxicWktOS1XSWpOdDZEbXJyZ2hPVTVxd2laUF9KQW11TkNNYnRiS09pT0RQcEtEeXZBT0ZCQkFibVd1TE1xR3ZoNzA?oc=5",
-      "publisher": "Yahoo!ニュース",
-      "summary": "今秋クマ出没は少ない？ AIカメラ・ドローンで進化するクマ対策 「基地式ドローン」で空からパトロール（富山テレビ） Yahoo!ニュース",
-      "published_at": "2026-10-07T12:08:01Z",
-      "collected_at": "2026-10-11T00:10:29.718090Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
       "id": "9a0d53c33baada63dbffcf16",
       "category": "tech",
       "source_id": "tech",
@@ -5282,6 +5303,24 @@
       "summary": "映像と音声で現場巡回を自動記録、AIエージェントのPoC開始 セーフィーとBONX：AI ITmedia",
       "published_at": "2026-10-07T08:00:00Z",
       "collected_at": "2026-10-07T21:00:07.646716Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "8deace5258730993e77ce83a",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "今秋クマ出没は少ない？ AIカメラ・ドローンで進化するクマ対策 「基地式ドローン」で空からパトロール（富山テレビ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyRUZPQ2t0Qng4SmpXUTNjR1BtTVVCUmJyWDVsMjFERXJSOUJUQjJ4U3FFdzJyNGVMNzY2YmxicWktOS1XSWpOdDZEbXJyZ2hPVTVxd2laUF9KQW11TkNNYnRiS09pT0RQcEtEeXZBT0ZCQkFibVd1TE1xR3ZoNzA?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "今秋クマ出没は少ない？ AIカメラ・ドローンで進化するクマ対策 「基地式ドローン」で空からパトロール（富山テレビ） Yahoo!ニュース",
+      "published_at": "2026-10-07T07:00:00Z",
+      "collected_at": "2026-10-11T00:10:29.718090Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -5555,6 +5594,25 @@
       ]
     },
     {
+      "id": "a0b2ef6f48d35f2a8bc10c89",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "中国・アリババ製AI「Qwen」が指示なく自らを書き換え──勝手に再学習し個人情報を漏洩させるおそれも - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XS2NibWI2R1NFMzBuVnpSU21RaVo0dnJjOGpnTGlpODZrTGZvQzJ6bzBWSk8xejQzMktZNnR5WENqeXA3d2RJYVRnYks2RUQweWFfeTlKSGVFZw?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "中国・アリババ製AI「Qwen」が指示なく自らを書き換え──勝手に再学習し個人情報を漏洩させるおそれも Forbes JAPAN",
+      "published_at": "2026-10-07T07:00:00Z",
+      "collected_at": "2026-10-10T00:39:25.100100Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
       "id": "4a4e1910f35b458d17f17d6e",
       "category": "parenting",
       "source_id": "parenting",
@@ -5714,25 +5772,6 @@
       "in_scope": true,
       "theme_ids": [
         "models"
-      ]
-    },
-    {
-      "id": "a0b2ef6f48d35f2a8bc10c89",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "中国・アリババ製AI「Qwen」が指示なく自らを書き換え──勝手に再学習し個人情報を漏洩させるおそれも - Forbes JAPAN",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1XS2NibWI2R1NFMzBuVnpSU21RaVo0dnJjOGpnTGlpODZrTGZvQzJ6bzBWSk8xejQzMktZNnR5WENqeXA3d2RJYVRnYks2RUQweWFfeTlKSGVFZw?oc=5",
-      "publisher": "Forbes JAPAN",
-      "summary": "中国・アリババ製AI「Qwen」が指示なく自らを書き換え──勝手に再学習し個人情報を漏洩させるおそれも Forbes JAPAN",
-      "published_at": "2026-10-07T03:00:00Z",
-      "collected_at": "2026-10-10T00:39:25.100100Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models",
-        "education"
       ]
     },
     {
@@ -22048,23 +22087,23 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-17T06:01:55.344578+09:00",
+      "generated_at": "2026-10-17T08:23:57.020038+09:00",
       "is_complete": false,
-      "article_count": 157,
+      "article_count": 158,
       "category_counts": {
+        "ai": 65,
         "parenting": 49,
-        "tech": 44,
-        "ai": 64
+        "tech": 44
       },
       "overview": "GoogleはGemini Notebookで、概念を説明する60秒動画、手元の教材から要約・スライド・クイズ・単語カードを組み合わせる学習ガイド、複数形式のクイズを最近提供開始した。復習後には次の学習箇所についてフィードバックを求められる。対象年齢・地域・料金別の提供範囲は資料に記載がない。 NVIDIAはクラウド事業者などに向け、Vera Rubin用ラック・計算トレイの設計をOCPに提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上最大250kWのラック構成を支える。ネットワーク設定やクラスタ検証などを担うDSXのオープンソース部品も公開した。導入実績や効率改善の比較測定は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+        "attempted_at": "2026-10-16T23:23:56.749532+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -22082,6 +22121,14 @@
           {
             "article_id": "829021dfb0e053ce86a67c52",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "72b23223f9a3f5cd538cf08e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "907293b15cb12e377abecc92",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -22096,7 +22143,7 @@
           "errors": [],
           "last_success_at": "2026-10-16T21:00:11.733905+00:00"
         },
-        "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+        "last_success_at": "2026-10-16T23:23:56.749532+00:00"
       },
       "genre_briefs": [
         {
@@ -22215,15 +22262,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 53,
+          "count": 54,
           "publisher_count": 25,
           "summary": "Googleは、試験勉強などに使うGemini Notebookで最近提供を始めた3機能を紹介した。難しい概念を60秒の動画にする機能、ノート・講義・読み物を基に要約やスライド、クイズ、単語カードを組み合わせて段階的に学べるガイド、短答・複数選択・穴埋め式のクイズを追加。クイズや単語カードの復習後には、次に取り組む箇所についてフィードバックを求められる。 OpenAIは、米国の大学研究室を対象とするRosalind Academic Planを発表した。適格な研究室にBusiness Standardを最大30席、最長12カ月無償提供し、別途承認後に生命科学向けGPT‑Rosalindと研究ツールを利用できる。研究責任者らが申請し、大学に既存のEnterprise契約がある場合は大学側の手続きを使う。研究データは既定でモデル学習に使われない。",
           "evidence_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
-            "714658a64fb5b3429e60c022",
-            "0f9bfbfbcfa79c194ccb7b8c"
+            "714658a64fb5b3429e60c022"
           ],
           "article_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
             "0f9bfbfbcfa79c194ccb7b8c",
@@ -22500,6 +22548,7 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "2fd4da5198d8dc7a281f5cf5",
         "946e5af1f84a53b2ce15480a",
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
@@ -22664,7 +22713,7 @@
       "kind": "weekly",
       "period_start": "2026-10-05",
       "period_end": "2026-10-11",
-      "generated_at": "2026-10-17T06:01:55.344578+09:00",
+      "generated_at": "2026-10-17T08:23:57.020038+09:00",
       "is_complete": true,
       "article_count": 221,
       "category_counts": {
@@ -22677,10 +22726,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+        "attempted_at": "2026-10-16T23:23:56.749532+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -22698,6 +22747,14 @@
           {
             "article_id": "829021dfb0e053ce86a67c52",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "72b23223f9a3f5cd538cf08e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "907293b15cb12e377abecc92",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -22712,7 +22769,7 @@
           "errors": [],
           "last_success_at": "2026-10-16T21:00:11.733905+00:00"
         },
-        "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+        "last_success_at": "2026-10-16T23:23:56.749532+00:00"
       },
       "genre_briefs": [
         {
@@ -22975,8 +23032,8 @@
             "2027e20bd97b4ac3c71c66d1",
             "0a2d5db5aad546a38ddaea32",
             "4c73eef9ae54b5806fc6af65",
-            "54e21c38b85ee21a4eb9bb2e",
             "a0b2ef6f48d35f2a8bc10c89",
+            "54e21c38b85ee21a4eb9bb2e",
             "c54a8b1bd2a862f32a83e608",
             "251cf79fc4eabf78a9f341b9",
             "cc3db6b21ce525514664efb3",
@@ -23053,10 +23110,10 @@
             "7b737cd04fe709e860e5f700",
             "e6ba0560e23f6725aa25080f",
             "28ae8a7d428690cfb1771cf8",
-            "8deace5258730993e77ce83a",
             "9a0d53c33baada63dbffcf16",
             "2eb505ba5b80d355bc79c57a",
             "c8c04651e19142e1c5f256c6",
+            "8deace5258730993e77ce83a",
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
@@ -23365,7 +23422,6 @@
         "e6ba0560e23f6725aa25080f",
         "daf4bbb831476a90511ef506",
         "28ae8a7d428690cfb1771cf8",
-        "8deace5258730993e77ce83a",
         "9a0d53c33baada63dbffcf16",
         "7309ab3c197d8677af0b480d",
         "8f4171ecd36ceedb17114813",
@@ -23375,6 +23431,7 @@
         "b204e181ec89e32fed0ef77b",
         "7c4e967d31953798e2c46ac3",
         "c8c04651e19142e1c5f256c6",
+        "8deace5258730993e77ce83a",
         "6339c894c8f1acef07a120a7",
         "e798643d5cdde114a3ab7d8b",
         "1e5d605ff0d691020f0d4e8d",
@@ -23390,6 +23447,7 @@
         "f7a2c36229e753a87ace57d4",
         "4c73eef9ae54b5806fc6af65",
         "96ad91a517dc39bd68e88a3b",
+        "a0b2ef6f48d35f2a8bc10c89",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
         "2d3fe0fb16101f31704006ff",
@@ -23398,7 +23456,6 @@
         "a6cfc345b7e5f084b9059f25",
         "73428e755f4eb2021e26dde3",
         "54e21c38b85ee21a4eb9bb2e",
-        "a0b2ef6f48d35f2a8bc10c89",
         "c54a8b1bd2a862f32a83e608",
         "251cf79fc4eabf78a9f341b9",
         "cc3db6b21ce525514664efb3",
@@ -23509,23 +23566,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-17T06:01:55.344578+09:00",
+      "generated_at": "2026-10-17T08:23:57.020038+09:00",
       "is_complete": false,
-      "article_count": 461,
+      "article_count": 462,
       "category_counts": {
+        "ai": 210,
         "parenting": 122,
-        "tech": 130,
-        "ai": 209
+        "tech": 130
       },
       "overview": "Stack Overflowは、Codexで知識基盤を開発し、ChatGPT内で発見・設定できるプラグイン導入後の登録増を報告した。ただし計測期間や比較条件は不明。OpenAIは米国大学の適格な研究室向けに最大30席・最長12カ月の無償支援を発表し、GPT‑Rosalindの利用には別途承認を求めている。 NVIDIAは、自然言語でエージェントに指示してOmniverse上のロボット操作環境や自動運転試験用プロトタイプを構築する事例を紹介した。欧州自治体では、デジタルツインによる公共施設運営の支援事例がある一方、都市交通支援や港湾の油流出警告は検討・試験段階にある。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答提出後の説明を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年は資料に示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+        "attempted_at": "2026-10-16T23:23:56.749532+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -23543,6 +23600,14 @@
           {
             "article_id": "829021dfb0e053ce86a67c52",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "72b23223f9a3f5cd538cf08e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "907293b15cb12e377abecc92",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -23557,7 +23622,7 @@
           "errors": [],
           "last_success_at": "2026-10-16T21:00:11.733905+00:00"
         },
-        "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+        "last_success_at": "2026-10-16T23:23:56.749532+00:00"
       },
       "genre_briefs": [
         {
@@ -23762,15 +23827,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 175,
+          "count": 176,
           "publisher_count": 37,
           "summary": "Googleは、試験勉強などに使うGemini Notebookで最近提供を始めた3機能を紹介した。難しい概念を60秒の動画にする機能、ノート・講義・読み物を基に要約やスライド、クイズ、単語カードを組み合わせて段階的に学べるガイド、短答・複数選択・穴埋め式のクイズを追加。クイズや単語カードの復習後には、次に取り組む箇所についてフィードバックを求められる。 OpenAIは、米国の大学研究室を対象とするRosalind Academic Planを発表した。適格な研究室にBusiness Standardを最大30席、最長12カ月無償提供し、別途承認後に生命科学向けGPT‑Rosalindと研究ツールを利用できる。研究責任者らが申請し、大学に既存のEnterprise契約がある場合は大学側の手続きを使う。研究データは既定でモデル学習に使われない。",
           "evidence_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
-            "714658a64fb5b3429e60c022",
-            "0f9bfbfbcfa79c194ccb7b8c"
+            "714658a64fb5b3429e60c022"
           ],
           "article_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
             "0f9bfbfbcfa79c194ccb7b8c",
@@ -23873,8 +23939,8 @@
             "2027e20bd97b4ac3c71c66d1",
             "0a2d5db5aad546a38ddaea32",
             "4c73eef9ae54b5806fc6af65",
-            "54e21c38b85ee21a4eb9bb2e",
             "a0b2ef6f48d35f2a8bc10c89",
+            "54e21c38b85ee21a4eb9bb2e",
             "c54a8b1bd2a862f32a83e608",
             "251cf79fc4eabf78a9f341b9",
             "cc3db6b21ce525514664efb3",
@@ -24029,10 +24095,10 @@
             "7b737cd04fe709e860e5f700",
             "e6ba0560e23f6725aa25080f",
             "28ae8a7d428690cfb1771cf8",
-            "8deace5258730993e77ce83a",
             "9a0d53c33baada63dbffcf16",
             "2eb505ba5b80d355bc79c57a",
             "c8c04651e19142e1c5f256c6",
+            "8deace5258730993e77ce83a",
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
@@ -24365,6 +24431,7 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "2fd4da5198d8dc7a281f5cf5",
         "946e5af1f84a53b2ce15480a",
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
@@ -24606,7 +24673,6 @@
         "e6ba0560e23f6725aa25080f",
         "daf4bbb831476a90511ef506",
         "28ae8a7d428690cfb1771cf8",
-        "8deace5258730993e77ce83a",
         "9a0d53c33baada63dbffcf16",
         "7309ab3c197d8677af0b480d",
         "8f4171ecd36ceedb17114813",
@@ -24616,6 +24682,7 @@
         "b204e181ec89e32fed0ef77b",
         "7c4e967d31953798e2c46ac3",
         "c8c04651e19142e1c5f256c6",
+        "8deace5258730993e77ce83a",
         "6339c894c8f1acef07a120a7",
         "e798643d5cdde114a3ab7d8b",
         "1e5d605ff0d691020f0d4e8d",
@@ -24631,6 +24698,7 @@
         "f7a2c36229e753a87ace57d4",
         "4c73eef9ae54b5806fc6af65",
         "96ad91a517dc39bd68e88a3b",
+        "a0b2ef6f48d35f2a8bc10c89",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
         "2d3fe0fb16101f31704006ff",
@@ -24639,7 +24707,6 @@
         "a6cfc345b7e5f084b9059f25",
         "73428e755f4eb2021e26dde3",
         "54e21c38b85ee21a4eb9bb2e",
-        "a0b2ef6f48d35f2a8bc10c89",
         "c54a8b1bd2a862f32a83e608",
         "251cf79fc4eabf78a9f341b9",
         "cc3db6b21ce525514664efb3",
@@ -26392,7 +26459,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-17T06:01:55.344578+09:00",
+      "generated_at": "2026-10-17T08:23:57.020038+09:00",
       "is_complete": true,
       "article_count": 519,
       "category_counts": {
@@ -26405,10 +26472,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+        "attempted_at": "2026-10-16T23:23:56.749532+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -26426,6 +26493,14 @@
           {
             "article_id": "829021dfb0e053ce86a67c52",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "72b23223f9a3f5cd538cf08e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "907293b15cb12e377abecc92",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -26440,7 +26515,7 @@
           "errors": [],
           "last_success_at": "2026-10-16T21:00:11.733905+00:00"
         },
-        "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+        "last_success_at": "2026-10-16T23:23:56.749532+00:00"
       },
       "genre_briefs": [
         {
@@ -27791,23 +27866,23 @@
       "kind": "overview",
       "period_start": "2026-10-11",
       "period_end": "2026-10-17",
-      "generated_at": "2026-10-17T06:01:55.344578+09:00",
+      "generated_at": "2026-10-17T08:23:57.020038+09:00",
       "is_complete": false,
-      "article_count": 162,
+      "article_count": 163,
       "category_counts": {
+        "ai": 67,
         "parenting": 51,
-        "tech": 45,
-        "ai": 66
+        "tech": 45
       },
       "overview": "GoogleはGemini Notebookで、概念を60秒の動画にする機能と、利用者のノート・講義・読み物から要約、スライド、クイズ、単語カードを組み合わせる学習ガイドなどを提供開始したと紹介した。対象年齢、地域、料金プラン別の提供範囲は資料から確認できず、幼児・小学生向けとは判断できない。 NVIDIAの紹介によると、フランスのコートドール県ではセンサーと過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したという。一方、ミラノ地域の翻訳・市民向けチャットボット基盤は導入中で、英国の都市交通支援やベルギーの港湾の油流出警告は検討・試験段階にある。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+        "attempted_at": "2026-10-16T23:23:56.749532+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -27825,6 +27900,14 @@
           {
             "article_id": "829021dfb0e053ce86a67c52",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "72b23223f9a3f5cd538cf08e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "907293b15cb12e377abecc92",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -27839,7 +27922,7 @@
           "errors": [],
           "last_success_at": "2026-10-16T21:00:11.733905+00:00"
         },
-        "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+        "last_success_at": "2026-10-16T23:23:56.749532+00:00"
       },
       "genre_briefs": [
         {
@@ -27958,15 +28041,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 55,
+          "count": 56,
           "publisher_count": 25,
           "summary": "Googleは、試験勉強などに使うGemini Notebookで最近提供を始めた3機能を紹介した。難しい概念を60秒の動画にする機能、ノート・講義・読み物を基に要約やスライド、クイズ、単語カードを組み合わせて段階的に学べるガイド、短答・複数選択・穴埋め式のクイズを追加。クイズや単語カードの復習後には、次に取り組む箇所についてフィードバックを求められる。 OpenAIは、米国の大学研究室を対象とするRosalind Academic Planを発表した。適格な研究室にBusiness Standardを最大30席、最長12カ月無償提供し、別途承認後に生命科学向けGPT‑Rosalindと研究ツールを利用できる。研究責任者らが申請し、大学に既存のEnterprise契約がある場合は大学側の手続きを使う。研究データは既定でモデル学習に使われない。",
           "evidence_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
-            "714658a64fb5b3429e60c022",
-            "0f9bfbfbcfa79c194ccb7b8c"
+            "714658a64fb5b3429e60c022"
           ],
           "article_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
             "0f9bfbfbcfa79c194ccb7b8c",
@@ -28248,6 +28332,7 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "2fd4da5198d8dc7a281f5cf5",
         "946e5af1f84a53b2ce15480a",
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
@@ -28417,23 +28502,23 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-17T06:01:55.344578+09:00",
+      "generated_at": "2026-10-17T08:23:57.020038+09:00",
       "is_complete": false,
-      "article_count": 157,
+      "article_count": 158,
       "category_counts": {
+        "ai": 65,
         "parenting": 49,
-        "tech": 44,
-        "ai": 64
+        "tech": 44
       },
       "overview": "GoogleはGemini Notebookで、概念を説明する60秒動画、手元の教材から要約・スライド・クイズ・単語カードを組み合わせる学習ガイド、複数形式のクイズを最近提供開始した。復習後には次の学習箇所についてフィードバックを求められる。対象年齢・地域・料金別の提供範囲は資料に記載がない。 NVIDIAはクラウド事業者などに向け、Vera Rubin用ラック・計算トレイの設計をOCPに提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、設計上最大250kWのラック構成を支える。ネットワーク設定やクラスタ検証などを担うDSXのオープンソース部品も公開した。導入実績や効率改善の比較測定は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+        "attempted_at": "2026-10-16T23:23:56.749532+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -28451,6 +28536,14 @@
           {
             "article_id": "829021dfb0e053ce86a67c52",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "72b23223f9a3f5cd538cf08e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "907293b15cb12e377abecc92",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -28465,7 +28558,7 @@
           "errors": [],
           "last_success_at": "2026-10-16T21:00:11.733905+00:00"
         },
-        "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+        "last_success_at": "2026-10-16T23:23:56.749532+00:00"
       },
       "genre_briefs": [
         {
@@ -28584,15 +28677,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 53,
+          "count": 54,
           "publisher_count": 25,
           "summary": "Googleは、試験勉強などに使うGemini Notebookで最近提供を始めた3機能を紹介した。難しい概念を60秒の動画にする機能、ノート・講義・読み物を基に要約やスライド、クイズ、単語カードを組み合わせて段階的に学べるガイド、短答・複数選択・穴埋め式のクイズを追加。クイズや単語カードの復習後には、次に取り組む箇所についてフィードバックを求められる。 OpenAIは、米国の大学研究室を対象とするRosalind Academic Planを発表した。適格な研究室にBusiness Standardを最大30席、最長12カ月無償提供し、別途承認後に生命科学向けGPT‑Rosalindと研究ツールを利用できる。研究責任者らが申請し、大学に既存のEnterprise契約がある場合は大学側の手続きを使う。研究データは既定でモデル学習に使われない。",
           "evidence_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
-            "714658a64fb5b3429e60c022",
-            "0f9bfbfbcfa79c194ccb7b8c"
+            "714658a64fb5b3429e60c022"
           ],
           "article_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
             "0f9bfbfbcfa79c194ccb7b8c",
@@ -28869,6 +28963,7 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "2fd4da5198d8dc7a281f5cf5",
         "946e5af1f84a53b2ce15480a",
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
@@ -29033,23 +29128,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-17T06:01:55.344578+09:00",
+      "generated_at": "2026-10-17T08:23:57.020038+09:00",
       "is_complete": false,
-      "article_count": 461,
+      "article_count": 462,
       "category_counts": {
+        "ai": 210,
         "parenting": 122,
-        "tech": 130,
-        "ai": 209
+        "tech": 130
       },
       "overview": "Stack Overflowは、Codexで知識基盤を開発し、ChatGPT内で発見・設定できるプラグイン導入後の登録増を報告した。ただし計測期間や比較条件は不明。OpenAIは米国大学の適格な研究室向けに最大30席・最長12カ月の無償支援を発表し、GPT‑Rosalindの利用には別途承認を求めている。 NVIDIAは、自然言語でエージェントに指示してOmniverse上のロボット操作環境や自動運転試験用プロトタイプを構築する事例を紹介した。欧州自治体では、デジタルツインによる公共施設運営の支援事例がある一方、都市交通支援や港湾の油流出警告は検討・試験段階にある。 Khan Academyは、Missionsによる次の課題の案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答提出後の説明を紹介した。提携学区向けGem Jamでは、教師が時間と参加者を設定し、自動編成されたチームが指定課題の習熟を競う。対象学年は資料に示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+        "attempted_at": "2026-10-16T23:23:56.749532+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -29067,6 +29162,14 @@
           {
             "article_id": "829021dfb0e053ce86a67c52",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "72b23223f9a3f5cd538cf08e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "907293b15cb12e377abecc92",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -29081,7 +29184,7 @@
           "errors": [],
           "last_success_at": "2026-10-16T21:00:11.733905+00:00"
         },
-        "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+        "last_success_at": "2026-10-16T23:23:56.749532+00:00"
       },
       "genre_briefs": [
         {
@@ -29286,15 +29389,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 175,
+          "count": 176,
           "publisher_count": 37,
           "summary": "Googleは、試験勉強などに使うGemini Notebookで最近提供を始めた3機能を紹介した。難しい概念を60秒の動画にする機能、ノート・講義・読み物を基に要約やスライド、クイズ、単語カードを組み合わせて段階的に学べるガイド、短答・複数選択・穴埋め式のクイズを追加。クイズや単語カードの復習後には、次に取り組む箇所についてフィードバックを求められる。 OpenAIは、米国の大学研究室を対象とするRosalind Academic Planを発表した。適格な研究室にBusiness Standardを最大30席、最長12カ月無償提供し、別途承認後に生命科学向けGPT‑Rosalindと研究ツールを利用できる。研究責任者らが申請し、大学に既存のEnterprise契約がある場合は大学側の手続きを使う。研究データは既定でモデル学習に使われない。",
           "evidence_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
-            "714658a64fb5b3429e60c022",
-            "0f9bfbfbcfa79c194ccb7b8c"
+            "714658a64fb5b3429e60c022"
           ],
           "article_ids": [
+            "2fd4da5198d8dc7a281f5cf5",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
             "0f9bfbfbcfa79c194ccb7b8c",
@@ -29397,8 +29501,8 @@
             "2027e20bd97b4ac3c71c66d1",
             "0a2d5db5aad546a38ddaea32",
             "4c73eef9ae54b5806fc6af65",
-            "54e21c38b85ee21a4eb9bb2e",
             "a0b2ef6f48d35f2a8bc10c89",
+            "54e21c38b85ee21a4eb9bb2e",
             "c54a8b1bd2a862f32a83e608",
             "251cf79fc4eabf78a9f341b9",
             "cc3db6b21ce525514664efb3",
@@ -29553,10 +29657,10 @@
             "7b737cd04fe709e860e5f700",
             "e6ba0560e23f6725aa25080f",
             "28ae8a7d428690cfb1771cf8",
-            "8deace5258730993e77ce83a",
             "9a0d53c33baada63dbffcf16",
             "2eb505ba5b80d355bc79c57a",
             "c8c04651e19142e1c5f256c6",
+            "8deace5258730993e77ce83a",
             "e798643d5cdde114a3ab7d8b",
             "87126dabfbc750fd0851420c",
             "51b4a20d4aa52b4704ed3007",
@@ -29889,6 +29993,7 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "2fd4da5198d8dc7a281f5cf5",
         "946e5af1f84a53b2ce15480a",
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
@@ -30130,7 +30235,6 @@
         "e6ba0560e23f6725aa25080f",
         "daf4bbb831476a90511ef506",
         "28ae8a7d428690cfb1771cf8",
-        "8deace5258730993e77ce83a",
         "9a0d53c33baada63dbffcf16",
         "7309ab3c197d8677af0b480d",
         "8f4171ecd36ceedb17114813",
@@ -30140,6 +30244,7 @@
         "b204e181ec89e32fed0ef77b",
         "7c4e967d31953798e2c46ac3",
         "c8c04651e19142e1c5f256c6",
+        "8deace5258730993e77ce83a",
         "6339c894c8f1acef07a120a7",
         "e798643d5cdde114a3ab7d8b",
         "1e5d605ff0d691020f0d4e8d",
@@ -30155,6 +30260,7 @@
         "f7a2c36229e753a87ace57d4",
         "4c73eef9ae54b5806fc6af65",
         "96ad91a517dc39bd68e88a3b",
+        "a0b2ef6f48d35f2a8bc10c89",
         "4a4e1910f35b458d17f17d6e",
         "f8d706a76a6348cb2a956c33",
         "2d3fe0fb16101f31704006ff",
@@ -30163,7 +30269,6 @@
         "a6cfc345b7e5f084b9059f25",
         "73428e755f4eb2021e26dde3",
         "54e21c38b85ee21a4eb9bb2e",
-        "a0b2ef6f48d35f2a8bc10c89",
         "c54a8b1bd2a862f32a83e608",
         "251cf79fc4eabf78a9f341b9",
         "cc3db6b21ce525514664efb3",
@@ -30353,13 +30458,13 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-17T06:01:55.344578+09:00",
+  "report_updated_at": "2026-10-17T08:23:57.020038+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-16T21:01:55.034432+00:00",
+    "attempted_at": "2026-10-16T23:23:56.749532+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 2,
+    "new_reviews": 0,
     "updated_periods": [
       "overview",
       "weekly",
@@ -30377,6 +30482,14 @@
       {
         "article_id": "829021dfb0e053ce86a67c52",
         "stage": "original_fetch"
+      },
+      {
+        "article_id": "72b23223f9a3f5cd538cf08e",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "907293b15cb12e377abecc92",
+        "stage": "original_fetch"
       }
     ],
     "local_codex": {
@@ -30391,7 +30504,7 @@
       "errors": [],
       "last_success_at": "2026-10-16T21:00:11.733905+00:00"
     },
-    "last_success_at": "2026-10-16T21:01:55.034432+00:00"
+    "last_success_at": "2026-10-16T23:23:56.749532+00:00"
   },
   "topic_definitions": [
     {
@@ -30938,8 +31051,8 @@
     ]
   },
   "picks": [
+    "2fd4da5198d8dc7a281f5cf5",
     "882475ca67e34a3e44189e2a",
-    "a2732dabf656e9dafebd3f9f",
     "fd5b2dee1f6f5f6b7edfd93b",
     "4e0ac644f2d6ef766db8b0b1",
     "946e5af1f84a53b2ce15480a",
