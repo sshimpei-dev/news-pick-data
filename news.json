@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-18T22:55:54.784644Z",
-  "last_attempt_at": "2026-10-18T22:55:54.784644Z",
+  "updated_at": "2026-10-19T21:01:59.050656Z",
+  "last_attempt_at": "2026-10-19T21:01:59.050656Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -35,8 +35,8 @@
       "name": "Google / Gemini 公式",
       "category": "ai",
       "status": "ok",
-      "count": 6,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "count": 7,
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,23 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-18T22:55:54.784644Z",
+      "checked_at": "2026-10-19T21:01:59.050656Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-19T21:01:59.050656Z",
+      "new_count": 0,
+      "status": "ok"
+    },
+    {
+      "at": "2026-10-19T21:00:06.511015Z",
+      "new_count": 23,
+      "status": "ok"
+    },
     {
       "at": "2026-10-18T22:55:54.784644Z",
       "new_count": 3,
@@ -483,6 +493,234 @@
   ],
   "articles": [
     {
+      "id": "3cc3177a525b54d88d207d30",
+      "category": "tech",
+      "source_id": "nvidia",
+      "title": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+      "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+      "publisher": "NVIDIA 公式ブログ",
+      "summary": "In the cavernous hall of Kraftwerk, a former power station in Berlin, German Chancellor Friedrich Merz and NVIDIA founder and CEO Jensen Huang sat down to discuss Germany’s AI roadmap, and in particular, the industrial applications of AI. Huang opened by tracing NVIDIA’s longstanding relationship with German industry, beginning with gaming systems, workstations and automotive […]",
+      "published_at": "2026-10-19T19:27:08Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": "NVIDIA",
+      "origin_kind": "official",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "d23c10329b893e27a76a2e9e",
+      "category": "tech",
+      "source_id": "nvidia",
+      "title": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to Global Content Production",
+      "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/",
+      "publisher": "NVIDIA 公式ブログ",
+      "summary": "At a creative industry event that took place today in Berlin — hosted in collaboration with Adobe, Bertelsmann, NVIDIA and UFA — the latest advancements in intelligent media were on display. Key to the news: the European Broadcasting Union (EBU) is collaborating with NVIDIA to expand its sovereign framework with cloud, open models and integration […]",
+      "published_at": "2026-10-19T15:00:31Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": "NVIDIA",
+      "origin_kind": "official",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "e8e64d16490018dc8da0919e",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "アップル、AI搭載の室内カメラ「J450」を開発中か 来年発売を目標 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NeWlhRnhmZER6dlE3anZqZlh6VllUMThsN1VUQzF6TGJ0N3VFMmhyXzViZVpwV05WbkVfTEVPb29RbVlVcTI5aFQyQk5qZ3VwMDVYbEdWV2hKUkx5b2R1cUhxc1JLVko2eTlFYXVnVWdCUU5y?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "アップル、AI搭載の室内カメラ「J450」を開発中か 来年発売を目標 BigGo ファイナンス",
+      "published_at": "2026-10-19T14:25:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera",
+        "development"
+      ]
+    },
+    {
+      "id": "5c1b3e010f801d7ccda03471",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIカメラ搭載車が熊や不審者を撃退 仙台の小学6年・香味宙樹さんに最優秀賞 宮城県小学生プログラミング大会 - 河北新報オンライン",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aTmU3TVNhR0tLTElMN1liVmVuam1MQWdRUGdQNlB6SmZLbVl0UkF3M1JEdnhoX2hGUGFkTURkbVhYNzAyUFZRSlRSaXNYaW00WmdBZURPc1R5Qlk?oc=5",
+      "publisher": "河北新報オンライン",
+      "summary": "AIカメラ搭載車が熊や不審者を撃退 仙台の小学6年・香味宙樹さんに最優秀賞 宮城県小学生プログラミング大会 河北新報オンライン",
+      "published_at": "2026-10-19T11:00:20Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "c020d38ee4938270e23532c4",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "あいおいニッセイ、国産AI開発に参画＝データ保護と学習の両立で知見提供(時事通信) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdXFMT05rd3hQeTVKN1RFZXhXYXRCVmNzSzBwazZDUVR4ckxfS25tUHBId2MwQWxYelNrSGd2cEJYNmxJOGFhZEgtY21peWY0ekxsTnotUVFFTXR4UUN4R19CRzVPNGh0aTdKb0hrRU5GcUFlVnE1cWtWTHFhYUNhLWcza25CaUE?oc=5",
+      "publisher": "Yahoo!ファイナンス",
+      "summary": "あいおいニッセイ、国産AI開発に参画＝データ保護と学習の両立で知見提供(時事通信) Yahoo!ファイナンス",
+      "published_at": "2026-10-19T10:45:47Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "development",
+        "education"
+      ]
+    },
+    {
+      "id": "1d0b2d851c179042720c4fbc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "性能とスピードをアップした「DeepSeek-V4. - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ed0RLVVBIYkVCNHhmWVpXcEF6R1FkUlpaR0E1bVBLSjJaX3E0MG1qTjlJYWY5bldOamZ2UjRtLWhrSEkxbl9sdE4zMGkzT0JqSy1aUFJDNVlnTXEwX3RuX001UlhyTVNY?oc=5",
+      "publisher": "gihyo.jp",
+      "summary": "性能とスピードをアップした「DeepSeek-V4. gihyo.jp",
+      "published_at": "2026-10-19T06:20:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "0c3b999e25aed55a5e3dd2c9",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeek、フロンティア級に迫る「V4.1-Flash-1017」を重み公開——自社測定でGPT-5.6 Solを9指標で上回る - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zeXA3UVFNdDQzMlZwM1BhcGl0M25iX2JEVjg4SWIzWU9BY1NSeUJLMmlQeGU3UzVGc3EyZllFQlh3T1RWSU1GQ3g0a2VEcTYxMG5nTHllVW50RjVSSmZUdHI1Umtwak9SVjA0bw?oc=5",
+      "publisher": "BRIDGE（ブリッジ）",
+      "summary": "DeepSeek、フロンティア級に迫る「V4.1-Flash-1017」を重み公開——自社測定でGPT-5.6 Solを9指標で上回る BRIDGE（ブリッジ）",
+      "published_at": "2026-10-19T03:59:17Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "54ba694aeb9ef9b941845b3f",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "デジタル教科書、動画1本あたり3分程度まで AI搭載は当面認めず - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rdkg3dHA5Sm54S3hhejhLcVd3RktZc1FEMDg1SkpCcWVVYWNoLTBNOEpxd3pLWTZrcUU1eXpyTnNzRGEtTWhraHdXS0gyLV8zeVN1dndiZHBadTdZOGNBNnhUV3M?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "デジタル教科書、動画1本あたり3分程度まで AI搭載は当面認めず 朝日新聞",
+      "published_at": "2026-10-19T03:01:59Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "92ad9db99438082693a9ef64",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "SKグループ会長「AI時代、学校は挑戦・実験する場にならなくては」（中央日報日本語版） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1xMlZqdHJPSFhpQXZEUXRra0xnaWctR2dNTEo5MmRrYkV5OFVJSmFMOEt5ZUUwQndENVYxQ3Focmt6TDJmWDR2VFAwdEtBbUIwejhiUmY4OWVfNF9TNllocGtyaXhZWGh4UFV6cld2NTdXOVVkUkZ6RzBOMEN1MzA?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "SKグループ会長「AI時代、学校は挑戦・実験する場にならなくては」（中央日報日本語版） Yahoo!ニュース",
+      "published_at": "2026-10-19T01:17:29Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "cce9f76fdb79fc4d427df132",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeek、「Claude Opus 5超え」うたう最新AIを無料提供 - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45bmoxMGNtcUlLMnFscnlKUk05Nklta19ySFRHRk8xVnZSNkUxcVgwaklTOGk0cTV6cEdQQlRvdjFYaU1jaFJ1SjdEMDF4ZU1JWXc?oc=5",
+      "publisher": "CNET Japan",
+      "summary": "DeepSeek、「Claude Opus 5超え」うたう最新AIを無料提供 CNET Japan",
+      "published_at": "2026-10-19T01:10:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "5c2cb6877b29a702d0eed1c3",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeek、AIモデルを一部改良－高速・軽量化でライバルに対抗 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fRHJXWkpTTi1Kb0M2bzllQ1lQTmVzaG40NEVMQTFNUVNGREhPOWFwQ0I1ZktSajJqOEFscUlrOE9xVTNfb2pkZXI4eWxZMktaLU1ZaXhycGZVMDk3THZxSTBnYWs4WFhFQ2tldTJrazU5U05XUHBB?oc=5",
+      "publisher": "Bloomberg.com",
+      "summary": "DeepSeek、AIモデルを一部改良－高速・軽量化でライバルに対抗 Bloomberg.com",
+      "published_at": "2026-10-19T00:53:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "68f20252c475ebf919aa32c2",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "なぜGoogleは、OpenAIとAnthropicに勝てないのか？ 「世界最大の計算資源」の使い道（1/3 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyQS1UV0hTbGVzeTVHdldZWDBQVXZPbWRJeVRsNGwxU1d1MG1RODB6U1Y5LXlBX0JGSndwRlJRdmhPd3A5U1BhYXc1eTUwUEI4VDBnVFdmbHZhM05VczdsZnpUcHBrS3h2b18yUXVFQmxhUQ?oc=5",
+      "publisher": "ITmedia",
+      "summary": "なぜGoogleは、OpenAIとAnthropicに勝てないのか？ 「世界最大の計算資源」の使い道（1/3 ページ） ITmedia",
+      "published_at": "2026-10-19T00:15:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "6761435993edc48cfbb96f59",
+      "category": "ai",
+      "source_id": "google-ai",
+      "title": "How to shape your slides and videos with Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "publisher": "Google / Gemini 公式",
+      "summary": "Gemini Notebook is giving more creative control in the creation of Slide Decks and Video Overviews.",
+      "published_at": "2026-10-19T00:00:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": "Google / Gemini",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "57c36f72a0aefc15bb0bddda",
       "category": "parenting",
       "source_id": "parenting",
@@ -504,10 +742,10 @@
       "id": "a627f361b75ed64c9140e22f",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど傾向 - 日本経済新聞",
+      "title": "英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど高く - 日本経済新聞",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2dUtHN2N6T1JWdEpZblJpMHNzZUpYQnc1V0Q2NkdzeGJjN3pQZm8wN2VvaGFDb0t4RFZEaUVZZ0VrcXVJbXF1elptSG5QdEhJNkxrNDE3ZTJiX1BSanZPXzhTQjVkWVdRbXN0Zw?oc=5",
       "publisher": "日本経済新聞",
-      "summary": "英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど傾向 日本経済新聞",
+      "summary": "英会話学習者、人間の先生「必要」8割超 生成AI利用者ほど高く 日本経済新聞",
       "published_at": "2026-10-18T20:00:00Z",
       "collected_at": "2026-10-18T22:55:54.784644Z",
       "provider": null,
@@ -517,6 +755,22 @@
       "theme_ids": [
         "education"
       ]
+    },
+    {
+      "id": "2cf978a1e0063628bc665e3e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AIはなぜ集団暴走したのか OpenAIのサイバー事故を動画解説 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yY2tfQnhQQnNYSXZ2ZVRhejd6eW0wMFdCeS1BQ1B2dk5iMm5NcVlHUlZudmtaZUVEQ1Ezajlmd20zWEpRV0RPdnFkQlozRFh6N0JORU5QVElrS1FBSjNGTGFFMllmeEFyOWZHbg?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "AIはなぜ集団暴走したのか OpenAIのサイバー事故を動画解説 日本経済新聞",
+      "published_at": "2026-10-18T20:00:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "8f34f46057fa3abe138d759e",
@@ -617,25 +871,6 @@
       "theme_ids": []
     },
     {
-      "id": "976fe8fb12d410b5bf14d24e",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "DeepSeek、V4.1 Flash新版を公開：推論コスト削減・プログラミング強化、自社開発検索APIを初開放 - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81SW9QeDZNSXFwUlRIMEQtbFRTblpKRDF3RWdTc3FFQnE4bXl3cFJCUHQ1Y1BBcXZaRlRRZWNZTHA3eHRtQ3ZjNXFZeXMtTjF1RE9CSUN1SUc1cktsMnV2cmZzSzhGU0dldjk0NnZvT0NWMXdx?oc=5",
-      "publisher": "BigGo ファイナンス",
-      "summary": "DeepSeek、V4.1 Flash新版を公開：推論コスト削減・プログラミング強化、自社開発検索APIを初開放 BigGo ファイナンス",
-      "published_at": "2026-10-17T14:37:41Z",
-      "collected_at": "2026-10-17T21:00:04.657685Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-agents",
-      "in_scope": true,
-      "theme_ids": [
-        "models",
-        "development"
-      ]
-    },
-    {
       "id": "eed3de14a43157122b99cb05",
       "category": "ai",
       "source_id": "ai",
@@ -651,6 +886,43 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "bbb324b74d6bfb38e28494cd",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開 - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9uRXZjbDZaRVlrSXJFc2N3eHYwTTFmZWRwd0Fsdlh4Rzd3UFlGaFJzVXd4RC1IMlpBdlBCMHVITldULXZNVlloTVZrNGg3X0VaekFsSXhSRmZ0X0VNamE1M2hMVQ?oc=5",
+      "publisher": "PC Watch",
+      "summary": "コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開 PC Watch",
+      "published_at": "2026-10-17T13:29:20Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "976fe8fb12d410b5bf14d24e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeek、V4.1 Flash新版を公開：推論コスト削減・プログラミング強化、自社開発検索APIを初開放 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81SW9QeDZNSXFwUlRIMEQtbFRTblpKRDF3RWdTc3FFQnE4bXl3cFJCUHQ1Y1BBcXZaRlRRZWNZTHA3eHRtQ3ZjNXFZeXMtTjF1RE9CSUN1SUc1cktsMnV2cmZzSzhGU0dldjk0NnZvT0NWMXdx?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "DeepSeek、V4.1 Flash新版を公開：推論コスト削減・プログラミング強化、自社開発検索APIを初開放 BigGo ファイナンス",
+      "published_at": "2026-10-17T10:55:00Z",
+      "collected_at": "2026-10-17T21:00:04.657685Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
       ]
     },
     {
@@ -900,10 +1172,10 @@
       "id": "9d75569bc419e9497b887487",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "小学生・中高生・保護者向け将来の進路や職業の選択肢を広げるデジタル冊子を作成|10月 - 都庁総合ホームページ",
+      "title": "小学生・中高生・保護者向け 将来の進路や職業の選択肢を広げるデジタル冊子を作成 みんなの「なりたい」を大切に - 都庁総合ホームページ",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpNTFvYTBqUm9ZRTRBbDNjZ2ZmdldhdVJNdWNjNHFBcFlOMU1GMm90YWFhdDZ4d2g4T2VoR004Szl2aW5yVjFXa09FQ1prQzhHM0lFWWlFMS01MGwwYTExTmdVeVFtVkF4YXpkcERUU1N1RTVx?oc=5",
       "publisher": "都庁総合ホームページ",
-      "summary": "小学生・中高生・保護者向け将来の進路や職業の選択肢を広げるデジタル冊子を作成|10月 都庁総合ホームページ",
+      "summary": "小学生・中高生・保護者向け 将来の進路や職業の選択肢を広げるデジタル冊子を作成 みんなの「なりたい」を大切に 都庁総合ホームページ",
       "published_at": "2026-10-16T08:09:12Z",
       "collected_at": "2026-10-16T21:00:06.172839Z",
       "provider": null,
@@ -927,6 +1199,24 @@
       "topic_id": "parent-ict",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "ccc2647e8afbef99d2cf176d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【AIカメラで広がる札幌でのスポーツDXによるまちづくり】北海道初となる「マチスポ」本格運用がモエレ沼公園野球場でスタート！ - 自治体通信Online",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jQnp3QnNmZnMxX0JsdURIMTB0WC1PVkZ2b0NKY09ZYVdzLVNOb1BPUTZQV3Z5OW44cGFXSTBZOVBYV0JNT3hUYm5CQlAwc0RkbFZrXzVXN1o2cGMtdDhhSnZXTV8zcUR4ZGpwNlNtN3I4Y1liZTBHSg?oc=5",
+      "publisher": "自治体通信Online",
+      "summary": "【AIカメラで広がる札幌でのスポーツDXによるまちづくり】北海道初となる「マチスポ」本格運用がモエレ沼公園野球場でスタート！ 自治体通信Online",
+      "published_at": "2026-10-16T07:00:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "a5ec9d4aa0577e7790e76f11",
@@ -1010,6 +1300,24 @@
       "summary": "クマ追い払うロボット犬「ハッチャン」、ＡＩカメラでクマ認知しうなり声で威嚇…年内の実証実験実施目指す (読売新聞オンライン) Yahoo!ニュース",
       "published_at": "2026-10-16T01:24:56Z",
       "collected_at": "2026-10-16T21:00:06.172839Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "3c38e2f58eae775627521026",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "クマ追い払うロボット犬「ハッチャン」、ＡＩカメラでクマ認知しうなり声で威嚇…年内の実証実験実施目指す（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TVGNzdGRMLWNTOHBpX3kxTjVhaGxEOTIzOFJtdl9UdkxhUThWbEdlQ2VYclVjZVQ1U0dROXJfWTg0YUlYRzZPeWNfN1E2cmdRVjVvN3dkSWxGVmxXYkIzalJZY05SdXJoVTlOMm1qT25nRnNocEtKdm5SZW1OOVE?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "クマ追い払うロボット犬「ハッチャン」、ＡＩカメラでクマ認知しうなり声で威嚇…年内の実証実験実施目指す（読売新聞オンライン） Yahoo!ニュース",
+      "published_at": "2026-10-16T01:24:56Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -1267,6 +1575,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "e156b83839575b2f0dd9ed0f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "大学などの研究室への GPT-Rosalind の提供 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44Ym8ybVNBaU5FaTAydXZFWUJ2R19lZlZiUFl2LTZMN0FTOVVyLUVFZGdZX25SV3IxbzVBNEpaLUpEWjdEVzRMMEpqbEw2RDV2RGQ0ZGNESUh6Mk9FWHYzMHRDdkNvZFhaUDIxOG9zN1lxbENKT3I1VWtB?oc=5",
+      "publisher": "OpenAI",
+      "summary": "大学などの研究室への GPT-Rosalind の提供 OpenAI",
+      "published_at": "2026-10-15T21:32:14Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1845,6 +2171,22 @@
       ]
     },
     {
+      "id": "5188d3ccac3ad3ea0714f960",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIを母親が提訴、「ChatGPT」で子どもの膨大なデータを違法収集か - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjZEhQSm11Q0R5UktfRUVqUDJLeVNJbGQxSUtVTGdwWkhpZHFGTHhxTVJRakJFZTNfZzU2TlM2RloyUkNLYXpoZU5XUzBiNlVTV04xNWpUa2Exc3J5cm5mZi00Nk1mUXAxeUJ6dVlDVF81alc3eXV1QjJWOElLbk0?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "OpenAIを母親が提訴、「ChatGPT」で子どもの膨大なデータを違法収集か Yahoo!ニュース",
+      "published_at": "2026-10-15T01:35:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "659b9b8701ea3010a4e23fe7",
       "category": "ai",
       "source_id": "google-ai",
@@ -1925,6 +2267,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "ef3873d6d9ed7dcb92cae32d",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Geminiが「スキル」に対応。 Claudeユーザーの私が乗り換えたくなった理由 - ライフハッカー",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc1hzQ19FMTVJT0FZMFV1UHcwaGRCMUNYc3o3SU1jRVBPN2xaYXdGOEVnYXVYa2ZMTjNweTFpb0xhSFhTWUUwY3FxZUQxV0piVVUwa254MnBxdTNLeW54TDhIODBMUnE1NnRmWFFFUnMzNzJTSU1WcnhSRjVPR2NPT1FOcXFQYnFSUzV5VE5CY05kNEo3X1lSTHVHMGg5MGhnTUM1SzZ3MHNCVUVl?oc=5",
+      "publisher": "ライフハッカー",
+      "summary": "Geminiが「スキル」に対応。 Claudeユーザーの私が乗り換えたくなった理由 ライフハッカー",
+      "published_at": "2026-10-15T00:00:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "1b3a5be0be0c28bcf6acbc83",
@@ -3541,6 +3901,24 @@
       ]
     },
     {
+      "id": "31ade27f9dd0d69d944c2bdf",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "全国初 純国産LLM活用による小中学校向け校務AI実証を開始 - NTT西日本",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TOXZtY2EySzg3dHBhamw1YzlBTUR4c0owdjE0WmpFQm1acWY5VUpYRWhDSHg2NXp3N0swU1BMRk5qZ2VNMF9mTW9NcjFZOUJxSk93b191V29fbDhaS3c?oc=5",
+      "publisher": "NTT西日本",
+      "summary": "全国初 純国産LLM活用による小中学校向け校務AI実証を開始 NTT西日本",
+      "published_at": "2026-10-13T06:19:15Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "1e9c0e2baf678a787f93e51c",
       "category": "parenting",
       "source_id": "parenting",
@@ -4098,6 +4476,22 @@
       ]
     },
     {
+      "id": "4a2a03fcf6e708ff5feb8488",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "人間より「PC作業がうまい」AI機能がリリース OpenAI「Dots」が変えるデバイスの未来（1/3 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Lal9xb2RsNGNSZGJxYXJGdHpjSlRlWktvR2ROTnN2QUVZd25sRkQ5ZU91d0JzcW44Q1lwQ2E2UjZPV0E0N2JQOFlpNl9oLXoyVFdZRlJGRkxZMDVMZ1V4alo2NnczQThqV2wzdUpwYTZ6Zw?oc=5",
+      "publisher": "ITmedia",
+      "summary": "人間より「PC作業がうまい」AI機能がリリース OpenAI「Dots」が変えるデバイスの未来（1/3 ページ） ITmedia",
+      "published_at": "2026-10-11T07:00:00Z",
+      "collected_at": "2026-10-13T02:29:50.526228Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "0162690001104b6b28a3acf0",
       "category": "parenting",
       "source_id": "parenting",
@@ -4150,22 +4544,6 @@
       ]
     },
     {
-      "id": "4a2a03fcf6e708ff5feb8488",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "人間より「PC作業がうまい」AI機能がリリース OpenAI「Dots」が変えるデバイスの未来（1/3 ページ） - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Lal9xb2RsNGNSZGJxYXJGdHpjSlRlWktvR2ROTnN2QUVZd25sRkQ5ZU91d0JzcW44Q1lwQ2E2UjZPV0E0N2JQOFlpNl9oLXoyVFdZRlJGRkxZMDVMZ1V4alo2NnczQThqV2wzdUpwYTZ6Zw?oc=5",
-      "publisher": "ITmedia",
-      "summary": "人間より「PC作業がうまい」AI機能がリリース OpenAI「Dots」が変えるデバイスの未来（1/3 ページ） ITmedia",
-      "published_at": "2026-10-10T23:00:00Z",
-      "collected_at": "2026-10-13T02:29:50.526228Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": []
-    },
-    {
       "id": "8eaa886898c6c72397e3c3c2",
       "category": "tech",
       "source_id": "tech",
@@ -4194,6 +4572,42 @@
       "summary": "AI時代へ早急な教育改革を 日本経済新聞",
       "published_at": "2026-10-10T07:00:00Z",
       "collected_at": "2026-10-10T00:39:25.100100Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "ddeb03d543ccda068b5c7b11",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AIに本を学習させても合法なら著者はどう対抗する？日米著作権法の限界と巨大IT企業に対する規制のあり方 - JBpress",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zZk5nNm05TkpZMk9qWFB1VkR3WGg1ZVR1dUtfajJud2U2TDB5bWwwbld6NWRNaTd2T1J2clAtNE5hazlaZE9wTmdCLThlRTRKME9KbEJR?oc=5",
+      "publisher": "JBpress",
+      "summary": "AIに本を学習させても合法なら著者はどう対抗する？日米著作権法の限界と巨大IT企業に対する規制のあり方 JBpress",
+      "published_at": "2026-10-10T07:00:00Z",
+      "collected_at": "2026-10-11T00:10:29.718090Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "cc511eeec4e194114a81a583",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "古書店に海外から大量注文 数十万冊も AI学習に利用か 専門家「知の搾取」 - テレ朝NEWS",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16VDVuU215WjVUSGpNdUZRd2ZObUEwUlNjQzlzVVFZcU9NX0R5bUo3aldvTVJRUnpoV3hMczRVSjQxYkRsNUxBYVNUdWVwSzV1SWd6eUNBaDNhQjQ1WTNLUW9KSTJ0cVV0UjBZQ09ubl9HQQ?oc=5",
+      "publisher": "テレ朝NEWS",
+      "summary": "古書店に海外から大量注文 数十万冊も AI学習に利用か 専門家「知の搾取」 テレ朝NEWS",
+      "published_at": "2026-10-10T07:00:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -4336,24 +4750,6 @@
       "in_scope": false,
       "theme_ids": [
         "development"
-      ]
-    },
-    {
-      "id": "ddeb03d543ccda068b5c7b11",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "AIに本を学習させても合法なら著者はどう対抗する？日米著作権法の限界と巨大IT企業に対する規制のあり方 - JBpress",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zZk5nNm05TkpZMk9qWFB1VkR3WGg1ZVR1dUtfajJud2U2TDB5bWwwbld6NWRNaTd2T1J2clAtNE5hazlaZE9wTmdCLThlRTRKME9KbEJR?oc=5",
-      "publisher": "JBpress",
-      "summary": "AIに本を学習させても合法なら著者はどう対抗する？日米著作権法の限界と巨大IT企業に対する規制のあり方 JBpress",
-      "published_at": "2026-10-09T21:00:00Z",
-      "collected_at": "2026-10-11T00:10:29.718090Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
       ]
     },
     {
@@ -4872,6 +5268,22 @@
       ]
     },
     {
+      "id": "5a3da8e329bd008cac218b4c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1USDRHY3ctOGN1Mi1KeVFQcWhnQVpsS1JnbXV4N1dueURoMldVeUxCZE9OZl9jUDkybHRoNXhmZUdWMjNhTllMeXRkOENuNGFUZDB2NWowRzd6cXlYRk84WjhweFZYOXlk?oc=5",
+      "publisher": "GIGAZINE",
+      "summary": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始 GIGAZINE",
+      "published_at": "2026-10-09T07:00:00Z",
+      "collected_at": "2026-10-14T23:48:50.388523Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "3091b6464a24712f17bd36ed",
       "category": "tech",
       "source_id": "tech",
@@ -4879,7 +5291,7 @@
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45XzFZdVdndFBRRjlMM0F5OHA0bzB3RmpsM3Q2Z1FnOERheWJES1VXbG5WUHlXOGFuWjVFMmNPVHR1ckk1UUhFTzctS0lyUjYxejJQckc2elEzRWxqek0xZ19PWE1rell4QkkxU2wwNGNYZ211NWh4dA?oc=5",
       "publisher": "TDK Corporation",
       "summary": "1分間で2,000個を検査するAIの「眼」とは。 製造ラインを進化させるエッジAIソリューション TDK Corporation",
-      "published_at": "2026-10-09T06:31:01Z",
+      "published_at": "2026-10-09T07:00:00Z",
       "collected_at": "2026-10-10T00:39:25.100100Z",
       "provider": null,
       "origin_kind": "media",
@@ -4917,22 +5329,6 @@
       "origin_kind": "media",
       "topic_id": null,
       "in_scope": false,
-      "theme_ids": []
-    },
-    {
-      "id": "5a3da8e329bd008cac218b4c",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始 - GIGAZINE",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1USDRHY3ctOGN1Mi1KeVFQcWhnQVpsS1JnbXV4N1dueURoMldVeUxCZE9OZl9jUDkybHRoNXhmZUdWMjNhTllMeXRkOENuNGFUZDB2NWowRzd6cXlYRk84WjhweFZYOXlk?oc=5",
-      "publisher": "GIGAZINE",
-      "summary": "Anthropicがオープンソースプロジェクト向けに無料AIセキュリティスキャンサービスの「OSS Scanner」を開始 GIGAZINE",
-      "published_at": "2026-10-09T03:13:00Z",
-      "collected_at": "2026-10-14T23:48:50.388523Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
       "theme_ids": []
     },
     {
@@ -7047,6 +7443,42 @@
       ]
     },
     {
+      "id": "7ed5ac8ba532dfec14b5c12f",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "クリスティナ・カッラス エストニア教育科学大臣が関大臣を表敬訪問 - 文部科学省",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HbmF3dUpTWU81akhTcUtxN0JoWUl4UWhUa2l3WkNhYU5rZ0hhUEFmcElhVUZwaE1wRFk5TkVIWmppVVEzeGVKUFJNOEpNS1lncE1RUUttRlJDWjRBYnE1RE9BcVF3Q2FTMV92elpnRlVVQQ?oc=5",
+      "publisher": "文部科学省",
+      "summary": "クリスティナ・カッラス エストニア教育科学大臣が関大臣を表敬訪問 文部科学省",
+      "published_at": "2026-10-06T07:00:00Z",
+      "collected_at": "2026-10-19T21:00:06.511015Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "ab9e51cd984e1b578c7ca0c2",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIカメラでシールド掘削土砂の土質を自動判別、正答率92％超 戸田建設：AI - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvWUVJMDlXbHp3ZFl5RFVUMjJsenpNOXpCVlhsbHpIRVVUSEtEX3NNQzhiMXZSVEpEbklud1NDVjZPOXRHSEJyaDJvWnl2dGxpNTQxVE12TXEwZmdRbjVaUV9YbVpPZ1N4WFlPMA?oc=5",
+      "publisher": "ITmedia",
+      "summary": "AIカメラでシールド掘削土砂の土質を自動判別、正答率92％超 戸田建設：AI ITmedia",
+      "published_at": "2026-10-06T07:00:00Z",
+      "collected_at": "2026-10-06T21:00:05.684818Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "c8fbac2e8bf598193f2e16a1",
       "category": "tech",
       "source_id": "tech",
@@ -7154,24 +7586,6 @@
       "theme_ids": [
         "models",
         "development"
-      ]
-    },
-    {
-      "id": "ab9e51cd984e1b578c7ca0c2",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "AIカメラでシールド掘削土砂の土質を自動判別、正答率92％超 戸田建設：AI - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvWUVJMDlXbHp3ZFl5RFVUMjJsenpNOXpCVlhsbHpIRVVUSEtEX3NNQzhiMXZSVEpEbklud1NDVjZPOXRHSEJyaDJvWnl2dGxpNTQxVE12TXEwZmdRbjVaUV9YbVpPZ1N4WFlPMA?oc=5",
-      "publisher": "ITmedia",
-      "summary": "AIカメラでシールド掘削土砂の土質を自動判別、正答率92％超 戸田建設：AI ITmedia",
-      "published_at": "2026-10-06T02:00:00Z",
-      "collected_at": "2026-10-06T21:00:05.684818Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
       ]
     },
     {
@@ -8020,6 +8434,24 @@
       ]
     },
     {
+      "id": "be013c6f3b5937c45b92b6ec",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【立教大学】Eventカメラからの知識蒸留で、AIに「形を見る力」を与える ～ AI 研究の世界最高峰、国際会議「NeurIPS 2026」に論文採択 ～ - AGARA 紀伊民報",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dTliem52V05JdFNkckVQa2QxVDdjMlBQRWNrbUhyRmJoSGMyZFU4SnlvWlVEaXdYTklJYW5Yb3VlZjhTLWd0Z3dLUnZPWEE?oc=5",
+      "publisher": "AGARA 紀伊民報",
+      "summary": "【立教大学】Eventカメラからの知識蒸留で、AIに「形を見る力」を与える ～ AI 研究の世界最高峰、国際会議「NeurIPS 2026」に論文採択 ～ AGARA 紀伊民報",
+      "published_at": "2026-10-05T07:00:00Z",
+      "collected_at": "2026-10-17T21:00:04.657685Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "a6a1b4199ba6f7426c7a3a0e",
       "category": "parenting",
       "source_id": "parenting",
@@ -8083,24 +8515,6 @@
       "summary": "【立教大学】Eventカメラからの知識蒸留で、AIに「形を見る力」を与える ～ AI 研究の世界最高峰、国際会議「NeurIPS 2026」に論文採択 ～ Digital PR Platform",
       "published_at": "2026-10-05T05:20:54Z",
       "collected_at": "2026-10-06T01:42:37.416812Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
-      "id": "be013c6f3b5937c45b92b6ec",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "【立教大学】Eventカメラからの知識蒸留で、AIに「形を見る力」を与える ～ AI 研究の世界最高峰、国際会議「NeurIPS 2026」に論文採択 ～ - AGARA 紀伊民報",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05dTliem52V05JdFNkckVQa2QxVDdjMlBQRWNrbUhyRmJoSGMyZFU4SnlvWlVEaXdYTklJYW5Yb3VlZjhTLWd0Z3dLUnZPWEE?oc=5",
-      "publisher": "AGARA 紀伊民報",
-      "summary": "【立教大学】Eventカメラからの知識蒸留で、AIに「形を見る力」を与える ～ AI 研究の世界最高峰、国際会議「NeurIPS 2026」に論文採択 ～ AGARA 紀伊民報",
-      "published_at": "2026-10-05T05:20:00Z",
-      "collected_at": "2026-10-17T21:00:04.657685Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -22659,19 +23073,20 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-19T07:56:00.841139+09:00",
+      "generated_at": "2026-10-20T06:02:05.874042+09:00",
       "is_complete": false,
-      "article_count": 3,
+      "article_count": 15,
       "category_counts": {
-        "parenting": 2,
-        "ai": 1
+        "tech": 3,
+        "parenting": 4,
+        "ai": 8
       },
-      "overview": "Anthropicは完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとの追加拠出2％は取締役会の裁量による。非営利団体への寄付や特定層への直接給付は検討例で、運営体制と評価額の節目は今後数カ月に公表予定とされる。",
+      "overview": "GoogleはGemini Notebookのスライド・動画概要生成に、描画前の構成案や制作メモを確認するReview機能を追加した。利用者は冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーに今後1週間で順次展開する段階で、修正時間や正確性の改善を示す測定結果はない。 ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発に向けた意向宣言に署名した。政府は中小企業を含む産業界への普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛ける独4社への投資も計画している。モデルの提供時期・利用条件や投資の実行完了は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -22703,7 +23118,7 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+          "attempted_at": "2026-10-19T21:00:17.644308+00:00",
           "status": "ok",
           "new_reviews": 4,
           "updated_periods": [
@@ -22712,15 +23127,35 @@
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+          "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
       },
       "genre_briefs": [
         {
           "category": "ai",
           "label": "生成AI",
           "stories": [
+            {
+              "article_id": "6761435993edc48cfbb96f59",
+              "headline": "Gemini Notebook、スライド・動画の生成前に構成を確認・修正可能に",
+              "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。",
+              "impact": "考察：完成後に作り直す前に構成を調整できるため、資料を使った発表や説明動画の制作で手戻りを減らせる可能性がある。",
+              "category": "ai",
+              "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+              "source_label": "Google / Gemini 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表時点では順次展開の段階。修正時間の短縮や生成内容の正確性向上を示す測定結果は本文にない。",
+              "provider": "Google / Gemini",
+              "origin_kind": "official",
+              "tags": [
+                "models"
+              ],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "These co-creation capabilities are rolling out globally to all Gemini Notebook users over the upcoming week.",
+              "published_at": "2026-10-19T00:00:00Z"
+            },
             {
               "article_id": "8f34f46057fa3abe138d759e",
               "headline": "Anthropic、株式を公益目的に充てる新基金を発表",
@@ -22740,6 +23175,30 @@
               "published_at": "2026-10-18T16:49:35.513000Z"
             }
           ]
+        },
+        {
+          "category": "tech",
+          "label": "テック",
+          "stories": [
+            {
+              "article_id": "3cc3177a525b54d88d207d30",
+              "headline": "独政府とNVIDIA、産業向けフィジカルAIで協力へ　独4社への投資も計画",
+              "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
+              "impact": "考察：製造現場の知識や企業内データをAI開発と結び付ける契機になり得る。中小企業にも導入が広がるかは、費用やデータ活用体制、現場での検証に左右されそうだ。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。意向宣言は協力の方向性を示す段階で、モデルの提供時期や利用条件は記載されていない。4社への投資も計画であり、個別の金額や実行完了は示されていない。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "Today, Huang announced new planned investments in Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace.",
+              "published_at": "2026-10-19T19:27:08Z"
+            }
+          ]
         }
       ],
       "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
@@ -22751,14 +23210,44 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 1,
-          "publisher_count": 1,
-          "summary": "Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。",
+          "count": 8,
+          "publisher_count": 8,
+          "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。",
           "evidence_ids": [
-            "8f34f46057fa3abe138d759e"
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132"
           ],
           "article_ids": [
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132",
+            "5c2cb6877b29a702d0eed1c3",
+            "68f20252c475ebf919aa32c2",
+            "6761435993edc48cfbb96f59",
+            "2cf978a1e0063628bc665e3e",
             "8f34f46057fa3abe138d759e"
+          ]
+        },
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 3,
+          "publisher_count": 3,
+          "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
+          "evidence_ids": [
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471"
+          ],
+          "article_ids": [
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471"
           ]
         },
         {
@@ -22768,40 +23257,69 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 4,
+          "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "57c36f72a0aefc15bb0bddda",
-            "a627f361b75ed64c9140e22f"
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
+            "57c36f72a0aefc15bb0bddda"
           ],
           "article_ids": [
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
             "57c36f72a0aefc15bb0bddda",
             "a627f361b75ed64c9140e22f"
           ]
         }
       ],
-      "total_topics": 2,
+      "total_topics": 3,
       "insights": [
         {
           "category": "ai",
-          "label": "公益基金の構想と実行条件",
-          "observation": "Anthropicは完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとの追加拠出2％は取締役会の裁量による。非営利団体への寄付や特定層への直接給付は検討例で、運営体制と評価額の節目は今後数カ月に公表予定とされる。",
-          "interpretation": "企業価値の上昇を公益支援の原資につなげる構想と考えられる。ただし、支援の実現規模や継続性は株主承認、取締役会の判断、今後示される運営方法に左右される可能性があり、現段階で受益者や効果は判断できない。",
-          "next_question": "株主承認後に初回拠出が実行されるか。また、公表予定の運営体制では支援対象の選定基準、株式を支援資金に換える方法、成果の評価方法がどう定められるか。",
+          "label": "生成前の構成確認を制作工程に組み込む",
+          "observation": "GoogleはGemini Notebookのスライド・動画概要生成に、描画前の構成案や制作メモを確認するReview機能を追加した。利用者は冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーに今後1週間で順次展開する段階で、修正時間や正確性の改善を示す測定結果はない。",
+          "interpretation": "資料から説明用コンテンツを作る利用者にとって、生成前に話の順序や重点を調整できれば、完成後の作り直しを減らせる可能性がある。ただし、構成の確認だけで資料との事実整合性まで保証されるとは限らない。",
+          "next_question": "同じ資料から制作した場合、Reviewの利用有無で完成後の再生成回数と総作業時間はどう変わり、資料に反する記述はどの程度残るか。",
           "required_ids": [
-            "8f34f46057fa3abe138d759e"
+            "6761435993edc48cfbb96f59"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "8f34f46057fa3abe138d759e"
+            "6761435993edc48cfbb96f59"
+          ]
+        },
+        {
+          "category": "tech",
+          "label": "産業向けフィジカルAIの協力構想と投資計画",
+          "observation": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発に向けた意向宣言に署名した。政府は中小企業を含む産業界への普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛ける独4社への投資も計画している。モデルの提供時期・利用条件や投資の実行完了は示されていない。",
+          "interpretation": "モデル開発と関連企業への資金供給が具体化すれば、産業現場での実証を進める足場になる可能性がある。ただし、中小企業にも導入可能かどうかは、利用料金や必要設備、導入支援の条件に左右されると考えられる。",
+          "next_question": "共同開発モデルはいつ、どの利用条件で提供され、中小企業向け実証にはどの設備・費用・支援が必要になるか。",
+          "required_ids": [
+            "3cc3177a525b54d88d207d30"
+          ],
+          "review_method": "ai_source_grounded",
+          "evidence_ids": [
+            "3cc3177a525b54d88d207d30"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "3cc3177a525b54d88d207d30",
+        "e8e64d16490018dc8da0919e",
+        "5c1b3e010f801d7ccda03471",
+        "c020d38ee4938270e23532c4",
+        "1d0b2d851c179042720c4fbc",
+        "0c3b999e25aed55a5e3dd2c9",
+        "92ad9db99438082693a9ef64",
+        "cce9f76fdb79fc4d427df132",
+        "5c2cb6877b29a702d0eed1c3",
+        "68f20252c475ebf919aa32c2",
+        "6761435993edc48cfbb96f59",
         "57c36f72a0aefc15bb0bddda",
         "a627f361b75ed64c9140e22f",
+        "2cf978a1e0063628bc665e3e",
         "8f34f46057fa3abe138d759e"
       ]
     },
@@ -22810,20 +23328,20 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-19T07:56:00.841139+09:00",
+      "generated_at": "2026-10-20T06:02:05.874042+09:00",
       "is_complete": true,
-      "article_count": 181,
+      "article_count": 187,
       "category_counts": {
-        "parenting": 54,
-        "tech": 49,
-        "ai": 78
+        "parenting": 55,
+        "tech": 50,
+        "ai": 82
       },
       "overview": "Itaúは口座・融資・カード・保険をテキストや音声で扱うia.iを初期約30万人に提供し、全顧客への提供は年末までの目標としている。Stack OverflowはChatGPT内で発見・設定できるプラグイン導入後の登録増を報告したが、計測期間や比較条件は明示しておらず、Decisions APIによる設定削減は検討段階にある。 NVIDIAはクラウド事業者などに向け、液冷接続や最大250kW構成に対応するラック設計をOCPへ提供し、設定・検証・管理を担うDSXのオープンソース部品を公開した。自治体向けでは、コートドール県のデジタルツインが500超の公共施設運営を支援する一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -22855,7 +23373,7 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+          "attempted_at": "2026-10-19T21:00:17.644308+00:00",
           "status": "ok",
           "new_reviews": 4,
           "updated_periods": [
@@ -22864,9 +23382,9 @@
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+          "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
       },
       "genre_briefs": [
         {
@@ -23001,16 +23519,17 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 63,
-          "publisher_count": 26,
+          "count": 67,
+          "publisher_count": 27,
           "summary": "DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。 ブラジルのItaúは、口座・融資・カード・保険などをテキストや音声で扱う対話型サービスia.iを初期約30万人に展開した。全顧客への提供は2026年末までの目標。社内ではIARAが複数モデルへのアクセスや費用、AI利用方針を管理する。法務向けシステムは9,000万件超の文書を対象に月200万件超のタスクを実行し、工程別に20〜80％の効率改善を報告した。",
           "evidence_ids": [
             "eed3de14a43157122b99cb05",
-            "7c35a86ace05cec4b96ef518",
-            "59780e2c19d8768e7bd152d1"
+            "bbb324b74d6bfb38e28494cd",
+            "7c35a86ace05cec4b96ef518"
           ],
           "article_ids": [
             "eed3de14a43157122b99cb05",
+            "bbb324b74d6bfb38e28494cd",
             "30687b8bcb2721da27ded1d0",
             "7c35a86ace05cec4b96ef518",
             "59780e2c19d8768e7bd152d1",
@@ -23019,16 +23538,19 @@
             "a5ec9d4aa0577e7790e76f11",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
+            "e156b83839575b2f0dd9ed0f",
             "0f9bfbfbcfa79c194ccb7b8c",
             "3c8742712105fc8b150b88ee",
             "88685d8cbfac0a79e33295dc",
             "67a012cebd663c660f6596f1",
             "fa36bd2a2b7e954cc96fdad4",
+            "5188d3ccac3ad3ea0714f960",
             "659b9b8701ea3010a4e23fe7",
             "5a20ed819407988ef6f2bff3",
             "0b4b938f8ca33273370b1ef7",
             "5d46bf147d0f639ecd31a6cc",
             "057e77804c8a11c5b034512b",
+            "ef3873d6d9ed7dcb92cae32d",
             "1b3a5be0be0c28bcf6acbc83",
             "62fd458fad0a7e9413d31700",
             "12568f94adbfc30ce0f63c5a",
@@ -23082,8 +23604,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 45,
-          "publisher_count": 31,
+          "count": 46,
+          "publisher_count": 32,
           "summary": "NVIDIAは、Blackwell RTX GPUとGrace CPUを組み合わせたWindowsノート「RTX Spark」の販売開始を発表した。最大128GBの統合メモリと最大1ペタフロップのAI演算性能を掲げ、価格は2,399ドルから。ASUS、Dell、HP、Lenovo、Microsoft、MSIの製品で、端末内AI、コンテンツ制作、ゲーム用途に対応するとし、追加機種も予定している。 NVIDIAは欧州自治体のAI活用事例を公開。フランスのコートドール県では、センサーや過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したと報告。ミラノ地域では翻訳や市民向けチャットボットを提供する地域運営のAI基盤を導入中。一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。 NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
           "evidence_ids": [
             "18abf3c051e199b3395ff9e3",
@@ -23096,6 +23618,7 @@
             "9ff60937c00b8c200637ec70",
             "73146778f625a0c5fa9b4c65",
             "fd5b2dee1f6f5f6b7edfd93b",
+            "ccc2647e8afbef99d2cf176d",
             "4e0ac644f2d6ef766db8b0b1",
             "51353425eee114a3160a4176",
             "155e64b95acb3bc4b40168ae",
@@ -23145,8 +23668,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 50,
-          "publisher_count": 31,
+          "count": 51,
+          "publisher_count": 32,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "ea28625f7ff18362f7fb3a15",
@@ -23196,6 +23719,7 @@
             "69623dea7b3922282f85190a",
             "646daf58eb684f07ac320ec2",
             "6011528638a2a8e2012cac6b",
+            "31ade27f9dd0d69d944c2bdf",
             "1e9c0e2baf678a787f93e51c",
             "252b8951f608e5ecf2e505f2",
             "02c87cca927a67cc9398cdad",
@@ -23317,8 +23841,9 @@
         "3d5f4c4ef845393e848c16d4",
         "18abf3c051e199b3395ff9e3",
         "23d943cc89cdf1c31c645b63",
-        "976fe8fb12d410b5bf14d24e",
         "eed3de14a43157122b99cb05",
+        "bbb324b74d6bfb38e28494cd",
+        "976fe8fb12d410b5bf14d24e",
         "30687b8bcb2721da27ded1d0",
         "7c35a86ace05cec4b96ef518",
         "9ff60937c00b8c200637ec70",
@@ -23331,6 +23856,7 @@
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
         "107db104e1f435a528a55ba3",
+        "ccc2647e8afbef99d2cf176d",
         "a5ec9d4aa0577e7790e76f11",
         "8aa1ca8040740f65d21ad9bb",
         "96f5b868b783b00726b9b729",
@@ -23350,6 +23876,7 @@
         "83b039a2d0269875fbb2bb29",
         "f3d8b815c118e2a7255009cd",
         "41bb9e1b7bddb0bd1e22321c",
+        "e156b83839575b2f0dd9ed0f",
         "374ff201821cb4e59cef43e3",
         "0f9bfbfbcfa79c194ccb7b8c",
         "34f40200609624284d883149",
@@ -23374,11 +23901,13 @@
         "237607aea3302727459087c7",
         "10a8a446bdd1922fb0a2b135",
         "4a34c5680945ac92d7389927",
+        "5188d3ccac3ad3ea0714f960",
         "659b9b8701ea3010a4e23fe7",
         "5a20ed819407988ef6f2bff3",
         "0b4b938f8ca33273370b1ef7",
         "5d46bf147d0f639ecd31a6cc",
         "057e77804c8a11c5b034512b",
+        "ef3873d6d9ed7dcb92cae32d",
         "1b3a5be0be0c28bcf6acbc83",
         "62fd458fad0a7e9413d31700",
         "4fc795563ea223898c63d88a",
@@ -23463,6 +23992,7 @@
         "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "3a382fb239af199914b816a8",
+        "31ade27f9dd0d69d944c2bdf",
         "1e9c0e2baf678a787f93e51c",
         "252b8951f608e5ecf2e505f2",
         "02c87cca927a67cc9398cdad",
@@ -24356,20 +24886,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-19T07:56:00.841139+09:00",
+      "generated_at": "2026-10-20T06:02:05.874042+09:00",
       "is_complete": false,
-      "article_count": 489,
+      "article_count": 508,
       "category_counts": {
-        "parenting": 129,
-        "ai": 224,
-        "tech": 136
+        "tech": 140,
+        "parenting": 133,
+        "ai": 235
       },
-      "overview": "Itaúは、口座・融資・カード・保険をテキストや音声で扱うia.iを初期約30万人に展開し、全顧客への提供を2026年末の目標とした。社内基盤IARAは複数モデルへのアクセス、費用、AI利用方針を管理する。掲載された効率改善値は顧客事例の報告で、測定方法は示されていない。 NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2は液冷接続や5,000Aの液冷バスバーなどで最大250kWのラック構成に対応し、クラウド事業者などに向けてネットワーク設定やクラスタ検証、ラック管理を担うDSXのオープンソース部品も公開した。最大電力は設計上の対応範囲で、導入実績ではない。 Khan AcademyのGem Jamは提携学区向けに提供され、教師が時間と参加者を設定するとチームを自動編成する。生徒は習熟度を記録できる指定課題をProficientまで進めて競い、獲得したGemsは月間の学級目標にも加算される。対象学年や学力・教師負担への測定結果は示されていない。",
+      "overview": "GoogleはGemini Notebookのスライド・動画概要で、Reviewを有効にすると描画前に構成案や制作メモを確認し、要約の追加や場面の並べ替えを指示できる機能を発表した。全世界の全ユーザーへ1週間で順次展開する段階で、修正時間や正確性への効果は示されていない。 NVIDIAが紹介したコートドール県の事例では、センサーと過去データを統合したデジタルツイン上のAIが公共施設運営を支援し、運営費を10％削減したと報告された。ただし測定条件や独立検証は示されていない。一方、ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期や利用条件は未記載である。 Khan Academyは、次の課題の案内、進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けGem Jamでは、教師が参加者と制限時間を設定し、指定課題の習熟をチームで競う。一方、スウェーデンのYear 7〜9の教員は、Sitesでの共同共有やVidsでの動画発表を授業実践として紹介した。Khan Academyの記事は対象学年を明示せず、いずれも学習効果の定量的検証は示していない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -24401,7 +24931,7 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+          "attempted_at": "2026-10-19T21:00:17.644308+00:00",
           "status": "ok",
           "new_reviews": 4,
           "updated_periods": [
@@ -24410,15 +24940,35 @@
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+          "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
       },
       "genre_briefs": [
         {
           "category": "ai",
           "label": "生成AI",
           "stories": [
+            {
+              "article_id": "6761435993edc48cfbb96f59",
+              "headline": "Gemini Notebook、スライド・動画の生成前に構成を確認・修正可能に",
+              "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。",
+              "impact": "考察：完成後に作り直す前に構成を調整できるため、資料を使った発表や説明動画の制作で手戻りを減らせる可能性がある。",
+              "category": "ai",
+              "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+              "source_label": "Google / Gemini 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表時点では順次展開の段階。修正時間の短縮や生成内容の正確性向上を示す測定結果は本文にない。",
+              "provider": "Google / Gemini",
+              "origin_kind": "official",
+              "tags": [
+                "models"
+              ],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "These co-creation capabilities are rolling out globally to all Gemini Notebook users over the upcoming week.",
+              "published_at": "2026-10-19T00:00:00Z"
+            },
             {
               "article_id": "8f34f46057fa3abe138d759e",
               "headline": "Anthropic、株式を公益目的に充てる新基金を発表",
@@ -24456,24 +25006,6 @@
               "model": "codex-cli",
               "evidence_quote": "The API calling method and pricing remain unchanged — simply use deepseek-flash to access the latest model.",
               "published_at": "2026-10-17T00:00:00Z"
-            },
-            {
-              "article_id": "59780e2c19d8768e7bd152d1",
-              "headline": "Itaú、対話型金融サービスを初期約30万人に展開",
-              "summary": "ブラジルのItaúは、口座・融資・カード・保険などをテキストや音声で扱う対話型サービスia.iを初期約30万人に展開した。全顧客への提供は2026年末までの目標。社内ではIARAが複数モデルへのアクセスや費用、AI利用方針を管理する。法務向けシステムは9,000万件超の文書を対象に月200万件超のタスクを実行し、工程別に20〜80％の効率改善を報告した。",
-              "impact": "考察：顧客向けの対話窓口と社内のモデル管理基盤を組み合わせる構成は、金融機関が利用範囲を広げる際の参考になる。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/itau-generative-ai/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。OpenAI掲載の顧客事例で、効率改善の測定方法は本文に示されていない。約7,000万人分の顧客文脈を扱う仕組みと、ia.iの提供人数は別。担当者の対応速度などの改善倍率は期待値である。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-17T21:00:11.705253+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "100% of the customer base is the goal by the end of 2026",
-              "published_at": "2026-10-16T19:00:00Z"
             }
           ]
         },
@@ -24481,6 +25013,24 @@
           "category": "tech",
           "label": "テック",
           "stories": [
+            {
+              "article_id": "3cc3177a525b54d88d207d30",
+              "headline": "独政府とNVIDIA、産業向けフィジカルAIで協力へ　独4社への投資も計画",
+              "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
+              "impact": "考察：製造現場の知識や企業内データをAI開発と結び付ける契機になり得る。中小企業にも導入が広がるかは、費用やデータ活用体制、現場での検証に左右されそうだ。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。意向宣言は協力の方向性を示す段階で、モデルの提供時期や利用条件は記載されていない。4社への投資も計画であり、個別の金額や実行完了は示されていない。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "Today, Huang announced new planned investments in Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace.",
+              "published_at": "2026-10-19T19:27:08Z"
+            },
             {
               "article_id": "23d943cc89cdf1c31c645b63",
               "headline": "NVIDIA、ローカルAI向けWindowsノート「RTX Spark」を発売",
@@ -24516,24 +25066,6 @@
               "model": "codex-cli",
               "evidence_quote": "reduce total operating costs by 10%, targeting 30% at scale.",
               "published_at": "2026-10-14T06:00:28Z"
-            },
-            {
-              "article_id": "214de09c0748f52669ed1bc6",
-              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
-              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
-              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-12T21:00:23.171913+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
-              "published_at": "2026-10-12T15:00:25Z"
             }
           ]
         },
@@ -24613,17 +25145,25 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 186,
-          "publisher_count": 39,
-          "summary": "Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。 ブラジルのItaúは、口座・融資・カード・保険などをテキストや音声で扱う対話型サービスia.iを初期約30万人に展開した。全顧客への提供は2026年末までの目標。社内ではIARAが複数モデルへのアクセスや費用、AI利用方針を管理する。法務向けシステムは9,000万件超の文書を対象に月200万件超のタスクを実行し、工程別に20〜80％の効率改善を報告した。",
+          "count": 197,
+          "publisher_count": 40,
+          "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。",
           "evidence_ids": [
-            "8f34f46057fa3abe138d759e",
-            "eed3de14a43157122b99cb05",
-            "7c35a86ace05cec4b96ef518"
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132"
           ],
           "article_ids": [
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132",
+            "5c2cb6877b29a702d0eed1c3",
+            "68f20252c475ebf919aa32c2",
+            "6761435993edc48cfbb96f59",
+            "2cf978a1e0063628bc665e3e",
             "8f34f46057fa3abe138d759e",
             "eed3de14a43157122b99cb05",
+            "bbb324b74d6bfb38e28494cd",
             "30687b8bcb2721da27ded1d0",
             "7c35a86ace05cec4b96ef518",
             "59780e2c19d8768e7bd152d1",
@@ -24632,16 +25172,19 @@
             "a5ec9d4aa0577e7790e76f11",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
+            "e156b83839575b2f0dd9ed0f",
             "0f9bfbfbcfa79c194ccb7b8c",
             "3c8742712105fc8b150b88ee",
             "88685d8cbfac0a79e33295dc",
             "67a012cebd663c660f6596f1",
             "fa36bd2a2b7e954cc96fdad4",
+            "5188d3ccac3ad3ea0714f960",
             "659b9b8701ea3010a4e23fe7",
             "5a20ed819407988ef6f2bff3",
             "0b4b938f8ca33273370b1ef7",
             "5d46bf147d0f639ecd31a6cc",
             "057e77804c8a11c5b034512b",
+            "ef3873d6d9ed7dcb92cae32d",
             "1b3a5be0be0c28bcf6acbc83",
             "62fd458fad0a7e9413d31700",
             "12568f94adbfc30ce0f63c5a",
@@ -24686,8 +25229,8 @@
             "6a63c1c0742e9867b6262247",
             "1cad5d9181158877166b0544",
             "91a8a945701ae6930057dbd6",
-            "6468fcfd514c01a2c23f5b2f",
             "4a2a03fcf6e708ff5feb8488",
+            "6468fcfd514c01a2c23f5b2f",
             "4051d499c25d740cf897a5ac",
             "7d9f820349e6b4174329c9b7",
             "33b4f566e3498437d2c0c4e6",
@@ -24701,8 +25244,8 @@
             "d08b03a2a01071fb1cbb95d8",
             "23ad61e231c3edc1e3d38a1e",
             "6ccdca7eb0c4d56d5d7b7dd6",
-            "f50bc24dce751fed56dd6193",
             "5a3da8e329bd008cac218b4c",
+            "f50bc24dce751fed56dd6193",
             "609a82e33be676cbd6d6bc88",
             "a88646d1e59b71971e50bf61",
             "10bbb45c737fb467e6f44e2a",
@@ -24817,20 +25360,24 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 132,
-          "publisher_count": 64,
-          "summary": "NVIDIAは、Blackwell RTX GPUとGrace CPUを組み合わせたWindowsノート「RTX Spark」の販売開始を発表した。最大128GBの統合メモリと最大1ペタフロップのAI演算性能を掲げ、価格は2,399ドルから。ASUS、Dell、HP、Lenovo、Microsoft、MSIの製品で、端末内AI、コンテンツ制作、ゲーム用途に対応するとし、追加機種も予定している。 NVIDIAは欧州自治体のAI活用事例を公開。フランスのコートドール県では、センサーや過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したと報告。ミラノ地域では翻訳や市民向けチャットボットを提供する地域運営のAI基盤を導入中。一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。 NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+          "count": 136,
+          "publisher_count": 66,
+          "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。 NVIDIAは、Blackwell RTX GPUとGrace CPUを組み合わせたWindowsノート「RTX Spark」の販売開始を発表した。最大128GBの統合メモリと最大1ペタフロップのAI演算性能を掲げ、価格は2,399ドルから。ASUS、Dell、HP、Lenovo、Microsoft、MSIの製品で、端末内AI、コンテンツ制作、ゲーム用途に対応するとし、追加機種も予定している。 NVIDIAは欧州自治体のAI活用事例を公開。フランスのコートドール県では、センサーや過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したと報告。ミラノ地域では翻訳や市民向けチャットボットを提供する地域運営のAI基盤を導入中。一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。",
           "evidence_ids": [
-            "18abf3c051e199b3395ff9e3",
-            "23d943cc89cdf1c31c645b63",
-            "9ff60937c00b8c200637ec70"
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471"
           ],
           "article_ids": [
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471",
             "18abf3c051e199b3395ff9e3",
             "23d943cc89cdf1c31c645b63",
             "9ff60937c00b8c200637ec70",
             "73146778f625a0c5fa9b4c65",
             "fd5b2dee1f6f5f6b7edfd93b",
+            "ccc2647e8afbef99d2cf176d",
             "4e0ac644f2d6ef766db8b0b1",
             "51353425eee114a3160a4176",
             "155e64b95acb3bc4b40168ae",
@@ -24919,9 +25466,9 @@
             "8095777e5c3d5712670e17a6",
             "59482b469a6f76b767934461",
             "5888079b2e776d91a1d82b16",
+            "ab9e51cd984e1b578c7ca0c2",
             "c8fbac2e8bf598193f2e16a1",
             "b6f362ec683316b1d0758e4f",
-            "ab9e51cd984e1b578c7ca0c2",
             "2f1b1d93c763189d009e9fab",
             "c02a21ec941e754459c61f01",
             "f385c03d5431314cbd8d4cd3",
@@ -24932,9 +25479,9 @@
             "0a24346eb30752c44b6ed776",
             "bc5d95cda4dbabee0c954ff2",
             "d92dd46ee9bb1287fea33f20",
+            "be013c6f3b5937c45b92b6ec",
             "907fb7f390598e985b5611ce",
             "19f1c6d05224a959b00207bf",
-            "be013c6f3b5937c45b92b6ec",
             "4e1deda0382d627aa85beafe",
             "fd23d40e9debbc980f7e5319",
             "f18538f91726c2565bfe9ad5",
@@ -24967,15 +25514,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 116,
-          "publisher_count": 49,
+          "count": 120,
+          "publisher_count": 51,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
-            "57c36f72a0aefc15bb0bddda",
-            "a627f361b75ed64c9140e22f",
-            "ea28625f7ff18362f7fb3a15"
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
+            "57c36f72a0aefc15bb0bddda"
           ],
           "article_ids": [
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
             "57c36f72a0aefc15bb0bddda",
             "a627f361b75ed64c9140e22f",
             "ea28625f7ff18362f7fb3a15",
@@ -25020,6 +25569,7 @@
             "69623dea7b3922282f85190a",
             "646daf58eb684f07ac320ec2",
             "6011528638a2a8e2012cac6b",
+            "31ade27f9dd0d69d944c2bdf",
             "1e9c0e2baf678a787f93e51c",
             "252b8951f608e5ecf2e505f2",
             "02c87cca927a67cc9398cdad",
@@ -25031,6 +25581,7 @@
             "ed9835781c8554a9d6caa767",
             "520064092223ba7f89eec100",
             "ddeb03d543ccda068b5c7b11",
+            "cc511eeec4e194114a81a583",
             "6d14f73009a7bceb116345b5",
             "1dc6d5b3a496a42693cbea5d",
             "bb6ba2c48a2cc3987b64c411",
@@ -25194,58 +25745,77 @@
       "insights": [
         {
           "category": "ai",
-          "label": "対話型AIの業務導入と管理基盤",
-          "observation": "Itaúは、口座・融資・カード・保険をテキストや音声で扱うia.iを初期約30万人に展開し、全顧客への提供を2026年末の目標とした。社内基盤IARAは複数モデルへのアクセス、費用、AI利用方針を管理する。掲載された効率改善値は顧客事例の報告で、測定方法は示されていない。",
-          "interpretation": "顧客向け対話サービスを広げる際には、応答性能に加えて、モデル利用と費用を統制する基盤が運用の条件になる可能性がある。ただし、この事例だけでは導入効果や他社への適用性は判断できない。",
-          "next_question": "ia.iの対象拡大に伴い、手続きの完了率、誤処理率、有人対応への移行率、完了一件当たり費用はどう変化するか。",
+          "label": "生成前に構成を確認する制作工程",
+          "observation": "GoogleはGemini Notebookのスライド・動画概要で、Reviewを有効にすると描画前に構成案や制作メモを確認し、要約の追加や場面の並べ替えを指示できる機能を発表した。全世界の全ユーザーへ1週間で順次展開する段階で、修正時間や正確性への効果は示されていない。",
+          "interpretation": "完成物の生成前に利用者が構成を調整できれば、意図とのずれを早く発見できる可能性がある。ただし、事前確認の手間を含めて制作全体が短縮するかは未検証である。",
+          "next_question": "同じ資料から制作する場合、Reviewの有無で確認時間を含む総作業時間、再生成回数、原資料との不一致はどう変わるか。",
           "required_ids": [
-            "59780e2c19d8768e7bd152d1"
+            "6761435993edc48cfbb96f59"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "59780e2c19d8768e7bd152d1"
+            "6761435993edc48cfbb96f59"
           ]
         },
         {
           "category": "tech",
-          "label": "高電力ラックの設計と運用部品の公開",
-          "observation": "NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2は液冷接続や5,000Aの液冷バスバーなどで最大250kWのラック構成に対応し、クラウド事業者などに向けてネットワーク設定やクラスタ検証、ラック管理を担うDSXのオープンソース部品も公開した。最大電力は設計上の対応範囲で、導入実績ではない。",
-          "interpretation": "ハードウェア設計と運用ソフトの公開は、事業者が設備構築と導入手順を共通化する助けになる可能性がある。一方、実際の導入期間や運用費への効果は、電源・冷却設備への対応も含めて検証が必要となる。",
-          "next_question": "公開設計とDSX部品を採用した施設では、従来構成と比べて導入期間、検証工数、冷却を含む消費電力がどの程度変わるか。",
+          "label": "産業・公共分野のAIは導入段階ごとの評価が必要",
+          "observation": "NVIDIAが紹介したコートドール県の事例では、センサーと過去データを統合したデジタルツイン上のAIが公共施設運営を支援し、運営費を10％削減したと報告された。ただし測定条件や独立検証は示されていない。一方、ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期や利用条件は未記載である。",
+          "interpretation": "公共施設の運営支援では具体的な評価対象が見える一方、産業向けモデル開発では利用条件を定める作業が残ると考えられる。個別の稼働事例の成果を、協力構想や他の用途にも適用できるとは限らない。",
+          "next_question": "コートドール県の費用削減はどの期間・費目・比較条件で測定され、導入費や保守費を含むか。また、ドイツの構想では中小企業が利用できるモデル、費用、提供時期がいつ具体化するか。",
           "required_ids": [
-            "214de09c0748f52669ed1bc6"
+            "7fa48dbc870c0ecc5b781069",
+            "3cc3177a525b54d88d207d30"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "214de09c0748f52669ed1bc6"
+            "7fa48dbc870c0ecc5b781069",
+            "3cc3177a525b54d88d207d30"
           ]
         },
         {
           "category": "parenting",
-          "label": "課題の習熟と授業内ゲームをつなぐ設計",
-          "observation": "Khan AcademyのGem Jamは提携学区向けに提供され、教師が時間と参加者を設定するとチームを自動編成する。生徒は習熟度を記録できる指定課題をProficientまで進めて競い、獲得したGemsは月間の学級目標にも加算される。対象学年や学力・教師負担への測定結果は示されていない。",
-          "interpretation": "競争の進行を指定技能の習熟に結び付ける設計は、授業中に取り組む課題を明確にする可能性がある。ただし、継続的な理解につながるか、順位表示が参加にどう影響するかは未検証で、幼児教育への適用も推定できない。",
-          "next_question": "対象学年と開始時の習熟度を分けて比較した場合、Gem Jam利用後の遅延テスト成績と参加率はどう変わり、順位表示の有無による差はあるか。",
+          "label": "学校での課題習熟支援と制作活動は別々に検証する",
+          "observation": "Khan Academyは、次の課題の案内、進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けGem Jamでは、教師が参加者と制限時間を設定し、指定課題の習熟をチームで競う。一方、スウェーデンのYear 7〜9の教員は、Sitesでの共同共有やVidsでの動画発表を授業実践として紹介した。Khan Academyの記事は対象学年を明示せず、いずれも学習効果の定量的検証は示していない。",
+          "interpretation": "課題習熟を支える機能と、生徒が成果物を制作・共有する授業では、支援する学習行動が異なると考えられる。年齢や授業目的に応じた評価が必要であり、これらの事例から幼児教育への適合性や学力向上を推定することはできない。",
+          "next_question": "Khan Academy各機能の対象学年と提供条件は何か。対象学年ごとに、課題支援では誤答後の理解と定着、Year 7〜9の制作活動では成果物の質と参加状況を、どの基準で検証できるか。",
           "required_ids": [
-            "d6c2047bf7af12e6182205dd"
+            "40a1ca2db5e26599685ce199",
+            "d6c2047bf7af12e6182205dd",
+            "37fcc66a5bb1c22ea2891c48"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "d6c2047bf7af12e6182205dd"
+            "40a1ca2db5e26599685ce199",
+            "d6c2047bf7af12e6182205dd",
+            "37fcc66a5bb1c22ea2891c48"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "3cc3177a525b54d88d207d30",
+        "e8e64d16490018dc8da0919e",
+        "5c1b3e010f801d7ccda03471",
+        "c020d38ee4938270e23532c4",
+        "1d0b2d851c179042720c4fbc",
+        "0c3b999e25aed55a5e3dd2c9",
+        "92ad9db99438082693a9ef64",
+        "cce9f76fdb79fc4d427df132",
+        "5c2cb6877b29a702d0eed1c3",
+        "68f20252c475ebf919aa32c2",
+        "6761435993edc48cfbb96f59",
         "57c36f72a0aefc15bb0bddda",
         "a627f361b75ed64c9140e22f",
+        "2cf978a1e0063628bc665e3e",
         "8f34f46057fa3abe138d759e",
         "ea28625f7ff18362f7fb3a15",
         "3d5f4c4ef845393e848c16d4",
         "18abf3c051e199b3395ff9e3",
         "23d943cc89cdf1c31c645b63",
-        "976fe8fb12d410b5bf14d24e",
         "eed3de14a43157122b99cb05",
+        "bbb324b74d6bfb38e28494cd",
+        "976fe8fb12d410b5bf14d24e",
         "30687b8bcb2721da27ded1d0",
         "7c35a86ace05cec4b96ef518",
         "9ff60937c00b8c200637ec70",
@@ -25258,6 +25828,7 @@
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
         "107db104e1f435a528a55ba3",
+        "ccc2647e8afbef99d2cf176d",
         "a5ec9d4aa0577e7790e76f11",
         "8aa1ca8040740f65d21ad9bb",
         "96f5b868b783b00726b9b729",
@@ -25277,6 +25848,7 @@
         "83b039a2d0269875fbb2bb29",
         "f3d8b815c118e2a7255009cd",
         "41bb9e1b7bddb0bd1e22321c",
+        "e156b83839575b2f0dd9ed0f",
         "374ff201821cb4e59cef43e3",
         "0f9bfbfbcfa79c194ccb7b8c",
         "34f40200609624284d883149",
@@ -25301,11 +25873,13 @@
         "237607aea3302727459087c7",
         "10a8a446bdd1922fb0a2b135",
         "4a34c5680945ac92d7389927",
+        "5188d3ccac3ad3ea0714f960",
         "659b9b8701ea3010a4e23fe7",
         "5a20ed819407988ef6f2bff3",
         "0b4b938f8ca33273370b1ef7",
         "5d46bf147d0f639ecd31a6cc",
         "057e77804c8a11c5b034512b",
+        "ef3873d6d9ed7dcb92cae32d",
         "1b3a5be0be0c28bcf6acbc83",
         "62fd458fad0a7e9413d31700",
         "4fc795563ea223898c63d88a",
@@ -25390,6 +25964,7 @@
         "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "3a382fb239af199914b816a8",
+        "31ade27f9dd0d69d944c2bdf",
         "1e9c0e2baf678a787f93e51c",
         "252b8951f608e5ecf2e505f2",
         "02c87cca927a67cc9398cdad",
@@ -25421,12 +25996,14 @@
         "6fed762c68101f497f1e4577",
         "4e56d0edee04a66d1a17a7b5",
         "5dda5578f36893c3c1616518",
+        "4a2a03fcf6e708ff5feb8488",
         "0162690001104b6b28a3acf0",
         "6468fcfd514c01a2c23f5b2f",
         "ed9835781c8554a9d6caa767",
-        "4a2a03fcf6e708ff5feb8488",
         "8eaa886898c6c72397e3c3c2",
         "520064092223ba7f89eec100",
+        "ddeb03d543ccda068b5c7b11",
+        "cc511eeec4e194114a81a583",
         "cea1174371f8c449ff4adaa2",
         "4051d499c25d740cf897a5ac",
         "7d9f820349e6b4174329c9b7",
@@ -25434,7 +26011,6 @@
         "8d713301ca9592825be34717",
         "495250eca757336c11d6bb21",
         "408905ac85f7ce3a6332cb2d",
-        "ddeb03d543ccda068b5c7b11",
         "6d14f73009a7bceb116345b5",
         "badda310cca07906cc76c487",
         "32194216853b9df386b3f26c",
@@ -25464,9 +26040,9 @@
         "3ddda55c954497f19600acb1",
         "6ccdca7eb0c4d56d5d7b7dd6",
         "6875665eb7ef00ccc7474e22",
+        "5a3da8e329bd008cac218b4c",
         "3091b6464a24712f17bd36ed",
         "f50bc24dce751fed56dd6193",
-        "5a3da8e329bd008cac218b4c",
         "609a82e33be676cbd6d6bc88",
         "a88646d1e59b71971e50bf61",
         "10bbb45c737fb467e6f44e2a",
@@ -25579,12 +26155,12 @@
         "8095777e5c3d5712670e17a6",
         "59482b469a6f76b767934461",
         "5888079b2e776d91a1d82b16",
+        "ab9e51cd984e1b578c7ca0c2",
         "c8fbac2e8bf598193f2e16a1",
         "b6f362ec683316b1d0758e4f",
         "beb64b0aff02ca70159b70fc",
         "105088e1eaa32879961c6c56",
         "7f5668c38f227617954d144c",
-        "ab9e51cd984e1b578c7ca0c2",
         "afa82cbe749b90ac0dc134a1",
         "2f1b1d93c763189d009e9fab",
         "e833aed5d4d282b98c6e69c7",
@@ -25629,10 +26205,10 @@
         "0a24346eb30752c44b6ed776",
         "bc5d95cda4dbabee0c954ff2",
         "d92dd46ee9bb1287fea33f20",
+        "be013c6f3b5937c45b92b6ec",
         "a6a1b4199ba6f7426c7a3a0e",
         "907fb7f390598e985b5611ce",
         "19f1c6d05224a959b00207bf",
-        "be013c6f3b5937c45b92b6ec",
         "f50d3c3fe5c15b37f0a96bfa",
         "271e7f9eda46f7311237ce46",
         "c72e8ebd1d98d83bf24195ed",
@@ -27292,7 +27868,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-19T07:56:00.841139+09:00",
+      "generated_at": "2026-10-20T06:02:05.874042+09:00",
       "is_complete": true,
       "article_count": 519,
       "category_counts": {
@@ -27305,7 +27881,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -27337,7 +27913,7 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+          "attempted_at": "2026-10-19T21:00:17.644308+00:00",
           "status": "ok",
           "new_reviews": 4,
           "updated_periods": [
@@ -27346,9 +27922,9 @@
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+          "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
       },
       "genre_briefs": [
         {
@@ -28695,24 +29271,24 @@
   ],
   "reports": {
     "overview": {
-      "id": "390fa49bf6ca65c4b91aa5c2",
+      "id": "626f4a3be84aa4bebe2ea5c5",
       "kind": "overview",
-      "period_start": "2026-10-13",
-      "period_end": "2026-10-19",
-      "generated_at": "2026-10-19T07:56:00.841139+09:00",
+      "period_start": "2026-10-14",
+      "period_end": "2026-10-20",
+      "generated_at": "2026-10-20T06:02:05.874042+09:00",
       "is_complete": false,
-      "article_count": 175,
+      "article_count": 158,
       "category_counts": {
-        "parenting": 54,
-        "ai": 73,
-        "tech": 48
+        "tech": 40,
+        "parenting": 42,
+        "ai": 76
       },
-      "overview": "Itaúは口座・融資・カード・保険をテキストや音声で扱うia.iを初期約30万人に提供した。全顧客への提供は2026年末までの目標で、社内のIARAは複数モデルへのアクセス、費用、AI利用方針を管理する。 コートドール県では、センサーと過去データを統合するデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費10％削減が報告された。ミラノ地域のAI基盤は導入中で、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。",
+      "overview": "GoogleはGemini Notebookで、スライドや動画概要の描画前に構成・制作メモを確認し、要約追加や場面の並べ替えを指示できる機能を発表し、全ユーザーへ順次展開中。DeepSeekは多言語検索APIを公開し、既存のAPI指定と料金を維持したモデル更新も発表した。検索品質や実行時間の改善は提供元の報告である。 NVIDIAは端末内AI向けWindowsノート「RTX Spark」を2,399ドルから販売開始したと発表。欧州自治体の紹介では、コートドール県の500超の公共施設でデジタルツイン上のAIが運営を支援し、運営費10％削減を報告する一方、交通支援や港湾警告には検討・試験段階の事例もある。ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期・条件は未提示。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -28744,7 +29320,7 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+          "attempted_at": "2026-10-19T21:00:17.644308+00:00",
           "status": "ok",
           "new_reviews": 4,
           "updated_periods": [
@@ -28753,15 +29329,35 @@
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+          "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
       },
       "genre_briefs": [
         {
           "category": "ai",
           "label": "生成AI",
           "stories": [
+            {
+              "article_id": "6761435993edc48cfbb96f59",
+              "headline": "Gemini Notebook、スライド・動画の生成前に構成を確認・修正可能に",
+              "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。",
+              "impact": "考察：完成後に作り直す前に構成を調整できるため、資料を使った発表や説明動画の制作で手戻りを減らせる可能性がある。",
+              "category": "ai",
+              "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+              "source_label": "Google / Gemini 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表時点では順次展開の段階。修正時間の短縮や生成内容の正確性向上を示す測定結果は本文にない。",
+              "provider": "Google / Gemini",
+              "origin_kind": "official",
+              "tags": [
+                "models"
+              ],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "These co-creation capabilities are rolling out globally to all Gemini Notebook users over the upcoming week.",
+              "published_at": "2026-10-19T00:00:00Z"
+            },
             {
               "article_id": "8f34f46057fa3abe138d759e",
               "headline": "Anthropic、株式を公益目的に充てる新基金を発表",
@@ -28799,24 +29395,6 @@
               "model": "codex-cli",
               "evidence_quote": "The API calling method and pricing remain unchanged — simply use deepseek-flash to access the latest model.",
               "published_at": "2026-10-17T00:00:00Z"
-            },
-            {
-              "article_id": "59780e2c19d8768e7bd152d1",
-              "headline": "Itaú、対話型金融サービスを初期約30万人に展開",
-              "summary": "ブラジルのItaúは、口座・融資・カード・保険などをテキストや音声で扱う対話型サービスia.iを初期約30万人に展開した。全顧客への提供は2026年末までの目標。社内ではIARAが複数モデルへのアクセスや費用、AI利用方針を管理する。法務向けシステムは9,000万件超の文書を対象に月200万件超のタスクを実行し、工程別に20〜80％の効率改善を報告した。",
-              "impact": "考察：顧客向けの対話窓口と社内のモデル管理基盤を組み合わせる構成は、金融機関が利用範囲を広げる際の参考になる。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/itau-generative-ai/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。OpenAI掲載の顧客事例で、効率改善の測定方法は本文に示されていない。約7,000万人分の顧客文脈を扱う仕組みと、ia.iの提供人数は別。担当者の対応速度などの改善倍率は期待値である。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-17T21:00:11.705253+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "100% of the customer base is the goal by the end of 2026",
-              "published_at": "2026-10-16T19:00:00Z"
             }
           ]
         },
@@ -28824,6 +29402,24 @@
           "category": "tech",
           "label": "テック",
           "stories": [
+            {
+              "article_id": "3cc3177a525b54d88d207d30",
+              "headline": "独政府とNVIDIA、産業向けフィジカルAIで協力へ　独4社への投資も計画",
+              "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
+              "impact": "考察：製造現場の知識や企業内データをAI開発と結び付ける契機になり得る。中小企業にも導入が広がるかは、費用やデータ活用体制、現場での検証に左右されそうだ。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。意向宣言は協力の方向性を示す段階で、モデルの提供時期や利用条件は記載されていない。4社への投資も計画であり、個別の金額や実行完了は示されていない。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "Today, Huang announced new planned investments in Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace.",
+              "published_at": "2026-10-19T19:27:08Z"
+            },
             {
               "article_id": "23d943cc89cdf1c31c645b63",
               "headline": "NVIDIA、ローカルAI向けWindowsノート「RTX Spark」を発売",
@@ -28859,24 +29455,6 @@
               "model": "codex-cli",
               "evidence_quote": "reduce total operating costs by 10%, targeting 30% at scale.",
               "published_at": "2026-10-14T06:00:28Z"
-            },
-            {
-              "article_id": "214de09c0748f52669ed1bc6",
-              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
-              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
-              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-12T21:00:23.171913+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
-              "published_at": "2026-10-12T15:00:25Z"
             }
           ]
         }
@@ -28890,17 +29468,25 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 59,
-          "publisher_count": 25,
-          "summary": "Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。 ブラジルのItaúは、口座・融資・カード・保険などをテキストや音声で扱う対話型サービスia.iを初期約30万人に展開した。全顧客への提供は2026年末までの目標。社内ではIARAが複数モデルへのアクセスや費用、AI利用方針を管理する。法務向けシステムは9,000万件超の文書を対象に月200万件超のタスクを実行し、工程別に20〜80％の効率改善を報告した。",
+          "count": 62,
+          "publisher_count": 27,
+          "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。",
           "evidence_ids": [
-            "8f34f46057fa3abe138d759e",
-            "eed3de14a43157122b99cb05",
-            "7c35a86ace05cec4b96ef518"
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132"
           ],
           "article_ids": [
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132",
+            "5c2cb6877b29a702d0eed1c3",
+            "68f20252c475ebf919aa32c2",
+            "6761435993edc48cfbb96f59",
+            "2cf978a1e0063628bc665e3e",
             "8f34f46057fa3abe138d759e",
             "eed3de14a43157122b99cb05",
+            "bbb324b74d6bfb38e28494cd",
             "30687b8bcb2721da27ded1d0",
             "7c35a86ace05cec4b96ef518",
             "59780e2c19d8768e7bd152d1",
@@ -28909,16 +29495,19 @@
             "a5ec9d4aa0577e7790e76f11",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
+            "e156b83839575b2f0dd9ed0f",
             "0f9bfbfbcfa79c194ccb7b8c",
             "3c8742712105fc8b150b88ee",
             "88685d8cbfac0a79e33295dc",
             "67a012cebd663c660f6596f1",
             "fa36bd2a2b7e954cc96fdad4",
+            "5188d3ccac3ad3ea0714f960",
             "659b9b8701ea3010a4e23fe7",
             "5a20ed819407988ef6f2bff3",
             "0b4b938f8ca33273370b1ef7",
             "5d46bf147d0f639ecd31a6cc",
             "057e77804c8a11c5b034512b",
+            "ef3873d6d9ed7dcb92cae32d",
             "1b3a5be0be0c28bcf6acbc83",
             "62fd458fad0a7e9413d31700",
             "12568f94adbfc30ce0f63c5a",
@@ -28949,15 +29538,7 @@
             "7ca450796287930aad944d50",
             "d01914286a545b0e18470811",
             "18aabb751b6da2582964e7f2",
-            "b993a6badffba2ce6cbc2431",
-            "c04f1d75600c2bafb349a5df",
-            "1ca82228ad1ea9b35bb67211",
-            "c264c5f737fd9312568a0453",
-            "60e5f8e6266c6ba5f52f89a8",
-            "cab1b28ca56df4f09f29733b",
-            "3a155da70341fb7b88049c34",
-            "5bc21fe968ea49e59301a934",
-            "0b3087ebc15b69225c479fde"
+            "b993a6badffba2ce6cbc2431"
           ]
         },
         {
@@ -28967,20 +29548,24 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 44,
-          "publisher_count": 30,
-          "summary": "NVIDIAは、Blackwell RTX GPUとGrace CPUを組み合わせたWindowsノート「RTX Spark」の販売開始を発表した。最大128GBの統合メモリと最大1ペタフロップのAI演算性能を掲げ、価格は2,399ドルから。ASUS、Dell、HP、Lenovo、Microsoft、MSIの製品で、端末内AI、コンテンツ制作、ゲーム用途に対応するとし、追加機種も予定している。 NVIDIAは欧州自治体のAI活用事例を公開。フランスのコートドール県では、センサーや過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したと報告。ミラノ地域では翻訳や市民向けチャットボットを提供する地域運営のAI基盤を導入中。一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。 NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+          "count": 37,
+          "publisher_count": 26,
+          "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。 NVIDIAは、Blackwell RTX GPUとGrace CPUを組み合わせたWindowsノート「RTX Spark」の販売開始を発表した。最大128GBの統合メモリと最大1ペタフロップのAI演算性能を掲げ、価格は2,399ドルから。ASUS、Dell、HP、Lenovo、Microsoft、MSIの製品で、端末内AI、コンテンツ制作、ゲーム用途に対応するとし、追加機種も予定している。 NVIDIAは欧州自治体のAI活用事例を公開。フランスのコートドール県では、センサーや過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したと報告。ミラノ地域では翻訳や市民向けチャットボットを提供する地域運営のAI基盤を導入中。一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。",
           "evidence_ids": [
-            "18abf3c051e199b3395ff9e3",
-            "23d943cc89cdf1c31c645b63",
-            "9ff60937c00b8c200637ec70"
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471"
           ],
           "article_ids": [
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471",
             "18abf3c051e199b3395ff9e3",
             "23d943cc89cdf1c31c645b63",
             "9ff60937c00b8c200637ec70",
             "73146778f625a0c5fa9b4c65",
             "fd5b2dee1f6f5f6b7edfd93b",
+            "ccc2647e8afbef99d2cf176d",
             "4e0ac644f2d6ef766db8b0b1",
             "51353425eee114a3160a4176",
             "155e64b95acb3bc4b40168ae",
@@ -29008,18 +29593,7 @@
             "bafdb09c80dc83da1359a6a2",
             "0a1926dd51ae0e4f8749e433",
             "6d7a612a9dcd85fdfd3bbaaf",
-            "bac01a4f68181f569247665e",
-            "c34ab70bc0f952ddd2c8c908",
-            "6f4c63a3840a4d64ad222707",
-            "6b97a6de33982ad13b50f4d8",
-            "84bb2855903414d496b19cbb",
-            "3a382fb239af199914b816a8",
-            "444b1264c373cd22d49b6441",
-            "068339586a82f1bbbc6a35fc",
-            "b3b3d39c05f49bd6e79f084b",
-            "13b85f448e5f174d9cee9f34",
-            "508fd7d586db35f1b6f09bfe",
-            "214de09c0748f52669ed1bc6"
+            "bac01a4f68181f569247665e"
           ]
         },
         {
@@ -29029,15 +29603,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 50,
-          "publisher_count": 31,
+          "count": 40,
+          "publisher_count": 25,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "57c36f72a0aefc15bb0bddda",
-            "a627f361b75ed64c9140e22f",
-            "ea28625f7ff18362f7fb3a15"
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
+            "57c36f72a0aefc15bb0bddda"
           ],
           "article_ids": [
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
             "57c36f72a0aefc15bb0bddda",
             "a627f361b75ed64c9140e22f",
             "ea28625f7ff18362f7fb3a15",
@@ -29075,19 +29651,7 @@
             "842d4fc59dd083b247aa0348",
             "d20e04de765cd1c78b02bee9",
             "f94d31ca3e38375de9bf44c3",
-            "591f885a90ea1ad85bafd3c7",
-            "f97bca8f0d800f81c7ca34c9",
-            "f3e9ce721161b25009490f14",
-            "2b64615106f0930c5ea17607",
-            "69623dea7b3922282f85190a",
-            "646daf58eb684f07ac320ec2",
-            "6011528638a2a8e2012cac6b",
-            "1e9c0e2baf678a787f93e51c",
-            "252b8951f608e5ecf2e505f2",
-            "02c87cca927a67cc9398cdad",
-            "279b8c0ad08ae31d8a94feb5",
-            "6df1a003d4d8898e0b8b550d",
-            "95d67afd9472e7a9101ad8f0"
+            "591f885a90ea1ad85bafd3c7"
           ]
         },
         {
@@ -29129,33 +29693,31 @@
           ]
         },
         {
-          "id": "parent-care",
-          "category": "parenting",
-          "label": "育児相談・家族のサポート",
+          "id": "tech-security",
+          "category": "tech",
+          "label": "セキュリティ・データの扱い",
           "words": [
-            "相談",
-            "支援",
-            "サポート",
-            "助産",
-            "医師",
-            "メンタル",
-            "悩み"
+            "漏えい",
+            "セキュリティ",
+            "脆弱",
+            "攻撃",
+            "認証",
+            "個人情報"
           ],
-          "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
-          "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 4,
-          "publisher_count": 4,
+          "insight": "サービスの検討では、便利さと同時に収集するデータの種類や保存先を確認したい。",
+          "question": "育児サービスに応用する場合、家族の情報を必要以上に集めない設計を検討したい。",
+          "count": 3,
+          "publisher_count": 3,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "1be1dadc41ee54af8c74f7ca",
-            "9a749d796e86ff1673a11f76",
-            "4c3a14fa3628f4f2b70b3eac"
+            "3d5f4c4ef845393e848c16d4",
+            "8010ddda16f0f6d74f3f9929",
+            "a93b1385c554e7f8ae321388"
           ],
           "article_ids": [
-            "1be1dadc41ee54af8c74f7ca",
-            "9a749d796e86ff1673a11f76",
-            "4c3a14fa3628f4f2b70b3eac",
-            "d12ac79c8017cb920ae83cf4"
+            "3d5f4c4ef845393e848c16d4",
+            "8010ddda16f0f6d74f3f9929",
+            "a93b1385c554e7f8ae321388"
           ]
         }
       ],
@@ -29163,44 +29725,63 @@
       "insights": [
         {
           "category": "ai",
-          "label": "対話型AIの展開と利用管理",
-          "observation": "Itaúは口座・融資・カード・保険をテキストや音声で扱うia.iを初期約30万人に提供した。全顧客への提供は2026年末までの目標で、社内のIARAは複数モデルへのアクセス、費用、AI利用方針を管理する。",
-          "interpretation": "顧客向け対話サービスを拡大する際には、応答性能に加え、モデルの利用権限や費用を管理する仕組みが運用を支える可能性がある。ただし、この事例だけでは管理基盤の効果や顧客需要は判断できない。",
-          "next_question": "全顧客への展開時に、初期提供と比べて取引完了率、誤処理率、有人対応への移行率、取引当たりの運用費用はどう変わるか。",
+          "label": "生成前の確認と検索連携が利用者の検証課題に",
+          "observation": "GoogleはGemini Notebookで、スライドや動画概要の描画前に構成・制作メモを確認し、要約追加や場面の並べ替えを指示できる機能を発表し、全ユーザーへ順次展開中。DeepSeekは多言語検索APIを公開し、既存のAPI指定と料金を維持したモデル更新も発表した。検索品質や実行時間の改善は提供元の報告である。",
+          "interpretation": "生成前に構成を修正する仕組みや外部情報を検索する手段は、利用者が制作過程を点検する機会を広げる可能性がある。ただし、修正負担や事実誤認が実際に減るかは、提示資料から判断できない。",
+          "next_question": "同じ資料と制作課題で、構成レビューの有無による完成までの修正時間・事実誤認数はどう変わるか。また、DeepSeek検索APIの料金・上限と、取得情報の出典確認方法は何か。",
           "required_ids": [
-            "59780e2c19d8768e7bd152d1"
+            "6761435993edc48cfbb96f59",
+            "7c35a86ace05cec4b96ef518"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "59780e2c19d8768e7bd152d1"
+            "6761435993edc48cfbb96f59",
+            "7c35a86ace05cec4b96ef518"
           ]
         },
         {
           "category": "tech",
-          "label": "自治体AIは用途ごとの実証確認が必要",
-          "observation": "コートドール県では、センサーと過去データを統合するデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費10％削減が報告された。ミラノ地域のAI基盤は導入中で、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。",
-          "interpretation": "施設運営で得られた成果を交通や港湾へ広げるには、用途ごとのデータ品質や判断精度の検証が必要になると考えられる。報告された費用削減も、測定条件が不明なため他自治体にそのまま適用できるとは限らない。",
-          "next_question": "コートドール県の10％削減は、どの期間・費目・比較対象で算定され、導入費用や気象・稼働率の変化を含めても維持されるか。",
+          "label": "端末販売・自治体運用・産業協力で異なる導入段階",
+          "observation": "NVIDIAは端末内AI向けWindowsノート「RTX Spark」を2,399ドルから販売開始したと発表。欧州自治体の紹介では、コートドール県の500超の公共施設でデジタルツイン上のAIが運営を支援し、運営費10％削減を報告する一方、交通支援や港湾警告には検討・試験段階の事例もある。ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期・条件は未提示。",
+          "interpretation": "端末や公共施設、製造現場でAIを使う選択肢が具体化する可能性はあるが、購入可能な製品、運用事例、協力構想では導入判断に使える証拠が異なる。メーカー公称性能や個別施設の削減率を、他の利用環境での効果にそのまま当てはめることはできない。",
+          "next_question": "RTX Sparkの機種別構成と対象業務での実測性能、日本での提供条件はどうなるか。自治体の10％削減には導入・保守費が含まれるか。ドイツの共同構想では、中小企業が利用できるモデルと条件がいつ示されるか。",
           "required_ids": [
-            "7fa48dbc870c0ecc5b781069"
+            "23d943cc89cdf1c31c645b63",
+            "7fa48dbc870c0ecc5b781069",
+            "3cc3177a525b54d88d207d30"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "7fa48dbc870c0ecc5b781069"
+            "23d943cc89cdf1c31c645b63",
+            "7fa48dbc870c0ecc5b781069",
+            "3cc3177a525b54d88d207d30"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "3cc3177a525b54d88d207d30",
+        "e8e64d16490018dc8da0919e",
+        "5c1b3e010f801d7ccda03471",
+        "c020d38ee4938270e23532c4",
+        "1d0b2d851c179042720c4fbc",
+        "0c3b999e25aed55a5e3dd2c9",
+        "92ad9db99438082693a9ef64",
+        "cce9f76fdb79fc4d427df132",
+        "5c2cb6877b29a702d0eed1c3",
+        "68f20252c475ebf919aa32c2",
+        "6761435993edc48cfbb96f59",
         "57c36f72a0aefc15bb0bddda",
         "a627f361b75ed64c9140e22f",
+        "2cf978a1e0063628bc665e3e",
         "8f34f46057fa3abe138d759e",
         "ea28625f7ff18362f7fb3a15",
         "3d5f4c4ef845393e848c16d4",
         "18abf3c051e199b3395ff9e3",
         "23d943cc89cdf1c31c645b63",
-        "976fe8fb12d410b5bf14d24e",
         "eed3de14a43157122b99cb05",
+        "bbb324b74d6bfb38e28494cd",
+        "976fe8fb12d410b5bf14d24e",
         "30687b8bcb2721da27ded1d0",
         "7c35a86ace05cec4b96ef518",
         "9ff60937c00b8c200637ec70",
@@ -29213,6 +29794,7 @@
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
         "107db104e1f435a528a55ba3",
+        "ccc2647e8afbef99d2cf176d",
         "a5ec9d4aa0577e7790e76f11",
         "8aa1ca8040740f65d21ad9bb",
         "96f5b868b783b00726b9b729",
@@ -29232,6 +29814,7 @@
         "83b039a2d0269875fbb2bb29",
         "f3d8b815c118e2a7255009cd",
         "41bb9e1b7bddb0bd1e22321c",
+        "e156b83839575b2f0dd9ed0f",
         "374ff201821cb4e59cef43e3",
         "0f9bfbfbcfa79c194ccb7b8c",
         "34f40200609624284d883149",
@@ -29256,11 +29839,13 @@
         "237607aea3302727459087c7",
         "10a8a446bdd1922fb0a2b135",
         "4a34c5680945ac92d7389927",
+        "5188d3ccac3ad3ea0714f960",
         "659b9b8701ea3010a4e23fe7",
         "5a20ed819407988ef6f2bff3",
         "0b4b938f8ca33273370b1ef7",
         "5d46bf147d0f639ecd31a6cc",
         "057e77804c8a11c5b034512b",
+        "ef3873d6d9ed7dcb92cae32d",
         "1b3a5be0be0c28bcf6acbc83",
         "62fd458fad0a7e9413d31700",
         "4fc795563ea223898c63d88a",
@@ -29332,41 +29917,7 @@
         "d01914286a545b0e18470811",
         "bac01a4f68181f569247665e",
         "18aabb751b6da2582964e7f2",
-        "b993a6badffba2ce6cbc2431",
-        "f97bca8f0d800f81c7ca34c9",
-        "f3e9ce721161b25009490f14",
-        "c04f1d75600c2bafb349a5df",
-        "c34ab70bc0f952ddd2c8c908",
-        "6f4c63a3840a4d64ad222707",
-        "2b64615106f0930c5ea17607",
-        "69623dea7b3922282f85190a",
-        "646daf58eb684f07ac320ec2",
-        "6b97a6de33982ad13b50f4d8",
-        "84bb2855903414d496b19cbb",
-        "6011528638a2a8e2012cac6b",
-        "3a382fb239af199914b816a8",
-        "1e9c0e2baf678a787f93e51c",
-        "252b8951f608e5ecf2e505f2",
-        "02c87cca927a67cc9398cdad",
-        "279b8c0ad08ae31d8a94feb5",
-        "4c3a14fa3628f4f2b70b3eac",
-        "1ca82228ad1ea9b35bb67211",
-        "6a15c0b11f9aaf0259b3e468",
-        "c264c5f737fd9312568a0453",
-        "444b1264c373cd22d49b6441",
-        "068339586a82f1bbbc6a35fc",
-        "b3b3d39c05f49bd6e79f084b",
-        "6df1a003d4d8898e0b8b550d",
-        "d12ac79c8017cb920ae83cf4",
-        "13b85f448e5f174d9cee9f34",
-        "60e5f8e6266c6ba5f52f89a8",
-        "cab1b28ca56df4f09f29733b",
-        "508fd7d586db35f1b6f09bfe",
-        "3a155da70341fb7b88049c34",
-        "5bc21fe968ea49e59301a934",
-        "95d67afd9472e7a9101ad8f0",
-        "0b3087ebc15b69225c479fde",
-        "214de09c0748f52669ed1bc6"
+        "b993a6badffba2ce6cbc2431"
       ]
     },
     "weekly": {
@@ -29374,19 +29925,20 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-19T07:56:00.841139+09:00",
+      "generated_at": "2026-10-20T06:02:05.874042+09:00",
       "is_complete": false,
-      "article_count": 3,
+      "article_count": 15,
       "category_counts": {
-        "parenting": 2,
-        "ai": 1
+        "tech": 3,
+        "parenting": 4,
+        "ai": 8
       },
-      "overview": "Anthropicは完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとの追加拠出2％は取締役会の裁量による。非営利団体への寄付や特定層への直接給付は検討例で、運営体制と評価額の節目は今後数カ月に公表予定とされる。",
+      "overview": "GoogleはGemini Notebookのスライド・動画概要生成に、描画前の構成案や制作メモを確認するReview機能を追加した。利用者は冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーに今後1週間で順次展開する段階で、修正時間や正確性の改善を示す測定結果はない。 ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発に向けた意向宣言に署名した。政府は中小企業を含む産業界への普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛ける独4社への投資も計画している。モデルの提供時期・利用条件や投資の実行完了は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -29418,7 +29970,7 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+          "attempted_at": "2026-10-19T21:00:17.644308+00:00",
           "status": "ok",
           "new_reviews": 4,
           "updated_periods": [
@@ -29427,15 +29979,35 @@
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+          "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
       },
       "genre_briefs": [
         {
           "category": "ai",
           "label": "生成AI",
           "stories": [
+            {
+              "article_id": "6761435993edc48cfbb96f59",
+              "headline": "Gemini Notebook、スライド・動画の生成前に構成を確認・修正可能に",
+              "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。",
+              "impact": "考察：完成後に作り直す前に構成を調整できるため、資料を使った発表や説明動画の制作で手戻りを減らせる可能性がある。",
+              "category": "ai",
+              "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+              "source_label": "Google / Gemini 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表時点では順次展開の段階。修正時間の短縮や生成内容の正確性向上を示す測定結果は本文にない。",
+              "provider": "Google / Gemini",
+              "origin_kind": "official",
+              "tags": [
+                "models"
+              ],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "These co-creation capabilities are rolling out globally to all Gemini Notebook users over the upcoming week.",
+              "published_at": "2026-10-19T00:00:00Z"
+            },
             {
               "article_id": "8f34f46057fa3abe138d759e",
               "headline": "Anthropic、株式を公益目的に充てる新基金を発表",
@@ -29455,6 +30027,30 @@
               "published_at": "2026-10-18T16:49:35.513000Z"
             }
           ]
+        },
+        {
+          "category": "tech",
+          "label": "テック",
+          "stories": [
+            {
+              "article_id": "3cc3177a525b54d88d207d30",
+              "headline": "独政府とNVIDIA、産業向けフィジカルAIで協力へ　独4社への投資も計画",
+              "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
+              "impact": "考察：製造現場の知識や企業内データをAI開発と結び付ける契機になり得る。中小企業にも導入が広がるかは、費用やデータ活用体制、現場での検証に左右されそうだ。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。意向宣言は協力の方向性を示す段階で、モデルの提供時期や利用条件は記載されていない。4社への投資も計画であり、個別の金額や実行完了は示されていない。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "Today, Huang announced new planned investments in Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace.",
+              "published_at": "2026-10-19T19:27:08Z"
+            }
+          ]
         }
       ],
       "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
@@ -29466,14 +30062,44 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 1,
-          "publisher_count": 1,
-          "summary": "Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。",
+          "count": 8,
+          "publisher_count": 8,
+          "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。",
           "evidence_ids": [
-            "8f34f46057fa3abe138d759e"
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132"
           ],
           "article_ids": [
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132",
+            "5c2cb6877b29a702d0eed1c3",
+            "68f20252c475ebf919aa32c2",
+            "6761435993edc48cfbb96f59",
+            "2cf978a1e0063628bc665e3e",
             "8f34f46057fa3abe138d759e"
+          ]
+        },
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 3,
+          "publisher_count": 3,
+          "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
+          "evidence_ids": [
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471"
+          ],
+          "article_ids": [
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471"
           ]
         },
         {
@@ -29483,40 +30109,69 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 4,
+          "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "57c36f72a0aefc15bb0bddda",
-            "a627f361b75ed64c9140e22f"
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
+            "57c36f72a0aefc15bb0bddda"
           ],
           "article_ids": [
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
             "57c36f72a0aefc15bb0bddda",
             "a627f361b75ed64c9140e22f"
           ]
         }
       ],
-      "total_topics": 2,
+      "total_topics": 3,
       "insights": [
         {
           "category": "ai",
-          "label": "公益基金の構想と実行条件",
-          "observation": "Anthropicは完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとの追加拠出2％は取締役会の裁量による。非営利団体への寄付や特定層への直接給付は検討例で、運営体制と評価額の節目は今後数カ月に公表予定とされる。",
-          "interpretation": "企業価値の上昇を公益支援の原資につなげる構想と考えられる。ただし、支援の実現規模や継続性は株主承認、取締役会の判断、今後示される運営方法に左右される可能性があり、現段階で受益者や効果は判断できない。",
-          "next_question": "株主承認後に初回拠出が実行されるか。また、公表予定の運営体制では支援対象の選定基準、株式を支援資金に換える方法、成果の評価方法がどう定められるか。",
+          "label": "生成前の構成確認を制作工程に組み込む",
+          "observation": "GoogleはGemini Notebookのスライド・動画概要生成に、描画前の構成案や制作メモを確認するReview機能を追加した。利用者は冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーに今後1週間で順次展開する段階で、修正時間や正確性の改善を示す測定結果はない。",
+          "interpretation": "資料から説明用コンテンツを作る利用者にとって、生成前に話の順序や重点を調整できれば、完成後の作り直しを減らせる可能性がある。ただし、構成の確認だけで資料との事実整合性まで保証されるとは限らない。",
+          "next_question": "同じ資料から制作した場合、Reviewの利用有無で完成後の再生成回数と総作業時間はどう変わり、資料に反する記述はどの程度残るか。",
           "required_ids": [
-            "8f34f46057fa3abe138d759e"
+            "6761435993edc48cfbb96f59"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "8f34f46057fa3abe138d759e"
+            "6761435993edc48cfbb96f59"
+          ]
+        },
+        {
+          "category": "tech",
+          "label": "産業向けフィジカルAIの協力構想と投資計画",
+          "observation": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発に向けた意向宣言に署名した。政府は中小企業を含む産業界への普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛ける独4社への投資も計画している。モデルの提供時期・利用条件や投資の実行完了は示されていない。",
+          "interpretation": "モデル開発と関連企業への資金供給が具体化すれば、産業現場での実証を進める足場になる可能性がある。ただし、中小企業にも導入可能かどうかは、利用料金や必要設備、導入支援の条件に左右されると考えられる。",
+          "next_question": "共同開発モデルはいつ、どの利用条件で提供され、中小企業向け実証にはどの設備・費用・支援が必要になるか。",
+          "required_ids": [
+            "3cc3177a525b54d88d207d30"
+          ],
+          "review_method": "ai_source_grounded",
+          "evidence_ids": [
+            "3cc3177a525b54d88d207d30"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "3cc3177a525b54d88d207d30",
+        "e8e64d16490018dc8da0919e",
+        "5c1b3e010f801d7ccda03471",
+        "c020d38ee4938270e23532c4",
+        "1d0b2d851c179042720c4fbc",
+        "0c3b999e25aed55a5e3dd2c9",
+        "92ad9db99438082693a9ef64",
+        "cce9f76fdb79fc4d427df132",
+        "5c2cb6877b29a702d0eed1c3",
+        "68f20252c475ebf919aa32c2",
+        "6761435993edc48cfbb96f59",
         "57c36f72a0aefc15bb0bddda",
         "a627f361b75ed64c9140e22f",
+        "2cf978a1e0063628bc665e3e",
         "8f34f46057fa3abe138d759e"
       ]
     },
@@ -29525,20 +30180,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-19T07:56:00.841139+09:00",
+      "generated_at": "2026-10-20T06:02:05.874042+09:00",
       "is_complete": false,
-      "article_count": 489,
+      "article_count": 508,
       "category_counts": {
-        "parenting": 129,
-        "ai": 224,
-        "tech": 136
+        "tech": 140,
+        "parenting": 133,
+        "ai": 235
       },
-      "overview": "Itaúは、口座・融資・カード・保険をテキストや音声で扱うia.iを初期約30万人に展開し、全顧客への提供を2026年末の目標とした。社内基盤IARAは複数モデルへのアクセス、費用、AI利用方針を管理する。掲載された効率改善値は顧客事例の報告で、測定方法は示されていない。 NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2は液冷接続や5,000Aの液冷バスバーなどで最大250kWのラック構成に対応し、クラウド事業者などに向けてネットワーク設定やクラスタ検証、ラック管理を担うDSXのオープンソース部品も公開した。最大電力は設計上の対応範囲で、導入実績ではない。 Khan AcademyのGem Jamは提携学区向けに提供され、教師が時間と参加者を設定するとチームを自動編成する。生徒は習熟度を記録できる指定課題をProficientまで進めて競い、獲得したGemsは月間の学級目標にも加算される。対象学年や学力・教師負担への測定結果は示されていない。",
+      "overview": "GoogleはGemini Notebookのスライド・動画概要で、Reviewを有効にすると描画前に構成案や制作メモを確認し、要約の追加や場面の並べ替えを指示できる機能を発表した。全世界の全ユーザーへ1週間で順次展開する段階で、修正時間や正確性への効果は示されていない。 NVIDIAが紹介したコートドール県の事例では、センサーと過去データを統合したデジタルツイン上のAIが公共施設運営を支援し、運営費を10％削減したと報告された。ただし測定条件や独立検証は示されていない。一方、ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期や利用条件は未記載である。 Khan Academyは、次の課題の案内、進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けGem Jamでは、教師が参加者と制限時間を設定し、指定課題の習熟をチームで競う。一方、スウェーデンのYear 7〜9の教員は、Sitesでの共同共有やVidsでの動画発表を授業実践として紹介した。Khan Academyの記事は対象学年を明示せず、いずれも学習効果の定量的検証は示していない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -29570,7 +30225,7 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+          "attempted_at": "2026-10-19T21:00:17.644308+00:00",
           "status": "ok",
           "new_reviews": 4,
           "updated_periods": [
@@ -29579,15 +30234,35 @@
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+          "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
       },
       "genre_briefs": [
         {
           "category": "ai",
           "label": "生成AI",
           "stories": [
+            {
+              "article_id": "6761435993edc48cfbb96f59",
+              "headline": "Gemini Notebook、スライド・動画の生成前に構成を確認・修正可能に",
+              "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。",
+              "impact": "考察：完成後に作り直す前に構成を調整できるため、資料を使った発表や説明動画の制作で手戻りを減らせる可能性がある。",
+              "category": "ai",
+              "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+              "source_label": "Google / Gemini 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表時点では順次展開の段階。修正時間の短縮や生成内容の正確性向上を示す測定結果は本文にない。",
+              "provider": "Google / Gemini",
+              "origin_kind": "official",
+              "tags": [
+                "models"
+              ],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "These co-creation capabilities are rolling out globally to all Gemini Notebook users over the upcoming week.",
+              "published_at": "2026-10-19T00:00:00Z"
+            },
             {
               "article_id": "8f34f46057fa3abe138d759e",
               "headline": "Anthropic、株式を公益目的に充てる新基金を発表",
@@ -29625,24 +30300,6 @@
               "model": "codex-cli",
               "evidence_quote": "The API calling method and pricing remain unchanged — simply use deepseek-flash to access the latest model.",
               "published_at": "2026-10-17T00:00:00Z"
-            },
-            {
-              "article_id": "59780e2c19d8768e7bd152d1",
-              "headline": "Itaú、対話型金融サービスを初期約30万人に展開",
-              "summary": "ブラジルのItaúは、口座・融資・カード・保険などをテキストや音声で扱う対話型サービスia.iを初期約30万人に展開した。全顧客への提供は2026年末までの目標。社内ではIARAが複数モデルへのアクセスや費用、AI利用方針を管理する。法務向けシステムは9,000万件超の文書を対象に月200万件超のタスクを実行し、工程別に20〜80％の効率改善を報告した。",
-              "impact": "考察：顧客向けの対話窓口と社内のモデル管理基盤を組み合わせる構成は、金融機関が利用範囲を広げる際の参考になる。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/itau-generative-ai/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。OpenAI掲載の顧客事例で、効率改善の測定方法は本文に示されていない。約7,000万人分の顧客文脈を扱う仕組みと、ia.iの提供人数は別。担当者の対応速度などの改善倍率は期待値である。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-17T21:00:11.705253+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "100% of the customer base is the goal by the end of 2026",
-              "published_at": "2026-10-16T19:00:00Z"
             }
           ]
         },
@@ -29650,6 +30307,24 @@
           "category": "tech",
           "label": "テック",
           "stories": [
+            {
+              "article_id": "3cc3177a525b54d88d207d30",
+              "headline": "独政府とNVIDIA、産業向けフィジカルAIで協力へ　独4社への投資も計画",
+              "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
+              "impact": "考察：製造現場の知識や企業内データをAI開発と結び付ける契機になり得る。中小企業にも導入が広がるかは、費用やデータ活用体制、現場での検証に左右されそうだ。",
+              "category": "tech",
+              "source_url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/",
+              "source_label": "NVIDIA 公式ブログ（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。意向宣言は協力の方向性を示す段階で、モデルの提供時期や利用条件は記載されていない。4社への投資も計画であり、個別の金額や実行完了は示されていない。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-10-19T21:00:17.644308+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "Today, Huang announced new planned investments in Agile Robots, Avelios Medical, Mirelo and Reflex Aerospace.",
+              "published_at": "2026-10-19T19:27:08Z"
+            },
             {
               "article_id": "23d943cc89cdf1c31c645b63",
               "headline": "NVIDIA、ローカルAI向けWindowsノート「RTX Spark」を発売",
@@ -29685,24 +30360,6 @@
               "model": "codex-cli",
               "evidence_quote": "reduce total operating costs by 10%, targeting 30% at scale.",
               "published_at": "2026-10-14T06:00:28Z"
-            },
-            {
-              "article_id": "214de09c0748f52669ed1bc6",
-              "headline": "NVIDIA、Vera Rubin向けラック設計をOCPに提供し、運用ソフトも公開",
-              "summary": "NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
-              "impact": "考察：機器メーカーやクラウド事業者が共通設計と運用部品を利用できれば、独自仕様への対応や統合作業の負担を減らせる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。最大250kWは設計上の対応範囲であり、導入実績ではない。効率改善の比較測定は本文に示されていない。ConnectX-10のFalcon対応は将来予定、Visionbayの800VDC施設は計画段階である。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-10-12T21:00:23.171913+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "The architecture supports rack deployments up to 250kW while simplifying serviceability, deployment and infrastructure reuse.",
-              "published_at": "2026-10-12T15:00:25Z"
             }
           ]
         },
@@ -29782,17 +30439,25 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 186,
-          "publisher_count": 39,
-          "summary": "Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。 ブラジルのItaúは、口座・融資・カード・保険などをテキストや音声で扱う対話型サービスia.iを初期約30万人に展開した。全顧客への提供は2026年末までの目標。社内ではIARAが複数モデルへのアクセスや費用、AI利用方針を管理する。法務向けシステムは9,000万件超の文書を対象に月200万件超のタスクを実行し、工程別に20〜80％の効率改善を報告した。",
+          "count": 197,
+          "publisher_count": 40,
+          "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。",
           "evidence_ids": [
-            "8f34f46057fa3abe138d759e",
-            "eed3de14a43157122b99cb05",
-            "7c35a86ace05cec4b96ef518"
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132"
           ],
           "article_ids": [
+            "1d0b2d851c179042720c4fbc",
+            "0c3b999e25aed55a5e3dd2c9",
+            "cce9f76fdb79fc4d427df132",
+            "5c2cb6877b29a702d0eed1c3",
+            "68f20252c475ebf919aa32c2",
+            "6761435993edc48cfbb96f59",
+            "2cf978a1e0063628bc665e3e",
             "8f34f46057fa3abe138d759e",
             "eed3de14a43157122b99cb05",
+            "bbb324b74d6bfb38e28494cd",
             "30687b8bcb2721da27ded1d0",
             "7c35a86ace05cec4b96ef518",
             "59780e2c19d8768e7bd152d1",
@@ -29801,16 +30466,19 @@
             "a5ec9d4aa0577e7790e76f11",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
+            "e156b83839575b2f0dd9ed0f",
             "0f9bfbfbcfa79c194ccb7b8c",
             "3c8742712105fc8b150b88ee",
             "88685d8cbfac0a79e33295dc",
             "67a012cebd663c660f6596f1",
             "fa36bd2a2b7e954cc96fdad4",
+            "5188d3ccac3ad3ea0714f960",
             "659b9b8701ea3010a4e23fe7",
             "5a20ed819407988ef6f2bff3",
             "0b4b938f8ca33273370b1ef7",
             "5d46bf147d0f639ecd31a6cc",
             "057e77804c8a11c5b034512b",
+            "ef3873d6d9ed7dcb92cae32d",
             "1b3a5be0be0c28bcf6acbc83",
             "62fd458fad0a7e9413d31700",
             "12568f94adbfc30ce0f63c5a",
@@ -29855,8 +30523,8 @@
             "6a63c1c0742e9867b6262247",
             "1cad5d9181158877166b0544",
             "91a8a945701ae6930057dbd6",
-            "6468fcfd514c01a2c23f5b2f",
             "4a2a03fcf6e708ff5feb8488",
+            "6468fcfd514c01a2c23f5b2f",
             "4051d499c25d740cf897a5ac",
             "7d9f820349e6b4174329c9b7",
             "33b4f566e3498437d2c0c4e6",
@@ -29870,8 +30538,8 @@
             "d08b03a2a01071fb1cbb95d8",
             "23ad61e231c3edc1e3d38a1e",
             "6ccdca7eb0c4d56d5d7b7dd6",
-            "f50bc24dce751fed56dd6193",
             "5a3da8e329bd008cac218b4c",
+            "f50bc24dce751fed56dd6193",
             "609a82e33be676cbd6d6bc88",
             "a88646d1e59b71971e50bf61",
             "10bbb45c737fb467e6f44e2a",
@@ -29986,20 +30654,24 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 132,
-          "publisher_count": 64,
-          "summary": "NVIDIAは、Blackwell RTX GPUとGrace CPUを組み合わせたWindowsノート「RTX Spark」の販売開始を発表した。最大128GBの統合メモリと最大1ペタフロップのAI演算性能を掲げ、価格は2,399ドルから。ASUS、Dell、HP、Lenovo、Microsoft、MSIの製品で、端末内AI、コンテンツ制作、ゲーム用途に対応するとし、追加機種も予定している。 NVIDIAは欧州自治体のAI活用事例を公開。フランスのコートドール県では、センサーや過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したと報告。ミラノ地域では翻訳や市民向けチャットボットを提供する地域運営のAI基盤を導入中。一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。 NVIDIAはOCP Global Summitで、Vera Rubin向けラックと計算トレイの設計を提供した。MGX 1.2は液冷接続、5,000Aの液冷バスバー、19インチ機器への対応を追加し、最大250kWのラック構成を支える。クラウド事業者などに向け、ネットワーク設定、クラスタ検証、ラック管理、ベアメタル導入を担うDSXのオープンソース部品も公開した。",
+          "count": 136,
+          "publisher_count": 66,
+          "summary": "ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。 NVIDIAは、Blackwell RTX GPUとGrace CPUを組み合わせたWindowsノート「RTX Spark」の販売開始を発表した。最大128GBの統合メモリと最大1ペタフロップのAI演算性能を掲げ、価格は2,399ドルから。ASUS、Dell、HP、Lenovo、Microsoft、MSIの製品で、端末内AI、コンテンツ制作、ゲーム用途に対応するとし、追加機種も予定している。 NVIDIAは欧州自治体のAI活用事例を公開。フランスのコートドール県では、センサーや過去データを統合したデジタルツイン上のAIが500超の公共施設の運営を支援し、運営費を10％削減したと報告。ミラノ地域では翻訳や市民向けチャットボットを提供する地域運営のAI基盤を導入中。一方、英国の都市交通支援やベルギーの港湾での油流出警告は検討・試験段階にある。",
           "evidence_ids": [
-            "18abf3c051e199b3395ff9e3",
-            "23d943cc89cdf1c31c645b63",
-            "9ff60937c00b8c200637ec70"
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471"
           ],
           "article_ids": [
+            "3cc3177a525b54d88d207d30",
+            "e8e64d16490018dc8da0919e",
+            "5c1b3e010f801d7ccda03471",
             "18abf3c051e199b3395ff9e3",
             "23d943cc89cdf1c31c645b63",
             "9ff60937c00b8c200637ec70",
             "73146778f625a0c5fa9b4c65",
             "fd5b2dee1f6f5f6b7edfd93b",
+            "ccc2647e8afbef99d2cf176d",
             "4e0ac644f2d6ef766db8b0b1",
             "51353425eee114a3160a4176",
             "155e64b95acb3bc4b40168ae",
@@ -30088,9 +30760,9 @@
             "8095777e5c3d5712670e17a6",
             "59482b469a6f76b767934461",
             "5888079b2e776d91a1d82b16",
+            "ab9e51cd984e1b578c7ca0c2",
             "c8fbac2e8bf598193f2e16a1",
             "b6f362ec683316b1d0758e4f",
-            "ab9e51cd984e1b578c7ca0c2",
             "2f1b1d93c763189d009e9fab",
             "c02a21ec941e754459c61f01",
             "f385c03d5431314cbd8d4cd3",
@@ -30101,9 +30773,9 @@
             "0a24346eb30752c44b6ed776",
             "bc5d95cda4dbabee0c954ff2",
             "d92dd46ee9bb1287fea33f20",
+            "be013c6f3b5937c45b92b6ec",
             "907fb7f390598e985b5611ce",
             "19f1c6d05224a959b00207bf",
-            "be013c6f3b5937c45b92b6ec",
             "4e1deda0382d627aa85beafe",
             "fd23d40e9debbc980f7e5319",
             "f18538f91726c2565bfe9ad5",
@@ -30136,15 +30808,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 116,
-          "publisher_count": 49,
+          "count": 120,
+          "publisher_count": 51,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
-            "57c36f72a0aefc15bb0bddda",
-            "a627f361b75ed64c9140e22f",
-            "ea28625f7ff18362f7fb3a15"
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
+            "57c36f72a0aefc15bb0bddda"
           ],
           "article_ids": [
+            "c020d38ee4938270e23532c4",
+            "92ad9db99438082693a9ef64",
             "57c36f72a0aefc15bb0bddda",
             "a627f361b75ed64c9140e22f",
             "ea28625f7ff18362f7fb3a15",
@@ -30189,6 +30863,7 @@
             "69623dea7b3922282f85190a",
             "646daf58eb684f07ac320ec2",
             "6011528638a2a8e2012cac6b",
+            "31ade27f9dd0d69d944c2bdf",
             "1e9c0e2baf678a787f93e51c",
             "252b8951f608e5ecf2e505f2",
             "02c87cca927a67cc9398cdad",
@@ -30200,6 +30875,7 @@
             "ed9835781c8554a9d6caa767",
             "520064092223ba7f89eec100",
             "ddeb03d543ccda068b5c7b11",
+            "cc511eeec4e194114a81a583",
             "6d14f73009a7bceb116345b5",
             "1dc6d5b3a496a42693cbea5d",
             "bb6ba2c48a2cc3987b64c411",
@@ -30363,58 +31039,77 @@
       "insights": [
         {
           "category": "ai",
-          "label": "対話型AIの業務導入と管理基盤",
-          "observation": "Itaúは、口座・融資・カード・保険をテキストや音声で扱うia.iを初期約30万人に展開し、全顧客への提供を2026年末の目標とした。社内基盤IARAは複数モデルへのアクセス、費用、AI利用方針を管理する。掲載された効率改善値は顧客事例の報告で、測定方法は示されていない。",
-          "interpretation": "顧客向け対話サービスを広げる際には、応答性能に加えて、モデル利用と費用を統制する基盤が運用の条件になる可能性がある。ただし、この事例だけでは導入効果や他社への適用性は判断できない。",
-          "next_question": "ia.iの対象拡大に伴い、手続きの完了率、誤処理率、有人対応への移行率、完了一件当たり費用はどう変化するか。",
+          "label": "生成前に構成を確認する制作工程",
+          "observation": "GoogleはGemini Notebookのスライド・動画概要で、Reviewを有効にすると描画前に構成案や制作メモを確認し、要約の追加や場面の並べ替えを指示できる機能を発表した。全世界の全ユーザーへ1週間で順次展開する段階で、修正時間や正確性への効果は示されていない。",
+          "interpretation": "完成物の生成前に利用者が構成を調整できれば、意図とのずれを早く発見できる可能性がある。ただし、事前確認の手間を含めて制作全体が短縮するかは未検証である。",
+          "next_question": "同じ資料から制作する場合、Reviewの有無で確認時間を含む総作業時間、再生成回数、原資料との不一致はどう変わるか。",
           "required_ids": [
-            "59780e2c19d8768e7bd152d1"
+            "6761435993edc48cfbb96f59"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "59780e2c19d8768e7bd152d1"
+            "6761435993edc48cfbb96f59"
           ]
         },
         {
           "category": "tech",
-          "label": "高電力ラックの設計と運用部品の公開",
-          "observation": "NVIDIAはVera Rubin向けラックと計算トレイの設計をOCPに提供した。MGX 1.2は液冷接続や5,000Aの液冷バスバーなどで最大250kWのラック構成に対応し、クラウド事業者などに向けてネットワーク設定やクラスタ検証、ラック管理を担うDSXのオープンソース部品も公開した。最大電力は設計上の対応範囲で、導入実績ではない。",
-          "interpretation": "ハードウェア設計と運用ソフトの公開は、事業者が設備構築と導入手順を共通化する助けになる可能性がある。一方、実際の導入期間や運用費への効果は、電源・冷却設備への対応も含めて検証が必要となる。",
-          "next_question": "公開設計とDSX部品を採用した施設では、従来構成と比べて導入期間、検証工数、冷却を含む消費電力がどの程度変わるか。",
+          "label": "産業・公共分野のAIは導入段階ごとの評価が必要",
+          "observation": "NVIDIAが紹介したコートドール県の事例では、センサーと過去データを統合したデジタルツイン上のAIが公共施設運営を支援し、運営費を10％削減したと報告された。ただし測定条件や独立検証は示されていない。一方、ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期や利用条件は未記載である。",
+          "interpretation": "公共施設の運営支援では具体的な評価対象が見える一方、産業向けモデル開発では利用条件を定める作業が残ると考えられる。個別の稼働事例の成果を、協力構想や他の用途にも適用できるとは限らない。",
+          "next_question": "コートドール県の費用削減はどの期間・費目・比較条件で測定され、導入費や保守費を含むか。また、ドイツの構想では中小企業が利用できるモデル、費用、提供時期がいつ具体化するか。",
           "required_ids": [
-            "214de09c0748f52669ed1bc6"
+            "7fa48dbc870c0ecc5b781069",
+            "3cc3177a525b54d88d207d30"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "214de09c0748f52669ed1bc6"
+            "7fa48dbc870c0ecc5b781069",
+            "3cc3177a525b54d88d207d30"
           ]
         },
         {
           "category": "parenting",
-          "label": "課題の習熟と授業内ゲームをつなぐ設計",
-          "observation": "Khan AcademyのGem Jamは提携学区向けに提供され、教師が時間と参加者を設定するとチームを自動編成する。生徒は習熟度を記録できる指定課題をProficientまで進めて競い、獲得したGemsは月間の学級目標にも加算される。対象学年や学力・教師負担への測定結果は示されていない。",
-          "interpretation": "競争の進行を指定技能の習熟に結び付ける設計は、授業中に取り組む課題を明確にする可能性がある。ただし、継続的な理解につながるか、順位表示が参加にどう影響するかは未検証で、幼児教育への適用も推定できない。",
-          "next_question": "対象学年と開始時の習熟度を分けて比較した場合、Gem Jam利用後の遅延テスト成績と参加率はどう変わり、順位表示の有無による差はあるか。",
+          "label": "学校での課題習熟支援と制作活動は別々に検証する",
+          "observation": "Khan Academyは、次の課題の案内、進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けGem Jamでは、教師が参加者と制限時間を設定し、指定課題の習熟をチームで競う。一方、スウェーデンのYear 7〜9の教員は、Sitesでの共同共有やVidsでの動画発表を授業実践として紹介した。Khan Academyの記事は対象学年を明示せず、いずれも学習効果の定量的検証は示していない。",
+          "interpretation": "課題習熟を支える機能と、生徒が成果物を制作・共有する授業では、支援する学習行動が異なると考えられる。年齢や授業目的に応じた評価が必要であり、これらの事例から幼児教育への適合性や学力向上を推定することはできない。",
+          "next_question": "Khan Academy各機能の対象学年と提供条件は何か。対象学年ごとに、課題支援では誤答後の理解と定着、Year 7〜9の制作活動では成果物の質と参加状況を、どの基準で検証できるか。",
           "required_ids": [
-            "d6c2047bf7af12e6182205dd"
+            "40a1ca2db5e26599685ce199",
+            "d6c2047bf7af12e6182205dd",
+            "37fcc66a5bb1c22ea2891c48"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "d6c2047bf7af12e6182205dd"
+            "40a1ca2db5e26599685ce199",
+            "d6c2047bf7af12e6182205dd",
+            "37fcc66a5bb1c22ea2891c48"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "3cc3177a525b54d88d207d30",
+        "e8e64d16490018dc8da0919e",
+        "5c1b3e010f801d7ccda03471",
+        "c020d38ee4938270e23532c4",
+        "1d0b2d851c179042720c4fbc",
+        "0c3b999e25aed55a5e3dd2c9",
+        "92ad9db99438082693a9ef64",
+        "cce9f76fdb79fc4d427df132",
+        "5c2cb6877b29a702d0eed1c3",
+        "68f20252c475ebf919aa32c2",
+        "6761435993edc48cfbb96f59",
         "57c36f72a0aefc15bb0bddda",
         "a627f361b75ed64c9140e22f",
+        "2cf978a1e0063628bc665e3e",
         "8f34f46057fa3abe138d759e",
         "ea28625f7ff18362f7fb3a15",
         "3d5f4c4ef845393e848c16d4",
         "18abf3c051e199b3395ff9e3",
         "23d943cc89cdf1c31c645b63",
-        "976fe8fb12d410b5bf14d24e",
         "eed3de14a43157122b99cb05",
+        "bbb324b74d6bfb38e28494cd",
+        "976fe8fb12d410b5bf14d24e",
         "30687b8bcb2721da27ded1d0",
         "7c35a86ace05cec4b96ef518",
         "9ff60937c00b8c200637ec70",
@@ -30427,6 +31122,7 @@
         "fd5b2dee1f6f5f6b7edfd93b",
         "9d75569bc419e9497b887487",
         "107db104e1f435a528a55ba3",
+        "ccc2647e8afbef99d2cf176d",
         "a5ec9d4aa0577e7790e76f11",
         "8aa1ca8040740f65d21ad9bb",
         "96f5b868b783b00726b9b729",
@@ -30446,6 +31142,7 @@
         "83b039a2d0269875fbb2bb29",
         "f3d8b815c118e2a7255009cd",
         "41bb9e1b7bddb0bd1e22321c",
+        "e156b83839575b2f0dd9ed0f",
         "374ff201821cb4e59cef43e3",
         "0f9bfbfbcfa79c194ccb7b8c",
         "34f40200609624284d883149",
@@ -30470,11 +31167,13 @@
         "237607aea3302727459087c7",
         "10a8a446bdd1922fb0a2b135",
         "4a34c5680945ac92d7389927",
+        "5188d3ccac3ad3ea0714f960",
         "659b9b8701ea3010a4e23fe7",
         "5a20ed819407988ef6f2bff3",
         "0b4b938f8ca33273370b1ef7",
         "5d46bf147d0f639ecd31a6cc",
         "057e77804c8a11c5b034512b",
+        "ef3873d6d9ed7dcb92cae32d",
         "1b3a5be0be0c28bcf6acbc83",
         "62fd458fad0a7e9413d31700",
         "4fc795563ea223898c63d88a",
@@ -30559,6 +31258,7 @@
         "84bb2855903414d496b19cbb",
         "6011528638a2a8e2012cac6b",
         "3a382fb239af199914b816a8",
+        "31ade27f9dd0d69d944c2bdf",
         "1e9c0e2baf678a787f93e51c",
         "252b8951f608e5ecf2e505f2",
         "02c87cca927a67cc9398cdad",
@@ -30590,12 +31290,14 @@
         "6fed762c68101f497f1e4577",
         "4e56d0edee04a66d1a17a7b5",
         "5dda5578f36893c3c1616518",
+        "4a2a03fcf6e708ff5feb8488",
         "0162690001104b6b28a3acf0",
         "6468fcfd514c01a2c23f5b2f",
         "ed9835781c8554a9d6caa767",
-        "4a2a03fcf6e708ff5feb8488",
         "8eaa886898c6c72397e3c3c2",
         "520064092223ba7f89eec100",
+        "ddeb03d543ccda068b5c7b11",
+        "cc511eeec4e194114a81a583",
         "cea1174371f8c449ff4adaa2",
         "4051d499c25d740cf897a5ac",
         "7d9f820349e6b4174329c9b7",
@@ -30603,7 +31305,6 @@
         "8d713301ca9592825be34717",
         "495250eca757336c11d6bb21",
         "408905ac85f7ce3a6332cb2d",
-        "ddeb03d543ccda068b5c7b11",
         "6d14f73009a7bceb116345b5",
         "badda310cca07906cc76c487",
         "32194216853b9df386b3f26c",
@@ -30633,9 +31334,9 @@
         "3ddda55c954497f19600acb1",
         "6ccdca7eb0c4d56d5d7b7dd6",
         "6875665eb7ef00ccc7474e22",
+        "5a3da8e329bd008cac218b4c",
         "3091b6464a24712f17bd36ed",
         "f50bc24dce751fed56dd6193",
-        "5a3da8e329bd008cac218b4c",
         "609a82e33be676cbd6d6bc88",
         "a88646d1e59b71971e50bf61",
         "10bbb45c737fb467e6f44e2a",
@@ -30748,12 +31449,12 @@
         "8095777e5c3d5712670e17a6",
         "59482b469a6f76b767934461",
         "5888079b2e776d91a1d82b16",
+        "ab9e51cd984e1b578c7ca0c2",
         "c8fbac2e8bf598193f2e16a1",
         "b6f362ec683316b1d0758e4f",
         "beb64b0aff02ca70159b70fc",
         "105088e1eaa32879961c6c56",
         "7f5668c38f227617954d144c",
-        "ab9e51cd984e1b578c7ca0c2",
         "afa82cbe749b90ac0dc134a1",
         "2f1b1d93c763189d009e9fab",
         "e833aed5d4d282b98c6e69c7",
@@ -30798,10 +31499,10 @@
         "0a24346eb30752c44b6ed776",
         "bc5d95cda4dbabee0c954ff2",
         "d92dd46ee9bb1287fea33f20",
+        "be013c6f3b5937c45b92b6ec",
         "a6a1b4199ba6f7426c7a3a0e",
         "907fb7f390598e985b5611ce",
         "19f1c6d05224a959b00207bf",
-        "be013c6f3b5937c45b92b6ec",
         "f50d3c3fe5c15b37f0a96bfa",
         "271e7f9eda46f7311237ce46",
         "c72e8ebd1d98d83bf24195ed",
@@ -30898,10 +31599,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-19T07:56:00.841139+09:00",
+  "report_updated_at": "2026-10-20T06:02:05.874042+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-18T22:56:00.576549+00:00",
+    "attempted_at": "2026-10-19T21:02:05.562676+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -30933,7 +31634,7 @@
       }
     ],
     "local_codex": {
-      "attempted_at": "2026-10-18T21:00:12.899378+00:00",
+      "attempted_at": "2026-10-19T21:00:17.644308+00:00",
       "status": "ok",
       "new_reviews": 4,
       "updated_periods": [
@@ -30942,9 +31643,9 @@
         "monthly"
       ],
       "errors": [],
-      "last_success_at": "2026-10-18T21:00:12.899378+00:00"
+      "last_success_at": "2026-10-19T21:00:17.644308+00:00"
     },
-    "last_success_at": "2026-10-18T22:56:00.576549+00:00"
+    "last_success_at": "2026-10-19T21:02:05.562676+00:00"
   },
   "topic_definitions": [
     {
@@ -31063,24 +31764,24 @@
       {
         "provider": "Google / Gemini",
         "story": {
-          "article_id": "714658a64fb5b3429e60c022",
-          "headline": "Gemini Notebook、60秒動画と教材に基づく学習ガイドなど3機能を紹介",
-          "summary": "Googleは、試験勉強などに使うGemini Notebookで最近提供を始めた3機能を紹介した。難しい概念を60秒の動画にする機能、ノート・講義・読み物を基に要約やスライド、クイズ、単語カードを組み合わせて段階的に学べるガイド、短答・複数選択・穴埋め式のクイズを追加。クイズや単語カードの復習後には、次に取り組む箇所についてフィードバックを求められる。",
-          "impact": "自分の教材を複数の形式で確認し、理解が曖昧な箇所を振り返る学習手順を組み立てやすくなる可能性がある。",
+          "article_id": "6761435993edc48cfbb96f59",
+          "headline": "Gemini Notebook、スライド・動画の生成前に構成を確認・修正可能に",
+          "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。",
+          "impact": "考察：完成後に作り直す前に構成を調整できるため、資料を使った発表や説明動画の制作で手戻りを減らせる可能性がある。",
           "category": "ai",
-          "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/",
+          "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
           "source_label": "Google / Gemini 公式（AI要約）",
-          "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象年齢、地域、料金プラン別の提供範囲は本文に記載がない。幼児や小学生向けの機能とは確認できず、成績向上などの効果も示されていない。",
+          "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表時点では順次展開の段階。修正時間の短縮や生成内容の正確性向上を示す測定結果は本文にない。",
           "provider": "Google / Gemini",
           "origin_kind": "official",
           "tags": [
             "models"
           ],
           "review_method": "ai_source_grounded",
-          "generated_at": "2026-10-16T21:00:11.733905+00:00",
+          "generated_at": "2026-10-19T21:00:17.644308+00:00",
           "model": "codex-cli",
-          "evidence_quote": "you can now generate a 60-second Short Video Overview to help you unpack it.",
-          "published_at": "2026-10-16T00:00:00Z"
+          "evidence_quote": "These co-creation capabilities are rolling out globally to all Gemini Notebook users over the upcoming week.",
+          "published_at": "2026-10-19T00:00:00Z"
         }
       },
       {
@@ -31494,11 +32195,11 @@
     ]
   },
   "picks": [
-    "8f34f46057fa3abe138d759e",
-    "976fe8fb12d410b5bf14d24e",
-    "3d5f4c4ef845393e848c16d4",
-    "18abf3c051e199b3395ff9e3",
-    "57c36f72a0aefc15bb0bddda",
-    "a627f361b75ed64c9140e22f"
+    "1d0b2d851c179042720c4fbc",
+    "0c3b999e25aed55a5e3dd2c9",
+    "3cc3177a525b54d88d207d30",
+    "e8e64d16490018dc8da0919e",
+    "c020d38ee4938270e23532c4",
+    "92ad9db99438082693a9ef64"
   ]
 }
