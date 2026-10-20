@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-19T21:01:59.050656Z",
-  "last_attempt_at": "2026-10-19T21:01:59.050656Z",
+  "updated_at": "2026-10-20T00:11:28.655373Z",
+  "last_attempt_at": "2026-10-20T00:11:28.655373Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 7,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-19T21:01:59.050656Z",
+      "checked_at": "2026-10-20T00:11:28.655373Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-20T00:11:28.655373Z",
+      "new_count": 5,
+      "status": "ok"
+    },
     {
       "at": "2026-10-19T21:01:59.050656Z",
       "new_count": 0,
@@ -525,6 +530,22 @@
       "theme_ids": []
     },
     {
+      "id": "d17e3d7e3da8f838595c1481",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "教科書が紙とデジタル併用に - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FQS1DNFNuVnhtUGF4aWI2UGpBN01vNGdIUEFPeUdXRmpWTG9yby1sSUxnNXFDRmc2U3RTcGtDeTJ1MFJaWHpqNHhVZXpkMXdBQXN0R2RpRmQtVGc0aGxGcDBoaUZhRWZr?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "教科書が紙とデジタル併用に 朝日新聞",
+      "published_at": "2026-10-19T15:00:00Z",
+      "collected_at": "2026-10-20T00:11:28.655373Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
       "id": "e8e64d16490018dc8da0919e",
       "category": "tech",
       "source_id": "tech",
@@ -540,6 +561,24 @@
       "in_scope": true,
       "theme_ids": [
         "camera",
+        "development"
+      ]
+    },
+    {
+      "id": "fbb411d67ac88f2014c6a692",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Advancing coding in low‑resource programming languages",
+      "url": "https://openai.com/index/low-resource-programming-languages",
+      "publisher": "OpenAI 公式",
+      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "published_at": "2026-10-19T12:00:00Z",
+      "collected_at": "2026-10-20T00:11:28.655373Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
         "development"
       ]
     },
@@ -617,6 +656,24 @@
       ]
     },
     {
+      "id": "8f02e971b528dac64b9d651f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "中国DeepSeekが低料金の新AIモデル ハイテク株安に影響か - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5KQmdNa0pteldPZUFCWWQ2VzcwRWlNTlplZXBNY0pzMTZiTGhtQ1ZZTEtET0Z6MDdSWXBoc0pJRFczZHB5ajRsQnBTVDI3b1k4RTRLU0l0dVZhX2QteWFZYTg1YmRDdnF5SkhoNw?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "中国DeepSeekが低料金の新AIモデル ハイテク株安に影響か 日本経済新聞",
+      "published_at": "2026-10-19T03:55:00Z",
+      "collected_at": "2026-10-20T00:11:28.655373Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "54ba694aeb9ef9b941845b3f",
       "category": "parenting",
       "source_id": "parenting",
@@ -631,6 +688,25 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "e7bac4de7fd185fe217cc6bc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeek、「V4.1-Flash-1017」を無償公開 コーディング、エージェント性能を強化 - 株式会社インプレス",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPZm9GRkJPREZydTdESFBHT3BwX3RQUHVMY1JOYjhDaHZ2aGZuTVF6UExWWVlMcTNTdUJwLTZLaU9Pa3hpR3hRUTVfTHhON01SWHVfZGVOYnVLQ3NRN2dMbVg5OA?oc=5",
+      "publisher": "株式会社インプレス",
+      "summary": "DeepSeek、「V4.1-Flash-1017」を無償公開 コーディング、エージェント性能を強化 株式会社インプレス",
+      "published_at": "2026-10-19T02:21:55Z",
+      "collected_at": "2026-10-20T00:11:28.655373Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
+      ]
     },
     {
       "id": "92ad9db99438082693a9ef64",
@@ -852,6 +928,22 @@
       "origin_kind": "official",
       "topic_id": "tech-platform",
       "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "8bd8754d87b2260a3b600ba4",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "新たな教科書は「紙中心」、デジタルは補助的扱いに…小４以下は完全デジタル認めず（読売新聞オンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yTXZlaWY3MjhiOGFieWhZRFRzNUVScHo2cXJ5MnhJMndMTExfdHRvaC1vRlM5S2VETTVkWnRKd25laGwyR05jM0k3RkQxRzN3MDFzVVJnNVJoa19veUowTlBvTHptckZheDlkRVcyRXdyWUtpeDE1NU9TNW5CS2s?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "新たな教科書は「紙中心」、デジタルは補助的扱いに…小４以下は完全デジタル認めず（読売新聞オンライン） Yahoo!ニュース",
+      "published_at": "2026-10-17T20:00:43Z",
+      "collected_at": "2026-10-20T00:11:28.655373Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
       "theme_ids": []
     },
     {
@@ -23073,20 +23165,20 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-20T06:02:05.874042+09:00",
+      "generated_at": "2026-10-20T09:11:34.018148+09:00",
       "is_complete": false,
-      "article_count": 15,
+      "article_count": 18,
       "category_counts": {
         "tech": 3,
-        "parenting": 4,
-        "ai": 8
+        "ai": 11,
+        "parenting": 4
       },
       "overview": "GoogleはGemini Notebookのスライド・動画概要生成に、描画前の構成案や制作メモを確認するReview機能を追加した。利用者は冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーに今後1週間で順次展開する段階で、修正時間や正確性の改善を示す測定結果はない。 ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発に向けた意向宣言に署名した。政府は中小企業を含む産業界への普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛ける独4社への投資も計画している。モデルの提供時期・利用条件や投資の実行完了は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+        "attempted_at": "2026-10-20T00:11:33.760387+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -23096,6 +23188,10 @@
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "fbb411d67ac88f2014c6a692",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "057e77804c8a11c5b034512b",
             "stage": "original_fetch"
@@ -23111,10 +23207,6 @@
           {
             "article_id": "907293b15cb12e377abecc92",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "06f3b447add99e649b569076",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -23129,7 +23221,7 @@
           "errors": [],
           "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+        "last_success_at": "2026-10-20T00:11:33.760387+00:00"
       },
       "genre_briefs": [
         {
@@ -23210,17 +23302,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 10,
+          "publisher_count": 9,
           "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。",
           "evidence_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
-            "0c3b999e25aed55a5e3dd2c9",
-            "cce9f76fdb79fc4d427df132"
+            "0c3b999e25aed55a5e3dd2c9"
           ],
           "article_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
             "0c3b999e25aed55a5e3dd2c9",
+            "8f02e971b528dac64b9d651f",
             "cce9f76fdb79fc4d427df132",
             "5c2cb6877b29a702d0eed1c3",
             "68f20252c475ebf919aa32c2",
@@ -23271,9 +23365,34 @@
             "57c36f72a0aefc15bb0bddda",
             "a627f361b75ed64c9140e22f"
           ]
+        },
+        {
+          "id": "ai-agents",
+          "category": "ai",
+          "label": "AIエージェント・開発の自動化",
+          "words": [
+            "エージェント",
+            "agent",
+            "Claude Code",
+            "Codex",
+            "自動化",
+            "交渉",
+            "開発"
+          ],
+          "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
+          "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "e7bac4de7fd185fe217cc6bc"
+          ],
+          "article_ids": [
+            "e7bac4de7fd185fe217cc6bc"
+          ]
         }
       ],
-      "total_topics": 3,
+      "total_topics": 4,
       "insights": [
         {
           "category": "ai",
@@ -23308,10 +23427,13 @@
       "article_ids": [
         "3cc3177a525b54d88d207d30",
         "e8e64d16490018dc8da0919e",
+        "fbb411d67ac88f2014c6a692",
         "5c1b3e010f801d7ccda03471",
         "c020d38ee4938270e23532c4",
         "1d0b2d851c179042720c4fbc",
         "0c3b999e25aed55a5e3dd2c9",
+        "8f02e971b528dac64b9d651f",
+        "e7bac4de7fd185fe217cc6bc",
         "92ad9db99438082693a9ef64",
         "cce9f76fdb79fc4d427df132",
         "5c2cb6877b29a702d0eed1c3",
@@ -23328,7 +23450,7 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-20T06:02:05.874042+09:00",
+      "generated_at": "2026-10-20T09:11:34.018148+09:00",
       "is_complete": true,
       "article_count": 187,
       "category_counts": {
@@ -23341,7 +23463,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+        "attempted_at": "2026-10-20T00:11:33.760387+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -23351,6 +23473,10 @@
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "fbb411d67ac88f2014c6a692",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "057e77804c8a11c5b034512b",
             "stage": "original_fetch"
@@ -23366,10 +23492,6 @@
           {
             "article_id": "907293b15cb12e377abecc92",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "06f3b447add99e649b569076",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -23384,7 +23506,7 @@
           "errors": [],
           "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+        "last_success_at": "2026-10-20T00:11:33.760387+00:00"
       },
       "genre_briefs": [
         {
@@ -24886,20 +25008,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-20T06:02:05.874042+09:00",
+      "generated_at": "2026-10-20T09:11:34.018148+09:00",
       "is_complete": false,
-      "article_count": 508,
+      "article_count": 511,
       "category_counts": {
         "tech": 140,
-        "parenting": 133,
-        "ai": 235
+        "ai": 238,
+        "parenting": 133
       },
       "overview": "GoogleはGemini Notebookのスライド・動画概要で、Reviewを有効にすると描画前に構成案や制作メモを確認し、要約の追加や場面の並べ替えを指示できる機能を発表した。全世界の全ユーザーへ1週間で順次展開する段階で、修正時間や正確性への効果は示されていない。 NVIDIAが紹介したコートドール県の事例では、センサーと過去データを統合したデジタルツイン上のAIが公共施設運営を支援し、運営費を10％削減したと報告された。ただし測定条件や独立検証は示されていない。一方、ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期や利用条件は未記載である。 Khan Academyは、次の課題の案内、進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けGem Jamでは、教師が参加者と制限時間を設定し、指定課題の習熟をチームで競う。一方、スウェーデンのYear 7〜9の教員は、Sitesでの共同共有やVidsでの動画発表を授業実践として紹介した。Khan Academyの記事は対象学年を明示せず、いずれも学習効果の定量的検証は示していない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+        "attempted_at": "2026-10-20T00:11:33.760387+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -24909,6 +25031,10 @@
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "fbb411d67ac88f2014c6a692",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "057e77804c8a11c5b034512b",
             "stage": "original_fetch"
@@ -24924,10 +25050,6 @@
           {
             "article_id": "907293b15cb12e377abecc92",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "06f3b447add99e649b569076",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -24942,7 +25064,7 @@
           "errors": [],
           "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+        "last_success_at": "2026-10-20T00:11:33.760387+00:00"
       },
       "genre_briefs": [
         {
@@ -25145,17 +25267,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 197,
+          "count": 199,
           "publisher_count": 40,
           "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。",
           "evidence_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
-            "0c3b999e25aed55a5e3dd2c9",
-            "cce9f76fdb79fc4d427df132"
+            "0c3b999e25aed55a5e3dd2c9"
           ],
           "article_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
             "0c3b999e25aed55a5e3dd2c9",
+            "8f02e971b528dac64b9d651f",
             "cce9f76fdb79fc4d427df132",
             "5c2cb6877b29a702d0eed1c3",
             "68f20252c475ebf919aa32c2",
@@ -25660,15 +25784,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 30,
-          "publisher_count": 16,
+          "count": 31,
+          "publisher_count": 17,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "e7bac4de7fd185fe217cc6bc",
             "976fe8fb12d410b5bf14d24e",
-            "9492e596a2e23c11bf998cbe",
-            "a2732dabf656e9dafebd3f9f"
+            "9492e596a2e23c11bf998cbe"
           ],
           "article_ids": [
+            "e7bac4de7fd185fe217cc6bc",
             "976fe8fb12d410b5bf14d24e",
             "9492e596a2e23c11bf998cbe",
             "a2732dabf656e9dafebd3f9f",
@@ -25796,10 +25921,13 @@
       "article_ids": [
         "3cc3177a525b54d88d207d30",
         "e8e64d16490018dc8da0919e",
+        "fbb411d67ac88f2014c6a692",
         "5c1b3e010f801d7ccda03471",
         "c020d38ee4938270e23532c4",
         "1d0b2d851c179042720c4fbc",
         "0c3b999e25aed55a5e3dd2c9",
+        "8f02e971b528dac64b9d651f",
+        "e7bac4de7fd185fe217cc6bc",
         "92ad9db99438082693a9ef64",
         "cce9f76fdb79fc4d427df132",
         "5c2cb6877b29a702d0eed1c3",
@@ -27868,7 +27996,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-20T06:02:05.874042+09:00",
+      "generated_at": "2026-10-20T09:11:34.018148+09:00",
       "is_complete": true,
       "article_count": 519,
       "category_counts": {
@@ -27881,7 +28009,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+        "attempted_at": "2026-10-20T00:11:33.760387+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -27891,6 +28019,10 @@
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "fbb411d67ac88f2014c6a692",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "057e77804c8a11c5b034512b",
             "stage": "original_fetch"
@@ -27906,10 +28038,6 @@
           {
             "article_id": "907293b15cb12e377abecc92",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "06f3b447add99e649b569076",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -27924,7 +28052,7 @@
           "errors": [],
           "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+        "last_success_at": "2026-10-20T00:11:33.760387+00:00"
       },
       "genre_briefs": [
         {
@@ -29275,20 +29403,20 @@
       "kind": "overview",
       "period_start": "2026-10-14",
       "period_end": "2026-10-20",
-      "generated_at": "2026-10-20T06:02:05.874042+09:00",
+      "generated_at": "2026-10-20T09:11:34.018148+09:00",
       "is_complete": false,
-      "article_count": 158,
+      "article_count": 161,
       "category_counts": {
         "tech": 40,
-        "parenting": 42,
-        "ai": 76
+        "ai": 79,
+        "parenting": 42
       },
       "overview": "GoogleはGemini Notebookで、スライドや動画概要の描画前に構成・制作メモを確認し、要約追加や場面の並べ替えを指示できる機能を発表し、全ユーザーへ順次展開中。DeepSeekは多言語検索APIを公開し、既存のAPI指定と料金を維持したモデル更新も発表した。検索品質や実行時間の改善は提供元の報告である。 NVIDIAは端末内AI向けWindowsノート「RTX Spark」を2,399ドルから販売開始したと発表。欧州自治体の紹介では、コートドール県の500超の公共施設でデジタルツイン上のAIが運営を支援し、運営費10％削減を報告する一方、交通支援や港湾警告には検討・試験段階の事例もある。ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期・条件は未提示。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+        "attempted_at": "2026-10-20T00:11:33.760387+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -29298,6 +29426,10 @@
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "fbb411d67ac88f2014c6a692",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "057e77804c8a11c5b034512b",
             "stage": "original_fetch"
@@ -29313,10 +29445,6 @@
           {
             "article_id": "907293b15cb12e377abecc92",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "06f3b447add99e649b569076",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -29331,7 +29459,7 @@
           "errors": [],
           "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+        "last_success_at": "2026-10-20T00:11:33.760387+00:00"
       },
       "genre_briefs": [
         {
@@ -29468,17 +29596,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 62,
+          "count": 64,
           "publisher_count": 27,
           "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。",
           "evidence_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
-            "0c3b999e25aed55a5e3dd2c9",
-            "cce9f76fdb79fc4d427df132"
+            "0c3b999e25aed55a5e3dd2c9"
           ],
           "article_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
             "0c3b999e25aed55a5e3dd2c9",
+            "8f02e971b528dac64b9d651f",
             "cce9f76fdb79fc4d427df132",
             "5c2cb6877b29a702d0eed1c3",
             "68f20252c475ebf919aa32c2",
@@ -29669,15 +29799,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 12,
-          "publisher_count": 6,
+          "count": 13,
+          "publisher_count": 7,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "e7bac4de7fd185fe217cc6bc",
             "976fe8fb12d410b5bf14d24e",
-            "9492e596a2e23c11bf998cbe",
-            "a2732dabf656e9dafebd3f9f"
+            "9492e596a2e23c11bf998cbe"
           ],
           "article_ids": [
+            "e7bac4de7fd185fe217cc6bc",
             "976fe8fb12d410b5bf14d24e",
             "9492e596a2e23c11bf998cbe",
             "a2732dabf656e9dafebd3f9f",
@@ -29762,10 +29893,13 @@
       "article_ids": [
         "3cc3177a525b54d88d207d30",
         "e8e64d16490018dc8da0919e",
+        "fbb411d67ac88f2014c6a692",
         "5c1b3e010f801d7ccda03471",
         "c020d38ee4938270e23532c4",
         "1d0b2d851c179042720c4fbc",
         "0c3b999e25aed55a5e3dd2c9",
+        "8f02e971b528dac64b9d651f",
+        "e7bac4de7fd185fe217cc6bc",
         "92ad9db99438082693a9ef64",
         "cce9f76fdb79fc4d427df132",
         "5c2cb6877b29a702d0eed1c3",
@@ -29925,20 +30059,20 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-20T06:02:05.874042+09:00",
+      "generated_at": "2026-10-20T09:11:34.018148+09:00",
       "is_complete": false,
-      "article_count": 15,
+      "article_count": 18,
       "category_counts": {
         "tech": 3,
-        "parenting": 4,
-        "ai": 8
+        "ai": 11,
+        "parenting": 4
       },
       "overview": "GoogleはGemini Notebookのスライド・動画概要生成に、描画前の構成案や制作メモを確認するReview機能を追加した。利用者は冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーに今後1週間で順次展開する段階で、修正時間や正確性の改善を示す測定結果はない。 ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発に向けた意向宣言に署名した。政府は中小企業を含む産業界への普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛ける独4社への投資も計画している。モデルの提供時期・利用条件や投資の実行完了は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+        "attempted_at": "2026-10-20T00:11:33.760387+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -29948,6 +30082,10 @@
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "fbb411d67ac88f2014c6a692",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "057e77804c8a11c5b034512b",
             "stage": "original_fetch"
@@ -29963,10 +30101,6 @@
           {
             "article_id": "907293b15cb12e377abecc92",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "06f3b447add99e649b569076",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -29981,7 +30115,7 @@
           "errors": [],
           "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+        "last_success_at": "2026-10-20T00:11:33.760387+00:00"
       },
       "genre_briefs": [
         {
@@ -30062,17 +30196,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 10,
+          "publisher_count": 9,
           "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。",
           "evidence_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
-            "0c3b999e25aed55a5e3dd2c9",
-            "cce9f76fdb79fc4d427df132"
+            "0c3b999e25aed55a5e3dd2c9"
           ],
           "article_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
             "0c3b999e25aed55a5e3dd2c9",
+            "8f02e971b528dac64b9d651f",
             "cce9f76fdb79fc4d427df132",
             "5c2cb6877b29a702d0eed1c3",
             "68f20252c475ebf919aa32c2",
@@ -30123,9 +30259,34 @@
             "57c36f72a0aefc15bb0bddda",
             "a627f361b75ed64c9140e22f"
           ]
+        },
+        {
+          "id": "ai-agents",
+          "category": "ai",
+          "label": "AIエージェント・開発の自動化",
+          "words": [
+            "エージェント",
+            "agent",
+            "Claude Code",
+            "Codex",
+            "自動化",
+            "交渉",
+            "開発"
+          ],
+          "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
+          "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "e7bac4de7fd185fe217cc6bc"
+          ],
+          "article_ids": [
+            "e7bac4de7fd185fe217cc6bc"
+          ]
         }
       ],
-      "total_topics": 3,
+      "total_topics": 4,
       "insights": [
         {
           "category": "ai",
@@ -30160,10 +30321,13 @@
       "article_ids": [
         "3cc3177a525b54d88d207d30",
         "e8e64d16490018dc8da0919e",
+        "fbb411d67ac88f2014c6a692",
         "5c1b3e010f801d7ccda03471",
         "c020d38ee4938270e23532c4",
         "1d0b2d851c179042720c4fbc",
         "0c3b999e25aed55a5e3dd2c9",
+        "8f02e971b528dac64b9d651f",
+        "e7bac4de7fd185fe217cc6bc",
         "92ad9db99438082693a9ef64",
         "cce9f76fdb79fc4d427df132",
         "5c2cb6877b29a702d0eed1c3",
@@ -30180,20 +30344,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-20T06:02:05.874042+09:00",
+      "generated_at": "2026-10-20T09:11:34.018148+09:00",
       "is_complete": false,
-      "article_count": 508,
+      "article_count": 511,
       "category_counts": {
         "tech": 140,
-        "parenting": 133,
-        "ai": 235
+        "ai": 238,
+        "parenting": 133
       },
       "overview": "GoogleはGemini Notebookのスライド・動画概要で、Reviewを有効にすると描画前に構成案や制作メモを確認し、要約の追加や場面の並べ替えを指示できる機能を発表した。全世界の全ユーザーへ1週間で順次展開する段階で、修正時間や正確性への効果は示されていない。 NVIDIAが紹介したコートドール県の事例では、センサーと過去データを統合したデジタルツイン上のAIが公共施設運営を支援し、運営費を10％削減したと報告された。ただし測定条件や独立検証は示されていない。一方、ドイツ政府との産業向けフィジカルAI協力は意向宣言の段階で、モデルの提供時期や利用条件は未記載である。 Khan Academyは、次の課題の案内、進歩の可視化、Khanmigoによる解答提出前のヒントと誤答後の説明を紹介した。提携学区向けGem Jamでは、教師が参加者と制限時間を設定し、指定課題の習熟をチームで競う。一方、スウェーデンのYear 7〜9の教員は、Sitesでの共同共有やVidsでの動画発表を授業実践として紹介した。Khan Academyの記事は対象学年を明示せず、いずれも学習効果の定量的検証は示していない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+        "attempted_at": "2026-10-20T00:11:33.760387+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -30203,6 +30367,10 @@
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "fbb411d67ac88f2014c6a692",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "057e77804c8a11c5b034512b",
             "stage": "original_fetch"
@@ -30218,10 +30386,6 @@
           {
             "article_id": "907293b15cb12e377abecc92",
             "stage": "original_fetch"
-          },
-          {
-            "article_id": "06f3b447add99e649b569076",
-            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -30236,7 +30400,7 @@
           "errors": [],
           "last_success_at": "2026-10-19T21:00:17.644308+00:00"
         },
-        "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+        "last_success_at": "2026-10-20T00:11:33.760387+00:00"
       },
       "genre_briefs": [
         {
@@ -30439,17 +30603,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 197,
+          "count": 199,
           "publisher_count": 40,
           "summary": "GoogleはGemini Notebookのスライドと動画概要に、資料に基づく構成案を確認しながら制作を進める機能を追加した。チャットで生成を頼むと題材を提案し、内容や見た目を指定できる。Reviewを有効にすると、描画前に構成や制作メモを確認し、冒頭の要約追加や場面の並べ替えを指示できる。全世界の全ユーザーへ今後1週間で順次展開する。 Anthropicは、完全子会社のLLCとして公益基金を設立し、株主承認を条件に株式の5％を拠出すると発表した。企業価値が基準から50％増えるごとに、取締役会の裁量で2％を追加する仕組み。非営利団体への大型寄付や特定層への直接給付を検討例に挙げ、詳細な運営体制と評価額の節目は今後数カ月に公表する。 DeepSeekは10月17日、自社検索エンジンのAPI公開とV4.1-Flash-1017への更新を発表した。検索は多言語に対応し、SEOスパムなどを検出・除外するという。モデルは公式Web・アプリにも反映され、APIは従来のdeepseek-flash指定と料金を維持。複数ベンチマークの改善に加え、タスク実行時間と出力長の削減を報告した。",
           "evidence_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
-            "0c3b999e25aed55a5e3dd2c9",
-            "cce9f76fdb79fc4d427df132"
+            "0c3b999e25aed55a5e3dd2c9"
           ],
           "article_ids": [
+            "fbb411d67ac88f2014c6a692",
             "1d0b2d851c179042720c4fbc",
             "0c3b999e25aed55a5e3dd2c9",
+            "8f02e971b528dac64b9d651f",
             "cce9f76fdb79fc4d427df132",
             "5c2cb6877b29a702d0eed1c3",
             "68f20252c475ebf919aa32c2",
@@ -30954,15 +31120,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 30,
-          "publisher_count": 16,
+          "count": 31,
+          "publisher_count": 17,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "e7bac4de7fd185fe217cc6bc",
             "976fe8fb12d410b5bf14d24e",
-            "9492e596a2e23c11bf998cbe",
-            "a2732dabf656e9dafebd3f9f"
+            "9492e596a2e23c11bf998cbe"
           ],
           "article_ids": [
+            "e7bac4de7fd185fe217cc6bc",
             "976fe8fb12d410b5bf14d24e",
             "9492e596a2e23c11bf998cbe",
             "a2732dabf656e9dafebd3f9f",
@@ -31090,10 +31257,13 @@
       "article_ids": [
         "3cc3177a525b54d88d207d30",
         "e8e64d16490018dc8da0919e",
+        "fbb411d67ac88f2014c6a692",
         "5c1b3e010f801d7ccda03471",
         "c020d38ee4938270e23532c4",
         "1d0b2d851c179042720c4fbc",
         "0c3b999e25aed55a5e3dd2c9",
+        "8f02e971b528dac64b9d651f",
+        "e7bac4de7fd185fe217cc6bc",
         "92ad9db99438082693a9ef64",
         "cce9f76fdb79fc4d427df132",
         "5c2cb6877b29a702d0eed1c3",
@@ -31599,10 +31769,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-20T06:02:05.874042+09:00",
+  "report_updated_at": "2026-10-20T09:11:34.018148+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-19T21:02:05.562676+00:00",
+    "attempted_at": "2026-10-20T00:11:33.760387+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -31612,6 +31782,10 @@
       "monthly"
     ],
     "errors": [
+      {
+        "article_id": "fbb411d67ac88f2014c6a692",
+        "stage": "original_fetch"
+      },
       {
         "article_id": "057e77804c8a11c5b034512b",
         "stage": "original_fetch"
@@ -31627,10 +31801,6 @@
       {
         "article_id": "907293b15cb12e377abecc92",
         "stage": "original_fetch"
-      },
-      {
-        "article_id": "06f3b447add99e649b569076",
-        "stage": "original_fetch"
       }
     ],
     "local_codex": {
@@ -31645,7 +31815,7 @@
       "errors": [],
       "last_success_at": "2026-10-19T21:00:17.644308+00:00"
     },
-    "last_success_at": "2026-10-19T21:02:05.562676+00:00"
+    "last_success_at": "2026-10-20T00:11:33.760387+00:00"
   },
   "topic_definitions": [
     {
@@ -32195,8 +32365,8 @@
     ]
   },
   "picks": [
+    "fbb411d67ac88f2014c6a692",
     "1d0b2d851c179042720c4fbc",
-    "0c3b999e25aed55a5e3dd2c9",
     "3cc3177a525b54d88d207d30",
     "e8e64d16490018dc8da0919e",
     "c020d38ee4938270e23532c4",
