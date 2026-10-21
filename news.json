@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-21T21:01:39.253552Z",
-  "last_attempt_at": "2026-10-21T21:01:39.253552Z",
+  "updated_at": "2026-10-21T23:56:38.332826Z",
+  "last_attempt_at": "2026-10-21T23:56:38.332826Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "error",
       "error": "HTTP Error 502: Bad Gateway",
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-21T21:01:39.253552Z",
+      "checked_at": "2026-10-21T23:56:38.332826Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-21T23:56:38.332826Z",
+      "new_count": 11,
+      "status": "partial"
+    },
     {
       "at": "2026-10-21T21:01:39.253552Z",
       "new_count": 5,
@@ -523,6 +528,73 @@
   ],
   "articles": [
     {
+      "id": "f4c4710f9bbdc140dc932021",
+      "category": "parenting",
+      "source_id": "khan",
+      "title": "5 Things I’ve Come to Believe as the Founder of a Nonprofit",
+      "url": "https://blog.khanacademy.org/5-things-ive-come-to-believe-as-the-founder-of-a-nonprofit/",
+      "publisher": "Khan Academy 公式",
+      "summary": "by Sal Khan, founder of Khan Academy More than two decades ago, I started tutoring my cousins. In ... Read more The post 5 Things I’ve Come to Believe as the Founder of a Nonprofit appeared first on Khan Academy Blog .",
+      "published_at": "2026-10-21T23:48:25Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": "Khan Academy",
+      "origin_kind": "official",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "ac0f84d166c31e3da691ad83",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "PHPの脆弱性 米OpenAIのAIで発見 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PbUtOcnZIdG1TbVBsU25tZlNCeFBVeXJBNjQ0UTMwZjJLejhaS0ZqWUg2UEdoVExJRy12bEgtcHFBVjZNQ3pPT3dfbE9rVGYx?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "PHPの脆弱性 米OpenAIのAIで発見 Yahoo!ニュース",
+      "published_at": "2026-10-21T22:32:08Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "d81fe764c1f454db3814960c",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "“ペンダント型AIデバイス”として使える「Insta360 Go Ultra」を試す - デジカメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UYUdUWmZGQWZwcWFaNFFBYkpNWE5SdXA3RmtZR0s0R1FOMVFqLUgxRGhKWkRfc2hGQnljaEY3RVc0XzRzRktjZWdyaTgtaUVMYWNpM3hqdDVkTnNCaGYtS3Z5elVWVmlLclNMVzJfNGdKZw?oc=5",
+      "publisher": "デジカメ Watch",
+      "summary": "“ペンダント型AIデバイス”として使える「Insta360 Go Ultra」を試す デジカメ Watch",
+      "published_at": "2026-10-21T22:00:00Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "a95de5ac8914a0690ffddb23",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "忙しい校務をAIで効率化！現場から生まれたGemini活用術【校務・学校DX編】 - こどもとIT",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WeGNlWkdmeDQwR00ydlFnSFJWVFp2OWpaQThrd3NlV1VpVnA0dlk1NEtvYmxGUzhvam8xZ0hHY3lxNmdHbXpEcldwTEd3NUVGXzNyVVBnTXNZOV9PWmQxOHI1U0xoTjA?oc=5",
+      "publisher": "こどもとIT",
+      "summary": "忙しい校務をAIで効率化！現場から生まれたGemini活用術【校務・学校DX編】 こどもとIT",
+      "published_at": "2026-10-21T21:30:00Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
       "id": "80f27b0d89828c681388e099",
       "category": "ai",
       "source_id": "anthropic",
@@ -536,6 +608,38 @@
       "origin_kind": "official",
       "topic_id": "ai-products",
       "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "73af98d726c9b2a5b56cbc58",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "publisher": "OpenAI 公式",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "published_at": "2026-10-21T21:00:00Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "fdde2141b571058f8d091d78",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "バナー広告＞お試し半額キャンペーン - ICT教育ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hMC16LWE2TzUzMndWaVRJWk4xMDQwQ0ZyeC15Nzd4cFpudXNIMHJhX2p4OV9kMHdEY1J1dElwM1NYUGVNdjJ5Vzh1VE9IajQ?oc=5",
+      "publisher": "ICT教育ニュース",
+      "summary": "バナー広告＞お試し半額キャンペーン ICT教育ニュース",
+      "published_at": "2026-10-21T20:36:57Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
       "theme_ids": []
     },
     {
@@ -593,6 +697,24 @@
       ]
     },
     {
+      "id": "c670dcc9a440efab24d5a9f5",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AIがこれだけ使われているのに「誰も本当に理解していない」深層学習 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DZVIyZ3E5OC1KdFh0b29DLUNhazZURms3aFhkZ3JmTjF4QUEwTm94bFVqN2FWVEFhTWoxNGdkTzdvS084NmZVaGtkZU1yc3dQdUZ1d3piaUxxMFBJS0xYd0ZKcE9LMGluRjRETA?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "AIがこれだけ使われているのに「誰も本当に理解していない」深層学習 日経クロステック",
+      "published_at": "2026-10-21T20:00:00Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "c928c60336bf8bee65405d25",
       "category": "parenting",
       "source_id": "parenting",
@@ -624,6 +746,38 @@
       "origin_kind": "official",
       "topic_id": "ai-products",
       "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "979cabf71f1d219bac8283a8",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」（1/2 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTnhuTUFaUWJjVWhHZEVGOFRDQlRDTFF2WWh3eVUza3B6b1d3MWYtOTBDd1dhTHd6eTE0WG5aWjJfZThjOXplb3RJcXBtaFF5OTVoMlZjc1BlTXZIWUt4RGJqZGJhYlFRLTlhQw?oc=5",
+      "publisher": "ITmedia",
+      "summary": "PHPの脆弱性、OpenAIのAIで発見 「同様の発見、今後数カ月で急増」（1/2 ページ） ITmedia",
+      "published_at": "2026-10-21T16:10:58Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "261444b57be8c7e97541c7b5",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "サイバー攻撃にAI悪用のあと - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BZ3VvaXE2V2xNcDI3QXg5aElJV1JwQ2lHNHdYd0V3Y1ZxMTItWXZTenQzbjBGc2xvTEdyc0xHRXJ4ODE2UmdYaWxqNDNlX1BDdVhFempWeXdkVnBsWlhNVEtsVjdrZmt1?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "サイバー攻撃にAI悪用のあと 朝日新聞",
+      "published_at": "2026-10-21T15:00:00Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
       "theme_ids": []
     },
     {
@@ -1861,6 +2015,24 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
+      ]
+    },
+    {
+      "id": "9eb1dfad604ec17e2a657ec5",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "アイルランドにおけるイノベーション: アイルランド企業が Gemini によって事業を拡大している方法 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa0lFOGpYSmRac1g3R2QxeThFd1NMMFNZOHdLemsyR3pVZmlZY0l6TEFaa05iOWtZeUJGb05QdmxIWXRyOWIyZE5sN01VY1VNSG1veGI4MFk4X3pQWnZjUlBjaU5ycjM4bUtaWGNIV3dvdF85dG5zb0lLeFRNQ1RDY3VzLVdOcjByYnBZelJ4dVhRZ3BJQ1k5Vl9OSzAwM2NGN2NHY2pLVXVPd0ZkV3RjdWFqR2RZMnFq?oc=5",
+      "publisher": "Google Cloud",
+      "summary": "アイルランドにおけるイノベーション: アイルランド企業が Gemini によって事業を拡大している方法 Google Cloud",
+      "published_at": "2026-10-20T03:50:01Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -7610,6 +7782,24 @@
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "7f6053c8b8d1a90090e54885",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini at Work 2026 で Gemini エージェントを発表 - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa1E2c2g4dGRfU2tLVWk4NnpZSmFRc3puSk5EVTBNSjliRzMyb0p6bUtGVElFZmZITzhYb0U1RkZCZ240OUpnbmZpZUpRcVJxOVpwa3RkbG1paUZ6aF9KMGpHNHlFR2Z6clV6UEhRYkJ0dmQtUWwwOUNLalY3QWFYeFRISGxXSEtaWHJ4bzlvYkN6UHJ1RGtJ?oc=5",
+      "publisher": "Google Cloud",
+      "summary": "Gemini at Work 2026 で Gemini エージェントを発表 Google Cloud",
+      "published_at": "2026-10-09T07:00:00Z",
+      "collected_at": "2026-10-21T23:56:38.332826Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
       "in_scope": true,
       "theme_ids": [
         "models"
@@ -25494,29 +25684,33 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-22T06:02:18.081071+09:00",
+      "generated_at": "2026-10-22T08:57:07.976834+09:00",
       "is_complete": false,
-      "article_count": 101,
+      "article_count": 108,
       "category_counts": {
-        "tech": 28,
-        "parenting": 29,
-        "ai": 44
+        "ai": 48,
+        "tech": 29,
+        "parenting": 31
       },
       "overview": "AT&Tは、自然言語の法務依頼を分類し、過去の判断例や業務記録を結び付けて担当者に初動案を示す仕組みをOpenAIと構築中で、最終判断は弁護士が担うとしている。別の記事では、ChatGPT広告の利用企業数と対応国の拡大が告知されている。 Google Cloudは、NVIDIA Vera Rubin NVL72などを統合したA5Xインスタンスを来月提供する計画を示し、強化学習やエージェント推論を用途に挙げた。ドイツ政府とNVIDIAは産業向けフィジカルAI開発の意向宣言に署名し、NVIDIAはドイツ企業4社への投資も計画している。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+        "attempted_at": "2026-10-21T23:57:07.663314+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "73af98d726c9b2a5b56cbc58",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "a34312112fdefc0e72a2ec8c",
             "stage": "original_fetch"
@@ -25546,7 +25740,7 @@
           "errors": [],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+        "last_success_at": "2026-10-21T23:57:07.663314+00:00"
       },
       "genre_briefs": [
         {
@@ -25675,16 +25869,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 36,
-          "publisher_count": 19,
+          "count": 40,
+          "publisher_count": 21,
           "summary": "AT&Tは、弁護士や法務担当者らで構成するAI活用チーム「LegalEdge」を基盤に、社内法務の次段階をOpenAIと構築中。計画する受付システムでは、自然言語で届く依頼を分類・優先順位付けし、関連する過去の判断例、調査、業務記録につないで、担当者に背景情報や初動の提案を示す。記事は構築計画を説明しており、導入済みとは述べていない。 Since we launched ads just over eight months ago, over 100,000 advertisers have run campaigns on ChatGPT. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
           "evidence_ids": [
-            "83f48d13eabc96b6ec87bd73",
-            "c4167c85cea3bef430de8092",
-            "20e8d5546476dcba6a4ff3d2"
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
+            "979cabf71f1d219bac8283a8"
           ],
           "article_ids": [
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
             "83f48d13eabc96b6ec87bd73",
+            "979cabf71f1d219bac8283a8",
             "ec22a10c2291cdf2005c04f2",
             "9455bb539c514b62044f685c",
             "c4167c85cea3bef430de8092",
@@ -25701,6 +25898,7 @@
             "4ce0c8b1de9fcb1c32b08119",
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
+            "9eb1dfad604ec17e2a657ec5",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -25729,15 +25927,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 27,
-          "publisher_count": 18,
+          "count": 28,
+          "publisher_count": 19,
           "summary": "Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。 NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic… ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
           "evidence_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
-            "894bbb951bc4b02a59f70f3c",
-            "f19ce5776374d74c922cdb9f"
+            "894bbb951bc4b02a59f70f3c"
           ],
           "article_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
             "487b68f673a74d2498f8b024",
             "894bbb951bc4b02a59f70f3c",
@@ -25774,16 +25973,18 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 22,
-          "publisher_count": 17,
+          "count": 24,
+          "publisher_count": 19,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
-            "c928c60336bf8bee65405d25",
-            "d5ebea1ab703b886a4f2da99"
+            "c670dcc9a440efab24d5a9f5"
           ],
           "article_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
+            "c670dcc9a440efab24d5a9f5",
             "c928c60336bf8bee65405d25",
             "d5ebea1ab703b886a4f2da99",
             "9748e7f412297b71ce3f2f8f",
@@ -25910,11 +26111,17 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ac0f84d166c31e3da691ad83",
+        "d81fe764c1f454db3814960c",
+        "a95de5ac8914a0690ffddb23",
+        "73af98d726c9b2a5b56cbc58",
         "fe5342a508189fed776d530b",
         "487b68f673a74d2498f8b024",
         "dec05bfe2dc88d9fa5a3855c",
+        "c670dcc9a440efab24d5a9f5",
         "c928c60336bf8bee65405d25",
         "83f48d13eabc96b6ec87bd73",
+        "979cabf71f1d219bac8283a8",
         "ec22a10c2291cdf2005c04f2",
         "894bbb951bc4b02a59f70f3c",
         "2774c191925069f0d20ece55",
@@ -25969,6 +26176,7 @@
         "60fc2829502fe5e65d9b348b",
         "d6e3fa5ae819ef3258cfd4d3",
         "31b15afbdfe56aad8ee8c736",
+        "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
@@ -26018,7 +26226,7 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-22T06:02:18.081071+09:00",
+      "generated_at": "2026-10-22T08:57:07.976834+09:00",
       "is_complete": true,
       "article_count": 200,
       "category_counts": {
@@ -26031,16 +26239,20 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+        "attempted_at": "2026-10-21T23:57:07.663314+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "73af98d726c9b2a5b56cbc58",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "a34312112fdefc0e72a2ec8c",
             "stage": "original_fetch"
@@ -26070,7 +26282,7 @@
           "errors": [],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+        "last_success_at": "2026-10-21T23:57:07.663314+00:00"
       },
       "genre_briefs": [
         {
@@ -27592,29 +27804,33 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-22T06:02:18.081071+09:00",
+      "generated_at": "2026-10-22T08:57:07.976834+09:00",
       "is_complete": false,
-      "article_count": 611,
+      "article_count": 619,
       "category_counts": {
-        "tech": 168,
-        "parenting": 163,
-        "ai": 280
+        "ai": 285,
+        "tech": 169,
+        "parenting": 165
       },
       "overview": "AT&Tは、社内法務の依頼を分類し、過去の判断例や業務記録を担当者に示す受付システムをOpenAIと構築中と説明した。別の記事ではOpenAIモデルのGoogle Cloud提供が発表され、ChatGPT広告の展開先拡大も告知された。法務システムは計画段階で、各発表から導入成果や広告の実績全体は判断できない。 Google Cloudは、強化学習やエージェント推論向けのA5Xインスタンスを来月一般提供する予定とし、欧州展開も計画している。ドイツ政府とNVIDIAは製造業などのフィジカルAI開発に向けた意向宣言に署名し、NVIDIAはドイツ企業4社への投資計画を発表した。いずれも一部は計画段階で、初期試験の性能比較や導入条件は限られた説明にとどまる。 Khan Academyは、次の課題を示すMissions、技能の進歩を示すGems、提出前のヒントや誤答後の説明・追加練習を組み合わせた学習体験を紹介した。提携学区向けのGem Jamでは、指定課題の習熟をチームで競う。別の実践紹介では、スウェーデンのYear 7〜9の授業でGoogle Sitesによる共有ノートとGoogle Vidsによる動画制作が使われている。これらの記事は、学習効果を測定した結果を示していない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+        "attempted_at": "2026-10-21T23:57:07.663314+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "73af98d726c9b2a5b56cbc58",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "a34312112fdefc0e72a2ec8c",
             "stage": "original_fetch"
@@ -27644,7 +27860,7 @@
           "errors": [],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+        "last_success_at": "2026-10-21T23:57:07.663314+00:00"
       },
       "genre_briefs": [
         {
@@ -27839,16 +28055,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 232,
-          "publisher_count": 44,
+          "count": 236,
+          "publisher_count": 45,
           "summary": "AT&Tは、弁護士や法務担当者らで構成するAI活用チーム「LegalEdge」を基盤に、社内法務の次段階をOpenAIと構築中。計画する受付システムでは、自然言語で届く依頼を分類・優先順位付けし、関連する過去の判断例、調査、業務記録につないで、担当者に背景情報や初動の提案を示す。記事は構築計画を説明しており、導入済みとは述べていない。 Since we launched ads just over eight months ago, over 100,000 advertisers have run campaigns on ChatGPT. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
           "evidence_ids": [
-            "83f48d13eabc96b6ec87bd73",
-            "c4167c85cea3bef430de8092",
-            "20e8d5546476dcba6a4ff3d2"
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
+            "979cabf71f1d219bac8283a8"
           ],
           "article_ids": [
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
             "83f48d13eabc96b6ec87bd73",
+            "979cabf71f1d219bac8283a8",
             "ec22a10c2291cdf2005c04f2",
             "9455bb539c514b62044f685c",
             "c4167c85cea3bef430de8092",
@@ -27865,6 +28084,7 @@
             "4ce0c8b1de9fcb1c32b08119",
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
+            "9eb1dfad604ec17e2a657ec5",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -28089,15 +28309,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 163,
-          "publisher_count": 78,
+          "count": 164,
+          "publisher_count": 79,
           "summary": "Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。 NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic… ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
           "evidence_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
-            "894bbb951bc4b02a59f70f3c",
-            "f19ce5776374d74c922cdb9f"
+            "894bbb951bc4b02a59f70f3c"
           ],
           "article_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
             "487b68f673a74d2498f8b024",
             "894bbb951bc4b02a59f70f3c",
@@ -28270,16 +28491,18 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 142,
-          "publisher_count": 59,
+          "count": 144,
+          "publisher_count": 60,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
-            "c928c60336bf8bee65405d25",
-            "d5ebea1ab703b886a4f2da99"
+            "c670dcc9a440efab24d5a9f5"
           ],
           "article_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
+            "c670dcc9a440efab24d5a9f5",
             "c928c60336bf8bee65405d25",
             "d5ebea1ab703b886a4f2da99",
             "9748e7f412297b71ce3f2f8f",
@@ -28438,8 +28661,8 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 39,
-          "publisher_count": 22,
+          "count": 40,
+          "publisher_count": 23,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "a34312112fdefc0e72a2ec8c",
@@ -28473,6 +28696,7 @@
             "70cd2e8911ffa61af7341c69",
             "4d59de9f965cb8e425f03d95",
             "307abb06b1e417d522dee3c1",
+            "7f6053c8b8d1a90090e54885",
             "4a204d7bd8653c170f26778b",
             "72a5bf3c3f7c188d57f69115",
             "bba44f898220fcf85c3c28c2",
@@ -28594,11 +28818,17 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ac0f84d166c31e3da691ad83",
+        "d81fe764c1f454db3814960c",
+        "a95de5ac8914a0690ffddb23",
+        "73af98d726c9b2a5b56cbc58",
         "fe5342a508189fed776d530b",
         "487b68f673a74d2498f8b024",
         "dec05bfe2dc88d9fa5a3855c",
+        "c670dcc9a440efab24d5a9f5",
         "c928c60336bf8bee65405d25",
         "83f48d13eabc96b6ec87bd73",
+        "979cabf71f1d219bac8283a8",
         "ec22a10c2291cdf2005c04f2",
         "894bbb951bc4b02a59f70f3c",
         "2774c191925069f0d20ece55",
@@ -28653,6 +28883,7 @@
         "60fc2829502fe5e65d9b348b",
         "d6e3fa5ae819ef3258cfd4d3",
         "31b15afbdfe56aad8ee8c736",
+        "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
@@ -28943,6 +29174,7 @@
         "5a3da8e329bd008cac218b4c",
         "3091b6464a24712f17bd36ed",
         "3ea1ea8ab462a2e8390933d8",
+        "7f6053c8b8d1a90090e54885",
         "f50bc24dce751fed56dd6193",
         "609a82e33be676cbd6d6bc88",
         "a88646d1e59b71971e50bf61",
@@ -30771,7 +31003,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-22T06:02:18.081071+09:00",
+      "generated_at": "2026-10-22T08:57:07.976834+09:00",
       "is_complete": true,
       "article_count": 520,
       "category_counts": {
@@ -30784,16 +31016,20 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+        "attempted_at": "2026-10-21T23:57:07.663314+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "73af98d726c9b2a5b56cbc58",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "a34312112fdefc0e72a2ec8c",
             "stage": "original_fetch"
@@ -30823,7 +31059,7 @@
           "errors": [],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+        "last_success_at": "2026-10-21T23:57:07.663314+00:00"
       },
       "genre_briefs": [
         {
@@ -32176,29 +32412,33 @@
       "kind": "overview",
       "period_start": "2026-10-16",
       "period_end": "2026-10-22",
-      "generated_at": "2026-10-22T06:02:18.081071+09:00",
+      "generated_at": "2026-10-22T08:57:07.976834+09:00",
       "is_complete": false,
-      "article_count": 149,
+      "article_count": 156,
       "category_counts": {
-        "tech": 42,
-        "parenting": 41,
-        "ai": 66
+        "ai": 70,
+        "tech": 43,
+        "parenting": 43
       },
       "overview": "AT&TはOpenAIと、自然言語の法務依頼を分類・優先順位付けし、過去の判断例や調査、業務記録を参照して担当者に背景情報と初動案を示す受付システムを構築中。記事では計画段階で、判断は弁護士が担うとしている。 Google Cloudは強化学習やエージェント推論向けのA5Xインスタンスを来月一般提供する予定で、欧州展開も計画している。ドイツ政府とNVIDIAは製造業などのフィジカルAI開発に向けた意向宣言に署名し、NVIDIAはドイツ企業4社への投資計画も発表した。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+        "attempted_at": "2026-10-21T23:57:07.663314+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "73af98d726c9b2a5b56cbc58",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "a34312112fdefc0e72a2ec8c",
             "stage": "original_fetch"
@@ -32228,7 +32468,7 @@
           "errors": [],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+        "last_success_at": "2026-10-21T23:57:07.663314+00:00"
       },
       "genre_briefs": [
         {
@@ -32357,16 +32597,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 52,
-          "publisher_count": 24,
+          "count": 56,
+          "publisher_count": 25,
           "summary": "AT&Tは、弁護士や法務担当者らで構成するAI活用チーム「LegalEdge」を基盤に、社内法務の次段階をOpenAIと構築中。計画する受付システムでは、自然言語で届く依頼を分類・優先順位付けし、関連する過去の判断例、調査、業務記録につないで、担当者に背景情報や初動の提案を示す。記事は構築計画を説明しており、導入済みとは述べていない。 Since we launched ads just over eight months ago, over 100,000 advertisers have run campaigns on ChatGPT. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
           "evidence_ids": [
-            "83f48d13eabc96b6ec87bd73",
-            "c4167c85cea3bef430de8092",
-            "20e8d5546476dcba6a4ff3d2"
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
+            "979cabf71f1d219bac8283a8"
           ],
           "article_ids": [
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
             "83f48d13eabc96b6ec87bd73",
+            "979cabf71f1d219bac8283a8",
             "ec22a10c2291cdf2005c04f2",
             "9455bb539c514b62044f685c",
             "c4167c85cea3bef430de8092",
@@ -32383,6 +32626,7 @@
             "4ce0c8b1de9fcb1c32b08119",
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
+            "9eb1dfad604ec17e2a657ec5",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -32427,15 +32671,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 40,
-          "publisher_count": 26,
+          "count": 41,
+          "publisher_count": 27,
           "summary": "Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。 NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic… ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
           "evidence_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
-            "894bbb951bc4b02a59f70f3c",
-            "f19ce5776374d74c922cdb9f"
+            "894bbb951bc4b02a59f70f3c"
           ],
           "article_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
             "487b68f673a74d2498f8b024",
             "894bbb951bc4b02a59f70f3c",
@@ -32485,16 +32730,18 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 34,
-          "publisher_count": 22,
+          "count": 36,
+          "publisher_count": 24,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
-            "c928c60336bf8bee65405d25",
-            "d5ebea1ab703b886a4f2da99"
+            "c670dcc9a440efab24d5a9f5"
           ],
           "article_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
+            "c670dcc9a440efab24d5a9f5",
             "c928c60336bf8bee65405d25",
             "d5ebea1ab703b886a4f2da99",
             "9748e7f412297b71ce3f2f8f",
@@ -32636,11 +32883,17 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ac0f84d166c31e3da691ad83",
+        "d81fe764c1f454db3814960c",
+        "a95de5ac8914a0690ffddb23",
+        "73af98d726c9b2a5b56cbc58",
         "fe5342a508189fed776d530b",
         "487b68f673a74d2498f8b024",
         "dec05bfe2dc88d9fa5a3855c",
+        "c670dcc9a440efab24d5a9f5",
         "c928c60336bf8bee65405d25",
         "83f48d13eabc96b6ec87bd73",
+        "979cabf71f1d219bac8283a8",
         "ec22a10c2291cdf2005c04f2",
         "894bbb951bc4b02a59f70f3c",
         "2774c191925069f0d20ece55",
@@ -32695,6 +32948,7 @@
         "60fc2829502fe5e65d9b348b",
         "d6e3fa5ae819ef3258cfd4d3",
         "31b15afbdfe56aad8ee8c736",
+        "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
@@ -32792,29 +33046,33 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-22T06:02:18.081071+09:00",
+      "generated_at": "2026-10-22T08:57:07.976834+09:00",
       "is_complete": false,
-      "article_count": 101,
+      "article_count": 108,
       "category_counts": {
-        "tech": 28,
-        "parenting": 29,
-        "ai": 44
+        "ai": 48,
+        "tech": 29,
+        "parenting": 31
       },
       "overview": "AT&Tは、自然言語の法務依頼を分類し、過去の判断例や業務記録を結び付けて担当者に初動案を示す仕組みをOpenAIと構築中で、最終判断は弁護士が担うとしている。別の記事では、ChatGPT広告の利用企業数と対応国の拡大が告知されている。 Google Cloudは、NVIDIA Vera Rubin NVL72などを統合したA5Xインスタンスを来月提供する計画を示し、強化学習やエージェント推論を用途に挙げた。ドイツ政府とNVIDIAは産業向けフィジカルAI開発の意向宣言に署名し、NVIDIAはドイツ企業4社への投資も計画している。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+        "attempted_at": "2026-10-21T23:57:07.663314+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "73af98d726c9b2a5b56cbc58",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "a34312112fdefc0e72a2ec8c",
             "stage": "original_fetch"
@@ -32844,7 +33102,7 @@
           "errors": [],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+        "last_success_at": "2026-10-21T23:57:07.663314+00:00"
       },
       "genre_briefs": [
         {
@@ -32973,16 +33231,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 36,
-          "publisher_count": 19,
+          "count": 40,
+          "publisher_count": 21,
           "summary": "AT&Tは、弁護士や法務担当者らで構成するAI活用チーム「LegalEdge」を基盤に、社内法務の次段階をOpenAIと構築中。計画する受付システムでは、自然言語で届く依頼を分類・優先順位付けし、関連する過去の判断例、調査、業務記録につないで、担当者に背景情報や初動の提案を示す。記事は構築計画を説明しており、導入済みとは述べていない。 Since we launched ads just over eight months ago, over 100,000 advertisers have run campaigns on ChatGPT. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
           "evidence_ids": [
-            "83f48d13eabc96b6ec87bd73",
-            "c4167c85cea3bef430de8092",
-            "20e8d5546476dcba6a4ff3d2"
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
+            "979cabf71f1d219bac8283a8"
           ],
           "article_ids": [
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
             "83f48d13eabc96b6ec87bd73",
+            "979cabf71f1d219bac8283a8",
             "ec22a10c2291cdf2005c04f2",
             "9455bb539c514b62044f685c",
             "c4167c85cea3bef430de8092",
@@ -32999,6 +33260,7 @@
             "4ce0c8b1de9fcb1c32b08119",
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
+            "9eb1dfad604ec17e2a657ec5",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -33027,15 +33289,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 27,
-          "publisher_count": 18,
+          "count": 28,
+          "publisher_count": 19,
           "summary": "Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。 NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic… ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
           "evidence_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
-            "894bbb951bc4b02a59f70f3c",
-            "f19ce5776374d74c922cdb9f"
+            "894bbb951bc4b02a59f70f3c"
           ],
           "article_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
             "487b68f673a74d2498f8b024",
             "894bbb951bc4b02a59f70f3c",
@@ -33072,16 +33335,18 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 22,
-          "publisher_count": 17,
+          "count": 24,
+          "publisher_count": 19,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
-            "c928c60336bf8bee65405d25",
-            "d5ebea1ab703b886a4f2da99"
+            "c670dcc9a440efab24d5a9f5"
           ],
           "article_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
+            "c670dcc9a440efab24d5a9f5",
             "c928c60336bf8bee65405d25",
             "d5ebea1ab703b886a4f2da99",
             "9748e7f412297b71ce3f2f8f",
@@ -33208,11 +33473,17 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ac0f84d166c31e3da691ad83",
+        "d81fe764c1f454db3814960c",
+        "a95de5ac8914a0690ffddb23",
+        "73af98d726c9b2a5b56cbc58",
         "fe5342a508189fed776d530b",
         "487b68f673a74d2498f8b024",
         "dec05bfe2dc88d9fa5a3855c",
+        "c670dcc9a440efab24d5a9f5",
         "c928c60336bf8bee65405d25",
         "83f48d13eabc96b6ec87bd73",
+        "979cabf71f1d219bac8283a8",
         "ec22a10c2291cdf2005c04f2",
         "894bbb951bc4b02a59f70f3c",
         "2774c191925069f0d20ece55",
@@ -33267,6 +33538,7 @@
         "60fc2829502fe5e65d9b348b",
         "d6e3fa5ae819ef3258cfd4d3",
         "31b15afbdfe56aad8ee8c736",
+        "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
@@ -33316,29 +33588,33 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-22T06:02:18.081071+09:00",
+      "generated_at": "2026-10-22T08:57:07.976834+09:00",
       "is_complete": false,
-      "article_count": 611,
+      "article_count": 619,
       "category_counts": {
-        "tech": 168,
-        "parenting": 163,
-        "ai": 280
+        "ai": 285,
+        "tech": 169,
+        "parenting": 165
       },
       "overview": "AT&Tは、社内法務の依頼を分類し、過去の判断例や業務記録を担当者に示す受付システムをOpenAIと構築中と説明した。別の記事ではOpenAIモデルのGoogle Cloud提供が発表され、ChatGPT広告の展開先拡大も告知された。法務システムは計画段階で、各発表から導入成果や広告の実績全体は判断できない。 Google Cloudは、強化学習やエージェント推論向けのA5Xインスタンスを来月一般提供する予定とし、欧州展開も計画している。ドイツ政府とNVIDIAは製造業などのフィジカルAI開発に向けた意向宣言に署名し、NVIDIAはドイツ企業4社への投資計画を発表した。いずれも一部は計画段階で、初期試験の性能比較や導入条件は限られた説明にとどまる。 Khan Academyは、次の課題を示すMissions、技能の進歩を示すGems、提出前のヒントや誤答後の説明・追加練習を組み合わせた学習体験を紹介した。提携学区向けのGem Jamでは、指定課題の習熟をチームで競う。別の実践紹介では、スウェーデンのYear 7〜9の授業でGoogle Sitesによる共有ノートとGoogle Vidsによる動画制作が使われている。これらの記事は、学習効果を測定した結果を示していない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+        "attempted_at": "2026-10-21T23:57:07.663314+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "73af98d726c9b2a5b56cbc58",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "a34312112fdefc0e72a2ec8c",
             "stage": "original_fetch"
@@ -33368,7 +33644,7 @@
           "errors": [],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+        "last_success_at": "2026-10-21T23:57:07.663314+00:00"
       },
       "genre_briefs": [
         {
@@ -33563,16 +33839,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 232,
-          "publisher_count": 44,
+          "count": 236,
+          "publisher_count": 45,
           "summary": "AT&Tは、弁護士や法務担当者らで構成するAI活用チーム「LegalEdge」を基盤に、社内法務の次段階をOpenAIと構築中。計画する受付システムでは、自然言語で届く依頼を分類・優先順位付けし、関連する過去の判断例、調査、業務記録につないで、担当者に背景情報や初動の提案を示す。記事は構築計画を説明しており、導入済みとは述べていない。 Since we launched ads just over eight months ago, over 100,000 advertisers have run campaigns on ChatGPT. The integration will pair OpenAI’s frontier models with Google Cloud’s built-in access controls, centralized data governance, and high-performance infrastructure to support demanding enterprise workloads.",
           "evidence_ids": [
-            "83f48d13eabc96b6ec87bd73",
-            "c4167c85cea3bef430de8092",
-            "20e8d5546476dcba6a4ff3d2"
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
+            "979cabf71f1d219bac8283a8"
           ],
           "article_ids": [
+            "ac0f84d166c31e3da691ad83",
+            "73af98d726c9b2a5b56cbc58",
             "83f48d13eabc96b6ec87bd73",
+            "979cabf71f1d219bac8283a8",
             "ec22a10c2291cdf2005c04f2",
             "9455bb539c514b62044f685c",
             "c4167c85cea3bef430de8092",
@@ -33589,6 +33868,7 @@
             "4ce0c8b1de9fcb1c32b08119",
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
+            "9eb1dfad604ec17e2a657ec5",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -33813,15 +34093,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 163,
-          "publisher_count": 78,
+          "count": 164,
+          "publisher_count": 79,
           "summary": "Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。 NVIDIA Cloud Partners across Europe, the Nordics, Africa, and Central Asia are expanding regional compute capacity for model training and inference, helping developers build agentic… ドイツ連邦政府とNVIDIAは、製造業などで使うフィジカルAIの先端モデル開発を進める共同構想に向け、意向宣言に署名した。政府は中小企業を含む産業界へのAI普及を目指す。NVIDIAはロボット、病院情報システム、動画向け音声生成、衛星開発を手掛けるドイツの4社への新規投資計画も発表。欧州全体で約100億ドルの支援方針の一部と位置付けている。",
           "evidence_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
-            "894bbb951bc4b02a59f70f3c",
-            "f19ce5776374d74c922cdb9f"
+            "894bbb951bc4b02a59f70f3c"
           ],
           "article_ids": [
+            "d81fe764c1f454db3814960c",
             "fe5342a508189fed776d530b",
             "487b68f673a74d2498f8b024",
             "894bbb951bc4b02a59f70f3c",
@@ -33994,16 +34275,18 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 142,
-          "publisher_count": 59,
+          "count": 144,
+          "publisher_count": 60,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
-            "c928c60336bf8bee65405d25",
-            "d5ebea1ab703b886a4f2da99"
+            "c670dcc9a440efab24d5a9f5"
           ],
           "article_ids": [
+            "a95de5ac8914a0690ffddb23",
             "dec05bfe2dc88d9fa5a3855c",
+            "c670dcc9a440efab24d5a9f5",
             "c928c60336bf8bee65405d25",
             "d5ebea1ab703b886a4f2da99",
             "9748e7f412297b71ce3f2f8f",
@@ -34162,8 +34445,8 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 39,
-          "publisher_count": 22,
+          "count": 40,
+          "publisher_count": 23,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "a34312112fdefc0e72a2ec8c",
@@ -34197,6 +34480,7 @@
             "70cd2e8911ffa61af7341c69",
             "4d59de9f965cb8e425f03d95",
             "307abb06b1e417d522dee3c1",
+            "7f6053c8b8d1a90090e54885",
             "4a204d7bd8653c170f26778b",
             "72a5bf3c3f7c188d57f69115",
             "bba44f898220fcf85c3c28c2",
@@ -34318,11 +34602,17 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ac0f84d166c31e3da691ad83",
+        "d81fe764c1f454db3814960c",
+        "a95de5ac8914a0690ffddb23",
+        "73af98d726c9b2a5b56cbc58",
         "fe5342a508189fed776d530b",
         "487b68f673a74d2498f8b024",
         "dec05bfe2dc88d9fa5a3855c",
+        "c670dcc9a440efab24d5a9f5",
         "c928c60336bf8bee65405d25",
         "83f48d13eabc96b6ec87bd73",
+        "979cabf71f1d219bac8283a8",
         "ec22a10c2291cdf2005c04f2",
         "894bbb951bc4b02a59f70f3c",
         "2774c191925069f0d20ece55",
@@ -34377,6 +34667,7 @@
         "60fc2829502fe5e65d9b348b",
         "d6e3fa5ae819ef3258cfd4d3",
         "31b15afbdfe56aad8ee8c736",
+        "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
@@ -34667,6 +34958,7 @@
         "5a3da8e329bd008cac218b4c",
         "3091b6464a24712f17bd36ed",
         "3ea1ea8ab462a2e8390933d8",
+        "7f6053c8b8d1a90090e54885",
         "f50bc24dce751fed56dd6193",
         "609a82e33be676cbd6d6bc88",
         "a88646d1e59b71971e50bf61",
@@ -34932,19 +35224,23 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-22T06:02:18.081071+09:00",
+  "report_updated_at": "2026-10-22T08:57:07.976834+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-21T21:02:17.700818+00:00",
+    "attempted_at": "2026-10-21T23:57:07.663314+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 1,
+    "new_reviews": 0,
     "updated_periods": [
       "overview",
       "weekly",
       "monthly"
     ],
     "errors": [
+      {
+        "article_id": "73af98d726c9b2a5b56cbc58",
+        "stage": "original_fetch"
+      },
       {
         "article_id": "a34312112fdefc0e72a2ec8c",
         "stage": "original_fetch"
@@ -34974,7 +35270,7 @@
       "errors": [],
       "last_success_at": "2026-10-21T21:00:44.171360+00:00"
     },
-    "last_success_at": "2026-10-21T21:02:17.700818+00:00"
+    "last_success_at": "2026-10-21T23:57:07.663314+00:00"
   },
   "topic_definitions": [
     {
@@ -35482,11 +35778,11 @@
     ]
   },
   "picks": [
+    "ac0f84d166c31e3da691ad83",
     "80f27b0d89828c681388e099",
-    "83f48d13eabc96b6ec87bd73",
+    "d81fe764c1f454db3814960c",
     "fe5342a508189fed776d530b",
-    "487b68f673a74d2498f8b024",
-    "dec05bfe2dc88d9fa5a3855c",
-    "c928c60336bf8bee65405d25"
+    "a95de5ac8914a0690ffddb23",
+    "dec05bfe2dc88d9fa5a3855c"
   ]
 }
