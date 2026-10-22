@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-22T21:01:20.137413Z",
-  "last_attempt_at": "2026-10-22T21:01:20.137413Z",
+  "updated_at": "2026-10-22T23:56:05.163600Z",
+  "last_attempt_at": "2026-10-22T23:56:05.163600Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-22T21:01:20.137413Z",
+      "checked_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-22T23:56:05.163600Z",
+      "new_count": 12,
+      "status": "ok"
+    },
     {
       "at": "2026-10-22T21:01:20.137413Z",
       "new_count": 2,
@@ -604,6 +609,24 @@
       "theme_ids": []
     },
     {
+      "id": "2027c38fe13373909801576b",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "パーソナルAIアシスタントClaude Duet - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYQmVZUUE4dXZpMG1mT091XzJGaHhxZ0xpVVlCbDlaSjJlU0FMVTNxbmVhT3pBYkU3emlMcEc5U1Y0TWtaNFY3WXQteXVzaVNuU3dlV3NpSQ?oc=5",
+      "publisher": "gihyo.jp",
+      "summary": "パーソナルAIアシスタントClaude Duet gihyo.jp",
+      "published_at": "2026-10-22T10:59:00Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "9b9c34e0abb6b8abcc7317de",
       "category": "tech",
       "source_id": "tech",
@@ -658,6 +681,24 @@
       ]
     },
     {
+      "id": "0acbbd78b35d65cb3977d50b",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AIがPHP「ウェブ史上最大級」の脆弱性を発見──GPT-5.6 SolとGemini 4 Argon - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RRDE2U09ReTZETEs4M0dvajhfVF90Rk1oMWVrZXM2VWh4dU5vaWZzWHVoQUNjSTZycjBLWVVGNWxZS1RkcDRtWWRUMkVlWWRZckd6VmhsZHJ4cW5aTGJGbi1Pa2dIT2oyQVBuaVNET1RCcVh3bEpXUlhwMm1zVkU?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AIがPHP「ウェブ史上最大級」の脆弱性を発見──GPT-5.6 SolとGemini 4 Argon Yahoo!ニュース",
+      "published_at": "2026-10-22T06:45:00Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "1698027c7b868827c8686668",
       "category": "tech",
       "source_id": "tech",
@@ -686,6 +727,22 @@
       "summary": "AIパートナー とは 体験談 北陸地方整備局",
       "published_at": "2026-10-22T06:11:29Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "88b83ac31db26a2388c28ce7",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI彼女 アプリ 違い ブログ - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOckFWTGxqel9YVmlRZ2ZqN0pYSXdidG9CUDROVUg5Q3d0eE1jRzdfMUFNcFhaUEZmeThDay1KbDBrcnJhaTdyLUxrNUw4a2xDdWE0c1lKam9PX0V4cnJ0XzBjWkJqQ2ZLNkVqWmVfLXdzQ1dVYlp1V0UwUkttbGYxX3dTYmJuY3ZCV1FxN0xBdUgxUmNmZUtLU0ptb1h5SXNqN0JtcUJtTVBJWjdYQjExdUdoSVJTN2tDeHgxTWhTb29GRHI5cHg5Nk5pSGZ5cG43?oc=5",
+      "publisher": "北陸地方整備局",
+      "summary": "AI彼女 アプリ 違い ブログ 北陸地方整備局",
+      "published_at": "2026-10-22T06:07:43Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": null,
@@ -782,6 +839,22 @@
       "summary": "AI彼女 アプリ 始め方 比較 北陸地方整備局",
       "published_at": "2026-10-22T05:59:54Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "ab1667b2ab03dc9614070ec1",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI彼女 始め方 まとめ - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVDh1R0lDRVFxTDdLcWJxbGNGRDBtTmdPb2pmQ0drZEhBdU1OTExwN1pRYUZJWWlkQ1ZXQ21xZGFQMUh3ZjU0RHZiYThUV1VTMTl0WXF2RGY5ZjZGMTVlZ19rcG1KclZVdjNZeXA0bmpBZUZxTWFlTDFXOUVXbExlcTdNdXAtam5lM2NEd3JJTzFpTDZnY2lmX0RlMEtsWVEyZWU0TDR2Q1Q1ZWE0cmE5enlrWjAwdi1xWVdaZVhieHg3X3VtQ2lUZWg5OEhHYjNR?oc=5",
+      "publisher": "北陸地方整備局",
+      "summary": "AI彼女 始め方 まとめ 北陸地方整備局",
+      "published_at": "2026-10-22T05:58:51Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": null,
@@ -887,6 +960,22 @@
       "theme_ids": []
     },
     {
+      "id": "cf239dc7ded97bf785bd111f",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AIコンパニオン 日本語 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYUJsS3E0MF9hYzdiWGQyRmhLMy1RdHIyNVVCdk9XRDFIVjR5TnhIemJuQjI1MjRadXFOelpVLXFPLUxjdXpPdnhzTDdXWFdoeGhIRnljaHRqZnNEWFBXV3lDZ3hSUDhtbkljeEtVWEMwTnBTRExQTkNSVThZbHdlVnRFSF9lSmdyam9HRXBsRVZtUjlCWFVZQno5ZzNzWUUxemVkbHhQUE52UFNJXzJHOUlZS3ZTWUNYMEZXUFNXV0xaNUpSeWJJS1hXSE1EcnlI?oc=5",
+      "publisher": "北陸地方整備局",
+      "summary": "AIコンパニオン 日本語 北陸地方整備局",
+      "published_at": "2026-10-22T05:50:27Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
       "id": "ec1b8d3e80897c5e633a1ba4",
       "category": "parenting",
       "source_id": "parenting",
@@ -903,6 +992,22 @@
       "theme_ids": []
     },
     {
+      "id": "6a0510d15ae52128a6b7f0fe",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI彼女 アプリ 乗り換え - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2tXMm1jR0thSFZock84dGprSmloTnQ5dk41T2NtTEJ5aV85eGh4SHhQNGw3TktxQkVBb1NkeUtNbGxCUFFjMEctdm5PZHhoTlRZaXUzWUl3U1oyRC0zQUNYRUtMNE0wdU9ITFgwdzlKZUFVY1h4bExfT293UUtrRVJmTzhrSzFJcS15T1JtUVp4T1pqYm9Pa2VKNUdQZTl3SDFQU2Y4YXFyNEdoZmJFMEVaalZ5X1hoczVLdmpVOE9odmNCZHN2X2J3bWdNVVZK?oc=5",
+      "publisher": "北陸地方整備局",
+      "summary": "AI彼女 アプリ 乗り換え 北陸地方整備局",
+      "published_at": "2026-10-22T05:50:05Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
       "id": "5dd7cc03503dc9b72ed8b2a5",
       "category": "parenting",
       "source_id": "parenting",
@@ -912,6 +1017,22 @@
       "summary": "AI彼女 アプリ ダウンロード 安全 北陸地方整備局",
       "published_at": "2026-10-22T05:38:32Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "42b77ec1d5ed4c240a59d0be",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI彼女 作る アプリ 初心者 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcV9oTUV3R0VBQzM0dVpUZEladzIzY0RoMDRzdkwtdGVGQ2Rra25sdTZuWFRpRkVYdGQteTJlRzFTWlZUbTVIXzZlc2I0UWxiNFhWZy1jRElBWG5WbUE3RWhvUmtycEtjeTUyMlZGeVFtdlJCWFA0SnZvbXRCVWJLYWkyVnhBcHdnMjE5RG44djUzcXl1b2JzTEltYlVxUE1OVUhxVjZ0U2VyQW1HLWV1enIybGIxVVRYQ0lwWFl1clk1Qm5TUElfaXVPMWZKUVBY?oc=5",
+      "publisher": "北陸地方整備局",
+      "summary": "AI彼女 作る アプリ 初心者 北陸地方整備局",
+      "published_at": "2026-10-22T05:38:29Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": null,
@@ -992,6 +1113,22 @@
       "summary": "AI彼女 アプリ 人気ランキング 安全 北陸地方整備局",
       "published_at": "2026-10-22T05:36:34Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "04a7dc5f1860686a553d2c2f",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI彼女 記憶 覚えてくれる 無料 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVWhsY2YwSEhqMzdLUU9iNXNLRnNrY3BjajcyRDEya1ZWSnVlank2WTNQSHhORU5MOUU0V1ZnN3c1RmxnWkJxU3N3c21ZRHFRcDZCY0hiTlFkSFNpN3Q1ME91V1hzNXJRY3FCNV81VHVsbjVMa28yMEJaM2RlOFl3TjQ2alRGcE81bXp4LU9VU18tU1dhcDVDTmFvcEh3bkhMV2hORDdaYkJlYmc5RFJkVWd4YjdNbHJxeG9SZUMtNlhQRDlNOUo1X3RhanN6YURN?oc=5",
+      "publisher": "北陸地方整備局",
+      "summary": "AI彼女 記憶 覚えてくれる 無料 北陸地方整備局",
+      "published_at": "2026-10-22T05:22:50Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": null,
@@ -1104,6 +1241,22 @@
       "summary": "AIパートナー とは 北陸地方整備局",
       "published_at": "2026-10-22T05:18:50Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "86fe50bdefc3ae654a719487",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI彼女 アプリ 最強 - 北陸地方整備局",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdGhoYUZyRkFndmN3NFFGTS1Nd2dpREZneE9ucERteWtXaXRFV2luY3NWWnB1SHdTWExWcVpDRF9FZzQweTBOUGpaSmRZa2ZNc1hJOXR0cGQyX25EWk5hWk4xbThzLWxILXAxSzNCdEJDa3I1UEJ5LVpOeUtZbUtKMU1hMHZPNHUwSnZaTWtCcWZ0X3RWTWNCVGFpV1VRSVNIcVhpWlVnWkRRd1pEX2MyZ3RtOFVxaUYwMlJqUDRxdElUZGI5aFBNLXBTQjNJSG9B?oc=5",
+      "publisher": "北陸地方整備局",
+      "summary": "AI彼女 アプリ 最強 北陸地方整備局",
+      "published_at": "2026-10-22T05:18:34Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": null,
@@ -1505,6 +1658,22 @@
       ]
     },
     {
+      "id": "c9f14c5ec14ae9d7f0275d8b",
+      "category": "ai",
+      "source_id": "anthropic",
+      "title": "Open call for guest investigators in the life sciences",
+      "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+      "publisher": "Anthropic 公式",
+      "summary": "Today, we’re inviting members of the life sciences community to apply to work with us on special projects.",
+      "published_at": "2026-10-22T00:00:00Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
+      "provider": "Anthropic",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "a58f5c997917ce451d67ed4b",
       "category": "ai",
       "source_id": "ai",
@@ -1769,6 +1938,25 @@
       "summary": "AIカメラでクマ検知 金沢市で開発会社が実演、通知・記録・地図表示などを自動化 中日新聞Web",
       "published_at": "2026-10-21T20:05:00Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera",
+        "development"
+      ]
+    },
+    {
+      "id": "9d9f502decd7a897e0eb3deb",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIカメラでクマ検知 金沢市で開発会社が実演、通知・記録・地図表示などを自動化 - 中日新聞Web",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE11WG9rZHdGdzVDbDBmLWxucUFvNEZfZ0lEdWlKTXhGZHZWemoyZ0V0czJHMFlWR0V0YW9iWnF2enVyWEM2dVduSmFHcmx0UExqV3piYQ?oc=5",
+      "publisher": "中日新聞Web",
+      "summary": "AIカメラでクマ検知 金沢市で開発会社が実演、通知・記録・地図表示などを自動化 中日新聞Web",
+      "published_at": "2026-10-21T20:05:00Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -2357,6 +2545,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "365dcbfbef3900eaea8ec10d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "富山市のAIカメラ活用を行政視察｜人流分析を練馬区の商店街支援とイベント改善に生かすには - 岩瀬たけしウェブサイト",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVOXVMMEtfOFR5QUM4aU9kQXpnWFBsSV93eGVZLWtLSHQ1dVhkSkxYZnVIYWZGd2dKcmtqS2NCQjlaeEprMGUydUwyNmtjckk3Tk12RTIxZGxIaWVIY1lFREJsUmJGc1h4ckdmUlprWnFQLU5NLURF?oc=5",
+      "publisher": "岩瀬たけしウェブサイト",
+      "summary": "富山市のAIカメラ活用を行政視察｜人流分析を練馬区の商店街支援とイベント改善に生かすには 岩瀬たけしウェブサイト",
+      "published_at": "2026-10-21T07:00:00Z",
+      "collected_at": "2026-10-22T23:56:05.163600Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "9748e7f412297b71ce3f2f8f",
@@ -6511,6 +6717,24 @@
       ]
     },
     {
+      "id": "0a1926dd51ae0e4f8749e433",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIコーディング、スコア低下の理由をベンチマークは答えない――Google推奨、エージェントの「行動評価」とは - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xd2x3dmVhbXhPWTdaZU5HWVN2cERvYUczMWRrTUNNVTJoYkMzdlNPR0RGNS1TaVJpai01Ym1vOUwyV1lpVGM1TmhTUDg2QzIwem8tOG9jeHloelJHZVFfSENNX2EzWXVrVXlkSmY2WXh2Zw?oc=5",
+      "publisher": "ITmedia",
+      "summary": "AIコーディング、スコア低下の理由をベンチマークは答えない――Google推奨、エージェントの「行動評価」とは ITmedia",
+      "published_at": "2026-10-14T07:00:00Z",
+      "collected_at": "2026-10-14T23:48:50.388523Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
       "id": "686ab869d8420ea5eaada665",
       "category": "parenting",
       "source_id": "parenting",
@@ -7051,24 +7275,6 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
-    },
-    {
-      "id": "0a1926dd51ae0e4f8749e433",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "AIコーディング、スコア低下の理由をベンチマークは答えない――Google推奨、エージェントの「行動評価」とは - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Xd2x3dmVhbXhPWTdaZU5HWVN2cERvYUczMWRrTUNNVTJoYkMzdlNPR0RGNS1TaVJpai01Ym1vOUwyV1lpVGM1TmhTUDg2QzIwem8tOG9jeHloelJHZVFfSENNX2EzWXVrVXlkSmY2WXh2Zw?oc=5",
-      "publisher": "ITmedia",
-      "summary": "AIコーディング、スコア低下の理由をベンチマークは答えない――Google推奨、エージェントの「行動評価」とは ITmedia",
-      "published_at": "2026-10-13T23:00:00Z",
-      "collected_at": "2026-10-14T23:48:50.388523Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "development"
-      ]
     },
     {
       "id": "591f885a90ea1ad85bafd3c7",
@@ -26941,12 +27147,12 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-23T06:01:27.235668+09:00",
+      "generated_at": "2026-10-23T08:56:12.138473+09:00",
       "is_complete": false,
-      "article_count": 145,
+      "article_count": 149,
       "category_counts": {
-        "ai": 69,
-        "tech": 44,
+        "ai": 72,
+        "tech": 45,
         "parenting": 32
       },
       "overview": "OpenAIは、入力から確率や評価スコアを返す低遅延APIを一般提供した。また、Uberは外部業務ツールとの連携や研修を含めて従業員向けエージェントの全社展開を始め、OpenAIのFDEチームは顧客現場での導入支援事例を紹介した。 Google Cloudは、強化学習やエージェント推論向けのGPU基盤を来月提供する計画を発表した。一方、ソニーは医療用シングルユース内視鏡向けに、5メートル伝送に対応する約1ミリ角のイメージセンサーを商品化すると発表した。",
@@ -26954,10 +27160,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+        "attempted_at": "2026-10-22T23:56:11.789272+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -26974,6 +27180,10 @@
           },
           {
             "article_id": "5b885f35391a359095515059",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "82359d43e630a10aaf231d64",
             "stage": "original_fetch"
           }
         ],
@@ -26994,7 +27204,7 @@
           ],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+        "last_success_at": "2026-10-22T23:56:11.789272+00:00"
       },
       "genre_briefs": [
         {
@@ -27125,17 +27335,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 57,
+          "count": 60,
           "publisher_count": 24,
           "summary": "OpenAIは、GPT‑6 Lunaを使い、テキスト・画像・構造化入力から確率、選択肢、評価スコアを返すDecisions APIを一般提供した。Responses API経由のGPT‑6 Lunaより最大10倍高速と説明し、GPT‑Live連携、入力のプロンプトキャッシュ、米国・EUでの推論処理、1リクエスト最大400問に対応。入力料金は100万トークン当たり0.10ドル。 OpenAIのForward Deployed Engineering（FDE）責任者は、顧客の現場に入り、AIを実運用できる仕組みにするチームの方針と事例を紹介した。半導体企業では15人ほどが10件超の用途に取り組み、3〜6か月で本番導入と初期利用に到達したとする。Codexを軸に共通基盤へ移した事例では、個別コードを約90％削減し、別チームへの展開を初回の2か月から1日に短縮したという。 UberはChatGPT Enterprise内のエージェント「ChatGPT Work」を全社展開し、世界の従業員3万人超に提供を開始した。先行試験の対象は1,000人で、Google Drive、Gmail、Google Calendar、Slackと連携し、調査、会議資料作成、プレゼン作成、データ分析などを支援する。社内AIスキル集、承認済み連携機能、従業員研修も展開を支え、開発部門ではCodexの利用を継続する。",
           "evidence_ids": [
             "4a3551243325ffc3049c7c3f",
-            "83b5fcaff3dc50817c4883fc",
-            "5a93a9a9c2316211655820ac"
+            "2027c38fe13373909801576b",
+            "83b5fcaff3dc50817c4883fc"
           ],
           "article_ids": [
             "4a3551243325ffc3049c7c3f",
+            "2027c38fe13373909801576b",
             "83b5fcaff3dc50817c4883fc",
+            "0acbbd78b35d65cb3977d50b",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
             "5a93a9a9c2316211655820ac",
@@ -27145,6 +27357,7 @@
             "47873521b9c45ec6fb3739d2",
             "5bf615e780f4095e150ccd58",
             "b5c5ae030439f726607728ee",
+            "c9f14c5ec14ae9d7f0275d8b",
             "ac0f84d166c31e3da691ad83",
             "73af98d726c9b2a5b56cbc58",
             "7ffbabecca7383bab0dc606b",
@@ -27200,8 +27413,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 42,
-          "publisher_count": 27,
+          "count": 43,
+          "publisher_count": 28,
           "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. ソニーセミコンダクタソリューションズ株式会社（以下、ソニー）は、業界で初めて ※1 デジタル出力と 5m ※ 2 ケーブルでのデータ伝送に対応する、有効約 51 万画素 ※3 の CMOS イメージセンサー『 IMX742 』を、医療用シングルユース内視鏡向けに商品化します。 Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。",
           "evidence_ids": [
             "b9a3f69b7e7467511106caee",
@@ -27234,6 +27447,7 @@
             "0fccbc57228beacd4c87e786",
             "615cb2bf9e936fa0ad013a23",
             "aa1113d46bebf872d786b102",
+            "365dcbfbef3900eaea8ec10d",
             "85f1a3b75bb4f57f0e0c5a56",
             "681087dd5e8f980053f43ef7",
             "e8f3b5b8fb9767faf10c34aa",
@@ -27408,9 +27622,11 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "2027c38fe13373909801576b",
         "9b9c34e0abb6b8abcc7317de",
         "83b5fcaff3dc50817c4883fc",
         "322a62b4ac50b4386901f23e",
+        "0acbbd78b35d65cb3977d50b",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "99ee717dc1172a3fa6bf326f",
@@ -27429,6 +27645,7 @@
         "0fd34e81809941ad6e4304cb",
         "b5c5ae030439f726607728ee",
         "5f1de979c28e02b6124a649d",
+        "c9f14c5ec14ae9d7f0275d8b",
         "a58f5c997917ce451d67ed4b",
         "1750d8e7aa970046a44e69bf",
         "ac0f84d166c31e3da691ad83",
@@ -27466,6 +27683,7 @@
         "aa1113d46bebf872d786b102",
         "a34312112fdefc0e72a2ec8c",
         "5b885f35391a359095515059",
+        "365dcbfbef3900eaea8ec10d",
         "9748e7f412297b71ce3f2f8f",
         "82359d43e630a10aaf231d64",
         "85f1a3b75bb4f57f0e0c5a56",
@@ -27557,7 +27775,7 @@
       "kind": "weekly",
       "period_start": "2026-10-12",
       "period_end": "2026-10-18",
-      "generated_at": "2026-10-23T06:01:27.235668+09:00",
+      "generated_at": "2026-10-23T08:56:12.138473+09:00",
       "is_complete": true,
       "article_count": 203,
       "category_counts": {
@@ -27570,10 +27788,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+        "attempted_at": "2026-10-22T23:56:11.789272+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -27590,6 +27808,10 @@
           },
           {
             "article_id": "5b885f35391a359095515059",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "82359d43e630a10aaf231d64",
             "stage": "original_fetch"
           }
         ],
@@ -27610,7 +27832,7 @@
           ],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+        "last_success_at": "2026-10-22T23:56:11.789272+00:00"
       },
       "genre_briefs": [
         {
@@ -27873,6 +28095,7 @@
             "cd48202b8d2b8734c2a2d12e",
             "d68c02c7957015e33da57acd",
             "be7d0cf44456133e8ef79928",
+            "0a1926dd51ae0e4f8749e433",
             "7fa48dbc870c0ecc5b781069",
             "56af7f4467c7c334a5bde1d4",
             "6566e58e0ac86d6feaa9349c",
@@ -27880,7 +28103,6 @@
             "33d3cd84920b7a15febf3338",
             "6083689cefdd6f5d32d2e3e9",
             "bafdb09c80dc83da1359a6a2",
-            "0a1926dd51ae0e4f8749e433",
             "6d7a612a9dcd85fdfd3bbaaf",
             "bac01a4f68181f569247665e",
             "6f4c63a3840a4d64ad222707",
@@ -28189,6 +28411,7 @@
         "660b787c5271e23f3bcea19b",
         "e4db0942f5c35f1134c34810",
         "b993a6badffba2ce6cbc2431",
+        "0a1926dd51ae0e4f8749e433",
         "686ab869d8420ea5eaada665",
         "7fa48dbc870c0ecc5b781069",
         "56af7f4467c7c334a5bde1d4",
@@ -28218,7 +28441,6 @@
         "4098e2a75eef438cb000f491",
         "f94d31ca3e38375de9bf44c3",
         "1148477aa54cf351401d77db",
-        "0a1926dd51ae0e4f8749e433",
         "591f885a90ea1ad85bafd3c7",
         "6d7a612a9dcd85fdfd3bbaaf",
         "7ca450796287930aad944d50",
@@ -29138,12 +29360,12 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-23T06:01:27.235668+09:00",
+      "generated_at": "2026-10-23T08:56:12.138473+09:00",
       "is_complete": false,
-      "article_count": 658,
+      "article_count": 662,
       "category_counts": {
-        "ai": 306,
-        "tech": 185,
+        "ai": 309,
+        "tech": 186,
         "parenting": 167
       },
       "overview": "OpenAIは確率や評価スコアを返す低遅延APIを一般提供し、顧客現場でAIを本番運用につなぐFDEの事例も紹介した。Uberは連携機能や研修を伴わせて、業務エージェントを全従業員向けに展開し始めた。 Google Cloudは強化学習やエージェント推論向けの統合GPUインスタンスを来月提供する計画を示した。一方、ソニーは医療用シングルユース内視鏡向けに、1mm角で5mのデジタル伝送に対応するイメージセンサーを商品化すると発表した。NVIDIAはAI基盤の稼働状況を観測するMinervaを発表したが、提示された資料は短い抜粋にとどまる。 Khan Academyは、次の課題の提示、技能の進歩の可視化、提出前のヒント、誤答後の説明と練習を含む設計を紹介した。提携学区向けには指定技能の習熟を競うライブ授業ゲームもある。別の実践例では、スウェーデンのYear 7〜9（中等教育段階）の生徒がSitesで学習内容を共有し、動画を制作して発表している。Khan Academyの機能は対象学年が資料に明記されていない。",
@@ -29151,10 +29373,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+        "attempted_at": "2026-10-22T23:56:11.789272+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -29171,6 +29393,10 @@
           },
           {
             "article_id": "5b885f35391a359095515059",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "82359d43e630a10aaf231d64",
             "stage": "original_fetch"
           }
         ],
@@ -29191,7 +29417,7 @@
           ],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+        "last_success_at": "2026-10-22T23:56:11.789272+00:00"
       },
       "genre_briefs": [
         {
@@ -29388,17 +29614,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 253,
+          "count": 256,
           "publisher_count": 46,
           "summary": "OpenAIは、GPT‑6 Lunaを使い、テキスト・画像・構造化入力から確率、選択肢、評価スコアを返すDecisions APIを一般提供した。Responses API経由のGPT‑6 Lunaより最大10倍高速と説明し、GPT‑Live連携、入力のプロンプトキャッシュ、米国・EUでの推論処理、1リクエスト最大400問に対応。入力料金は100万トークン当たり0.10ドル。 OpenAIのForward Deployed Engineering（FDE）責任者は、顧客の現場に入り、AIを実運用できる仕組みにするチームの方針と事例を紹介した。半導体企業では15人ほどが10件超の用途に取り組み、3〜6か月で本番導入と初期利用に到達したとする。Codexを軸に共通基盤へ移した事例では、個別コードを約90％削減し、別チームへの展開を初回の2か月から1日に短縮したという。 UberはChatGPT Enterprise内のエージェント「ChatGPT Work」を全社展開し、世界の従業員3万人超に提供を開始した。先行試験の対象は1,000人で、Google Drive、Gmail、Google Calendar、Slackと連携し、調査、会議資料作成、プレゼン作成、データ分析などを支援する。社内AIスキル集、承認済み連携機能、従業員研修も展開を支え、開発部門ではCodexの利用を継続する。",
           "evidence_ids": [
             "4a3551243325ffc3049c7c3f",
-            "83b5fcaff3dc50817c4883fc",
-            "5a93a9a9c2316211655820ac"
+            "2027c38fe13373909801576b",
+            "83b5fcaff3dc50817c4883fc"
           ],
           "article_ids": [
             "4a3551243325ffc3049c7c3f",
+            "2027c38fe13373909801576b",
             "83b5fcaff3dc50817c4883fc",
+            "0acbbd78b35d65cb3977d50b",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
             "5a93a9a9c2316211655820ac",
@@ -29408,6 +29636,7 @@
             "47873521b9c45ec6fb3739d2",
             "5bf615e780f4095e150ccd58",
             "b5c5ae030439f726607728ee",
+            "c9f14c5ec14ae9d7f0275d8b",
             "ac0f84d166c31e3da691ad83",
             "73af98d726c9b2a5b56cbc58",
             "7ffbabecca7383bab0dc606b",
@@ -29659,8 +29888,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 179,
-          "publisher_count": 85,
+          "count": 180,
+          "publisher_count": 86,
           "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. ソニーセミコンダクタソリューションズ株式会社（以下、ソニー）は、業界で初めて ※1 デジタル出力と 5m ※ 2 ケーブルでのデータ伝送に対応する、有効約 51 万画素 ※3 の CMOS イメージセンサー『 IMX742 』を、医療用シングルユース内視鏡向けに商品化します。 Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。",
           "evidence_ids": [
             "b9a3f69b7e7467511106caee",
@@ -29693,6 +29922,7 @@
             "0fccbc57228beacd4c87e786",
             "615cb2bf9e936fa0ad013a23",
             "aa1113d46bebf872d786b102",
+            "365dcbfbef3900eaea8ec10d",
             "85f1a3b75bb4f57f0e0c5a56",
             "681087dd5e8f980053f43ef7",
             "e8f3b5b8fb9767faf10c34aa",
@@ -29738,6 +29968,7 @@
             "cd48202b8d2b8734c2a2d12e",
             "d68c02c7957015e33da57acd",
             "be7d0cf44456133e8ef79928",
+            "0a1926dd51ae0e4f8749e433",
             "7fa48dbc870c0ecc5b781069",
             "56af7f4467c7c334a5bde1d4",
             "6566e58e0ac86d6feaa9349c",
@@ -29745,7 +29976,6 @@
             "33d3cd84920b7a15febf3338",
             "6083689cefdd6f5d32d2e3e9",
             "bafdb09c80dc83da1359a6a2",
-            "0a1926dd51ae0e4f8749e433",
             "6d7a612a9dcd85fdfd3bbaaf",
             "bac01a4f68181f569247665e",
             "6f4c63a3840a4d64ad222707",
@@ -30192,9 +30422,11 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "2027c38fe13373909801576b",
         "9b9c34e0abb6b8abcc7317de",
         "83b5fcaff3dc50817c4883fc",
         "322a62b4ac50b4386901f23e",
+        "0acbbd78b35d65cb3977d50b",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "99ee717dc1172a3fa6bf326f",
@@ -30213,6 +30445,7 @@
         "0fd34e81809941ad6e4304cb",
         "b5c5ae030439f726607728ee",
         "5f1de979c28e02b6124a649d",
+        "c9f14c5ec14ae9d7f0275d8b",
         "a58f5c997917ce451d67ed4b",
         "1750d8e7aa970046a44e69bf",
         "ac0f84d166c31e3da691ad83",
@@ -30250,6 +30483,7 @@
         "aa1113d46bebf872d786b102",
         "a34312112fdefc0e72a2ec8c",
         "5b885f35391a359095515059",
+        "365dcbfbef3900eaea8ec10d",
         "9748e7f412297b71ce3f2f8f",
         "82359d43e630a10aaf231d64",
         "85f1a3b75bb4f57f0e0c5a56",
@@ -30450,6 +30684,7 @@
         "660b787c5271e23f3bcea19b",
         "e4db0942f5c35f1134c34810",
         "b993a6badffba2ce6cbc2431",
+        "0a1926dd51ae0e4f8749e433",
         "686ab869d8420ea5eaada665",
         "7fa48dbc870c0ecc5b781069",
         "56af7f4467c7c334a5bde1d4",
@@ -30479,7 +30714,6 @@
         "4098e2a75eef438cb000f491",
         "f94d31ca3e38375de9bf44c3",
         "1148477aa54cf351401d77db",
-        "0a1926dd51ae0e4f8749e433",
         "591f885a90ea1ad85bafd3c7",
         "6d7a612a9dcd85fdfd3bbaaf",
         "7ca450796287930aad944d50",
@@ -32413,7 +32647,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-23T06:01:27.235668+09:00",
+      "generated_at": "2026-10-23T08:56:12.138473+09:00",
       "is_complete": true,
       "article_count": 520,
       "category_counts": {
@@ -32426,10 +32660,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+        "attempted_at": "2026-10-22T23:56:11.789272+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -32446,6 +32680,10 @@
           },
           {
             "article_id": "5b885f35391a359095515059",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "82359d43e630a10aaf231d64",
             "stage": "original_fetch"
           }
         ],
@@ -32466,7 +32704,7 @@
           ],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+        "last_success_at": "2026-10-22T23:56:11.789272+00:00"
       },
       "genre_briefs": [
         {
@@ -33819,12 +34057,12 @@
       "kind": "overview",
       "period_start": "2026-10-17",
       "period_end": "2026-10-23",
-      "generated_at": "2026-10-23T06:01:27.235668+09:00",
+      "generated_at": "2026-10-23T08:56:12.138473+09:00",
       "is_complete": false,
-      "article_count": 158,
+      "article_count": 162,
       "category_counts": {
-        "ai": 77,
-        "tech": 48,
+        "ai": 80,
+        "tech": 49,
         "parenting": 33
       },
       "overview": "OpenAIは、構造化入力などから回答を返す低遅延のDecisions APIを一般提供し、顧客現場で導入を支援するFDEの事例も紹介した。Uberは、社内ツールとの連携や研修を伴わせてChatGPT Workを全従業員向けに展開し始めた。 Google Cloudは、強化学習やエージェント推論向けのVera Rubin基盤を統合したA5Xインスタンスを来月一般提供する予定と発表した。一方、ソニーは医療用シングルユース内視鏡向けに、約51万画素で5mのデジタル伝送に対応する1mm角イメージセンサーを商品化するとした。",
@@ -33832,10 +34070,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+        "attempted_at": "2026-10-22T23:56:11.789272+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -33852,6 +34090,10 @@
           },
           {
             "article_id": "5b885f35391a359095515059",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "82359d43e630a10aaf231d64",
             "stage": "original_fetch"
           }
         ],
@@ -33872,7 +34114,7 @@
           ],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+        "last_success_at": "2026-10-22T23:56:11.789272+00:00"
       },
       "genre_briefs": [
         {
@@ -34003,17 +34245,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 64,
+          "count": 67,
           "publisher_count": 25,
           "summary": "OpenAIは、GPT‑6 Lunaを使い、テキスト・画像・構造化入力から確率、選択肢、評価スコアを返すDecisions APIを一般提供した。Responses API経由のGPT‑6 Lunaより最大10倍高速と説明し、GPT‑Live連携、入力のプロンプトキャッシュ、米国・EUでの推論処理、1リクエスト最大400問に対応。入力料金は100万トークン当たり0.10ドル。 OpenAIのForward Deployed Engineering（FDE）責任者は、顧客の現場に入り、AIを実運用できる仕組みにするチームの方針と事例を紹介した。半導体企業では15人ほどが10件超の用途に取り組み、3〜6か月で本番導入と初期利用に到達したとする。Codexを軸に共通基盤へ移した事例では、個別コードを約90％削減し、別チームへの展開を初回の2か月から1日に短縮したという。 UberはChatGPT Enterprise内のエージェント「ChatGPT Work」を全社展開し、世界の従業員3万人超に提供を開始した。先行試験の対象は1,000人で、Google Drive、Gmail、Google Calendar、Slackと連携し、調査、会議資料作成、プレゼン作成、データ分析などを支援する。社内AIスキル集、承認済み連携機能、従業員研修も展開を支え、開発部門ではCodexの利用を継続する。",
           "evidence_ids": [
             "4a3551243325ffc3049c7c3f",
-            "83b5fcaff3dc50817c4883fc",
-            "5a93a9a9c2316211655820ac"
+            "2027c38fe13373909801576b",
+            "83b5fcaff3dc50817c4883fc"
           ],
           "article_ids": [
             "4a3551243325ffc3049c7c3f",
+            "2027c38fe13373909801576b",
             "83b5fcaff3dc50817c4883fc",
+            "0acbbd78b35d65cb3977d50b",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
             "5a93a9a9c2316211655820ac",
@@ -34023,6 +34267,7 @@
             "47873521b9c45ec6fb3739d2",
             "5bf615e780f4095e150ccd58",
             "b5c5ae030439f726607728ee",
+            "c9f14c5ec14ae9d7f0275d8b",
             "ac0f84d166c31e3da691ad83",
             "73af98d726c9b2a5b56cbc58",
             "7ffbabecca7383bab0dc606b",
@@ -34085,8 +34330,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 45,
-          "publisher_count": 28,
+          "count": 46,
+          "publisher_count": 29,
           "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. ソニーセミコンダクタソリューションズ株式会社（以下、ソニー）は、業界で初めて ※1 デジタル出力と 5m ※ 2 ケーブルでのデータ伝送に対応する、有効約 51 万画素 ※3 の CMOS イメージセンサー『 IMX742 』を、医療用シングルユース内視鏡向けに商品化します。 Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。",
           "evidence_ids": [
             "b9a3f69b7e7467511106caee",
@@ -34119,6 +34364,7 @@
             "0fccbc57228beacd4c87e786",
             "615cb2bf9e936fa0ad013a23",
             "aa1113d46bebf872d786b102",
+            "365dcbfbef3900eaea8ec10d",
             "85f1a3b75bb4f57f0e0c5a56",
             "681087dd5e8f980053f43ef7",
             "e8f3b5b8fb9767faf10c34aa",
@@ -34298,9 +34544,11 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "2027c38fe13373909801576b",
         "9b9c34e0abb6b8abcc7317de",
         "83b5fcaff3dc50817c4883fc",
         "322a62b4ac50b4386901f23e",
+        "0acbbd78b35d65cb3977d50b",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "99ee717dc1172a3fa6bf326f",
@@ -34319,6 +34567,7 @@
         "0fd34e81809941ad6e4304cb",
         "b5c5ae030439f726607728ee",
         "5f1de979c28e02b6124a649d",
+        "c9f14c5ec14ae9d7f0275d8b",
         "a58f5c997917ce451d67ed4b",
         "1750d8e7aa970046a44e69bf",
         "ac0f84d166c31e3da691ad83",
@@ -34356,6 +34605,7 @@
         "aa1113d46bebf872d786b102",
         "a34312112fdefc0e72a2ec8c",
         "5b885f35391a359095515059",
+        "365dcbfbef3900eaea8ec10d",
         "9748e7f412297b71ce3f2f8f",
         "82359d43e630a10aaf231d64",
         "85f1a3b75bb4f57f0e0c5a56",
@@ -34460,12 +34710,12 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-23T06:01:27.235668+09:00",
+      "generated_at": "2026-10-23T08:56:12.138473+09:00",
       "is_complete": false,
-      "article_count": 145,
+      "article_count": 149,
       "category_counts": {
-        "ai": 69,
-        "tech": 44,
+        "ai": 72,
+        "tech": 45,
         "parenting": 32
       },
       "overview": "OpenAIは、入力から確率や評価スコアを返す低遅延APIを一般提供した。また、Uberは外部業務ツールとの連携や研修を含めて従業員向けエージェントの全社展開を始め、OpenAIのFDEチームは顧客現場での導入支援事例を紹介した。 Google Cloudは、強化学習やエージェント推論向けのGPU基盤を来月提供する計画を発表した。一方、ソニーは医療用シングルユース内視鏡向けに、5メートル伝送に対応する約1ミリ角のイメージセンサーを商品化すると発表した。",
@@ -34473,10 +34723,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+        "attempted_at": "2026-10-22T23:56:11.789272+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -34493,6 +34743,10 @@
           },
           {
             "article_id": "5b885f35391a359095515059",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "82359d43e630a10aaf231d64",
             "stage": "original_fetch"
           }
         ],
@@ -34513,7 +34767,7 @@
           ],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+        "last_success_at": "2026-10-22T23:56:11.789272+00:00"
       },
       "genre_briefs": [
         {
@@ -34644,17 +34898,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 57,
+          "count": 60,
           "publisher_count": 24,
           "summary": "OpenAIは、GPT‑6 Lunaを使い、テキスト・画像・構造化入力から確率、選択肢、評価スコアを返すDecisions APIを一般提供した。Responses API経由のGPT‑6 Lunaより最大10倍高速と説明し、GPT‑Live連携、入力のプロンプトキャッシュ、米国・EUでの推論処理、1リクエスト最大400問に対応。入力料金は100万トークン当たり0.10ドル。 OpenAIのForward Deployed Engineering（FDE）責任者は、顧客の現場に入り、AIを実運用できる仕組みにするチームの方針と事例を紹介した。半導体企業では15人ほどが10件超の用途に取り組み、3〜6か月で本番導入と初期利用に到達したとする。Codexを軸に共通基盤へ移した事例では、個別コードを約90％削減し、別チームへの展開を初回の2か月から1日に短縮したという。 UberはChatGPT Enterprise内のエージェント「ChatGPT Work」を全社展開し、世界の従業員3万人超に提供を開始した。先行試験の対象は1,000人で、Google Drive、Gmail、Google Calendar、Slackと連携し、調査、会議資料作成、プレゼン作成、データ分析などを支援する。社内AIスキル集、承認済み連携機能、従業員研修も展開を支え、開発部門ではCodexの利用を継続する。",
           "evidence_ids": [
             "4a3551243325ffc3049c7c3f",
-            "83b5fcaff3dc50817c4883fc",
-            "5a93a9a9c2316211655820ac"
+            "2027c38fe13373909801576b",
+            "83b5fcaff3dc50817c4883fc"
           ],
           "article_ids": [
             "4a3551243325ffc3049c7c3f",
+            "2027c38fe13373909801576b",
             "83b5fcaff3dc50817c4883fc",
+            "0acbbd78b35d65cb3977d50b",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
             "5a93a9a9c2316211655820ac",
@@ -34664,6 +34920,7 @@
             "47873521b9c45ec6fb3739d2",
             "5bf615e780f4095e150ccd58",
             "b5c5ae030439f726607728ee",
+            "c9f14c5ec14ae9d7f0275d8b",
             "ac0f84d166c31e3da691ad83",
             "73af98d726c9b2a5b56cbc58",
             "7ffbabecca7383bab0dc606b",
@@ -34719,8 +34976,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 42,
-          "publisher_count": 27,
+          "count": 43,
+          "publisher_count": 28,
           "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. ソニーセミコンダクタソリューションズ株式会社（以下、ソニー）は、業界で初めて ※1 デジタル出力と 5m ※ 2 ケーブルでのデータ伝送に対応する、有効約 51 万画素 ※3 の CMOS イメージセンサー『 IMX742 』を、医療用シングルユース内視鏡向けに商品化します。 Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。",
           "evidence_ids": [
             "b9a3f69b7e7467511106caee",
@@ -34753,6 +35010,7 @@
             "0fccbc57228beacd4c87e786",
             "615cb2bf9e936fa0ad013a23",
             "aa1113d46bebf872d786b102",
+            "365dcbfbef3900eaea8ec10d",
             "85f1a3b75bb4f57f0e0c5a56",
             "681087dd5e8f980053f43ef7",
             "e8f3b5b8fb9767faf10c34aa",
@@ -34927,9 +35185,11 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "2027c38fe13373909801576b",
         "9b9c34e0abb6b8abcc7317de",
         "83b5fcaff3dc50817c4883fc",
         "322a62b4ac50b4386901f23e",
+        "0acbbd78b35d65cb3977d50b",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "99ee717dc1172a3fa6bf326f",
@@ -34948,6 +35208,7 @@
         "0fd34e81809941ad6e4304cb",
         "b5c5ae030439f726607728ee",
         "5f1de979c28e02b6124a649d",
+        "c9f14c5ec14ae9d7f0275d8b",
         "a58f5c997917ce451d67ed4b",
         "1750d8e7aa970046a44e69bf",
         "ac0f84d166c31e3da691ad83",
@@ -34985,6 +35246,7 @@
         "aa1113d46bebf872d786b102",
         "a34312112fdefc0e72a2ec8c",
         "5b885f35391a359095515059",
+        "365dcbfbef3900eaea8ec10d",
         "9748e7f412297b71ce3f2f8f",
         "82359d43e630a10aaf231d64",
         "85f1a3b75bb4f57f0e0c5a56",
@@ -35076,12 +35338,12 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-23T06:01:27.235668+09:00",
+      "generated_at": "2026-10-23T08:56:12.138473+09:00",
       "is_complete": false,
-      "article_count": 658,
+      "article_count": 662,
       "category_counts": {
-        "ai": 306,
-        "tech": 185,
+        "ai": 309,
+        "tech": 186,
         "parenting": 167
       },
       "overview": "OpenAIは確率や評価スコアを返す低遅延APIを一般提供し、顧客現場でAIを本番運用につなぐFDEの事例も紹介した。Uberは連携機能や研修を伴わせて、業務エージェントを全従業員向けに展開し始めた。 Google Cloudは強化学習やエージェント推論向けの統合GPUインスタンスを来月提供する計画を示した。一方、ソニーは医療用シングルユース内視鏡向けに、1mm角で5mのデジタル伝送に対応するイメージセンサーを商品化すると発表した。NVIDIAはAI基盤の稼働状況を観測するMinervaを発表したが、提示された資料は短い抜粋にとどまる。 Khan Academyは、次の課題の提示、技能の進歩の可視化、提出前のヒント、誤答後の説明と練習を含む設計を紹介した。提携学区向けには指定技能の習熟を競うライブ授業ゲームもある。別の実践例では、スウェーデンのYear 7〜9（中等教育段階）の生徒がSitesで学習内容を共有し、動画を制作して発表している。Khan Academyの機能は対象学年が資料に明記されていない。",
@@ -35089,10 +35351,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+        "attempted_at": "2026-10-22T23:56:11.789272+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -35109,6 +35371,10 @@
           },
           {
             "article_id": "5b885f35391a359095515059",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "82359d43e630a10aaf231d64",
             "stage": "original_fetch"
           }
         ],
@@ -35129,7 +35395,7 @@
           ],
           "last_success_at": "2026-10-21T21:00:44.171360+00:00"
         },
-        "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+        "last_success_at": "2026-10-22T23:56:11.789272+00:00"
       },
       "genre_briefs": [
         {
@@ -35326,17 +35592,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 253,
+          "count": 256,
           "publisher_count": 46,
           "summary": "OpenAIは、GPT‑6 Lunaを使い、テキスト・画像・構造化入力から確率、選択肢、評価スコアを返すDecisions APIを一般提供した。Responses API経由のGPT‑6 Lunaより最大10倍高速と説明し、GPT‑Live連携、入力のプロンプトキャッシュ、米国・EUでの推論処理、1リクエスト最大400問に対応。入力料金は100万トークン当たり0.10ドル。 OpenAIのForward Deployed Engineering（FDE）責任者は、顧客の現場に入り、AIを実運用できる仕組みにするチームの方針と事例を紹介した。半導体企業では15人ほどが10件超の用途に取り組み、3〜6か月で本番導入と初期利用に到達したとする。Codexを軸に共通基盤へ移した事例では、個別コードを約90％削減し、別チームへの展開を初回の2か月から1日に短縮したという。 UberはChatGPT Enterprise内のエージェント「ChatGPT Work」を全社展開し、世界の従業員3万人超に提供を開始した。先行試験の対象は1,000人で、Google Drive、Gmail、Google Calendar、Slackと連携し、調査、会議資料作成、プレゼン作成、データ分析などを支援する。社内AIスキル集、承認済み連携機能、従業員研修も展開を支え、開発部門ではCodexの利用を継続する。",
           "evidence_ids": [
             "4a3551243325ffc3049c7c3f",
-            "83b5fcaff3dc50817c4883fc",
-            "5a93a9a9c2316211655820ac"
+            "2027c38fe13373909801576b",
+            "83b5fcaff3dc50817c4883fc"
           ],
           "article_ids": [
             "4a3551243325ffc3049c7c3f",
+            "2027c38fe13373909801576b",
             "83b5fcaff3dc50817c4883fc",
+            "0acbbd78b35d65cb3977d50b",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
             "5a93a9a9c2316211655820ac",
@@ -35346,6 +35614,7 @@
             "47873521b9c45ec6fb3739d2",
             "5bf615e780f4095e150ccd58",
             "b5c5ae030439f726607728ee",
+            "c9f14c5ec14ae9d7f0275d8b",
             "ac0f84d166c31e3da691ad83",
             "73af98d726c9b2a5b56cbc58",
             "7ffbabecca7383bab0dc606b",
@@ -35597,8 +35866,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 179,
-          "publisher_count": 85,
+          "count": 180,
+          "publisher_count": 86,
           "summary": "Launched today, NVIDIA Minerva is an AIOps platform built to help teams find problems earlier and keep AI factories productive. ソニーセミコンダクタソリューションズ株式会社（以下、ソニー）は、業界で初めて ※1 デジタル出力と 5m ※ 2 ケーブルでのデータ伝送に対応する、有効約 51 万画素 ※3 の CMOS イメージセンサー『 IMX742 』を、医療用シングルユース内視鏡向けに商品化します。 Google Cloudは、Vera Rubin NVL72、ConnectX-9、独自ネットワーク、液冷技術を統合したA5Xインスタンスを来月一般提供する予定と発表し、欧州にも展開を広げる計画を示した。A5Xは強化学習やエージェント推論向け。先行利用するIneffable Intelligenceは継続学習型システムの研究に使い、WPPは複数ノードを要した処理を初期試験で単一インスタンス上で実行した。",
           "evidence_ids": [
             "b9a3f69b7e7467511106caee",
@@ -35631,6 +35900,7 @@
             "0fccbc57228beacd4c87e786",
             "615cb2bf9e936fa0ad013a23",
             "aa1113d46bebf872d786b102",
+            "365dcbfbef3900eaea8ec10d",
             "85f1a3b75bb4f57f0e0c5a56",
             "681087dd5e8f980053f43ef7",
             "e8f3b5b8fb9767faf10c34aa",
@@ -35676,6 +35946,7 @@
             "cd48202b8d2b8734c2a2d12e",
             "d68c02c7957015e33da57acd",
             "be7d0cf44456133e8ef79928",
+            "0a1926dd51ae0e4f8749e433",
             "7fa48dbc870c0ecc5b781069",
             "56af7f4467c7c334a5bde1d4",
             "6566e58e0ac86d6feaa9349c",
@@ -35683,7 +35954,6 @@
             "33d3cd84920b7a15febf3338",
             "6083689cefdd6f5d32d2e3e9",
             "bafdb09c80dc83da1359a6a2",
-            "0a1926dd51ae0e4f8749e433",
             "6d7a612a9dcd85fdfd3bbaaf",
             "bac01a4f68181f569247665e",
             "6f4c63a3840a4d64ad222707",
@@ -36130,9 +36400,11 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "2027c38fe13373909801576b",
         "9b9c34e0abb6b8abcc7317de",
         "83b5fcaff3dc50817c4883fc",
         "322a62b4ac50b4386901f23e",
+        "0acbbd78b35d65cb3977d50b",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "99ee717dc1172a3fa6bf326f",
@@ -36151,6 +36423,7 @@
         "0fd34e81809941ad6e4304cb",
         "b5c5ae030439f726607728ee",
         "5f1de979c28e02b6124a649d",
+        "c9f14c5ec14ae9d7f0275d8b",
         "a58f5c997917ce451d67ed4b",
         "1750d8e7aa970046a44e69bf",
         "ac0f84d166c31e3da691ad83",
@@ -36188,6 +36461,7 @@
         "aa1113d46bebf872d786b102",
         "a34312112fdefc0e72a2ec8c",
         "5b885f35391a359095515059",
+        "365dcbfbef3900eaea8ec10d",
         "9748e7f412297b71ce3f2f8f",
         "82359d43e630a10aaf231d64",
         "85f1a3b75bb4f57f0e0c5a56",
@@ -36388,6 +36662,7 @@
         "660b787c5271e23f3bcea19b",
         "e4db0942f5c35f1134c34810",
         "b993a6badffba2ce6cbc2431",
+        "0a1926dd51ae0e4f8749e433",
         "686ab869d8420ea5eaada665",
         "7fa48dbc870c0ecc5b781069",
         "56af7f4467c7c334a5bde1d4",
@@ -36417,7 +36692,6 @@
         "4098e2a75eef438cb000f491",
         "f94d31ca3e38375de9bf44c3",
         "1148477aa54cf351401d77db",
-        "0a1926dd51ae0e4f8749e433",
         "591f885a90ea1ad85bafd3c7",
         "6d7a612a9dcd85fdfd3bbaaf",
         "7ca450796287930aad944d50",
@@ -36788,13 +37062,13 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-23T06:01:27.235668+09:00",
+  "report_updated_at": "2026-10-23T08:56:12.138473+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-22T21:01:26.271561+00:00",
+    "attempted_at": "2026-10-22T23:56:11.789272+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 2,
+    "new_reviews": 1,
     "updated_periods": [
       "overview",
       "weekly",
@@ -36811,6 +37085,10 @@
       },
       {
         "article_id": "5b885f35391a359095515059",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "82359d43e630a10aaf231d64",
         "stage": "original_fetch"
       }
     ],
@@ -36831,7 +37109,7 @@
       ],
       "last_success_at": "2026-10-21T21:00:44.171360+00:00"
     },
-    "last_success_at": "2026-10-22T21:01:26.271561+00:00"
+    "last_success_at": "2026-10-22T23:56:11.789272+00:00"
   },
   "topic_definitions": [
     {
@@ -37338,7 +37616,7 @@
   },
   "picks": [
     "4a3551243325ffc3049c7c3f",
-    "83b5fcaff3dc50817c4883fc",
+    "2027c38fe13373909801576b",
     "b9a3f69b7e7467511106caee",
     "e77d5ebe34f9d86a11d927a2",
     "99ee717dc1172a3fa6bf326f",
