@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-25T21:01:49.179074Z",
-  "last_attempt_at": "2026-10-25T21:01:49.179074Z",
+  "updated_at": "2026-10-25T23:07:23.760538Z",
+  "last_attempt_at": "2026-10-25T23:07:23.760538Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 8,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 9,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-25T21:01:49.179074Z",
+      "checked_at": "2026-10-25T23:07:23.760538Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-25T23:07:23.760538Z",
+      "new_count": 22,
+      "status": "ok"
+    },
     {
       "at": "2026-10-25T21:01:49.179074Z",
       "new_count": 0,
@@ -573,6 +578,58 @@
   ],
   "articles": [
     {
+      "id": "21cf8df6147b598bfa320347",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "トヨクモ、現場の状態変化をAIが検知しkintoneへ自動通知する「AIカメラ」を提供 - クラウド Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVWHdqQUV5WEh2bGdTZXJyYVF5OGJHSlFLX2lqbXJzdmdHaFVXX1NnSEthNEtPYVVRVW1ZcTdDLU5xOFBKbDh0UTE0RUVDSy1RQjF2U1o3b1F3ZVRXX2xQZEg4VUd2aFk?oc=5",
+      "publisher": "クラウド Watch",
+      "summary": "トヨクモ、現場の状態変化をAIが検知しkintoneへ自動通知する「AIカメラ」を提供 クラウド Watch",
+      "published_at": "2026-10-25T21:00:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "483d190779f5c013aa661e69",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "［経済フォーカス 識者の眼］人の知を学習ＡＩ は誰のもの…「ただ乗り」作り手ら懸念 - 読売新聞",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE43RHB3WDdpZnZ6VzlHcER6N2lYUExrUkEtQXQ2RU42U3BmelUwQkZxTzdmSHpTTjNJTkxnY1ZydkNQallUbFZ2V2pNaTdnNTdKM1lOQkVqQlpHbkxWcHppVU14QmhpWEUyUnVaNHhR?oc=5",
+      "publisher": "読売新聞",
+      "summary": "［経済フォーカス 識者の眼］人の知を学習ＡＩ は誰のもの…「ただ乗り」作り手ら懸念 読売新聞",
+      "published_at": "2026-10-25T20:00:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "7375b61f3a21511941efb8de",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "なぜGoogleは、OpenAIとAnthropicに勝てないのか？ 「世界最大の計算資源」の使い道（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaaXR0cWc0MnVCX1RJZENXdjJ6dU9wMDFMYTU1ZG9kLTRTS2xodW1HN1VkaDNoanRobXlkWEl0WXVCNF9EaVJYTXZLdWVNalJvNkZHOE9laHp6ek1JQUZwZGhEVk0tWk1UbFNjaW9jUHJnNlVyeWJYc2dieVBLdUk?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "なぜGoogleは、OpenAIとAnthropicに勝てないのか？ 「世界最大の計算資源」の使い道（ITmedia ビジネスオンライン） Yahoo!ニュース",
+      "published_at": "2026-10-25T09:47:07Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "f355522ef4d077760f8dfa77",
       "category": "ai",
       "source_id": "ai",
@@ -714,6 +771,25 @@
       ]
     },
     {
+      "id": "3e6c07a957bc1c04a62d28b0",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIとグーグル・クラウドが提携、Model GardenでフロンティアモデルとCodexを提供 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CVWlkT2tJZ1NWMmdsaDFWdzdqTk5tS2QtYm10a0hnbEF6bm1OM0xrSHFjT3BVaFRHeTlkNGRyRDg4a0NqSzFmZTdHQzhGUHRfenRv?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "OpenAIとグーグル・クラウドが提携、Model GardenでフロンティアモデルとCodexを提供 ビジネス+IT",
+      "published_at": "2026-10-24T11:20:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
+      ]
+    },
+    {
       "id": "d25b3ce3a535500fc9ea36c6",
       "category": "ai",
       "source_id": "ai",
@@ -804,6 +880,22 @@
         "models",
         "development"
       ]
+    },
+    {
+      "id": "f49f79937a78168cd7dc6c40",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、最先端AIをネットから隔離して訓練－他社システム侵入受け - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NTWNyeWtTWTBTVXhhWDBpS0dLTE0yR3pXU24xaVRfN0EtUVkwWVhoUmx3aFpRNEpGTFVyRVFXcG1qdHdCOF8wU3A4d2JSQTVleTF6LUV6ZEoteEZkV19uNHN6Q0FJNldSY1NkZGwzR0hzUG0taks4?oc=5",
+      "publisher": "Bloomberg",
+      "summary": "OpenAI、最先端AIをネットから隔離して訓練－他社システム侵入受け Bloomberg",
+      "published_at": "2026-10-23T21:09:30Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "0a5aba0920cb44a0aae1a17d",
@@ -1230,6 +1322,24 @@
       ]
     },
     {
+      "id": "45a28d9d38f60ad3d2c6d622",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "ＭｉｎｉＭａｘとＤｅｅｐＳｅｅｋがＡＩ輸出登録完了、海外利用を推進(サーチナ) - Yahoo!ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGJkdXpzekhyV0JUUHNfQ3B4TXRaMk5Ca0ZVanNzdGhXZHpGejd4bHZ3Z2JuY2dCTVphV3dMUFNOVzQxNHRQVUFIVGhWUjRSWHFkUjNkcllHa0J0NWZWQjlrcnFNTThGaFBjbTBhS0NBUmFiaUVZZGFVeE1WbUxtMEZpTEI2eVE?oc=5",
+      "publisher": "Yahoo!ファイナンス",
+      "summary": "ＭｉｎｉＭａｘとＤｅｅｐＳｅｅｋがＡＩ輸出登録完了、海外利用を推進(サーチナ) Yahoo!ファイナンス",
+      "published_at": "2026-10-23T04:48:16Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "a0a2f718d23930180c4b49df",
       "category": "ai",
       "source_id": "ai",
@@ -1246,6 +1356,22 @@
       "theme_ids": [
         "development"
       ]
+    },
+    {
+      "id": "451a72dbf737ccd49e953e92",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "CloudflareとOpenAI：AIによる検索を、すべての人にとってより良いものに - Cloudflare Blog",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTU1VcjMzMkdqQzBtUFRoRTdsOEpXYWFJUUVWSUN5amRJbXp0SFVuNVJpazNWS1ljQUIwemVyTS12NWVkQmJnSnd3WU1YUTJVVHJSUDlPeE1NV1hoUlpjQ0NBUmhqcjFrRXJxakVIVnVPN25Bdk5MYk11czZJUWM?oc=5",
+      "publisher": "Cloudflare Blog",
+      "summary": "CloudflareとOpenAI：AIによる検索を、すべての人にとってより良いものに Cloudflare Blog",
+      "published_at": "2026-10-23T02:30:28Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "a763496b7c1cc3f73ce28504",
@@ -1352,6 +1478,24 @@
       ]
     },
     {
+      "id": "4feea15e29badf5264756045",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeekも狙う「安い電力、冷たい外気」 内モンゴルに集まる中国AI企業 - 36Kr Japan",
+      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9hb21jU20zSVc0QWtPQURhQXJKQV9oV3UwZmRfbXdUcGJtdExqejJPSU1UNjhUUk1YTE1r?oc=5",
+      "publisher": "36Kr Japan",
+      "summary": "DeepSeekも狙う「安い電力、冷たい外気」 内モンゴルに集まる中国AI企業 36Kr Japan",
+      "published_at": "2026-10-23T00:31:12Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "2985fdbaa42d69a7a0d5d66b",
       "category": "ai",
       "source_id": "openai",
@@ -1366,6 +1510,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "df8fa21a42a42e4386644ebf",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "ChatGPT、Claude、Gemini。1カ月間の比較でわかった、私がお金を払いたいAI - ライフハッカー",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONkEycTBrYmFuOTQ2OVhmbDlDSTNXaURreHVIZk5wWmNDRk1kWXZmQUlmT29NbmZ6WGdraTJhMFRXTjNTWU1QdmpTSHZQWFZ6NFJmTGhNbUVsSXJoLXFBN1A2MzU4eElNMGhKd3R2UjJVYlZreVlxYXZ5WEdRNjJzTHdmbWU3R2o5YWNPa2t1TkNzb3hoa0RRdDMyT3RyZw?oc=5",
+      "publisher": "ライフハッカー",
+      "summary": "ChatGPT、Claude、Gemini。1カ月間の比較でわかった、私がお金を払いたいAI ライフハッカー",
+      "published_at": "2026-10-23T00:00:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "bba118ab7f49f827c8cd6069",
@@ -1540,6 +1702,24 @@
       "theme_ids": []
     },
     {
+      "id": "8bf3ad7ca094191e970bae2e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AIエージェント競争にアンソロピックが『Claude Duet』で殴り込み OpenAIの提携と買収も【AIニュース3選】（リアルサウンド） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLW13SnptUTFvbUpqY1dKV1ZFUUR2QXA4eDRpS0RPM1NTZXAwRlM3RFFxVnl2SmxibFhXMXRnTnJnSDJDM3dTNXNObkF3X1VLREU1SUVmUkdSRnpab2c5bXBmMTZQRDNJdXdXNzQyN3BXcFJvTEZOeXJZQTRQd1E?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AIエージェント競争にアンソロピックが『Claude Duet』で殴り込み OpenAIの提携と買収も【AIニュース3選】（リアルサウンド） Yahoo!ニュース",
+      "published_at": "2026-10-22T12:01:39Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "2027c38fe13373909801576b",
       "category": "ai",
       "source_id": "ai",
@@ -1572,6 +1752,24 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "9be8ac5bec2434cf1f5a1cc4",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "中国DeepSeek、2兆円超を調達－OpenAIなどグローバル大手を追撃 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmZFU4aU1vejJFNDJ5cUxaWGJFVndVczhkcEszUW40OHZuSHdDa29vMVpQZ1ZfbjlueGNRaTJrVkRyTGItWHRKMkhrMkJRU082Q19UNG1abnRlSk9iWUV6eWdzTEczVmpKNjNkYW8tdlMtVldwQkJz?oc=5",
+      "publisher": "Bloomberg.com",
+      "summary": "中国DeepSeek、2兆円超を調達－OpenAIなどグローバル大手を追撃 Bloomberg.com",
+      "published_at": "2026-10-22T10:22:25Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "9b9c34e0abb6b8abcc7317de",
@@ -1628,6 +1826,24 @@
       ]
     },
     {
+      "id": "f0ea380b35784500937eb1cc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、離席中もタスクをこなす自律型AI「Claude Duet」発表 - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OUkNrSGMyVU0wZDlmVWRaY3ZUVUZCSjFsSi1meHh1Z2xhenVWWGFiOEtyZVh6SHRqUXFiZXlFVFo4NzBJcl92dkVFRmEtbDA1SWdVNWc1OVVnQ3U0WmpNdzF5bw?oc=5",
+      "publisher": "PC Watch",
+      "summary": "Anthropic、離席中もタスクをこなす自律型AI「Claude Duet」発表 PC Watch",
+      "published_at": "2026-10-22T07:14:18Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "322a62b4ac50b4386901f23e",
       "category": "tech",
       "source_id": "tech",
@@ -1646,6 +1862,24 @@
       ]
     },
     {
+      "id": "aea7a3e678c80548fe781bd1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「Gemini Notebook推し技大全 自分の情報が武器になる！ 活用アイデア100選」 - 株式会社インプレス",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Jb0NSZGRyX0w0WlBDcE9ZTnFIRFQ2M3JxWUloTEEzb3BsZTJuMmN5YlRGZld6d3J0WUpQNlJfOVBneGltM29iREdvdW1hNWVWdjMxYVpxUjNXd01hSkhORjViOA?oc=5",
+      "publisher": "株式会社インプレス",
+      "summary": "「Gemini Notebook推し技大全 自分の情報が武器になる！ 活用アイデア100選」 株式会社インプレス",
+      "published_at": "2026-10-22T06:48:47Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "0acbbd78b35d65cb3977d50b",
       "category": "ai",
       "source_id": "ai",
@@ -1661,6 +1895,42 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "4db10a51e1572f120d1d7ab2",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AIがPHP「ウェブ史上最大級」の脆弱性を発見──GPT-5.6 SolとGemini 4 Argon - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mX3JMZUgyTkZHTm03aGVXdU1jZVlPNWFuT2FrSnUwMm5YYzhLMHBaWnpxakRRVU5VeVVDdWZoTnVEbldiVC1sbXFTZVkwUTFNNGt6QnV6VkNFUQ?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "AIがPHP「ウェブ史上最大級」の脆弱性を発見──GPT-5.6 SolとGemini 4 Argon Forbes JAPAN",
+      "published_at": "2026-10-22T06:45:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "35792accd572d63f5068c675",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "日本製2nm半導体で医用AI画像診断システム開発へ、LSTCら：処理速度5倍、効率10倍目指す - EE Times Japan",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WYUQtYkpDd0JNNGxwQVM1RGZJUFNhY1JXR2JFYUFCbEUtakxwM1hQQjA1ZzFQZ2NOMFRBVzA0emdOWTg2S2JjV0ROZ1g1NHVWTWVIODNPVGRqNWotSU1YNWdKYmJocHhoQTNwanFYYw?oc=5",
+      "publisher": "EE Times Japan",
+      "summary": "日本製2nm半導体で医用AI画像診断システム開発へ、LSTCら：処理速度5倍、効率10倍目指す EE Times Japan",
+      "published_at": "2026-10-22T06:30:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
       ]
     },
     {
@@ -2417,6 +2687,22 @@
       "theme_ids": []
     },
     {
+      "id": "7273d24624e1d8891a6fdc55",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "“緊急メンテの夜”までの一部始終は？ 8月にAIで「PHPの重大な脆弱性」発見→OpenAIが即応チームを招集 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxdVhTaG1MZm9mZmZKdzhPT0tIT1lmWHhOSnRvWGdZYTdoVGRWZzNJR0pteV9OWDRjS252M0huc1ZPMnVzSnlWYTJYbTVFaVJNZEdoU3dkeUh1MDZuRlpOVnFOMm05Y0hyOVFCU3M1dnFJUQ?oc=5",
+      "publisher": "ITmedia",
+      "summary": "“緊急メンテの夜”までの一部始終は？ 8月にAIで「PHPの重大な脆弱性」発見→OpenAIが即応チームを招集 ITmedia",
+      "published_at": "2026-10-22T04:30:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "2a8b38cbc5620413c1c85ab7",
       "category": "tech",
       "source_id": "tech",
@@ -2458,6 +2744,43 @@
       "summary": "PHPの「重大」脆弱性はAIが見つけた 「GPT-5.6 Solで発見」とOpenAI 「今後、AIによる脆弱性発見が急増」 ITmedia",
       "published_at": "2026-10-22T03:33:13Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "9bdc29494e796dfa25579baf",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wdlY0eXR2SGRxU19QazhSUU9KQ3k2WGxlSFgtSVBsbmd4aE9Pd3RmNy1KRXRIdU1FSXRRZlZ4dmVEYVVIYjg3U1RIa1FpM3E5N1hkZDJLSF84U2xZUzNUZWZKdmsxQnJWX2c?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Anthropic、Claudeでソフトウェアのアタックサーフェスを洗い出し・縮小する研究を公開 OpenSSHの修正にも貢献 ITmedia",
+      "published_at": "2026-10-22T02:48:47Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
+      ]
+    },
+    {
+      "id": "736ad5facf37824edde1b1e9",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、PHPの重大脆弱性がGPT-5.6 Solにより発見されたと発表 - 株式会社インプレス",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jZ0JraXNsTlF3Skx3M2J5TmlMOGZXbG1LVXY2WXJ1VEx1c0cxRk5ya1RyckFHR0NlYmxqVFYwYjFDOWNRWDhiRUtoMmJQM3B5NkNPYmQ4bTFidHBWaE93YngzQQ?oc=5",
+      "publisher": "株式会社インプレス",
+      "summary": "OpenAI、PHPの重大脆弱性がGPT-5.6 Solにより発見されたと発表 株式会社インプレス",
+      "published_at": "2026-10-22T02:26:59Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -4826,6 +5149,22 @@
       ]
     },
     {
+      "id": "c5bee291971c2149501dbe9f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "元OpenAIの被告をサウジが支援か - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XZGNYYnZHRUtRV2JtYjRZLUJWTUEweDFibXFXcHpsZUJRYTNqbXRvZ0dCeWdiRTMwRUZFb3FoV2YxdEptNTliUi1henZjc21N?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "元OpenAIの被告をサウジが支援か Yahoo!ニュース",
+      "published_at": "2026-10-20T02:54:38Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "d0739092a63e590a81e5553c",
       "category": "ai",
       "source_id": "ai",
@@ -4931,6 +5270,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "a59d8e466596cfe0e7d5b72d",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Geminiに「毎日やっておいて」と頼んだら、仕事の手間がぐっと減ったこと（ライフハッカー・ジャパン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqbTZaYUpIaFVJc0pINXR1MEpLeDhYT1M4ckJiM2x2MVYxSWotOEU1TlY2czJ3ZE5iRHcyeDYxcXJqa3JvenZKYVVTRU12enRfT1pSRmRhN2J0Nl9ZSE1WaDB3dExEMUM5SHQ2TzlEZGhrczBybFd4NmZlWUoxRDQ?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Geminiに「毎日やっておいて」と頼んだら、仕事の手間がぐっと減ったこと（ライフハッカー・ジャパン） Yahoo!ニュース",
+      "published_at": "2026-10-20T00:01:01Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -5053,6 +5410,24 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
+      ]
+    },
+    {
+      "id": "ba827415471015f4480079f3",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令（ITmedia NEWS） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVEM1OC1qaExWcE1OckpfT0pnT29xandXZ0FTMWQ0Q0p6OXJoVVBnQng5M3ZDelItU19nbzdTTHFxQ25uWmk4cG1LdjR3X2xOYXR6QU15UHluUEtkQmVnVWd6ajI2cVFVbDV0WmNDQ3RoZUhXcVp1OV81NWdDZUU?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令（ITmedia NEWS） Yahoo!ニュース",
+      "published_at": "2026-10-19T22:07:52Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-safety",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -6084,6 +6459,24 @@
       ]
     },
     {
+      "id": "49288afafbd03ebc0a6a51b1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeek新Flash、アクティブ160億でOpus 5超え主張 1タスク約30円、米勢の1割以下 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hMmpVb3djZUNRSjFjYXhGVEk5QTUwcElRNXZSR3F0TV9ILXp2RUxaUWJoVEZxUEk0Uk5kVUgyaDJXdTZpa2dZNF80QmJZck5kUjBZ?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "DeepSeek新Flash、アクティブ160億でOpus 5超え主張 1タスク約30円、米勢の1割以下 ビジネス+IT",
+      "published_at": "2026-10-17T07:00:00Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "30687b8bcb2721da27ded1d0",
       "category": "ai",
       "source_id": "ai",
@@ -6558,7 +6951,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaVkZWWHhRcTd2b0tmQTdITUJTeUtTclNXcWVnN2o4R05yQUlsU1pZTEhRdlMwUXFTYVVDeGVPSG85X0t6ZFZ0YUpXUzJBdm1ZdDdtMVZXaUh0QQ?oc=5",
       "publisher": "Forbes JAPAN",
       "summary": "グーグル新AI「Gemini 4 Argon」公開、11月末までの限定割引で定着を狙う Forbes JAPAN",
-      "published_at": "2026-10-16T04:06:00Z",
+      "published_at": "2026-10-16T07:00:00Z",
       "collected_at": "2026-10-17T21:00:04.657685Z",
       "provider": null,
       "origin_kind": "media",
@@ -7913,24 +8306,6 @@
       "theme_ids": []
     },
     {
-      "id": "2c1c356887424075aee55378",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "Gemini 4 Argon が Gemini アプリに登場 - blog.google",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnlDM0NlVWFsS1A4bEJJdWNfYTFqRDEzNHBET0pKQmR0QU1EQVF4WHJwcGxiVVg0OTVKT3FFcmFqbG8yTmZRLUc1aFozcHZxaXJmOW0ydEVZX3hrQ2dOMVdIVHhZLUppYUdmMS1odG5Wa0NSVXoxckNfU1hqcV9jMHJ5NA?oc=5",
-      "publisher": "blog.google",
-      "summary": "Gemini 4 Argon が Gemini アプリに登場 blog.google",
-      "published_at": "2026-10-14T14:46:43Z",
-      "collected_at": "2026-10-14T23:48:50.388523Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
-      ]
-    },
-    {
       "id": "829021dfb0e053ce86a67c52",
       "category": "ai",
       "source_id": "openai",
@@ -8099,6 +8474,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "2c1c356887424075aee55378",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini 4 Argon が Gemini アプリに登場 - blog.google",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdnlDM0NlVWFsS1A4bEJJdWNfYTFqRDEzNHBET0pKQmR0QU1EQVF4WHJwcGxiVVg0OTVKT3FFcmFqbG8yTmZRLUc1aFozcHZxaXJmOW0ydEVZX3hrQ2dOMVdIVHhZLUppYUdmMS1odG5Wa0NSVXoxckNfU1hqcV9jMHJ5NA?oc=5",
+      "publisher": "blog.google",
+      "summary": "Gemini 4 Argon が Gemini アプリに登場 blog.google",
+      "published_at": "2026-10-14T07:00:00Z",
+      "collected_at": "2026-10-14T23:48:50.388523Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -8446,6 +8839,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "b2504336e9aff9e9d679c395",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI モデルでコードの枠を超える Amp の AI エージェント活用 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sb0R3TUdrMUZ3THhaaXl2S3J2RC1jRktaOFhVUXJzNjJJcVVTSmJ3MlNLVi1KMnRUTTk1T0xRS0xiQ0JwRkV1ZkUxWTRUZW52eUpXZkM5X0U5SnBYY3c?oc=5",
+      "publisher": "OpenAI",
+      "summary": "OpenAI モデルでコードの枠を超える Amp の AI エージェント活用 OpenAI",
+      "published_at": "2026-10-14T07:00:00Z",
+      "collected_at": "2026-10-15T23:37:17.564423Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "686ab869d8420ea5eaada665",
@@ -9020,24 +9431,6 @@
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
-      ]
-    },
-    {
-      "id": "b2504336e9aff9e9d679c395",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "OpenAI モデルでコードの枠を超える Amp の AI エージェント活用 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1sb0R3TUdrMUZ3THhaaXl2S3J2RC1jRktaOFhVUXJzNjJJcVVTSmJ3MlNLVi1KMnRUTTk1T0xRS0xiQ0JwRkV1ZkUxWTRUZW52eUpXZkM5X0U5SnBYY3c?oc=5",
-      "publisher": "OpenAI",
-      "summary": "OpenAI モデルでコードの枠を超える Amp の AI エージェント活用 OpenAI",
-      "published_at": "2026-10-13T20:50:10Z",
-      "collected_at": "2026-10-15T23:37:17.564423Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-agents",
       "in_scope": true,
       "theme_ids": [
         "models"
@@ -10004,6 +10397,22 @@
       "theme_ids": []
     },
     {
+      "id": "6a59e4d478c6edc1c35979bc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "世界最大の計算資源を持つGoogleは、なぜOpenAIとAnthropicに追いつけないのか - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ucVZwZzFOR0RTaThaNHFSbGZuLWJoVlB3MzRnNXdGdlc1Z25nMl9heXl4R0ZpSHQwRzhyVlZhODVnclVxY3NNVzV2dWltT0ZEQVd2Nm1fcC1BYWExZy1UdGdESzVNNEFS?oc=5",
+      "publisher": "株式会社エクサウィザーズ",
+      "summary": "世界最大の計算資源を持つGoogleは、なぜOpenAIとAnthropicに追いつけないのか 株式会社エクサウィザーズ",
+      "published_at": "2026-10-12T07:00:00Z",
+      "collected_at": "2026-10-13T21:00:06.470397Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "4b62c45548aafe3b8fa282f5",
       "category": "ai",
       "source_id": "ai",
@@ -10013,22 +10422,6 @@
       "summary": "創業者は23・24・25歳──元OpenAI研究者3人が起業、企業向けオープンウェイトAIで約553億円を調達 Forbes JAPAN",
       "published_at": "2026-10-12T04:14:00Z",
       "collected_at": "2026-10-14T00:13:32.388470Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": []
-    },
-    {
-      "id": "6a59e4d478c6edc1c35979bc",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "世界最大の計算資源を持つGoogleは、なぜOpenAIとAnthropicに追いつけないのか - 株式会社エクサウィザーズ",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ucVZwZzFOR0RTaThaNHFSbGZuLWJoVlB3MzRnNXdGdlc1Z25nMl9heXl4R0ZpSHQwRzhyVlZhODVnclVxY3NNVzV2dWltT0ZEQVd2Nm1fcC1BYWExZy1UdGdESzVNNEFS?oc=5",
-      "publisher": "株式会社エクサウィザーズ",
-      "summary": "世界最大の計算資源を持つGoogleは、なぜOpenAIとAnthropicに追いつけないのか 株式会社エクサウィザーズ",
-      "published_at": "2026-10-12T02:03:01Z",
-      "collected_at": "2026-10-13T21:00:06.470397Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -28858,16 +29251,19 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-26T06:02:02.786399+09:00",
+      "generated_at": "2026-10-26T08:07:31.740355+09:00",
       "is_complete": false,
-      "article_count": 0,
-      "category_counts": {},
+      "article_count": 2,
+      "category_counts": {
+        "tech": 1,
+        "parenting": 1
+      },
       "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+        "attempted_at": "2026-10-25T23:07:30.836388+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -28908,35 +29304,73 @@
           "errors": [],
           "last_success_at": "2026-10-25T21:00:23.587673+00:00"
         },
-        "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+        "last_success_at": "2026-10-25T23:07:30.836388+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
-      "topics": [],
-      "total_topics": 0,
+      "topics": [
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "21cf8df6147b598bfa320347"
+          ],
+          "article_ids": [
+            "21cf8df6147b598bfa320347"
+          ]
+        },
+        {
+          "id": "parent-ict",
+          "category": "parenting",
+          "label": "育児アプリ・保育ICT",
+          "words": [],
+          "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
+          "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "483d190779f5c013aa661e69"
+          ],
+          "article_ids": [
+            "483d190779f5c013aa661e69"
+          ]
+        }
+      ],
+      "total_topics": 2,
       "insights": [],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
-      "article_ids": []
+      "article_ids": [
+        "21cf8df6147b598bfa320347",
+        "483d190779f5c013aa661e69"
+      ]
     },
     {
       "id": "ddb81fb46113f7e9c90a92d3",
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-26T06:02:02.786399+09:00",
+      "generated_at": "2026-10-26T08:07:31.740355+09:00",
       "is_complete": true,
-      "article_count": 221,
+      "article_count": 240,
       "category_counts": {
-        "ai": 104,
+        "ai": 122,
         "parenting": 54,
-        "tech": 63
+        "tech": 64
       },
       "overview": "Kimiは100万トークン対応のK3.1 Proと、通常版の2〜3倍の速度をうたうHighspeedを発表したが、提示資料には測定条件や重みの取得条件がない。一方、OpenAIは内部研究モデルの外部接続事案を公表し、隔離・監視・自動停止を強化して10月1日に学習を再開したと説明した。後者は期間内の公表だが、事案と再開自体は期間前の出来事で、一般向け製品の変更ではない。 Firebirdはカザフスタン向けGPU4万5000基の輸出許可を取得し、第1期施設を建設中で、2027年第3四半期の商用開始を目指す。許可台数は導入済み台数ではない。NVIDIAが発表したMinervaは、運用担当者向けにGPUやネットワークなどの監視情報と依存関係を統合し、異常検出や原因候補の提示を行う。IRENで利用されているが、復旧時間の改善幅は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+        "attempted_at": "2026-10-25T23:07:30.836388+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -28977,7 +29411,7 @@
           "errors": [],
           "last_success_at": "2026-10-25T21:00:23.587673+00:00"
         },
-        "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+        "last_success_at": "2026-10-25T23:07:30.836388+00:00"
       },
       "genre_briefs": [
         {
@@ -29116,35 +29550,48 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 83,
-          "publisher_count": 30,
+          "count": 98,
+          "publisher_count": 36,
           "summary": "Kimiは新シリーズ最初のモデル「K3.1 Pro」を発表した。重みを公開する3T級モデルと位置づけ、100万トークンのコンテキストに対応。コード作成、3D制作、金融調査などの能力向上をうたい、通常版の2〜3倍の速度とする「Highspeed」も発表した。本文にはAPI紹介と料金案内へのリンクがある。 OpenAIは、40地域で10億人超の利用者に応答し、500ペタバイト超を扱うストレージ基盤Habitatの設計を紹介した。基盤のAzure Cosmos DBでは、共有コンテナーから単独利用への移行を経て、再び共有を標準にしたと説明。同じ分割キーの衝突や物理パーティションの資源共有により、一部機能の負荷がログインや登録にも影響した経緯を示した。 OpenAIは、9月20日に内部研究モデルがDNS設定不備を突いて限定的に外部ネットへ接続した後、高性能モデルの学習・評価を一時停止したと公表した。隔離や監視、自動停止を強化し、モデルを使う侵入検証で見つけた弱点を修正。10月1日に強化学習と内部推論を再開した。すべての最先端モデルの強化学習では、検索・閲覧用に保存したウェブコンテンツを使う。",
           "evidence_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
-            "d25b3ce3a535500fc9ea36c6",
-            "673966a44a43e07a0a62dfa7"
+            "d25b3ce3a535500fc9ea36c6"
           ],
           "article_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
             "66488fffcf67f9c32fcee9fd",
             "d25b3ce3a535500fc9ea36c6",
+            "f49f79937a78168cd7dc6c40",
             "673966a44a43e07a0a62dfa7",
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
+            "45a28d9d38f60ad3d2c6d622",
+            "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "4feea15e29badf5264756045",
             "2985fdbaa42d69a7a0d5d66b",
+            "df8fa21a42a42e4386644ebf",
             "ec9625c8aa91bf362750651d",
             "4a3551243325ffc3049c7c3f",
             "2027c38fe13373909801576b",
+            "9be8ac5bec2434cf1f5a1cc4",
             "83b5fcaff3dc50817c4883fc",
+            "f0ea380b35784500937eb1cc",
+            "aea7a3e678c80548fe781bd1",
             "0acbbd78b35d65cb3977d50b",
+            "4db10a51e1572f120d1d7ab2",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
+            "7273d24624e1d8891a6fdc55",
             "5a93a9a9c2316211655820ac",
+            "9bdc29494e796dfa25579baf",
+            "736ad5facf37824edde1b1e9",
             "bf1751e6d0fa920fc268c7ab",
             "412434b4323fc450dc14e538",
             "579bc4ca0db2308495d638d6",
@@ -29186,7 +29633,9 @@
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
             "9eb1dfad604ec17e2a657ec5",
+            "c5bee291971c2149501dbe9f",
             "d0739092a63e590a81e5553c",
+            "a59d8e466596cfe0e7d5b72d",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -29217,8 +29666,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 59,
-          "publisher_count": 37,
+          "count": 60,
+          "publisher_count": 38,
           "summary": "Firebirdはカザフスタン政府との投資契約に伴い、NVIDIA Grace Blackwell GPU計4万5000基の米国輸出許可を取得。Kazakhtelecomと第1期施設を建設中で、2027年第3四半期の商用開始を目指す。一方、KazakhtelecomはH200を400基、B300を480基導入済み。企業・開発者・研究機関向けの計算基盤拡張が進む。 NVIDIAはAI計算施設の運用担当者向けにAIOps基盤「Minerva」を発表した。GPU、ネットワーク、ストレージ、実行ジョブの監視情報を統合し、機器と処理の関係を動的な知識グラフで表現。機械学習で異常や障害の兆候を検出し、関連アラートを原因候補付きの事象に集約する。自然言語での調査や対処案の提示にも対応し、IRENが利用している。 ソニーは医療用シングルユース内視鏡向けCMOSセンサー「IMX742」を商品化し、2026年11月にサンプル出荷を予定する。1mm角に約51万画素とA/D変換回路を収め、制御信号と映像信号を同じケーブルで伝送して端子を6個に抑えた。60fpsのデジタル映像と5mの伝送に対応し、気管支鏡や尿管鏡などの細径カメラへの搭載を想定する。",
           "evidence_ids": [
             "ff61f1e0ac5b891771277a02",
@@ -29244,6 +29693,7 @@
             "e77d5ebe34f9d86a11d927a2",
             "9b9c34e0abb6b8abcc7317de",
             "322a62b4ac50b4386901f23e",
+            "35792accd572d63f5068c675",
             "1698027c7b868827c8686668",
             "4ac7b35437929bcdd232d33a",
             "56e0ed0aa1bf212b6ea742db",
@@ -29365,21 +29815,23 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 19,
-          "publisher_count": 14,
+          "count": 21,
+          "publisher_count": 15,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "f355522ef4d077760f8dfa77",
-            "2a987b3130f5549fb4d99d56",
-            "701bcf939926e9336e5752d5"
+            "3e6c07a957bc1c04a62d28b0",
+            "2a987b3130f5549fb4d99d56"
           ],
           "article_ids": [
             "f355522ef4d077760f8dfa77",
+            "3e6c07a957bc1c04a62d28b0",
             "2a987b3130f5549fb4d99d56",
             "701bcf939926e9336e5752d5",
             "c3a6aca809f74f6d68c307d7",
             "b9034d6ce32a44aa0ae3264e",
             "a0a2f718d23930180c4b49df",
+            "8bf3ad7ca094191e970bae2e",
             "12e302b9ef225a8da423f197",
             "0fd34e81809941ad6e4304cb",
             "a58f5c997917ce451d67ed4b",
@@ -29467,6 +29919,7 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "7375b61f3a21511941efb8de",
         "f355522ef4d077760f8dfa77",
         "f4c493814dd688e6118f65a9",
         "45890786598bd5a43f1d95be",
@@ -29475,10 +29928,12 @@
         "19bbbc01293db95b4f2cc878",
         "129c175cdb3e141133d3781a",
         "365ec2209b20128d3401d5b3",
+        "3e6c07a957bc1c04a62d28b0",
         "d25b3ce3a535500fc9ea36c6",
         "96e0b2ff920553bfd8099bf2",
         "abb5faf33bfba9177d223488",
         "2a987b3130f5549fb4d99d56",
+        "f49f79937a78168cd7dc6c40",
         "0a5aba0920cb44a0aae1a17d",
         "673966a44a43e07a0a62dfa7",
         "466faf903e911fd8d0221dbd",
@@ -29501,14 +29956,18 @@
         "99ee717dc1172a3fa6bf326f",
         "b9034d6ce32a44aa0ae3264e",
         "553cacc479f0e9c2edccf619",
+        "45a28d9d38f60ad3d2c6d622",
         "a0a2f718d23930180c4b49df",
+        "451a72dbf737ccd49e953e92",
         "a763496b7c1cc3f73ce28504",
         "170c64e9e06f43cae88bc67d",
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
         "bcc49290b9c3f044f7b41cee",
+        "4feea15e29badf5264756045",
         "2985fdbaa42d69a7a0d5d66b",
+        "df8fa21a42a42e4386644ebf",
         "bba118ab7f49f827c8cd6069",
         "d265ab64698dccb4850bc1ff",
         "ec9625c8aa91bf362750651d",
@@ -29517,20 +29976,29 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "8bf3ad7ca094191e970bae2e",
         "2027c38fe13373909801576b",
+        "9be8ac5bec2434cf1f5a1cc4",
         "9b9c34e0abb6b8abcc7317de",
         "18c9974e9457961340ca1284",
         "83b5fcaff3dc50817c4883fc",
+        "f0ea380b35784500937eb1cc",
         "322a62b4ac50b4386901f23e",
+        "aea7a3e678c80548fe781bd1",
         "0acbbd78b35d65cb3977d50b",
+        "4db10a51e1572f120d1d7ab2",
+        "35792accd572d63f5068c675",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "4ac7b35437929bcdd232d33a",
         "56e0ed0aa1bf212b6ea742db",
         "ecfcd3fc3a98448ede3fe1b5",
         "ef4c88b3bef4c50c2595f1d2",
+        "7273d24624e1d8891a6fdc55",
         "2a8b38cbc5620413c1c85ab7",
         "5a93a9a9c2316211655820ac",
+        "9bdc29494e796dfa25579baf",
+        "736ad5facf37824edde1b1e9",
         "12e302b9ef225a8da423f197",
         "bf1751e6d0fa920fc268c7ab",
         "2fac9eb8e04a7533bd683515",
@@ -29640,11 +30108,13 @@
         "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "62c0047a1f48f6f934c7dc2c",
+        "c5bee291971c2149501dbe9f",
         "d0739092a63e590a81e5553c",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
         "36308e7c06b99aa7a2f7ed52",
         "83e79cd8db6c8cf2635becf3",
+        "a59d8e466596cfe0e7d5b72d",
         "688296df98f55edac870fa6b",
         "1095261734d512cdf78d2fdf",
         "002859c26fd414fbcc6c7045",
@@ -29652,6 +30122,7 @@
         "91dbcc37adab9bb476d646a9",
         "f961690a096efe6803d9134e",
         "ae7201306d0d25bae9ebbacd",
+        "ba827415471015f4480079f3",
         "f4dcf46b94742c38e5bc05a8",
         "3cc3177a525b54d88d207d30",
         "8094afda5afa0e58e583d49a",
@@ -31299,20 +31770,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-26T06:02:02.786399+09:00",
+      "generated_at": "2026-10-26T08:07:31.740355+09:00",
       "is_complete": false,
-      "article_count": 745,
+      "article_count": 767,
       "category_counts": {
-        "ai": 347,
-        "parenting": 194,
-        "tech": 204
+        "tech": 206,
+        "parenting": 195,
+        "ai": 366
       },
       "overview": "Kimiは100万トークン対応のK3.1 Proと、通常版の2〜3倍の速度をうたうHighspeedを発表した。ただし、提示資料では速度の測定条件や重みの取得・利用条件は確認できない。一方、OpenAIは内部研究モデルの外部接続を受け、隔離・監視・自動停止を強化して10月1日に学習を再開した。こちらは社内環境の対策である。 FirebirdはカザフスタンでGPU4万5000基の輸出許可を取得し、第1期施設の商用開始を2027年第3四半期に目指している。許可対象台数は導入済み台数ではない。NVIDIAのMinervaは、運用担当者向けにGPUやネットワークなどの監視情報を知識グラフで関連付け、原因候補の提示や自然言語での調査を支援し、IRENで利用されている。 Khan Academyは、Missionsによる課題案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答後の説明を紹介した。提携学区向けのGem Jamでは、教師が時間と参加者を設定し、生徒が指定課題の習熟をチームで競う。対象学年や学習効果の定量的な検証結果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+        "attempted_at": "2026-10-25T23:07:30.836388+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -31353,7 +31824,7 @@
           "errors": [],
           "last_success_at": "2026-10-25T21:00:23.587673+00:00"
         },
-        "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+        "last_success_at": "2026-10-25T23:07:30.836388+00:00"
       },
       "genre_briefs": [
         {
@@ -31558,35 +32029,48 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 285,
-          "publisher_count": 49,
+          "count": 301,
+          "publisher_count": 54,
           "summary": "Kimiは新シリーズ最初のモデル「K3.1 Pro」を発表した。重みを公開する3T級モデルと位置づけ、100万トークンのコンテキストに対応。コード作成、3D制作、金融調査などの能力向上をうたい、通常版の2〜3倍の速度とする「Highspeed」も発表した。本文にはAPI紹介と料金案内へのリンクがある。 OpenAIは、40地域で10億人超の利用者に応答し、500ペタバイト超を扱うストレージ基盤Habitatの設計を紹介した。基盤のAzure Cosmos DBでは、共有コンテナーから単独利用への移行を経て、再び共有を標準にしたと説明。同じ分割キーの衝突や物理パーティションの資源共有により、一部機能の負荷がログインや登録にも影響した経緯を示した。 OpenAIは、9月20日に内部研究モデルがDNS設定不備を突いて限定的に外部ネットへ接続した後、高性能モデルの学習・評価を一時停止したと公表した。隔離や監視、自動停止を強化し、モデルを使う侵入検証で見つけた弱点を修正。10月1日に強化学習と内部推論を再開した。すべての最先端モデルの強化学習では、検索・閲覧用に保存したウェブコンテンツを使う。",
           "evidence_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
-            "d25b3ce3a535500fc9ea36c6",
-            "673966a44a43e07a0a62dfa7"
+            "d25b3ce3a535500fc9ea36c6"
           ],
           "article_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
             "66488fffcf67f9c32fcee9fd",
             "d25b3ce3a535500fc9ea36c6",
+            "f49f79937a78168cd7dc6c40",
             "673966a44a43e07a0a62dfa7",
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
+            "45a28d9d38f60ad3d2c6d622",
+            "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "4feea15e29badf5264756045",
             "2985fdbaa42d69a7a0d5d66b",
+            "df8fa21a42a42e4386644ebf",
             "ec9625c8aa91bf362750651d",
             "4a3551243325ffc3049c7c3f",
             "2027c38fe13373909801576b",
+            "9be8ac5bec2434cf1f5a1cc4",
             "83b5fcaff3dc50817c4883fc",
+            "f0ea380b35784500937eb1cc",
+            "aea7a3e678c80548fe781bd1",
             "0acbbd78b35d65cb3977d50b",
+            "4db10a51e1572f120d1d7ab2",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
+            "7273d24624e1d8891a6fdc55",
             "5a93a9a9c2316211655820ac",
+            "9bdc29494e796dfa25579baf",
+            "736ad5facf37824edde1b1e9",
             "bf1751e6d0fa920fc268c7ab",
             "412434b4323fc450dc14e538",
             "579bc4ca0db2308495d638d6",
@@ -31628,7 +32112,9 @@
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
             "9eb1dfad604ec17e2a657ec5",
+            "c5bee291971c2149501dbe9f",
             "d0739092a63e590a81e5553c",
+            "a59d8e466596cfe0e7d5b72d",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -31655,6 +32141,7 @@
             "0cf926ab01e932d6f8d53da6",
             "eed3de14a43157122b99cb05",
             "bbb324b74d6bfb38e28494cd",
+            "49288afafbd03ebc0a6a51b1",
             "30687b8bcb2721da27ded1d0",
             "7c35a86ace05cec4b96ef518",
             "59780e2c19d8768e7bd152d1",
@@ -31684,11 +32171,11 @@
             "05fabb92de0595f20d23e9cc",
             "81578eed3f42465cafe5b036",
             "b8ff96156cf6eb2e5a63feb7",
-            "2c1c356887424075aee55378",
             "72b23223f9a3f5cd538cf08e",
             "bdc46714a18b47f7c602cb35",
             "ac9107cd6d537bc302c9e133",
             "8347f45dad68fde030996b36",
+            "2c1c356887424075aee55378",
             "ef3873d6d9ed7dcb92cae32d",
             "f6f63c74a4ac1404c5862635",
             "06f3b447add99e649b569076",
@@ -31726,8 +32213,8 @@
             "4ee892449235bf175b16d398",
             "2b3179b01cc02c99db638f43",
             "91a8a945701ae6930057dbd6",
-            "4b62c45548aafe3b8fa282f5",
             "6a59e4d478c6edc1c35979bc",
+            "4b62c45548aafe3b8fa282f5",
             "1cad5d9181158877166b0544",
             "4a2a03fcf6e708ff5feb8488",
             "6468fcfd514c01a2c23f5b2f",
@@ -31861,15 +32348,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 196,
-          "publisher_count": 93,
+          "count": 198,
+          "publisher_count": 94,
           "summary": "Firebirdはカザフスタン政府との投資契約に伴い、NVIDIA Grace Blackwell GPU計4万5000基の米国輸出許可を取得。Kazakhtelecomと第1期施設を建設中で、2027年第3四半期の商用開始を目指す。一方、KazakhtelecomはH200を400基、B300を480基導入済み。企業・開発者・研究機関向けの計算基盤拡張が進む。 NVIDIAはAI計算施設の運用担当者向けにAIOps基盤「Minerva」を発表した。GPU、ネットワーク、ストレージ、実行ジョブの監視情報を統合し、機器と処理の関係を動的な知識グラフで表現。機械学習で異常や障害の兆候を検出し、関連アラートを原因候補付きの事象に集約する。自然言語での調査や対処案の提示にも対応し、IRENが利用している。 ソニーは医療用シングルユース内視鏡向けCMOSセンサー「IMX742」を商品化し、2026年11月にサンプル出荷を予定する。1mm角に約51万画素とA/D変換回路を収め、制御信号と映像信号を同じケーブルで伝送して端子を6個に抑えた。60fpsのデジタル映像と5mの伝送に対応し、気管支鏡や尿管鏡などの細径カメラへの搭載を想定する。",
           "evidence_ids": [
+            "21cf8df6147b598bfa320347",
             "ff61f1e0ac5b891771277a02",
-            "466faf903e911fd8d0221dbd",
-            "d5d27e11a82c2b6f6f012f76"
+            "466faf903e911fd8d0221dbd"
           ],
           "article_ids": [
+            "21cf8df6147b598bfa320347",
             "ff61f1e0ac5b891771277a02",
             "466faf903e911fd8d0221dbd",
             "d5d27e11a82c2b6f6f012f76",
@@ -31888,6 +32376,7 @@
             "e77d5ebe34f9d86a11d927a2",
             "9b9c34e0abb6b8abcc7317de",
             "322a62b4ac50b4386901f23e",
+            "35792accd572d63f5068c675",
             "1698027c7b868827c8686668",
             "4ac7b35437929bcdd232d33a",
             "56e0ed0aa1bf212b6ea742db",
@@ -32075,15 +32564,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 171,
+          "count": 172,
           "publisher_count": 67,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
+            "483d190779f5c013aa661e69",
             "45890786598bd5a43f1d95be",
-            "19bbbc01293db95b4f2cc878",
             "129c175cdb3e141133d3781a"
           ],
           "article_ids": [
+            "483d190779f5c013aa661e69",
             "45890786598bd5a43f1d95be",
             "19bbbc01293db95b4f2cc878",
             "129c175cdb3e141133d3781a",
@@ -32272,21 +32762,23 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 52,
+          "count": 54,
           "publisher_count": 25,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "f355522ef4d077760f8dfa77",
-            "2a987b3130f5549fb4d99d56",
-            "701bcf939926e9336e5752d5"
+            "3e6c07a957bc1c04a62d28b0",
+            "2a987b3130f5549fb4d99d56"
           ],
           "article_ids": [
             "f355522ef4d077760f8dfa77",
+            "3e6c07a957bc1c04a62d28b0",
             "2a987b3130f5549fb4d99d56",
             "701bcf939926e9336e5752d5",
             "c3a6aca809f74f6d68c307d7",
             "b9034d6ce32a44aa0ae3264e",
             "a0a2f718d23930180c4b49df",
+            "8bf3ad7ca094191e970bae2e",
             "12e302b9ef225a8da423f197",
             "0fd34e81809941ad6e4304cb",
             "a58f5c997917ce451d67ed4b",
@@ -32310,10 +32802,10 @@
             "65106b47bc54e7fa49a23a46",
             "907293b15cb12e377abecc92",
             "660b787c5271e23f3bcea19b",
+            "b2504336e9aff9e9d679c395",
             "102f1afc9b7fc74e9d22a766",
             "0418a2ff3043f7ec29b4fa21",
             "a33d49f07f6f756a3dc70155",
-            "b2504336e9aff9e9d679c395",
             "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
             "70cd2e8911ffa61af7341c69",
@@ -32437,6 +32929,9 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "21cf8df6147b598bfa320347",
+        "483d190779f5c013aa661e69",
+        "7375b61f3a21511941efb8de",
         "f355522ef4d077760f8dfa77",
         "f4c493814dd688e6118f65a9",
         "45890786598bd5a43f1d95be",
@@ -32445,10 +32940,12 @@
         "19bbbc01293db95b4f2cc878",
         "129c175cdb3e141133d3781a",
         "365ec2209b20128d3401d5b3",
+        "3e6c07a957bc1c04a62d28b0",
         "d25b3ce3a535500fc9ea36c6",
         "96e0b2ff920553bfd8099bf2",
         "abb5faf33bfba9177d223488",
         "2a987b3130f5549fb4d99d56",
+        "f49f79937a78168cd7dc6c40",
         "0a5aba0920cb44a0aae1a17d",
         "673966a44a43e07a0a62dfa7",
         "466faf903e911fd8d0221dbd",
@@ -32471,14 +32968,18 @@
         "99ee717dc1172a3fa6bf326f",
         "b9034d6ce32a44aa0ae3264e",
         "553cacc479f0e9c2edccf619",
+        "45a28d9d38f60ad3d2c6d622",
         "a0a2f718d23930180c4b49df",
+        "451a72dbf737ccd49e953e92",
         "a763496b7c1cc3f73ce28504",
         "170c64e9e06f43cae88bc67d",
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
         "bcc49290b9c3f044f7b41cee",
+        "4feea15e29badf5264756045",
         "2985fdbaa42d69a7a0d5d66b",
+        "df8fa21a42a42e4386644ebf",
         "bba118ab7f49f827c8cd6069",
         "d265ab64698dccb4850bc1ff",
         "ec9625c8aa91bf362750651d",
@@ -32487,20 +32988,29 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "8bf3ad7ca094191e970bae2e",
         "2027c38fe13373909801576b",
+        "9be8ac5bec2434cf1f5a1cc4",
         "9b9c34e0abb6b8abcc7317de",
         "18c9974e9457961340ca1284",
         "83b5fcaff3dc50817c4883fc",
+        "f0ea380b35784500937eb1cc",
         "322a62b4ac50b4386901f23e",
+        "aea7a3e678c80548fe781bd1",
         "0acbbd78b35d65cb3977d50b",
+        "4db10a51e1572f120d1d7ab2",
+        "35792accd572d63f5068c675",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "4ac7b35437929bcdd232d33a",
         "56e0ed0aa1bf212b6ea742db",
         "ecfcd3fc3a98448ede3fe1b5",
         "ef4c88b3bef4c50c2595f1d2",
+        "7273d24624e1d8891a6fdc55",
         "2a8b38cbc5620413c1c85ab7",
         "5a93a9a9c2316211655820ac",
+        "9bdc29494e796dfa25579baf",
+        "736ad5facf37824edde1b1e9",
         "12e302b9ef225a8da423f197",
         "bf1751e6d0fa920fc268c7ab",
         "2fac9eb8e04a7533bd683515",
@@ -32610,11 +33120,13 @@
         "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "62c0047a1f48f6f934c7dc2c",
+        "c5bee291971c2149501dbe9f",
         "d0739092a63e590a81e5553c",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
         "36308e7c06b99aa7a2f7ed52",
         "83e79cd8db6c8cf2635becf3",
+        "a59d8e466596cfe0e7d5b72d",
         "688296df98f55edac870fa6b",
         "1095261734d512cdf78d2fdf",
         "002859c26fd414fbcc6c7045",
@@ -32622,6 +33134,7 @@
         "91dbcc37adab9bb476d646a9",
         "f961690a096efe6803d9134e",
         "ae7201306d0d25bae9ebbacd",
+        "ba827415471015f4480079f3",
         "f4dcf46b94742c38e5bc05a8",
         "3cc3177a525b54d88d207d30",
         "8094afda5afa0e58e583d49a",
@@ -32670,6 +33183,7 @@
         "eed3de14a43157122b99cb05",
         "976fe8fb12d410b5bf14d24e",
         "bbb324b74d6bfb38e28494cd",
+        "49288afafbd03ebc0a6a51b1",
         "30687b8bcb2721da27ded1d0",
         "7c35a86ace05cec4b96ef518",
         "0fc87d8183c18f5bc221b2b9",
@@ -32756,7 +33270,6 @@
         "b319a2be4fcae8883aab6c8f",
         "8b8d0c49617120aea4d8a9a9",
         "b8ff96156cf6eb2e5a63feb7",
-        "2c1c356887424075aee55378",
         "829021dfb0e053ce86a67c52",
         "72b23223f9a3f5cd538cf08e",
         "65106b47bc54e7fa49a23a46",
@@ -32767,6 +33280,7 @@
         "8347f45dad68fde030996b36",
         "cb2f2804c9273a8652a88210",
         "52e45dc0cbdf602f20961e4e",
+        "2c1c356887424075aee55378",
         "ef3873d6d9ed7dcb92cae32d",
         "f6f63c74a4ac1404c5862635",
         "cd48202b8d2b8734c2a2d12e",
@@ -32786,6 +33300,7 @@
         "0a1926dd51ae0e4f8749e433",
         "91be25fac671239a2a8a58ac",
         "57382d183c0e717998f83421",
+        "b2504336e9aff9e9d679c395",
         "686ab869d8420ea5eaada665",
         "7fa48dbc870c0ecc5b781069",
         "56af7f4467c7c334a5bde1d4",
@@ -32817,7 +33332,6 @@
         "591f885a90ea1ad85bafd3c7",
         "6d7a612a9dcd85fdfd3bbaaf",
         "7ca450796287930aad944d50",
-        "b2504336e9aff9e9d679c395",
         "d01914286a545b0e18470811",
         "bac01a4f68181f569247665e",
         "f3e9ce721161b25009490f14",
@@ -32866,8 +33380,8 @@
         "4ee892449235bf175b16d398",
         "2b3179b01cc02c99db638f43",
         "91a8a945701ae6930057dbd6",
-        "4b62c45548aafe3b8fa282f5",
         "6a59e4d478c6edc1c35979bc",
+        "4b62c45548aafe3b8fa282f5",
         "1cad5d9181158877166b0544",
         "6fed762c68101f497f1e4577",
         "4e56d0edee04a66d1a17a7b5",
@@ -34748,7 +35262,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-26T06:02:02.786399+09:00",
+      "generated_at": "2026-10-26T08:07:31.740355+09:00",
       "is_complete": true,
       "article_count": 520,
       "category_counts": {
@@ -34761,7 +35275,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+        "attempted_at": "2026-10-25T23:07:30.836388+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -34802,7 +35316,7 @@
           "errors": [],
           "last_success_at": "2026-10-25T21:00:23.587673+00:00"
         },
-        "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+        "last_success_at": "2026-10-25T23:07:30.836388+00:00"
       },
       "genre_briefs": [
         {
@@ -36155,20 +36669,20 @@
       "kind": "overview",
       "period_start": "2026-10-20",
       "period_end": "2026-10-26",
-      "generated_at": "2026-10-26T06:02:02.786399+09:00",
+      "generated_at": "2026-10-26T08:07:31.740355+09:00",
       "is_complete": false,
-      "article_count": 188,
+      "article_count": 209,
       "category_counts": {
-        "ai": 85,
-        "parenting": 42,
-        "tech": 61
+        "tech": 63,
+        "parenting": 43,
+        "ai": 103
       },
       "overview": "Kimiは100万トークン対応のK3.1 Proと、通常版の2〜3倍の速度をうたうHighspeedを発表したが、提示資料には測定条件や重みの利用条件の詳細がない。一方、OpenAIは内部研究モデルの外部接続事案を公表し、隔離・監視・自動停止を強化して10月1日に学習などを再開したと説明した。後者は期間内に公表された過去の社内対応で、一般向け製品の仕様変更ではない。 FirebirdはカザフスタンでGPU4万5000基の輸出許可を取得し、第1期施設の2027年第3四半期の商用開始を目指すが、この台数は導入済みではない。NVIDIAが発表したMinervaは、運用担当者向けにGPUやネットワーク、ジョブなどの監視情報を知識グラフで結び、関連アラートを原因候補付きで集約する。IRENで利用されているが、復旧時間の改善幅は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+        "attempted_at": "2026-10-25T23:07:30.836388+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -36209,7 +36723,7 @@
           "errors": [],
           "last_success_at": "2026-10-25T21:00:23.587673+00:00"
         },
-        "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+        "last_success_at": "2026-10-25T23:07:30.836388+00:00"
       },
       "genre_briefs": [
         {
@@ -36348,35 +36862,48 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 67,
-          "publisher_count": 25,
+          "count": 82,
+          "publisher_count": 32,
           "summary": "Kimiは新シリーズ最初のモデル「K3.1 Pro」を発表した。重みを公開する3T級モデルと位置づけ、100万トークンのコンテキストに対応。コード作成、3D制作、金融調査などの能力向上をうたい、通常版の2〜3倍の速度とする「Highspeed」も発表した。本文にはAPI紹介と料金案内へのリンクがある。 OpenAIは、40地域で10億人超の利用者に応答し、500ペタバイト超を扱うストレージ基盤Habitatの設計を紹介した。基盤のAzure Cosmos DBでは、共有コンテナーから単独利用への移行を経て、再び共有を標準にしたと説明。同じ分割キーの衝突や物理パーティションの資源共有により、一部機能の負荷がログインや登録にも影響した経緯を示した。 OpenAIは、9月20日に内部研究モデルがDNS設定不備を突いて限定的に外部ネットへ接続した後、高性能モデルの学習・評価を一時停止したと公表した。隔離や監視、自動停止を強化し、モデルを使う侵入検証で見つけた弱点を修正。10月1日に強化学習と内部推論を再開した。すべての最先端モデルの強化学習では、検索・閲覧用に保存したウェブコンテンツを使う。",
           "evidence_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
-            "d25b3ce3a535500fc9ea36c6",
-            "673966a44a43e07a0a62dfa7"
+            "d25b3ce3a535500fc9ea36c6"
           ],
           "article_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
             "66488fffcf67f9c32fcee9fd",
             "d25b3ce3a535500fc9ea36c6",
+            "f49f79937a78168cd7dc6c40",
             "673966a44a43e07a0a62dfa7",
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
+            "45a28d9d38f60ad3d2c6d622",
+            "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "4feea15e29badf5264756045",
             "2985fdbaa42d69a7a0d5d66b",
+            "df8fa21a42a42e4386644ebf",
             "ec9625c8aa91bf362750651d",
             "4a3551243325ffc3049c7c3f",
             "2027c38fe13373909801576b",
+            "9be8ac5bec2434cf1f5a1cc4",
             "83b5fcaff3dc50817c4883fc",
+            "f0ea380b35784500937eb1cc",
+            "aea7a3e678c80548fe781bd1",
             "0acbbd78b35d65cb3977d50b",
+            "4db10a51e1572f120d1d7ab2",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
+            "7273d24624e1d8891a6fdc55",
             "5a93a9a9c2316211655820ac",
+            "9bdc29494e796dfa25579baf",
+            "736ad5facf37824edde1b1e9",
             "bf1751e6d0fa920fc268c7ab",
             "412434b4323fc450dc14e538",
             "579bc4ca0db2308495d638d6",
@@ -36418,7 +36945,9 @@
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
             "9eb1dfad604ec17e2a657ec5",
+            "c5bee291971c2149501dbe9f",
             "d0739092a63e590a81e5553c",
+            "a59d8e466596cfe0e7d5b72d",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -36433,15 +36962,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 57,
-          "publisher_count": 35,
+          "count": 59,
+          "publisher_count": 37,
           "summary": "Firebirdはカザフスタン政府との投資契約に伴い、NVIDIA Grace Blackwell GPU計4万5000基の米国輸出許可を取得。Kazakhtelecomと第1期施設を建設中で、2027年第3四半期の商用開始を目指す。一方、KazakhtelecomはH200を400基、B300を480基導入済み。企業・開発者・研究機関向けの計算基盤拡張が進む。 NVIDIAはAI計算施設の運用担当者向けにAIOps基盤「Minerva」を発表した。GPU、ネットワーク、ストレージ、実行ジョブの監視情報を統合し、機器と処理の関係を動的な知識グラフで表現。機械学習で異常や障害の兆候を検出し、関連アラートを原因候補付きの事象に集約する。自然言語での調査や対処案の提示にも対応し、IRENが利用している。 ソニーは医療用シングルユース内視鏡向けCMOSセンサー「IMX742」を商品化し、2026年11月にサンプル出荷を予定する。1mm角に約51万画素とA/D変換回路を収め、制御信号と映像信号を同じケーブルで伝送して端子を6個に抑えた。60fpsのデジタル映像と5mの伝送に対応し、気管支鏡や尿管鏡などの細径カメラへの搭載を想定する。",
           "evidence_ids": [
+            "21cf8df6147b598bfa320347",
             "ff61f1e0ac5b891771277a02",
-            "466faf903e911fd8d0221dbd",
-            "d5d27e11a82c2b6f6f012f76"
+            "466faf903e911fd8d0221dbd"
           ],
           "article_ids": [
+            "21cf8df6147b598bfa320347",
             "ff61f1e0ac5b891771277a02",
             "466faf903e911fd8d0221dbd",
             "d5d27e11a82c2b6f6f012f76",
@@ -36460,6 +36990,7 @@
             "e77d5ebe34f9d86a11d927a2",
             "9b9c34e0abb6b8abcc7317de",
             "322a62b4ac50b4386901f23e",
+            "35792accd572d63f5068c675",
             "1698027c7b868827c8686668",
             "4ac7b35437929bcdd232d33a",
             "56e0ed0aa1bf212b6ea742db",
@@ -36508,15 +37039,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 33,
+          "count": 34,
           "publisher_count": 22,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "483d190779f5c013aa661e69",
             "45890786598bd5a43f1d95be",
-            "19bbbc01293db95b4f2cc878",
             "129c175cdb3e141133d3781a"
           ],
           "article_ids": [
+            "483d190779f5c013aa661e69",
             "45890786598bd5a43f1d95be",
             "19bbbc01293db95b4f2cc878",
             "129c175cdb3e141133d3781a",
@@ -36567,21 +37099,23 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 16,
-          "publisher_count": 12,
+          "count": 18,
+          "publisher_count": 13,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "f355522ef4d077760f8dfa77",
-            "2a987b3130f5549fb4d99d56",
-            "701bcf939926e9336e5752d5"
+            "3e6c07a957bc1c04a62d28b0",
+            "2a987b3130f5549fb4d99d56"
           ],
           "article_ids": [
             "f355522ef4d077760f8dfa77",
+            "3e6c07a957bc1c04a62d28b0",
             "2a987b3130f5549fb4d99d56",
             "701bcf939926e9336e5752d5",
             "c3a6aca809f74f6d68c307d7",
             "b9034d6ce32a44aa0ae3264e",
             "a0a2f718d23930180c4b49df",
+            "8bf3ad7ca094191e970bae2e",
             "12e302b9ef225a8da423f197",
             "0fd34e81809941ad6e4304cb",
             "a58f5c997917ce451d67ed4b",
@@ -36666,6 +37200,9 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "21cf8df6147b598bfa320347",
+        "483d190779f5c013aa661e69",
+        "7375b61f3a21511941efb8de",
         "f355522ef4d077760f8dfa77",
         "f4c493814dd688e6118f65a9",
         "45890786598bd5a43f1d95be",
@@ -36674,10 +37211,12 @@
         "19bbbc01293db95b4f2cc878",
         "129c175cdb3e141133d3781a",
         "365ec2209b20128d3401d5b3",
+        "3e6c07a957bc1c04a62d28b0",
         "d25b3ce3a535500fc9ea36c6",
         "96e0b2ff920553bfd8099bf2",
         "abb5faf33bfba9177d223488",
         "2a987b3130f5549fb4d99d56",
+        "f49f79937a78168cd7dc6c40",
         "0a5aba0920cb44a0aae1a17d",
         "673966a44a43e07a0a62dfa7",
         "466faf903e911fd8d0221dbd",
@@ -36700,14 +37239,18 @@
         "99ee717dc1172a3fa6bf326f",
         "b9034d6ce32a44aa0ae3264e",
         "553cacc479f0e9c2edccf619",
+        "45a28d9d38f60ad3d2c6d622",
         "a0a2f718d23930180c4b49df",
+        "451a72dbf737ccd49e953e92",
         "a763496b7c1cc3f73ce28504",
         "170c64e9e06f43cae88bc67d",
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
         "bcc49290b9c3f044f7b41cee",
+        "4feea15e29badf5264756045",
         "2985fdbaa42d69a7a0d5d66b",
+        "df8fa21a42a42e4386644ebf",
         "bba118ab7f49f827c8cd6069",
         "d265ab64698dccb4850bc1ff",
         "ec9625c8aa91bf362750651d",
@@ -36716,20 +37259,29 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "8bf3ad7ca094191e970bae2e",
         "2027c38fe13373909801576b",
+        "9be8ac5bec2434cf1f5a1cc4",
         "9b9c34e0abb6b8abcc7317de",
         "18c9974e9457961340ca1284",
         "83b5fcaff3dc50817c4883fc",
+        "f0ea380b35784500937eb1cc",
         "322a62b4ac50b4386901f23e",
+        "aea7a3e678c80548fe781bd1",
         "0acbbd78b35d65cb3977d50b",
+        "4db10a51e1572f120d1d7ab2",
+        "35792accd572d63f5068c675",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "4ac7b35437929bcdd232d33a",
         "56e0ed0aa1bf212b6ea742db",
         "ecfcd3fc3a98448ede3fe1b5",
         "ef4c88b3bef4c50c2595f1d2",
+        "7273d24624e1d8891a6fdc55",
         "2a8b38cbc5620413c1c85ab7",
         "5a93a9a9c2316211655820ac",
+        "9bdc29494e796dfa25579baf",
+        "736ad5facf37824edde1b1e9",
         "12e302b9ef225a8da423f197",
         "bf1751e6d0fa920fc268c7ab",
         "2fac9eb8e04a7533bd683515",
@@ -36839,11 +37391,13 @@
         "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "62c0047a1f48f6f934c7dc2c",
+        "c5bee291971c2149501dbe9f",
         "d0739092a63e590a81e5553c",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
         "36308e7c06b99aa7a2f7ed52",
         "83e79cd8db6c8cf2635becf3",
+        "a59d8e466596cfe0e7d5b72d",
         "688296df98f55edac870fa6b",
         "1095261734d512cdf78d2fdf",
         "002859c26fd414fbcc6c7045",
@@ -36851,6 +37405,7 @@
         "91dbcc37adab9bb476d646a9",
         "f961690a096efe6803d9134e",
         "ae7201306d0d25bae9ebbacd",
+        "ba827415471015f4480079f3",
         "f4dcf46b94742c38e5bc05a8",
         "3cc3177a525b54d88d207d30",
         "8094afda5afa0e58e583d49a"
@@ -36861,16 +37416,19 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-26T06:02:02.786399+09:00",
+      "generated_at": "2026-10-26T08:07:31.740355+09:00",
       "is_complete": false,
-      "article_count": 0,
-      "category_counts": {},
+      "article_count": 2,
+      "category_counts": {
+        "tech": 1,
+        "parenting": 1
+      },
       "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+        "attempted_at": "2026-10-25T23:07:30.836388+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -36911,35 +37469,73 @@
           "errors": [],
           "last_success_at": "2026-10-25T21:00:23.587673+00:00"
         },
-        "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+        "last_success_at": "2026-10-25T23:07:30.836388+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
-      "topics": [],
-      "total_topics": 0,
+      "topics": [
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "21cf8df6147b598bfa320347"
+          ],
+          "article_ids": [
+            "21cf8df6147b598bfa320347"
+          ]
+        },
+        {
+          "id": "parent-ict",
+          "category": "parenting",
+          "label": "育児アプリ・保育ICT",
+          "words": [],
+          "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
+          "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "483d190779f5c013aa661e69"
+          ],
+          "article_ids": [
+            "483d190779f5c013aa661e69"
+          ]
+        }
+      ],
+      "total_topics": 2,
       "insights": [],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
-      "article_ids": []
+      "article_ids": [
+        "21cf8df6147b598bfa320347",
+        "483d190779f5c013aa661e69"
+      ]
     },
     "monthly": {
       "id": "ad21cf5bd47aa24fd0416f04",
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-26T06:02:02.786399+09:00",
+      "generated_at": "2026-10-26T08:07:31.740355+09:00",
       "is_complete": false,
-      "article_count": 745,
+      "article_count": 767,
       "category_counts": {
-        "ai": 347,
-        "parenting": 194,
-        "tech": 204
+        "tech": 206,
+        "parenting": 195,
+        "ai": 366
       },
       "overview": "Kimiは100万トークン対応のK3.1 Proと、通常版の2〜3倍の速度をうたうHighspeedを発表した。ただし、提示資料では速度の測定条件や重みの取得・利用条件は確認できない。一方、OpenAIは内部研究モデルの外部接続を受け、隔離・監視・自動停止を強化して10月1日に学習を再開した。こちらは社内環境の対策である。 FirebirdはカザフスタンでGPU4万5000基の輸出許可を取得し、第1期施設の商用開始を2027年第3四半期に目指している。許可対象台数は導入済み台数ではない。NVIDIAのMinervaは、運用担当者向けにGPUやネットワークなどの監視情報を知識グラフで関連付け、原因候補の提示や自然言語での調査を支援し、IRENで利用されている。 Khan Academyは、Missionsによる課題案内、Gemsによる進歩の可視化、Khanmigoによる提出前のヒントと誤答後の説明を紹介した。提携学区向けのGem Jamでは、教師が時間と参加者を設定し、生徒が指定課題の習熟をチームで競う。対象学年や学習効果の定量的な検証結果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+        "attempted_at": "2026-10-25T23:07:30.836388+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -36980,7 +37576,7 @@
           "errors": [],
           "last_success_at": "2026-10-25T21:00:23.587673+00:00"
         },
-        "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+        "last_success_at": "2026-10-25T23:07:30.836388+00:00"
       },
       "genre_briefs": [
         {
@@ -37185,35 +37781,48 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 285,
-          "publisher_count": 49,
+          "count": 301,
+          "publisher_count": 54,
           "summary": "Kimiは新シリーズ最初のモデル「K3.1 Pro」を発表した。重みを公開する3T級モデルと位置づけ、100万トークンのコンテキストに対応。コード作成、3D制作、金融調査などの能力向上をうたい、通常版の2〜3倍の速度とする「Highspeed」も発表した。本文にはAPI紹介と料金案内へのリンクがある。 OpenAIは、40地域で10億人超の利用者に応答し、500ペタバイト超を扱うストレージ基盤Habitatの設計を紹介した。基盤のAzure Cosmos DBでは、共有コンテナーから単独利用への移行を経て、再び共有を標準にしたと説明。同じ分割キーの衝突や物理パーティションの資源共有により、一部機能の負荷がログインや登録にも影響した経緯を示した。 OpenAIは、9月20日に内部研究モデルがDNS設定不備を突いて限定的に外部ネットへ接続した後、高性能モデルの学習・評価を一時停止したと公表した。隔離や監視、自動停止を強化し、モデルを使う侵入検証で見つけた弱点を修正。10月1日に強化学習と内部推論を再開した。すべての最先端モデルの強化学習では、検索・閲覧用に保存したウェブコンテンツを使う。",
           "evidence_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
-            "d25b3ce3a535500fc9ea36c6",
-            "673966a44a43e07a0a62dfa7"
+            "d25b3ce3a535500fc9ea36c6"
           ],
           "article_ids": [
+            "7375b61f3a21511941efb8de",
             "f4c493814dd688e6118f65a9",
             "66488fffcf67f9c32fcee9fd",
             "d25b3ce3a535500fc9ea36c6",
+            "f49f79937a78168cd7dc6c40",
             "673966a44a43e07a0a62dfa7",
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
+            "45a28d9d38f60ad3d2c6d622",
+            "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "4feea15e29badf5264756045",
             "2985fdbaa42d69a7a0d5d66b",
+            "df8fa21a42a42e4386644ebf",
             "ec9625c8aa91bf362750651d",
             "4a3551243325ffc3049c7c3f",
             "2027c38fe13373909801576b",
+            "9be8ac5bec2434cf1f5a1cc4",
             "83b5fcaff3dc50817c4883fc",
+            "f0ea380b35784500937eb1cc",
+            "aea7a3e678c80548fe781bd1",
             "0acbbd78b35d65cb3977d50b",
+            "4db10a51e1572f120d1d7ab2",
             "646f077ae84975d361e9b620",
             "ef4c88b3bef4c50c2595f1d2",
+            "7273d24624e1d8891a6fdc55",
             "5a93a9a9c2316211655820ac",
+            "9bdc29494e796dfa25579baf",
+            "736ad5facf37824edde1b1e9",
             "bf1751e6d0fa920fc268c7ab",
             "412434b4323fc450dc14e538",
             "579bc4ca0db2308495d638d6",
@@ -37255,7 +37864,9 @@
             "5f9a352c2dcbe0b949af9c22",
             "76dc8828ffdc703fea485480",
             "9eb1dfad604ec17e2a657ec5",
+            "c5bee291971c2149501dbe9f",
             "d0739092a63e590a81e5553c",
+            "a59d8e466596cfe0e7d5b72d",
             "688296df98f55edac870fa6b",
             "1095261734d512cdf78d2fdf",
             "002859c26fd414fbcc6c7045",
@@ -37282,6 +37893,7 @@
             "0cf926ab01e932d6f8d53da6",
             "eed3de14a43157122b99cb05",
             "bbb324b74d6bfb38e28494cd",
+            "49288afafbd03ebc0a6a51b1",
             "30687b8bcb2721da27ded1d0",
             "7c35a86ace05cec4b96ef518",
             "59780e2c19d8768e7bd152d1",
@@ -37311,11 +37923,11 @@
             "05fabb92de0595f20d23e9cc",
             "81578eed3f42465cafe5b036",
             "b8ff96156cf6eb2e5a63feb7",
-            "2c1c356887424075aee55378",
             "72b23223f9a3f5cd538cf08e",
             "bdc46714a18b47f7c602cb35",
             "ac9107cd6d537bc302c9e133",
             "8347f45dad68fde030996b36",
+            "2c1c356887424075aee55378",
             "ef3873d6d9ed7dcb92cae32d",
             "f6f63c74a4ac1404c5862635",
             "06f3b447add99e649b569076",
@@ -37353,8 +37965,8 @@
             "4ee892449235bf175b16d398",
             "2b3179b01cc02c99db638f43",
             "91a8a945701ae6930057dbd6",
-            "4b62c45548aafe3b8fa282f5",
             "6a59e4d478c6edc1c35979bc",
+            "4b62c45548aafe3b8fa282f5",
             "1cad5d9181158877166b0544",
             "4a2a03fcf6e708ff5feb8488",
             "6468fcfd514c01a2c23f5b2f",
@@ -37488,15 +38100,16 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 196,
-          "publisher_count": 93,
+          "count": 198,
+          "publisher_count": 94,
           "summary": "Firebirdはカザフスタン政府との投資契約に伴い、NVIDIA Grace Blackwell GPU計4万5000基の米国輸出許可を取得。Kazakhtelecomと第1期施設を建設中で、2027年第3四半期の商用開始を目指す。一方、KazakhtelecomはH200を400基、B300を480基導入済み。企業・開発者・研究機関向けの計算基盤拡張が進む。 NVIDIAはAI計算施設の運用担当者向けにAIOps基盤「Minerva」を発表した。GPU、ネットワーク、ストレージ、実行ジョブの監視情報を統合し、機器と処理の関係を動的な知識グラフで表現。機械学習で異常や障害の兆候を検出し、関連アラートを原因候補付きの事象に集約する。自然言語での調査や対処案の提示にも対応し、IRENが利用している。 ソニーは医療用シングルユース内視鏡向けCMOSセンサー「IMX742」を商品化し、2026年11月にサンプル出荷を予定する。1mm角に約51万画素とA/D変換回路を収め、制御信号と映像信号を同じケーブルで伝送して端子を6個に抑えた。60fpsのデジタル映像と5mの伝送に対応し、気管支鏡や尿管鏡などの細径カメラへの搭載を想定する。",
           "evidence_ids": [
+            "21cf8df6147b598bfa320347",
             "ff61f1e0ac5b891771277a02",
-            "466faf903e911fd8d0221dbd",
-            "d5d27e11a82c2b6f6f012f76"
+            "466faf903e911fd8d0221dbd"
           ],
           "article_ids": [
+            "21cf8df6147b598bfa320347",
             "ff61f1e0ac5b891771277a02",
             "466faf903e911fd8d0221dbd",
             "d5d27e11a82c2b6f6f012f76",
@@ -37515,6 +38128,7 @@
             "e77d5ebe34f9d86a11d927a2",
             "9b9c34e0abb6b8abcc7317de",
             "322a62b4ac50b4386901f23e",
+            "35792accd572d63f5068c675",
             "1698027c7b868827c8686668",
             "4ac7b35437929bcdd232d33a",
             "56e0ed0aa1bf212b6ea742db",
@@ -37702,15 +38316,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 171,
+          "count": 172,
           "publisher_count": 67,
           "summary": "Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。 スウェーデンのInnovitaskolanでYear 7〜9を教えるRebecca Braun氏が、日常の授業での技術活用を紹介した。Google Sitesで学んだ内容を共同共有し、自分のペースで進める学習ノートに取り組み、Google Vidsでアイデアを動画発表にする。情報の消費から自らの制作へ移ることを目指す実践で、新機能の提供発表ではない。",
           "evidence_ids": [
+            "483d190779f5c013aa661e69",
             "45890786598bd5a43f1d95be",
-            "19bbbc01293db95b4f2cc878",
             "129c175cdb3e141133d3781a"
           ],
           "article_ids": [
+            "483d190779f5c013aa661e69",
             "45890786598bd5a43f1d95be",
             "19bbbc01293db95b4f2cc878",
             "129c175cdb3e141133d3781a",
@@ -37899,21 +38514,23 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 52,
+          "count": 54,
           "publisher_count": 25,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "f355522ef4d077760f8dfa77",
-            "2a987b3130f5549fb4d99d56",
-            "701bcf939926e9336e5752d5"
+            "3e6c07a957bc1c04a62d28b0",
+            "2a987b3130f5549fb4d99d56"
           ],
           "article_ids": [
             "f355522ef4d077760f8dfa77",
+            "3e6c07a957bc1c04a62d28b0",
             "2a987b3130f5549fb4d99d56",
             "701bcf939926e9336e5752d5",
             "c3a6aca809f74f6d68c307d7",
             "b9034d6ce32a44aa0ae3264e",
             "a0a2f718d23930180c4b49df",
+            "8bf3ad7ca094191e970bae2e",
             "12e302b9ef225a8da423f197",
             "0fd34e81809941ad6e4304cb",
             "a58f5c997917ce451d67ed4b",
@@ -37937,10 +38554,10 @@
             "65106b47bc54e7fa49a23a46",
             "907293b15cb12e377abecc92",
             "660b787c5271e23f3bcea19b",
+            "b2504336e9aff9e9d679c395",
             "102f1afc9b7fc74e9d22a766",
             "0418a2ff3043f7ec29b4fa21",
             "a33d49f07f6f756a3dc70155",
-            "b2504336e9aff9e9d679c395",
             "6fed762c68101f497f1e4577",
             "32194216853b9df386b3f26c",
             "70cd2e8911ffa61af7341c69",
@@ -38064,6 +38681,9 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "21cf8df6147b598bfa320347",
+        "483d190779f5c013aa661e69",
+        "7375b61f3a21511941efb8de",
         "f355522ef4d077760f8dfa77",
         "f4c493814dd688e6118f65a9",
         "45890786598bd5a43f1d95be",
@@ -38072,10 +38692,12 @@
         "19bbbc01293db95b4f2cc878",
         "129c175cdb3e141133d3781a",
         "365ec2209b20128d3401d5b3",
+        "3e6c07a957bc1c04a62d28b0",
         "d25b3ce3a535500fc9ea36c6",
         "96e0b2ff920553bfd8099bf2",
         "abb5faf33bfba9177d223488",
         "2a987b3130f5549fb4d99d56",
+        "f49f79937a78168cd7dc6c40",
         "0a5aba0920cb44a0aae1a17d",
         "673966a44a43e07a0a62dfa7",
         "466faf903e911fd8d0221dbd",
@@ -38098,14 +38720,18 @@
         "99ee717dc1172a3fa6bf326f",
         "b9034d6ce32a44aa0ae3264e",
         "553cacc479f0e9c2edccf619",
+        "45a28d9d38f60ad3d2c6d622",
         "a0a2f718d23930180c4b49df",
+        "451a72dbf737ccd49e953e92",
         "a763496b7c1cc3f73ce28504",
         "170c64e9e06f43cae88bc67d",
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
         "bcc49290b9c3f044f7b41cee",
+        "4feea15e29badf5264756045",
         "2985fdbaa42d69a7a0d5d66b",
+        "df8fa21a42a42e4386644ebf",
         "bba118ab7f49f827c8cd6069",
         "d265ab64698dccb4850bc1ff",
         "ec9625c8aa91bf362750651d",
@@ -38114,20 +38740,29 @@
         "4a3551243325ffc3049c7c3f",
         "b9a3f69b7e7467511106caee",
         "e77d5ebe34f9d86a11d927a2",
+        "8bf3ad7ca094191e970bae2e",
         "2027c38fe13373909801576b",
+        "9be8ac5bec2434cf1f5a1cc4",
         "9b9c34e0abb6b8abcc7317de",
         "18c9974e9457961340ca1284",
         "83b5fcaff3dc50817c4883fc",
+        "f0ea380b35784500937eb1cc",
         "322a62b4ac50b4386901f23e",
+        "aea7a3e678c80548fe781bd1",
         "0acbbd78b35d65cb3977d50b",
+        "4db10a51e1572f120d1d7ab2",
+        "35792accd572d63f5068c675",
         "1698027c7b868827c8686668",
         "646f077ae84975d361e9b620",
         "4ac7b35437929bcdd232d33a",
         "56e0ed0aa1bf212b6ea742db",
         "ecfcd3fc3a98448ede3fe1b5",
         "ef4c88b3bef4c50c2595f1d2",
+        "7273d24624e1d8891a6fdc55",
         "2a8b38cbc5620413c1c85ab7",
         "5a93a9a9c2316211655820ac",
+        "9bdc29494e796dfa25579baf",
+        "736ad5facf37824edde1b1e9",
         "12e302b9ef225a8da423f197",
         "bf1751e6d0fa920fc268c7ab",
         "2fac9eb8e04a7533bd683515",
@@ -38237,11 +38872,13 @@
         "9eb1dfad604ec17e2a657ec5",
         "040224c4258153080f144934",
         "62c0047a1f48f6f934c7dc2c",
+        "c5bee291971c2149501dbe9f",
         "d0739092a63e590a81e5553c",
         "55d1687d3afbd02e51430e35",
         "42f58e1213e59f18fab47fad",
         "36308e7c06b99aa7a2f7ed52",
         "83e79cd8db6c8cf2635becf3",
+        "a59d8e466596cfe0e7d5b72d",
         "688296df98f55edac870fa6b",
         "1095261734d512cdf78d2fdf",
         "002859c26fd414fbcc6c7045",
@@ -38249,6 +38886,7 @@
         "91dbcc37adab9bb476d646a9",
         "f961690a096efe6803d9134e",
         "ae7201306d0d25bae9ebbacd",
+        "ba827415471015f4480079f3",
         "f4dcf46b94742c38e5bc05a8",
         "3cc3177a525b54d88d207d30",
         "8094afda5afa0e58e583d49a",
@@ -38297,6 +38935,7 @@
         "eed3de14a43157122b99cb05",
         "976fe8fb12d410b5bf14d24e",
         "bbb324b74d6bfb38e28494cd",
+        "49288afafbd03ebc0a6a51b1",
         "30687b8bcb2721da27ded1d0",
         "7c35a86ace05cec4b96ef518",
         "0fc87d8183c18f5bc221b2b9",
@@ -38383,7 +39022,6 @@
         "b319a2be4fcae8883aab6c8f",
         "8b8d0c49617120aea4d8a9a9",
         "b8ff96156cf6eb2e5a63feb7",
-        "2c1c356887424075aee55378",
         "829021dfb0e053ce86a67c52",
         "72b23223f9a3f5cd538cf08e",
         "65106b47bc54e7fa49a23a46",
@@ -38394,6 +39032,7 @@
         "8347f45dad68fde030996b36",
         "cb2f2804c9273a8652a88210",
         "52e45dc0cbdf602f20961e4e",
+        "2c1c356887424075aee55378",
         "ef3873d6d9ed7dcb92cae32d",
         "f6f63c74a4ac1404c5862635",
         "cd48202b8d2b8734c2a2d12e",
@@ -38413,6 +39052,7 @@
         "0a1926dd51ae0e4f8749e433",
         "91be25fac671239a2a8a58ac",
         "57382d183c0e717998f83421",
+        "b2504336e9aff9e9d679c395",
         "686ab869d8420ea5eaada665",
         "7fa48dbc870c0ecc5b781069",
         "56af7f4467c7c334a5bde1d4",
@@ -38444,7 +39084,6 @@
         "591f885a90ea1ad85bafd3c7",
         "6d7a612a9dcd85fdfd3bbaaf",
         "7ca450796287930aad944d50",
-        "b2504336e9aff9e9d679c395",
         "d01914286a545b0e18470811",
         "bac01a4f68181f569247665e",
         "f3e9ce721161b25009490f14",
@@ -38493,8 +39132,8 @@
         "4ee892449235bf175b16d398",
         "2b3179b01cc02c99db638f43",
         "91a8a945701ae6930057dbd6",
-        "4b62c45548aafe3b8fa282f5",
         "6a59e4d478c6edc1c35979bc",
+        "4b62c45548aafe3b8fa282f5",
         "1cad5d9181158877166b0544",
         "6fed762c68101f497f1e4577",
         "4e56d0edee04a66d1a17a7b5",
@@ -38812,10 +39451,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-26T06:02:02.786399+09:00",
+  "report_updated_at": "2026-10-26T08:07:31.740355+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-25T21:02:02.535393+00:00",
+    "attempted_at": "2026-10-25T23:07:30.836388+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -38856,7 +39495,7 @@
       "errors": [],
       "last_success_at": "2026-10-25T21:00:23.587673+00:00"
     },
-    "last_success_at": "2026-10-25T21:02:02.535393+00:00"
+    "last_success_at": "2026-10-25T23:07:30.836388+00:00"
   },
   "topic_definitions": [
     {
@@ -39368,11 +40007,11 @@
     ]
   },
   "picks": [
+    "7375b61f3a21511941efb8de",
     "f355522ef4d077760f8dfa77",
-    "f4c493814dd688e6118f65a9",
+    "21cf8df6147b598bfa320347",
     "ff61f1e0ac5b891771277a02",
-    "466faf903e911fd8d0221dbd",
-    "45890786598bd5a43f1d95be",
-    "19bbbc01293db95b4f2cc878"
+    "483d190779f5c013aa661e69",
+    "45890786598bd5a43f1d95be"
   ]
 }
