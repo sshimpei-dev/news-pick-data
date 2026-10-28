@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-27T21:02:03.123076Z",
-  "last_attempt_at": "2026-10-27T21:02:03.123076Z",
+  "updated_at": "2026-10-28T00:22:21.047623Z",
+  "last_attempt_at": "2026-10-28T00:22:21.047623Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 6,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 9,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-27T21:02:03.123076Z",
+      "checked_at": "2026-10-28T00:22:21.047623Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-28T00:22:21.047623Z",
+      "new_count": 20,
+      "status": "ok"
+    },
     {
       "at": "2026-10-27T21:02:03.123076Z",
       "new_count": 16,
@@ -603,6 +608,77 @@
   ],
   "articles": [
     {
+      "id": "02f6ecdf6c07284ca2dc3229",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "東京メトロ、AI画像認識の運転者支援システム「ポイントAI」を夜間線路保守車両に導入へ（クラウド Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TN1RtcG84OHdOM3hqYnAzcDVudktMOWpWYS1LN0VJTTFzYjNBUkFYN0E2dUVlRWRDcHpNUjE2UFhhNy14aUNuenU5S3hFVm1qcHpFcTFkQ0QxWU5oY2o1Vm1MVHE0LWxMWmZkNFdnQTJ6YzFYV1VsRHZGUWcxc2s?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "東京メトロ、AI画像認識の運転者支援システム「ポイントAI」を夜間線路保守車両に導入へ（クラウド Watch） Yahoo!ニュース",
+      "published_at": "2026-10-28T00:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "8fcc4e11d956e06b5f4e1aab",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "NEC、ライブカメラ映像から災害予兆を数値化するAIを開発 2027年度実用化へ - LIGARE（リガーレ）",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwSHFwSTFoODhOY0lwOEFOZC1Hb2pvYkJueUNFTDRpYjQ4OUwwOWZYcHFNVE8yS19EZmJRTWFxeG5ERngtQTBtV1Z1MA?oc=5",
+      "publisher": "LIGARE（リガーレ）",
+      "summary": "NEC、ライブカメラ映像から災害予兆を数値化するAIを開発 2027年度実用化へ LIGARE（リガーレ）",
+      "published_at": "2026-10-27T23:31:53Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera",
+        "development"
+      ]
+    },
+    {
+      "id": "8a959e919e497b0686e25fdc",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "現場の危険示唆やKY活動の記録・評価、生成AIが安全管理をサポート - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4zdjE1NkQ1WGhWUWdzdWxyX3B6Ylo1VHBPN0VMODBNUmgwWXJHX25GeC14ZGJMZkhIenFvM09HNi1IUjB0R3pxQ1pMUUdqS29iQXY2bkQzb2ViYkxvWWFvQ3pVdVpMcXpCYVdOYQ?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "現場の危険示唆やKY活動の記録・評価、生成AIが安全管理をサポート 日経クロステック",
+      "published_at": "2026-10-27T20:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "71feb3732a39c7ebc99f45d2",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も - 日経ビジネス電子版",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xWjZob3FTRzRLaXZVQTh0aVoxVlpZeUFuMU9RWFZHaWtscEtzR1gzdDh3VTBxaW5jS0wxWUJoNW84ZllNQmVZRV9NeEJXUkxNNDB4QWdSVFNDM2o1UzU4dlZR?oc=5",
+      "publisher": "日経ビジネス電子版",
+      "summary": "巨額投資相次ぐ、フィジカルAI向け学習データ収集 有用性に懸念も 日経ビジネス電子版",
+      "published_at": "2026-10-27T20:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "eb8e5701dd56bda0be87e578",
       "category": "ai",
       "source_id": "ai",
@@ -667,6 +743,24 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "0cc71d0115db63a4662e93b1",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "publisher": "OpenAI 公式",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+      "published_at": "2026-10-27T15:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "593eff7f403535ddc50c4afa",
@@ -777,6 +871,56 @@
       ]
     },
     {
+      "id": "e182bf600c8962a78b8b235b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "交互通行の工事現場に誘導員の姿なし 道路工事現場でのAIカメラによる交通誘導を公開「人員の省力化が図られる」宮城・大崎市（tbc東北放送） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BbE1qRExJaHdhZFhRblpTV1FqOTJWUmtuMGtrRmpEbENhRFU3bUhSNk9fcl9WVjZZek5vNHY3ZTRCREJkUDd2VVp3dUxGcHJNRUNFbko1Y0g1eDhOMDRwM0RBcVhxWDRuTGRNa2UzRW5nUkVkcmNkdmVaNFRPUlU?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "交互通行の工事現場に誘導員の姿なし 道路工事現場でのAIカメラによる交通誘導を公開「人員の省力化が図られる」宮城・大崎市（tbc東北放送） Yahoo!ニュース",
+      "published_at": "2026-10-27T08:27:17Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "3d9a2ca7bd03441ab911724a",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "東京メトロ、保守作業車にAI搭載の支援システム - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBXZkVQQUFTYXRjZzFNMnZEaXpRSk41TWpreDBydkdnSEtpVzFjSmlWbjJUZk1hSHJBbml2WkxvWENSOUVNdzd5MWQwa1VndmRJcGxhVGhaUGpfX0RnSkZHRUpNTEo?oc=5",
+      "publisher": "Impress Watch",
+      "summary": "東京メトロ、保守作業車にAI搭載の支援システム Impress Watch",
+      "published_at": "2026-10-27T08:23:40Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "d428e3a6efbf89bbc2dc0698",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表 - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sT2E4VXBaRFBfa1V0WDFoQzlxSUZvSklhUmNqMFVCaWRuRkhZczRnTk9aeDBzOGlXYlpVN25INnJCTm5pSU53RjN1dlEyaEFaa1E?oc=5",
+      "publisher": "CNET Japan",
+      "summary": "OpenAI、「計算の難しさ」に関する長年の予想を覆す成果を得られたと発表 CNET Japan",
+      "published_at": "2026-10-27T08:20:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "27efdf2f194c3533f50284b9",
       "category": "ai",
       "source_id": "ai",
@@ -825,6 +969,22 @@
       "theme_ids": [
         "camera"
       ]
+    },
+    {
+      "id": "90530ae06f31bf4ace8ac53c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41VWNzY0ozWkd2c1dFakdwYjllYnQ2UTRiRDNHLTJqOFZWdGhfTEFyZ18wcVBEd2hJUVZKYlpEWDBwSHc0WkRIY0hSeGtuenZjOGNUU3hSNy11N1UyXzIxUlR1dHFCcXBMRW9EV2ZGbVdEUQ?oc=5",
+      "publisher": "GIGAZINE",
+      "summary": "OpenAIが数学・コンピュータサイエンス・物理学における調和解析・計算複雑性理論・量子場理論に関する3つの新たな発見を発表、指数時間仮説は誤りである GIGAZINE",
+      "published_at": "2026-10-27T07:42:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "de5500c653d9f7f34ac2be29",
@@ -949,6 +1109,24 @@
       ]
     },
     {
+      "id": "25586a6703797df01a4e72e4",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTllaV0pqRjI2ZE1mem9GQnV2dDBRSWppSzlTd3R4TlhhMzJNVG1DYmpwQUZYRXJjRk9aT2p6bzg2VWhXcms2LXV1cUVhMXhWR19WZ2JMLW9kQTZBUXBpd0ZpMm50OEc3Mmp6dHJBZi1VaDFHUWdHeWZlQXBzT0FZdVQ3Zw?oc=5",
+      "publisher": "GIGAZINE",
+      "summary": "中国製AI「Qwen3.8」にセキュリティ対策を命じたら勝手に北京のサーバーへデータ送信を試みたことが判明 GIGAZINE",
+      "published_at": "2026-10-27T04:03:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "8e7a46f051e75b456c6431e4",
       "category": "ai",
       "source_id": "ai",
@@ -1050,6 +1228,42 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "5c7fb462c5dfab8d1c98ead1",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "NEC、防災AI技術で初動支援 ライブカメラから予兆検知 - 電波新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UbzVONXV4SEw3SVBQNjdsREhjeDhpcUc1RzZnbjNRRWRoZXlXNUV1RlZpTEM2VW84Q3dnNklDTFExMEVRZjBxTVNucGx2b2c1MHc?oc=5",
+      "publisher": "電波新聞デジタル",
+      "summary": "NEC、防災AI技術で初動支援 ライブカメラから予兆検知 電波新聞デジタル",
+      "published_at": "2026-10-27T01:35:08Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "d5fb20c08dfda71bf49ae15b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "東京電力PG、建物保全業務にリコーの360度カメラ活用--3Dデジタルツインを生成 - ZDNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53b015VEtIUmdYb0FGMFVpOGtfUHo0cTRLSkY0VUpwM1dHNVFzeDZJR1h3X3NmTzVoYzZxaHE3LXdvNzBoMzA4S2VDc3Y0b3BZZjRJ?oc=5",
+      "publisher": "ZDNET Japan",
+      "summary": "東京電力PG、建物保全業務にリコーの360度カメラ活用--3Dデジタルツインを生成 ZDNET Japan",
+      "published_at": "2026-10-27T00:44:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -1158,6 +1372,24 @@
       ]
     },
     {
+      "id": "4f8c788ee86e272cabdb4b87",
+      "category": "ai",
+      "source_id": "anthropic",
+      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+      "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+      "publisher": "Anthropic 公式",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "published_at": "2026-10-27T00:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": "Anthropic",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "18a1a843777b89478adfee80",
       "category": "tech",
       "source_id": "tech",
@@ -1167,6 +1399,24 @@
       "summary": "iOS 27.2配信開始。「Siri AI」がついに日本語対応、カメラのSiriモードや「Siriで作文」も（PHILE WEB） Yahoo!ニュース",
       "published_at": "2026-10-26T23:51:28Z",
       "collected_at": "2026-10-27T00:18:51.102808Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "ad3ddee1d126b947b8f47935",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "iOS 27.2配信開始。「Siri AI」がついに日本語対応、カメラのSiriモードや「Siriで作文」も - PHILE WEB",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGdGV3cjNMWlNWc1BYcUlITV82WnJzZEVLdTNQc3JEZi1EclZuMFJrcngtX2FIZml3TUVuXzZ3amRMNXZKMlhTU0g2NGdZZW8wRFhtWGFRREw3RXRXd1F5TFVpcDhueHUxYVVN?oc=5",
+      "publisher": "PHILE WEB",
+      "summary": "iOS 27.2配信開始。「Siri AI」がついに日本語対応、カメラのSiriモードや「Siriで作文」も PHILE WEB",
+      "published_at": "2026-10-26T23:48:18Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -2112,6 +2362,24 @@
       "summary": "トヨクモ---7番目のkintone連携サービス「トヨクモ AIカメラ」を提供開始(フィスコ) Yahoo!ファイナンス",
       "published_at": "2026-10-26T00:44:16Z",
       "collected_at": "2026-10-27T00:18:51.102808Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "b82c170d7ace5421d262abb8",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "トヨクモ---7番目のkintone連携サービス「トヨクモ AIカメラ」を提供開始 - 株探",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rY0xJVUJUSmRGTVgzWWp3SDgtYXU1VkNDdXRmbUhEWDhDWklYVlp6OUp4cUlSZ2k2alpVVmxRZFo3WTFFV1RqWm1RWkp6dGxndjBlMXQ1ejNrc1JpdkpOVA?oc=5",
+      "publisher": "株探",
+      "summary": "トヨクモ---7番目のkintone連携サービス「トヨクモ AIカメラ」を提供開始 株探",
+      "published_at": "2026-10-26T00:44:16Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -3602,6 +3870,24 @@
       "summary": "AI進化でサイバー攻撃が拡大…“カメラ”乗っ取りも 警視庁がインフラ事業者と緊急会議、江戸川区は窓口設置 TOKYO MX",
       "published_at": "2026-10-23T01:20:00Z",
       "collected_at": "2026-10-24T23:02:20.357744Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-security",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "97f171b3c6ebd2cb73169182",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AI進化でサイバー攻撃が拡大…“カメラ”乗っ取りも 警視庁がインフラ事業者と緊急会議、江戸川区は窓口設置 - TOKYO MX",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RS3gtVDJIeGNqb0VMUWNZR051eXk2Sm1FY2NzTHQxenZxbTVrQ3BWZE9NVVRJSnA2OHlBLS10bUlqeEpuOEtMSzcwUXd6R09DbFpHRE1GMVV6LWkyR3g1Ulp2ZGVvdnpVTGd5WDZ3?oc=5",
+      "publisher": "TOKYO MX",
+      "summary": "AI進化でサイバー攻撃が拡大…“カメラ”乗っ取りも 警視庁がインフラ事業者と緊急会議、江戸川区は窓口設置 TOKYO MX",
+      "published_at": "2026-10-23T01:20:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-security",
@@ -5568,6 +5854,24 @@
       "summary": "クマ出没を即時発信 青森県、AI機能付きセンサーカメラを設置 (毎日新聞) Yahoo!ニュース",
       "published_at": "2026-10-21T20:15:23Z",
       "collected_at": "2026-10-22T21:00:06.483296Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "40c3822b24b471f93a98fbbd",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "クマ出没を即時発信 青森県、AI機能付きセンサーカメラを設置（毎日新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qZUloSUNUNnpJMVUwT2RBWGp6R0N0OGJJY1l6VTIzMExXQlljVk02RHQ4aU1LcHlSandtRXFjc1VQUnpxU1dzY0dCWEc2RjkxWHBxX3VkN0VYQW5NdEk1YU93eUhTQU5ONFVKUUFqclhmSzVOYlFGRFNFbnpIRXc?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "クマ出没を即時発信 青森県、AI機能付きセンサーカメラを設置（毎日新聞） Yahoo!ニュース",
+      "published_at": "2026-10-21T20:15:23Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -8226,6 +8530,40 @@
       ]
     },
     {
+      "id": "57c36f72a0aefc15bb0bddda",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "（記者解説）ＡＩ時代の学力と教育 多様な子の学ぶ意欲、高める改革を 編集委員・宮坂麻子 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80NTl2Vy1JZ09FMUtzSFFMdTFpS1hzUmhSMFM3Tm9vS0RsWDdpWXlQb2NxUGRjNTBwa2RHSXJYeHRjcWNpZndhbFFkb25rR0RLMTBpb0F3VHpXOTd6?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "（記者解説）ＡＩ時代の学力と教育 多様な子の学ぶ意欲、高める改革を 編集委員・宮坂麻子 朝日新聞",
+      "published_at": "2026-10-19T07:00:00Z",
+      "collected_at": "2026-10-18T21:00:06.365272Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "56dc6f96f2fed31dfc14f7a8",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "新教科書、紙中心の併用型に 小4以下は「完全デジタル」認めず 文科省（時事通信） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uUnhCa09Jel9QSTNwanlKSG4tTlN4RnB2S1NUd2lRaDNZY0syc0FhajdmaTYtZlFnOHk4dHdRbkZYcm8ySUpCX01ZWTBGS3Z0NFB4bXVubmswM2VOa19uLWhHU1lCRkVBUGNoRGZ4UWZ3LWo3ODFod3cwOHdfemM?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "新教科書、紙中心の併用型に 小4以下は「完全デジタル」認めず 文科省（時事通信） Yahoo!ニュース",
+      "published_at": "2026-10-19T07:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
       "id": "1c09b73d310e9ae53c03aeec",
       "category": "parenting",
       "source_id": "parenting",
@@ -8516,24 +8854,6 @@
       "summary": "デジタル教科書の動画は1本3分まで、学力テストCBTサンプル問題公表…教育業界ニュースまとめ読み リセマム",
       "published_at": "2026-10-18T20:55:03Z",
       "collected_at": "2026-10-21T21:00:05.997594Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
-    },
-    {
-      "id": "57c36f72a0aefc15bb0bddda",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "（記者解説）ＡＩ時代の学力と教育 多様な子の学ぶ意欲、高める改革を 編集委員・宮坂麻子 - 朝日新聞",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80NTl2Vy1JZ09FMUtzSFFMdTFpS1hzUmhSMFM3Tm9vS0RsWDdpWXlQb2NxUGRjNTBwa2RHSXJYeHRjcWNpZndhbFFkb25rR0RLMTBpb0F3VHpXOTd6?oc=5",
-      "publisher": "朝日新聞",
-      "summary": "（記者解説）ＡＩ時代の学力と教育 多様な子の学ぶ意欲、高める改革を 編集委員・宮坂麻子 朝日新聞",
-      "published_at": "2026-10-18T20:00:00Z",
-      "collected_at": "2026-10-18T21:00:06.365272Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -9551,6 +9871,38 @@
       "theme_ids": [
         "development"
       ]
+    },
+    {
+      "id": "f4fe6cdd62a1378aa96610ee",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "How Grupo Boticário uses AI to strengthen human connections",
+      "url": "https://openai.com/index/grupo-boticario",
+      "publisher": "OpenAI 公式",
+      "summary": "Almost 50 years after starting in a compounding pharmacy in Paraná, the group operates a proprietary agent platform that autonomously resolves up to 80% of resellers’ operational requests—enabling the sales force to take on an advisory role.",
+      "published_at": "2026-10-16T00:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "adee24284177817037ba6bc9",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "How Localiza reorganized work around generative AI",
+      "url": "https://openai.com/index/localiza-generative-ai",
+      "publisher": "OpenAI 公式",
+      "summary": "See how Localiza uses ChatGPT Enterprise, the OpenAI API, Codex, and 60+ specialized agents to reorganize work and build AI-native mobility experiences.",
+      "published_at": "2026-10-16T00:00:00Z",
+      "collected_at": "2026-10-28T00:22:21.047623Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "155e64b95acb3bc4b40168ae",
@@ -31734,20 +32086,20 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-28T06:02:09.286257+09:00",
+      "generated_at": "2026-10-28T09:22:27.112308+09:00",
       "is_complete": false,
-      "article_count": 87,
+      "article_count": 102,
       "category_counts": {
-        "ai": 50,
-        "tech": 21,
-        "parenting": 16
+        "tech": 30,
+        "parenting": 17,
+        "ai": 55
       },
       "overview": "OpenAIとOracleは、組織の権限・承認に従って業務情報の検索や処理を行うOracle AI Workspaceを開発中。Check Pointも、Daybreakによる脆弱性調査支援に加え、継続監視と重要操作への人の承認を組み合わせたネットワーク防御を共同開発している。両者とも、構想された自律的な業務・防御機能の一般提供や効果が実証された段階ではない。 18機関が参加するC-BRAINは、データを機関内に残す連合学習と集中管理を併用する研究基盤を構築中。仮説生成・解析を担うOpenScientistと、文献などで主張を検証するInsightEngineは開発済みで、多様な生体データを学ぶ基盤モデルは今後の計画。公開事例の解析は数分、1回10ドル未満とされるが、比較対象の専門家所要時間は推定である。 Googleは大学生の学生アンバサダーによるGemini活用例として、授業資料の個別レッスン化、問いかけによる理解支援、音声での面接練習、シラバスからの課題・期限抽出とCalendarへの整理を紹介した。新機能の提供開始ではなく体験談の紹介で、年齢・地域・料金ごとの利用条件や、学習効果の比較検証は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+        "attempted_at": "2026-10-28T00:22:26.787103+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -31758,6 +32110,10 @@
         ],
         "errors": [
           {
+            "article_id": "0cc71d0115db63a4662e93b1",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "59077d79ad2cb8538652672f",
             "stage": "original_fetch"
           },
@@ -31767,10 +32123,6 @@
           },
           {
             "article_id": "930b373afcc4634861171591",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -31786,7 +32138,7 @@
           "errors": [],
           "last_success_at": "2026-10-27T21:00:15.072954+00:00"
         },
-        "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+        "last_success_at": "2026-10-28T00:22:26.787103+00:00"
       },
       "genre_briefs": [
         {
@@ -31912,24 +32264,28 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 46,
-          "publisher_count": 25,
+          "count": 51,
+          "publisher_count": 26,
           "summary": "OpenAIとOracleは提携を拡大し、Oracleの業務アプリやデータをChatGPTにつなぐOracle AI Workspaceを開発中と発表した。組織の権限・承認に従って情報検索や業務処理を行う構想。脆弱性対策、中小企業向けセット、アプリ開発支援も発表した。米国のOracle顧客はMarketplaceでOpenAI製品へのアクセスを購入できる。 Check PointはOpenAI Daybreakを脆弱性調査に導入し、従来数時間かかった作業を数分に短縮したとCTOが報告した。モデルが脆弱性や攻撃経路、コード・設定の問題を分析し、防御用シグネチャなどの開発につながる調査を支援する。継続監視と重要操作への人の承認を組み合わせるネットワーク防御も共同開発中で、修復支援は今後の重点としている。 Google DeepMindは、リアルタイムの対話型シミュレーションを生成する世界モデルGenie 4の研究を発表した。自然言語でカメラ移動や天候変更、登場人物の追加を指示でき、環境音・音楽・対話もその場で生成する。信頼された少数のテスターへの展開を開始し、Project GenieのGoogle AI Ultra加入者やAPIなどの早期アクセスパートナーにも近日提供予定としている。",
           "evidence_ids": [
             "eb8e5701dd56bda0be87e578",
-            "593eff7f403535ddc50c4afa",
-            "4fd4c9ffae0dfb6acefb7982"
+            "0cc71d0115db63a4662e93b1",
+            "593eff7f403535ddc50c4afa"
           ],
           "article_ids": [
             "eb8e5701dd56bda0be87e578",
+            "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
             "4fd4c9ffae0dfb6acefb7982",
+            "d428e3a6efbf89bbc2dc0698",
             "27efdf2f194c3533f50284b9",
             "aa7482dfe0b19e5707e7da31",
+            "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
+            "25586a6703797df01a4e72e4",
             "8e7a46f051e75b456c6431e4",
             "e12e7f8b6f14ca6c4f1334bf",
             "ed4c75ab463b2745d924fd87",
@@ -31938,6 +32294,7 @@
             "76871c3e739d74e3194a7a20",
             "b461081d1fd7b21a493edd43",
             "feb6b9df7a74f8153564669e",
+            "4f8c788ee86e272cabdb4b87",
             "d5bf1671c0bf1236545cbeec",
             "456ef35f224daafbdc83bb87",
             "89ba02a687217acabcc5b159",
@@ -31976,25 +32333,33 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 20,
-          "publisher_count": 17,
+          "count": 29,
+          "publisher_count": 23,
           "summary": "18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
-            "9e5ccf2843b219ca14640496",
-            "47551591e9f3209c6c4887f4",
-            "b8ec7a28940532058de85f11"
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc"
           ],
           "article_ids": [
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc",
             "9e5ccf2843b219ca14640496",
             "47551591e9f3209c6c4887f4",
             "b8ec7a28940532058de85f11",
             "f25f1836e7920aae56a7e68d",
+            "e182bf600c8962a78b8b235b",
+            "3d9a2ca7bd03441ab911724a",
             "434d2952c9bd3c280ce64a84",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "5c7fb462c5dfab8d1c98ead1",
+            "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
             "e96fec098b9f93a6745cb080",
             "18a1a843777b89478adfee80",
+            "ad3ddee1d126b947b8f47935",
             "0309ed6aab9a8ace6387a43d",
             "eea6e3dbeee3f390f344ae58",
             "17c5f34bd1d4c3f04ccd4f78",
@@ -32004,6 +32369,7 @@
             "2de4f63e085e80f030d56aa0",
             "7bc214003cc352e968467481",
             "e2f90d8f85434dee845194ab",
+            "b82c170d7ace5421d262abb8",
             "21cf8df6147b598bfa320347"
           ]
         },
@@ -32014,15 +32380,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 14,
-          "publisher_count": 12,
+          "count": 15,
+          "publisher_count": 13,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
-            "91f2f9d2e3597cf7aaea9436",
-            "821a5b53cf69f3847c38b6a5"
+            "91f2f9d2e3597cf7aaea9436"
           ],
           "article_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
             "91f2f9d2e3597cf7aaea9436",
             "821a5b53cf69f3847c38b6a5",
@@ -32145,18 +32512,27 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "02f6ecdf6c07284ca2dc3229",
+        "8fcc4e11d956e06b5f4e1aab",
+        "8a959e919e497b0686e25fdc",
+        "71feb3732a39c7ebc99f45d2",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
+        "0cc71d0115db63a4662e93b1",
         "593eff7f403535ddc50c4afa",
         "4fd4c9ffae0dfb6acefb7982",
         "47551591e9f3209c6c4887f4",
         "b8ec7a28940532058de85f11",
         "9cadec0c37af2cd0c7af9f64",
         "f25f1836e7920aae56a7e68d",
+        "e182bf600c8962a78b8b235b",
+        "3d9a2ca7bd03441ab911724a",
+        "d428e3a6efbf89bbc2dc0698",
         "27efdf2f194c3533f50284b9",
         "aa7482dfe0b19e5707e7da31",
         "434d2952c9bd3c280ce64a84",
+        "90530ae06f31bf4ace8ac53c",
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
@@ -32164,19 +32540,24 @@
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
         "97b1290cf50495a86db9a711",
+        "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
+        "5c7fb462c5dfab8d1c98ead1",
+        "d5fb20c08dfda71bf49ae15b",
         "7d169c3885c9daabc1c83840",
         "9ccae38a5be188f59ba136cc",
         "e96fec098b9f93a6745cb080",
         "76871c3e739d74e3194a7a20",
         "b461081d1fd7b21a493edd43",
         "feb6b9df7a74f8153564669e",
+        "4f8c788ee86e272cabdb4b87",
         "18a1a843777b89478adfee80",
+        "ad3ddee1d126b947b8f47935",
         "d5bf1671c0bf1236545cbeec",
         "456ef35f224daafbdc83bb87",
         "89ba02a687217acabcc5b159",
@@ -32223,6 +32604,7 @@
         "fb22f7ec312722b4dd58ffea",
         "51decc35b85d22fce185ff83",
         "e2f90d8f85434dee845194ab",
+        "b82c170d7ace5421d262abb8",
         "5dbc76909264f3c09b4875df",
         "2d6f4a1f232226b50c5977e2",
         "f6279cd8208de431f490700e",
@@ -32239,7 +32621,7 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-28T06:02:09.286257+09:00",
+      "generated_at": "2026-10-28T09:22:27.112308+09:00",
       "is_complete": true,
       "article_count": 271,
       "category_counts": {
@@ -32252,7 +32634,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+        "attempted_at": "2026-10-28T00:22:26.787103+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -32263,6 +32645,10 @@
         ],
         "errors": [
           {
+            "article_id": "0cc71d0115db63a4662e93b1",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "59077d79ad2cb8538652672f",
             "stage": "original_fetch"
           },
@@ -32272,10 +32658,6 @@
           },
           {
             "article_id": "930b373afcc4634861171591",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -32291,7 +32673,7 @@
           "errors": [],
           "last_success_at": "2026-10-27T21:00:15.072954+00:00"
         },
-        "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+        "last_success_at": "2026-10-28T00:22:26.787103+00:00"
       },
       "genre_briefs": [
         {
@@ -32695,13 +33077,13 @@
             "a917ed44e3ef5220a5dde36a",
             "2b5ce8aa3eac150bd586ff33",
             "a627f361b75ed64c9140e22f",
+            "57c36f72a0aefc15bb0bddda",
             "1c09b73d310e9ae53c03aeec",
             "2ba0f53214516ed984803c4e",
             "92ad9db99438082693a9ef64",
             "3c035667c6ba671eb4340428",
             "7b4c1eee88a28463a4980ee1",
-            "74b6ffb12a0918f5d674f325",
-            "57c36f72a0aefc15bb0bddda"
+            "74b6ffb12a0918f5d674f325"
           ]
         },
         {
@@ -33082,6 +33464,7 @@
         "68f20252c475ebf919aa32c2",
         "e6e708e069414c638a3e4a4a",
         "a627f361b75ed64c9140e22f",
+        "57c36f72a0aefc15bb0bddda",
         "1c09b73d310e9ae53c03aeec",
         "1d0b2d851c179042720c4fbc",
         "2ba0f53214516ed984803c4e",
@@ -33098,7 +33481,6 @@
         "6761435993edc48cfbb96f59",
         "e9c007ff490913609b95c925",
         "74b6ffb12a0918f5d674f325",
-        "57c36f72a0aefc15bb0bddda",
         "2cf978a1e0063628bc665e3e"
       ]
     },
@@ -34711,20 +35093,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-28T06:02:09.286257+09:00",
+      "generated_at": "2026-10-28T09:22:27.112308+09:00",
       "is_complete": false,
-      "article_count": 889,
+      "article_count": 906,
       "category_counts": {
-        "ai": 430,
-        "tech": 233,
-        "parenting": 226
+        "tech": 242,
+        "parenting": 227,
+        "ai": 437
       },
       "overview": "OpenAIとOracleは、組織の権限・承認に従って業務情報の検索や処理を行うOracle AI Workspaceを開発中。Check Pointも、Daybreakによる脆弱性調査支援に加え、継続監視と重要操作への人の承認を組み合わせる防御機能を共同開発している。いずれも構想全体が提供済みとは確認できない。 FirebirdはカザフスタンでGPU計4万5000基の輸出許可を取得し、第1期施設の2027年第3四半期の商用開始を目指す。許可台数は導入済み台数ではない。NVIDIAのMinervaは、施設運用担当者向けに監視情報を知識グラフで関連付け、アラートの集約や原因候補の提示を行い、IRENが利用しているが、復旧時間の改善幅は示されていない。 Googleは大学生によるGeminiの活用例として、教材の個別レッスン化、問いかけによる理解支援、課題期限の整理を紹介した。新機能の提供開始や効果検証ではない。一方、Khan Academyは解答提出前のヒントと誤答後の説明を組み合わせる設計を説明し、提携学区向けGem Jamでは教師が設定した指定課題の習熟をチームで競う。対象学年は明示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+        "attempted_at": "2026-10-28T00:22:26.787103+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -34735,6 +35117,10 @@
         ],
         "errors": [
           {
+            "article_id": "0cc71d0115db63a4662e93b1",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "59077d79ad2cb8538652672f",
             "stage": "original_fetch"
           },
@@ -34744,10 +35130,6 @@
           },
           {
             "article_id": "930b373afcc4634861171591",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -34763,7 +35145,7 @@
           "errors": [],
           "last_success_at": "2026-10-27T21:00:15.072954+00:00"
         },
-        "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+        "last_success_at": "2026-10-28T00:22:26.787103+00:00"
       },
       "genre_briefs": [
         {
@@ -34965,24 +35347,28 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 356,
+          "count": 363,
           "publisher_count": 57,
           "summary": "OpenAIとOracleは提携を拡大し、Oracleの業務アプリやデータをChatGPTにつなぐOracle AI Workspaceを開発中と発表した。組織の権限・承認に従って情報検索や業務処理を行う構想。脆弱性対策、中小企業向けセット、アプリ開発支援も発表した。米国のOracle顧客はMarketplaceでOpenAI製品へのアクセスを購入できる。 Check PointはOpenAI Daybreakを脆弱性調査に導入し、従来数時間かかった作業を数分に短縮したとCTOが報告した。モデルが脆弱性や攻撃経路、コード・設定の問題を分析し、防御用シグネチャなどの開発につながる調査を支援する。継続監視と重要操作への人の承認を組み合わせるネットワーク防御も共同開発中で、修復支援は今後の重点としている。 Google DeepMindは、リアルタイムの対話型シミュレーションを生成する世界モデルGenie 4の研究を発表した。自然言語でカメラ移動や天候変更、登場人物の追加を指示でき、環境音・音楽・対話もその場で生成する。信頼された少数のテスターへの展開を開始し、Project GenieのGoogle AI Ultra加入者やAPIなどの早期アクセスパートナーにも近日提供予定としている。",
           "evidence_ids": [
             "eb8e5701dd56bda0be87e578",
-            "593eff7f403535ddc50c4afa",
-            "4fd4c9ffae0dfb6acefb7982"
+            "0cc71d0115db63a4662e93b1",
+            "593eff7f403535ddc50c4afa"
           ],
           "article_ids": [
             "eb8e5701dd56bda0be87e578",
+            "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
             "4fd4c9ffae0dfb6acefb7982",
+            "d428e3a6efbf89bbc2dc0698",
             "27efdf2f194c3533f50284b9",
             "aa7482dfe0b19e5707e7da31",
+            "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
+            "25586a6703797df01a4e72e4",
             "8e7a46f051e75b456c6431e4",
             "e12e7f8b6f14ca6c4f1334bf",
             "ed4c75ab463b2745d924fd87",
@@ -34991,6 +35377,7 @@
             "76871c3e739d74e3194a7a20",
             "b461081d1fd7b21a493edd43",
             "feb6b9df7a74f8153564669e",
+            "4f8c788ee86e272cabdb4b87",
             "d5bf1671c0bf1236545cbeec",
             "456ef35f224daafbdc83bb87",
             "89ba02a687217acabcc5b159",
@@ -35142,6 +35529,8 @@
             "a5ec9d4aa0577e7790e76f11",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
+            "f4fe6cdd62a1378aa96610ee",
+            "adee24284177817037ba6bc9",
             "0f9bfbfbcfa79c194ccb7b8c",
             "3c8742712105fc8b150b88ee",
             "88685d8cbfac0a79e33295dc",
@@ -35339,25 +35728,33 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 224,
-          "publisher_count": 103,
+          "count": 233,
+          "publisher_count": 105,
           "summary": "18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。 Firebirdはカザフスタン政府との投資契約に伴い、NVIDIA Grace Blackwell GPU計4万5000基の米国輸出許可を取得。Kazakhtelecomと第1期施設を建設中で、2027年第3四半期の商用開始を目指す。一方、KazakhtelecomはH200を400基、B300を480基導入済み。企業・開発者・研究機関向けの計算基盤拡張が進む。 NVIDIAはAI計算施設の運用担当者向けにAIOps基盤「Minerva」を発表した。GPU、ネットワーク、ストレージ、実行ジョブの監視情報を統合し、機器と処理の関係を動的な知識グラフで表現。機械学習で異常や障害の兆候を検出し、関連アラートを原因候補付きの事象に集約する。自然言語での調査や対処案の提示にも対応し、IRENが利用している。",
           "evidence_ids": [
-            "9e5ccf2843b219ca14640496",
-            "47551591e9f3209c6c4887f4",
-            "b8ec7a28940532058de85f11"
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc"
           ],
           "article_ids": [
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc",
             "9e5ccf2843b219ca14640496",
             "47551591e9f3209c6c4887f4",
             "b8ec7a28940532058de85f11",
             "f25f1836e7920aae56a7e68d",
+            "e182bf600c8962a78b8b235b",
+            "3d9a2ca7bd03441ab911724a",
             "434d2952c9bd3c280ce64a84",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "5c7fb462c5dfab8d1c98ead1",
+            "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
             "e96fec098b9f93a6745cb080",
             "18a1a843777b89478adfee80",
+            "ad3ddee1d126b947b8f47935",
             "0309ed6aab9a8ace6387a43d",
             "eea6e3dbeee3f390f344ae58",
             "17c5f34bd1d4c3f04ccd4f78",
@@ -35367,6 +35764,7 @@
             "2de4f63e085e80f030d56aa0",
             "7bc214003cc352e968467481",
             "e2f90d8f85434dee845194ab",
+            "b82c170d7ace5421d262abb8",
             "21cf8df6147b598bfa320347",
             "a399d4e10d589cec4b5e37d7",
             "9f2b6a448484a08a14f8a6bc",
@@ -35581,15 +35979,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 199,
+          "count": 200,
           "publisher_count": 78,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。 Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。",
           "evidence_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
-            "91f2f9d2e3597cf7aaea9436",
-            "821a5b53cf69f3847c38b6a5"
+            "91f2f9d2e3597cf7aaea9436"
           ],
           "article_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
             "91f2f9d2e3597cf7aaea9436",
             "821a5b53cf69f3847c38b6a5",
@@ -35651,13 +36050,13 @@
             "a917ed44e3ef5220a5dde36a",
             "2b5ce8aa3eac150bd586ff33",
             "a627f361b75ed64c9140e22f",
+            "57c36f72a0aefc15bb0bddda",
             "1c09b73d310e9ae53c03aeec",
             "2ba0f53214516ed984803c4e",
             "92ad9db99438082693a9ef64",
             "3c035667c6ba671eb4340428",
             "7b4c1eee88a28463a4980ee1",
             "74b6ffb12a0918f5d674f325",
-            "57c36f72a0aefc15bb0bddda",
             "c7cbf86fc1df823c5bc0562d",
             "7cd38fe552b06bda7adba83a",
             "6f0f9b850adad8779c91cb3f",
@@ -35986,18 +36385,27 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "02f6ecdf6c07284ca2dc3229",
+        "8fcc4e11d956e06b5f4e1aab",
+        "8a959e919e497b0686e25fdc",
+        "71feb3732a39c7ebc99f45d2",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
+        "0cc71d0115db63a4662e93b1",
         "593eff7f403535ddc50c4afa",
         "4fd4c9ffae0dfb6acefb7982",
         "47551591e9f3209c6c4887f4",
         "b8ec7a28940532058de85f11",
         "9cadec0c37af2cd0c7af9f64",
         "f25f1836e7920aae56a7e68d",
+        "e182bf600c8962a78b8b235b",
+        "3d9a2ca7bd03441ab911724a",
+        "d428e3a6efbf89bbc2dc0698",
         "27efdf2f194c3533f50284b9",
         "aa7482dfe0b19e5707e7da31",
         "434d2952c9bd3c280ce64a84",
+        "90530ae06f31bf4ace8ac53c",
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
@@ -36005,19 +36413,24 @@
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
         "97b1290cf50495a86db9a711",
+        "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
+        "5c7fb462c5dfab8d1c98ead1",
+        "d5fb20c08dfda71bf49ae15b",
         "7d169c3885c9daabc1c83840",
         "9ccae38a5be188f59ba136cc",
         "e96fec098b9f93a6745cb080",
         "76871c3e739d74e3194a7a20",
         "b461081d1fd7b21a493edd43",
         "feb6b9df7a74f8153564669e",
+        "4f8c788ee86e272cabdb4b87",
         "18a1a843777b89478adfee80",
+        "ad3ddee1d126b947b8f47935",
         "d5bf1671c0bf1236545cbeec",
         "456ef35f224daafbdc83bb87",
         "89ba02a687217acabcc5b159",
@@ -36064,6 +36477,7 @@
         "fb22f7ec312722b4dd58ffea",
         "51decc35b85d22fce185ff83",
         "e2f90d8f85434dee845194ab",
+        "b82c170d7ace5421d262abb8",
         "5dbc76909264f3c09b4875df",
         "2d6f4a1f232226b50c5977e2",
         "f6279cd8208de431f490700e",
@@ -36326,6 +36740,7 @@
         "68f20252c475ebf919aa32c2",
         "e6e708e069414c638a3e4a4a",
         "a627f361b75ed64c9140e22f",
+        "57c36f72a0aefc15bb0bddda",
         "1c09b73d310e9ae53c03aeec",
         "1d0b2d851c179042720c4fbc",
         "2ba0f53214516ed984803c4e",
@@ -36342,7 +36757,6 @@
         "6761435993edc48cfbb96f59",
         "e9c007ff490913609b95c925",
         "74b6ffb12a0918f5d674f325",
-        "57c36f72a0aefc15bb0bddda",
         "2cf978a1e0063628bc665e3e",
         "c7cbf86fc1df823c5bc0562d",
         "366e36663354849b718d7e92",
@@ -36393,6 +36807,8 @@
         "a2732dabf656e9dafebd3f9f",
         "714658a64fb5b3429e60c022",
         "ecfe4f12a4942e792c5821d4",
+        "f4fe6cdd62a1378aa96610ee",
+        "adee24284177817037ba6bc9",
         "155e64b95acb3bc4b40168ae",
         "bf8274fff30076db19db5896",
         "b7a1cf4c859fbdf37bb4ac83",
@@ -38441,7 +38857,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-28T06:02:09.286257+09:00",
+      "generated_at": "2026-10-28T09:22:27.112308+09:00",
       "is_complete": true,
       "article_count": 521,
       "category_counts": {
@@ -38454,7 +38870,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+        "attempted_at": "2026-10-28T00:22:26.787103+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -38465,6 +38881,10 @@
         ],
         "errors": [
           {
+            "article_id": "0cc71d0115db63a4662e93b1",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "59077d79ad2cb8538652672f",
             "stage": "original_fetch"
           },
@@ -38474,10 +38894,6 @@
           },
           {
             "article_id": "930b373afcc4634861171591",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -38493,7 +38909,7 @@
           "errors": [],
           "last_success_at": "2026-10-27T21:00:15.072954+00:00"
         },
-        "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+        "last_success_at": "2026-10-28T00:22:26.787103+00:00"
       },
       "genre_briefs": [
         {
@@ -39848,20 +40264,20 @@
       "kind": "overview",
       "period_start": "2026-10-22",
       "period_end": "2026-10-28",
-      "generated_at": "2026-10-28T06:02:09.286257+09:00",
+      "generated_at": "2026-10-28T09:22:27.112308+09:00",
       "is_complete": false,
-      "article_count": 231,
+      "article_count": 246,
       "category_counts": {
-        "ai": 121,
-        "tech": 62,
-        "parenting": 48
+        "tech": 71,
+        "parenting": 49,
+        "ai": 126
       },
       "overview": "OpenAIとOracleは、組織の権限・承認に従って業務情報の検索や処理を行うOracle AI Workspaceを開発中。Check PointもDaybreakによる脆弱性調査支援を報告し、重要操作に人の承認を組み込むネットワーク防御を共同開発している。いずれも業務処理や防御の自律実行が一般提供されたという発表ではない。 FirebirdはGPU4万5000基の輸出許可を取得し、カザフスタンで2027年第3四半期の商用開始を目指して施設を建設中。許可対象の全台数が導入済みという意味ではない。一方、NVIDIAのMinervaはGPUやネットワークなどの監視情報を知識グラフで関連付け、障害の原因候補と対処案を提示する運用担当者向け基盤で、IRENが利用している。 Googleは大学生の学生アンバサダー15人によるGemini活用例を紹介した。授業資料の個別レッスン化、問いかけによる理解支援、音声での面接練習に加え、Driveのシラバスから課題と期限を抽出してCalendarに整理する例がある。新機能の提供開始や、幼児・小中高校生向けの実践報告ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+        "attempted_at": "2026-10-28T00:22:26.787103+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -39872,6 +40288,10 @@
         ],
         "errors": [
           {
+            "article_id": "0cc71d0115db63a4662e93b1",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "59077d79ad2cb8538652672f",
             "stage": "original_fetch"
           },
@@ -39881,10 +40301,6 @@
           },
           {
             "article_id": "930b373afcc4634861171591",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -39900,7 +40316,7 @@
           "errors": [],
           "last_success_at": "2026-10-27T21:00:15.072954+00:00"
         },
-        "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+        "last_success_at": "2026-10-28T00:22:26.787103+00:00"
       },
       "genre_briefs": [
         {
@@ -40062,24 +40478,28 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 103,
-          "publisher_count": 38,
+          "count": 108,
+          "publisher_count": 39,
           "summary": "OpenAIとOracleは提携を拡大し、Oracleの業務アプリやデータをChatGPTにつなぐOracle AI Workspaceを開発中と発表した。組織の権限・承認に従って情報検索や業務処理を行う構想。脆弱性対策、中小企業向けセット、アプリ開発支援も発表した。米国のOracle顧客はMarketplaceでOpenAI製品へのアクセスを購入できる。 Check PointはOpenAI Daybreakを脆弱性調査に導入し、従来数時間かかった作業を数分に短縮したとCTOが報告した。モデルが脆弱性や攻撃経路、コード・設定の問題を分析し、防御用シグネチャなどの開発につながる調査を支援する。継続監視と重要操作への人の承認を組み合わせるネットワーク防御も共同開発中で、修復支援は今後の重点としている。 Google DeepMindは、リアルタイムの対話型シミュレーションを生成する世界モデルGenie 4の研究を発表した。自然言語でカメラ移動や天候変更、登場人物の追加を指示でき、環境音・音楽・対話もその場で生成する。信頼された少数のテスターへの展開を開始し、Project GenieのGoogle AI Ultra加入者やAPIなどの早期アクセスパートナーにも近日提供予定としている。",
           "evidence_ids": [
             "eb8e5701dd56bda0be87e578",
-            "593eff7f403535ddc50c4afa",
-            "4fd4c9ffae0dfb6acefb7982"
+            "0cc71d0115db63a4662e93b1",
+            "593eff7f403535ddc50c4afa"
           ],
           "article_ids": [
             "eb8e5701dd56bda0be87e578",
+            "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
             "4fd4c9ffae0dfb6acefb7982",
+            "d428e3a6efbf89bbc2dc0698",
             "27efdf2f194c3533f50284b9",
             "aa7482dfe0b19e5707e7da31",
+            "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
+            "25586a6703797df01a4e72e4",
             "8e7a46f051e75b456c6431e4",
             "e12e7f8b6f14ca6c4f1334bf",
             "ed4c75ab463b2745d924fd87",
@@ -40088,6 +40508,7 @@
             "76871c3e739d74e3194a7a20",
             "b461081d1fd7b21a493edd43",
             "feb6b9df7a74f8153564669e",
+            "4f8c788ee86e272cabdb4b87",
             "d5bf1671c0bf1236545cbeec",
             "456ef35f224daafbdc83bb87",
             "89ba02a687217acabcc5b159",
@@ -40183,25 +40604,33 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 58,
-          "publisher_count": 38,
+          "count": 67,
+          "publisher_count": 43,
           "summary": "18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。 Firebirdはカザフスタン政府との投資契約に伴い、NVIDIA Grace Blackwell GPU計4万5000基の米国輸出許可を取得。Kazakhtelecomと第1期施設を建設中で、2027年第3四半期の商用開始を目指す。一方、KazakhtelecomはH200を400基、B300を480基導入済み。企業・開発者・研究機関向けの計算基盤拡張が進む。 NVIDIAはAI計算施設の運用担当者向けにAIOps基盤「Minerva」を発表した。GPU、ネットワーク、ストレージ、実行ジョブの監視情報を統合し、機器と処理の関係を動的な知識グラフで表現。機械学習で異常や障害の兆候を検出し、関連アラートを原因候補付きの事象に集約する。自然言語での調査や対処案の提示にも対応し、IRENが利用している。",
           "evidence_ids": [
-            "9e5ccf2843b219ca14640496",
-            "47551591e9f3209c6c4887f4",
-            "b8ec7a28940532058de85f11"
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc"
           ],
           "article_ids": [
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc",
             "9e5ccf2843b219ca14640496",
             "47551591e9f3209c6c4887f4",
             "b8ec7a28940532058de85f11",
             "f25f1836e7920aae56a7e68d",
+            "e182bf600c8962a78b8b235b",
+            "3d9a2ca7bd03441ab911724a",
             "434d2952c9bd3c280ce64a84",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "5c7fb462c5dfab8d1c98ead1",
+            "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
             "e96fec098b9f93a6745cb080",
             "18a1a843777b89478adfee80",
+            "ad3ddee1d126b947b8f47935",
             "0309ed6aab9a8ace6387a43d",
             "eea6e3dbeee3f390f344ae58",
             "17c5f34bd1d4c3f04ccd4f78",
@@ -40211,6 +40640,7 @@
             "2de4f63e085e80f030d56aa0",
             "7bc214003cc352e968467481",
             "e2f90d8f85434dee845194ab",
+            "b82c170d7ace5421d262abb8",
             "21cf8df6147b598bfa320347",
             "a399d4e10d589cec4b5e37d7",
             "9f2b6a448484a08a14f8a6bc",
@@ -40259,15 +40689,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 42,
-          "publisher_count": 27,
+          "count": 43,
+          "publisher_count": 28,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
-            "91f2f9d2e3597cf7aaea9436",
-            "821a5b53cf69f3847c38b6a5"
+            "91f2f9d2e3597cf7aaea9436"
           ],
           "article_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
             "91f2f9d2e3597cf7aaea9436",
             "821a5b53cf69f3847c38b6a5",
@@ -40438,18 +40869,27 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "02f6ecdf6c07284ca2dc3229",
+        "8fcc4e11d956e06b5f4e1aab",
+        "8a959e919e497b0686e25fdc",
+        "71feb3732a39c7ebc99f45d2",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
+        "0cc71d0115db63a4662e93b1",
         "593eff7f403535ddc50c4afa",
         "4fd4c9ffae0dfb6acefb7982",
         "47551591e9f3209c6c4887f4",
         "b8ec7a28940532058de85f11",
         "9cadec0c37af2cd0c7af9f64",
         "f25f1836e7920aae56a7e68d",
+        "e182bf600c8962a78b8b235b",
+        "3d9a2ca7bd03441ab911724a",
+        "d428e3a6efbf89bbc2dc0698",
         "27efdf2f194c3533f50284b9",
         "aa7482dfe0b19e5707e7da31",
         "434d2952c9bd3c280ce64a84",
+        "90530ae06f31bf4ace8ac53c",
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
@@ -40457,19 +40897,24 @@
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
         "97b1290cf50495a86db9a711",
+        "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
+        "5c7fb462c5dfab8d1c98ead1",
+        "d5fb20c08dfda71bf49ae15b",
         "7d169c3885c9daabc1c83840",
         "9ccae38a5be188f59ba136cc",
         "e96fec098b9f93a6745cb080",
         "76871c3e739d74e3194a7a20",
         "b461081d1fd7b21a493edd43",
         "feb6b9df7a74f8153564669e",
+        "4f8c788ee86e272cabdb4b87",
         "18a1a843777b89478adfee80",
+        "ad3ddee1d126b947b8f47935",
         "d5bf1671c0bf1236545cbeec",
         "456ef35f224daafbdc83bb87",
         "89ba02a687217acabcc5b159",
@@ -40516,6 +40961,7 @@
         "fb22f7ec312722b4dd58ffea",
         "51decc35b85d22fce185ff83",
         "e2f90d8f85434dee845194ab",
+        "b82c170d7ace5421d262abb8",
         "5dbc76909264f3c09b4875df",
         "2d6f4a1f232226b50c5977e2",
         "f6279cd8208de431f490700e",
@@ -40676,20 +41122,20 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-28T06:02:09.286257+09:00",
+      "generated_at": "2026-10-28T09:22:27.112308+09:00",
       "is_complete": false,
-      "article_count": 87,
+      "article_count": 102,
       "category_counts": {
-        "ai": 50,
-        "tech": 21,
-        "parenting": 16
+        "tech": 30,
+        "parenting": 17,
+        "ai": 55
       },
       "overview": "OpenAIとOracleは、組織の権限・承認に従って業務情報の検索や処理を行うOracle AI Workspaceを開発中。Check Pointも、Daybreakによる脆弱性調査支援に加え、継続監視と重要操作への人の承認を組み合わせたネットワーク防御を共同開発している。両者とも、構想された自律的な業務・防御機能の一般提供や効果が実証された段階ではない。 18機関が参加するC-BRAINは、データを機関内に残す連合学習と集中管理を併用する研究基盤を構築中。仮説生成・解析を担うOpenScientistと、文献などで主張を検証するInsightEngineは開発済みで、多様な生体データを学ぶ基盤モデルは今後の計画。公開事例の解析は数分、1回10ドル未満とされるが、比較対象の専門家所要時間は推定である。 Googleは大学生の学生アンバサダーによるGemini活用例として、授業資料の個別レッスン化、問いかけによる理解支援、音声での面接練習、シラバスからの課題・期限抽出とCalendarへの整理を紹介した。新機能の提供開始ではなく体験談の紹介で、年齢・地域・料金ごとの利用条件や、学習効果の比較検証は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+        "attempted_at": "2026-10-28T00:22:26.787103+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -40700,6 +41146,10 @@
         ],
         "errors": [
           {
+            "article_id": "0cc71d0115db63a4662e93b1",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "59077d79ad2cb8538652672f",
             "stage": "original_fetch"
           },
@@ -40709,10 +41159,6 @@
           },
           {
             "article_id": "930b373afcc4634861171591",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -40728,7 +41174,7 @@
           "errors": [],
           "last_success_at": "2026-10-27T21:00:15.072954+00:00"
         },
-        "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+        "last_success_at": "2026-10-28T00:22:26.787103+00:00"
       },
       "genre_briefs": [
         {
@@ -40854,24 +41300,28 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 46,
-          "publisher_count": 25,
+          "count": 51,
+          "publisher_count": 26,
           "summary": "OpenAIとOracleは提携を拡大し、Oracleの業務アプリやデータをChatGPTにつなぐOracle AI Workspaceを開発中と発表した。組織の権限・承認に従って情報検索や業務処理を行う構想。脆弱性対策、中小企業向けセット、アプリ開発支援も発表した。米国のOracle顧客はMarketplaceでOpenAI製品へのアクセスを購入できる。 Check PointはOpenAI Daybreakを脆弱性調査に導入し、従来数時間かかった作業を数分に短縮したとCTOが報告した。モデルが脆弱性や攻撃経路、コード・設定の問題を分析し、防御用シグネチャなどの開発につながる調査を支援する。継続監視と重要操作への人の承認を組み合わせるネットワーク防御も共同開発中で、修復支援は今後の重点としている。 Google DeepMindは、リアルタイムの対話型シミュレーションを生成する世界モデルGenie 4の研究を発表した。自然言語でカメラ移動や天候変更、登場人物の追加を指示でき、環境音・音楽・対話もその場で生成する。信頼された少数のテスターへの展開を開始し、Project GenieのGoogle AI Ultra加入者やAPIなどの早期アクセスパートナーにも近日提供予定としている。",
           "evidence_ids": [
             "eb8e5701dd56bda0be87e578",
-            "593eff7f403535ddc50c4afa",
-            "4fd4c9ffae0dfb6acefb7982"
+            "0cc71d0115db63a4662e93b1",
+            "593eff7f403535ddc50c4afa"
           ],
           "article_ids": [
             "eb8e5701dd56bda0be87e578",
+            "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
             "4fd4c9ffae0dfb6acefb7982",
+            "d428e3a6efbf89bbc2dc0698",
             "27efdf2f194c3533f50284b9",
             "aa7482dfe0b19e5707e7da31",
+            "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
+            "25586a6703797df01a4e72e4",
             "8e7a46f051e75b456c6431e4",
             "e12e7f8b6f14ca6c4f1334bf",
             "ed4c75ab463b2745d924fd87",
@@ -40880,6 +41330,7 @@
             "76871c3e739d74e3194a7a20",
             "b461081d1fd7b21a493edd43",
             "feb6b9df7a74f8153564669e",
+            "4f8c788ee86e272cabdb4b87",
             "d5bf1671c0bf1236545cbeec",
             "456ef35f224daafbdc83bb87",
             "89ba02a687217acabcc5b159",
@@ -40918,25 +41369,33 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 20,
-          "publisher_count": 17,
+          "count": 29,
+          "publisher_count": 23,
           "summary": "18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
-            "9e5ccf2843b219ca14640496",
-            "47551591e9f3209c6c4887f4",
-            "b8ec7a28940532058de85f11"
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc"
           ],
           "article_ids": [
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc",
             "9e5ccf2843b219ca14640496",
             "47551591e9f3209c6c4887f4",
             "b8ec7a28940532058de85f11",
             "f25f1836e7920aae56a7e68d",
+            "e182bf600c8962a78b8b235b",
+            "3d9a2ca7bd03441ab911724a",
             "434d2952c9bd3c280ce64a84",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "5c7fb462c5dfab8d1c98ead1",
+            "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
             "e96fec098b9f93a6745cb080",
             "18a1a843777b89478adfee80",
+            "ad3ddee1d126b947b8f47935",
             "0309ed6aab9a8ace6387a43d",
             "eea6e3dbeee3f390f344ae58",
             "17c5f34bd1d4c3f04ccd4f78",
@@ -40946,6 +41405,7 @@
             "2de4f63e085e80f030d56aa0",
             "7bc214003cc352e968467481",
             "e2f90d8f85434dee845194ab",
+            "b82c170d7ace5421d262abb8",
             "21cf8df6147b598bfa320347"
           ]
         },
@@ -40956,15 +41416,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 14,
-          "publisher_count": 12,
+          "count": 15,
+          "publisher_count": 13,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
-            "91f2f9d2e3597cf7aaea9436",
-            "821a5b53cf69f3847c38b6a5"
+            "91f2f9d2e3597cf7aaea9436"
           ],
           "article_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
             "91f2f9d2e3597cf7aaea9436",
             "821a5b53cf69f3847c38b6a5",
@@ -41087,18 +41548,27 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "02f6ecdf6c07284ca2dc3229",
+        "8fcc4e11d956e06b5f4e1aab",
+        "8a959e919e497b0686e25fdc",
+        "71feb3732a39c7ebc99f45d2",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
+        "0cc71d0115db63a4662e93b1",
         "593eff7f403535ddc50c4afa",
         "4fd4c9ffae0dfb6acefb7982",
         "47551591e9f3209c6c4887f4",
         "b8ec7a28940532058de85f11",
         "9cadec0c37af2cd0c7af9f64",
         "f25f1836e7920aae56a7e68d",
+        "e182bf600c8962a78b8b235b",
+        "3d9a2ca7bd03441ab911724a",
+        "d428e3a6efbf89bbc2dc0698",
         "27efdf2f194c3533f50284b9",
         "aa7482dfe0b19e5707e7da31",
         "434d2952c9bd3c280ce64a84",
+        "90530ae06f31bf4ace8ac53c",
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
@@ -41106,19 +41576,24 @@
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
         "97b1290cf50495a86db9a711",
+        "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
+        "5c7fb462c5dfab8d1c98ead1",
+        "d5fb20c08dfda71bf49ae15b",
         "7d169c3885c9daabc1c83840",
         "9ccae38a5be188f59ba136cc",
         "e96fec098b9f93a6745cb080",
         "76871c3e739d74e3194a7a20",
         "b461081d1fd7b21a493edd43",
         "feb6b9df7a74f8153564669e",
+        "4f8c788ee86e272cabdb4b87",
         "18a1a843777b89478adfee80",
+        "ad3ddee1d126b947b8f47935",
         "d5bf1671c0bf1236545cbeec",
         "456ef35f224daafbdc83bb87",
         "89ba02a687217acabcc5b159",
@@ -41165,6 +41640,7 @@
         "fb22f7ec312722b4dd58ffea",
         "51decc35b85d22fce185ff83",
         "e2f90d8f85434dee845194ab",
+        "b82c170d7ace5421d262abb8",
         "5dbc76909264f3c09b4875df",
         "2d6f4a1f232226b50c5977e2",
         "f6279cd8208de431f490700e",
@@ -41181,20 +41657,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-28T06:02:09.286257+09:00",
+      "generated_at": "2026-10-28T09:22:27.112308+09:00",
       "is_complete": false,
-      "article_count": 889,
+      "article_count": 906,
       "category_counts": {
-        "ai": 430,
-        "tech": 233,
-        "parenting": 226
+        "tech": 242,
+        "parenting": 227,
+        "ai": 437
       },
       "overview": "OpenAIとOracleは、組織の権限・承認に従って業務情報の検索や処理を行うOracle AI Workspaceを開発中。Check Pointも、Daybreakによる脆弱性調査支援に加え、継続監視と重要操作への人の承認を組み合わせる防御機能を共同開発している。いずれも構想全体が提供済みとは確認できない。 FirebirdはカザフスタンでGPU計4万5000基の輸出許可を取得し、第1期施設の2027年第3四半期の商用開始を目指す。許可台数は導入済み台数ではない。NVIDIAのMinervaは、施設運用担当者向けに監視情報を知識グラフで関連付け、アラートの集約や原因候補の提示を行い、IRENが利用しているが、復旧時間の改善幅は示されていない。 Googleは大学生によるGeminiの活用例として、教材の個別レッスン化、問いかけによる理解支援、課題期限の整理を紹介した。新機能の提供開始や効果検証ではない。一方、Khan Academyは解答提出前のヒントと誤答後の説明を組み合わせる設計を説明し、提携学区向けGem Jamでは教師が設定した指定課題の習熟をチームで競う。対象学年は明示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+        "attempted_at": "2026-10-28T00:22:26.787103+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 1,
@@ -41205,6 +41681,10 @@
         ],
         "errors": [
           {
+            "article_id": "0cc71d0115db63a4662e93b1",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "59077d79ad2cb8538652672f",
             "stage": "original_fetch"
           },
@@ -41214,10 +41694,6 @@
           },
           {
             "article_id": "930b373afcc4634861171591",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -41233,7 +41709,7 @@
           "errors": [],
           "last_success_at": "2026-10-27T21:00:15.072954+00:00"
         },
-        "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+        "last_success_at": "2026-10-28T00:22:26.787103+00:00"
       },
       "genre_briefs": [
         {
@@ -41435,24 +41911,28 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 356,
+          "count": 363,
           "publisher_count": 57,
           "summary": "OpenAIとOracleは提携を拡大し、Oracleの業務アプリやデータをChatGPTにつなぐOracle AI Workspaceを開発中と発表した。組織の権限・承認に従って情報検索や業務処理を行う構想。脆弱性対策、中小企業向けセット、アプリ開発支援も発表した。米国のOracle顧客はMarketplaceでOpenAI製品へのアクセスを購入できる。 Check PointはOpenAI Daybreakを脆弱性調査に導入し、従来数時間かかった作業を数分に短縮したとCTOが報告した。モデルが脆弱性や攻撃経路、コード・設定の問題を分析し、防御用シグネチャなどの開発につながる調査を支援する。継続監視と重要操作への人の承認を組み合わせるネットワーク防御も共同開発中で、修復支援は今後の重点としている。 Google DeepMindは、リアルタイムの対話型シミュレーションを生成する世界モデルGenie 4の研究を発表した。自然言語でカメラ移動や天候変更、登場人物の追加を指示でき、環境音・音楽・対話もその場で生成する。信頼された少数のテスターへの展開を開始し、Project GenieのGoogle AI Ultra加入者やAPIなどの早期アクセスパートナーにも近日提供予定としている。",
           "evidence_ids": [
             "eb8e5701dd56bda0be87e578",
-            "593eff7f403535ddc50c4afa",
-            "4fd4c9ffae0dfb6acefb7982"
+            "0cc71d0115db63a4662e93b1",
+            "593eff7f403535ddc50c4afa"
           ],
           "article_ids": [
             "eb8e5701dd56bda0be87e578",
+            "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
             "4fd4c9ffae0dfb6acefb7982",
+            "d428e3a6efbf89bbc2dc0698",
             "27efdf2f194c3533f50284b9",
             "aa7482dfe0b19e5707e7da31",
+            "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
+            "25586a6703797df01a4e72e4",
             "8e7a46f051e75b456c6431e4",
             "e12e7f8b6f14ca6c4f1334bf",
             "ed4c75ab463b2745d924fd87",
@@ -41461,6 +41941,7 @@
             "76871c3e739d74e3194a7a20",
             "b461081d1fd7b21a493edd43",
             "feb6b9df7a74f8153564669e",
+            "4f8c788ee86e272cabdb4b87",
             "d5bf1671c0bf1236545cbeec",
             "456ef35f224daafbdc83bb87",
             "89ba02a687217acabcc5b159",
@@ -41612,6 +42093,8 @@
             "a5ec9d4aa0577e7790e76f11",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
+            "f4fe6cdd62a1378aa96610ee",
+            "adee24284177817037ba6bc9",
             "0f9bfbfbcfa79c194ccb7b8c",
             "3c8742712105fc8b150b88ee",
             "88685d8cbfac0a79e33295dc",
@@ -41809,25 +42292,33 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 224,
-          "publisher_count": 103,
+          "count": 233,
+          "publisher_count": 105,
           "summary": "18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。 Firebirdはカザフスタン政府との投資契約に伴い、NVIDIA Grace Blackwell GPU計4万5000基の米国輸出許可を取得。Kazakhtelecomと第1期施設を建設中で、2027年第3四半期の商用開始を目指す。一方、KazakhtelecomはH200を400基、B300を480基導入済み。企業・開発者・研究機関向けの計算基盤拡張が進む。 NVIDIAはAI計算施設の運用担当者向けにAIOps基盤「Minerva」を発表した。GPU、ネットワーク、ストレージ、実行ジョブの監視情報を統合し、機器と処理の関係を動的な知識グラフで表現。機械学習で異常や障害の兆候を検出し、関連アラートを原因候補付きの事象に集約する。自然言語での調査や対処案の提示にも対応し、IRENが利用している。",
           "evidence_ids": [
-            "9e5ccf2843b219ca14640496",
-            "47551591e9f3209c6c4887f4",
-            "b8ec7a28940532058de85f11"
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc"
           ],
           "article_ids": [
+            "02f6ecdf6c07284ca2dc3229",
+            "8fcc4e11d956e06b5f4e1aab",
+            "8a959e919e497b0686e25fdc",
             "9e5ccf2843b219ca14640496",
             "47551591e9f3209c6c4887f4",
             "b8ec7a28940532058de85f11",
             "f25f1836e7920aae56a7e68d",
+            "e182bf600c8962a78b8b235b",
+            "3d9a2ca7bd03441ab911724a",
             "434d2952c9bd3c280ce64a84",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "5c7fb462c5dfab8d1c98ead1",
+            "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
             "e96fec098b9f93a6745cb080",
             "18a1a843777b89478adfee80",
+            "ad3ddee1d126b947b8f47935",
             "0309ed6aab9a8ace6387a43d",
             "eea6e3dbeee3f390f344ae58",
             "17c5f34bd1d4c3f04ccd4f78",
@@ -41837,6 +42328,7 @@
             "2de4f63e085e80f030d56aa0",
             "7bc214003cc352e968467481",
             "e2f90d8f85434dee845194ab",
+            "b82c170d7ace5421d262abb8",
             "21cf8df6147b598bfa320347",
             "a399d4e10d589cec4b5e37d7",
             "9f2b6a448484a08a14f8a6bc",
@@ -42051,15 +42543,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 199,
+          "count": 200,
           "publisher_count": 78,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。 Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。",
           "evidence_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
-            "91f2f9d2e3597cf7aaea9436",
-            "821a5b53cf69f3847c38b6a5"
+            "91f2f9d2e3597cf7aaea9436"
           ],
           "article_ids": [
+            "71feb3732a39c7ebc99f45d2",
             "a99921f40a08bb409c8b3ba1",
             "91f2f9d2e3597cf7aaea9436",
             "821a5b53cf69f3847c38b6a5",
@@ -42121,13 +42614,13 @@
             "a917ed44e3ef5220a5dde36a",
             "2b5ce8aa3eac150bd586ff33",
             "a627f361b75ed64c9140e22f",
+            "57c36f72a0aefc15bb0bddda",
             "1c09b73d310e9ae53c03aeec",
             "2ba0f53214516ed984803c4e",
             "92ad9db99438082693a9ef64",
             "3c035667c6ba671eb4340428",
             "7b4c1eee88a28463a4980ee1",
             "74b6ffb12a0918f5d674f325",
-            "57c36f72a0aefc15bb0bddda",
             "c7cbf86fc1df823c5bc0562d",
             "7cd38fe552b06bda7adba83a",
             "6f0f9b850adad8779c91cb3f",
@@ -42456,18 +42949,27 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "02f6ecdf6c07284ca2dc3229",
+        "8fcc4e11d956e06b5f4e1aab",
+        "8a959e919e497b0686e25fdc",
+        "71feb3732a39c7ebc99f45d2",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
+        "0cc71d0115db63a4662e93b1",
         "593eff7f403535ddc50c4afa",
         "4fd4c9ffae0dfb6acefb7982",
         "47551591e9f3209c6c4887f4",
         "b8ec7a28940532058de85f11",
         "9cadec0c37af2cd0c7af9f64",
         "f25f1836e7920aae56a7e68d",
+        "e182bf600c8962a78b8b235b",
+        "3d9a2ca7bd03441ab911724a",
+        "d428e3a6efbf89bbc2dc0698",
         "27efdf2f194c3533f50284b9",
         "aa7482dfe0b19e5707e7da31",
         "434d2952c9bd3c280ce64a84",
+        "90530ae06f31bf4ace8ac53c",
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
@@ -42475,19 +42977,24 @@
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
         "97b1290cf50495a86db9a711",
+        "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
+        "5c7fb462c5dfab8d1c98ead1",
+        "d5fb20c08dfda71bf49ae15b",
         "7d169c3885c9daabc1c83840",
         "9ccae38a5be188f59ba136cc",
         "e96fec098b9f93a6745cb080",
         "76871c3e739d74e3194a7a20",
         "b461081d1fd7b21a493edd43",
         "feb6b9df7a74f8153564669e",
+        "4f8c788ee86e272cabdb4b87",
         "18a1a843777b89478adfee80",
+        "ad3ddee1d126b947b8f47935",
         "d5bf1671c0bf1236545cbeec",
         "456ef35f224daafbdc83bb87",
         "89ba02a687217acabcc5b159",
@@ -42534,6 +43041,7 @@
         "fb22f7ec312722b4dd58ffea",
         "51decc35b85d22fce185ff83",
         "e2f90d8f85434dee845194ab",
+        "b82c170d7ace5421d262abb8",
         "5dbc76909264f3c09b4875df",
         "2d6f4a1f232226b50c5977e2",
         "f6279cd8208de431f490700e",
@@ -42796,6 +43304,7 @@
         "68f20252c475ebf919aa32c2",
         "e6e708e069414c638a3e4a4a",
         "a627f361b75ed64c9140e22f",
+        "57c36f72a0aefc15bb0bddda",
         "1c09b73d310e9ae53c03aeec",
         "1d0b2d851c179042720c4fbc",
         "2ba0f53214516ed984803c4e",
@@ -42812,7 +43321,6 @@
         "6761435993edc48cfbb96f59",
         "e9c007ff490913609b95c925",
         "74b6ffb12a0918f5d674f325",
-        "57c36f72a0aefc15bb0bddda",
         "2cf978a1e0063628bc665e3e",
         "c7cbf86fc1df823c5bc0562d",
         "366e36663354849b718d7e92",
@@ -42863,6 +43371,8 @@
         "a2732dabf656e9dafebd3f9f",
         "714658a64fb5b3429e60c022",
         "ecfe4f12a4942e792c5821d4",
+        "f4fe6cdd62a1378aa96610ee",
+        "adee24284177817037ba6bc9",
         "155e64b95acb3bc4b40168ae",
         "bf8274fff30076db19db5896",
         "b7a1cf4c859fbdf37bb4ac83",
@@ -43348,10 +43858,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-28T06:02:09.286257+09:00",
+  "report_updated_at": "2026-10-28T09:22:27.112308+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-27T21:02:08.929376+00:00",
+    "attempted_at": "2026-10-28T00:22:26.787103+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 1,
@@ -43362,6 +43872,10 @@
     ],
     "errors": [
       {
+        "article_id": "0cc71d0115db63a4662e93b1",
+        "stage": "original_fetch"
+      },
+      {
         "article_id": "59077d79ad2cb8538652672f",
         "stage": "original_fetch"
       },
@@ -43371,10 +43885,6 @@
       },
       {
         "article_id": "930b373afcc4634861171591",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "2d6f4a1f232226b50c5977e2",
         "stage": "original_fetch"
       }
     ],
@@ -43390,7 +43900,7 @@
       "errors": [],
       "last_success_at": "2026-10-27T21:00:15.072954+00:00"
     },
-    "last_success_at": "2026-10-27T21:02:08.929376+00:00"
+    "last_success_at": "2026-10-28T00:22:26.787103+00:00"
   },
   "topic_definitions": [
     {
@@ -43488,20 +43998,22 @@
       {
         "provider": "Anthropic",
         "story": {
-          "article_id": "f6279cd8208de431f490700e",
+          "article_id": "4f8c788ee86e272cabdb4b87",
           "category": "ai",
-          "headline": "Anthropic files S-1 with the SEC for proposed initial public offering",
-          "summary": "Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S.",
+          "headline": "Expanding our partnership with GSA to bring Claude to all levels of government",
+          "summary": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise,…",
           "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-          "source_url": "https://www.anthropic.com/news/s1-sec",
+          "source_url": "https://www.anthropic.com/news/expanding-partnership-gsa",
           "source_label": "Anthropic 公式（本文の自動抜粋）",
           "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
           "provider": "Anthropic",
           "origin_kind": "official",
-          "tags": [],
+          "tags": [
+            "models"
+          ],
           "review_method": "extractive",
-          "generated_at": "2026-10-26T21:02:22.764651+00:00",
-          "published_at": "2026-10-26T00:00:00Z"
+          "generated_at": "2026-10-28T00:22:26.787103+00:00",
+          "published_at": "2026-10-27T00:00:00Z"
         }
       },
       {
@@ -43904,9 +44416,9 @@
   "picks": [
     "eb8e5701dd56bda0be87e578",
     "3bc71d1340ab316ed36ef110",
-    "9e5ccf2843b219ca14640496",
-    "47551591e9f3209c6c4887f4",
-    "5fa830605871f847a715fce1",
-    "6ac08de14f8dc2986a7f57e1"
+    "02f6ecdf6c07284ca2dc3229",
+    "8fcc4e11d956e06b5f4e1aab",
+    "71feb3732a39c7ebc99f45d2",
+    "5fa830605871f847a715fce1"
   ]
 }
