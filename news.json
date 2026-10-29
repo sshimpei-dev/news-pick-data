@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-28T21:02:43.228816Z",
-  "last_attempt_at": "2026-10-28T21:02:43.228816Z",
+  "updated_at": "2026-10-29T00:42:51.440911Z",
+  "last_attempt_at": "2026-10-29T00:42:51.440911Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "ok",
       "count": 5,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 9,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-28T21:02:43.228816Z",
+      "checked_at": "2026-10-29T00:42:51.440911Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-29T00:42:51.440911Z",
+      "new_count": 15,
+      "status": "ok"
+    },
     {
       "at": "2026-10-28T21:02:43.228816Z",
       "new_count": 1,
@@ -618,6 +623,42 @@
   ],
   "articles": [
     {
+      "id": "05dcba2e6b22a845017664d7",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xemxRcUh5akJISWNCMVVFQUE3QVk5R2JvcFdKUWpreFVxTld3N21GdS15ZnYzVkxoVnAwSjhUMldfNlhiWHFQVno3VzU4WDZ1ZWRuMk5MOGJaS2xDUmFWUmNkVUw1SnZfbXc?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化 ITmedia",
+      "published_at": "2026-10-28T22:13:47Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "ef4ccdcbc713a4183702b905",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "「AIの無断学習は破壊的規模」 揺らぐ楽曲の権利、どう向き合う - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoQ0Q1b1h5NEtxdkZsOHE1NWlfWlJ6NDlYY0c4T1dsTDlzd0VIMjFDU1A3Zm8tSTlDVXVqcHZQSExma29sZ3EtMWtsN3hqNUZpQ3NSUjRQQW1BQ0RCLURoci0tVVlnd1E?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "「AIの無断学習は破壊的規模」 揺らぐ楽曲の権利、どう向き合う 朝日新聞",
+      "published_at": "2026-10-28T22:00:00Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "a3efc54d7af5e4449b2ca0d2",
       "category": "parenting",
       "source_id": "google-education",
@@ -754,6 +795,42 @@
       "theme_ids": []
     },
     {
+      "id": "a43a8a5234f2bbe175c9ee75",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini 3.8 Flashとは？性能や使い方・活用法を解説 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE93V1lJZV91V0JVOVRjMWo2R3U3RXZrel85UFZkczlpMkxIX3RmSzRXNkNJUlJUc2NzV0NnWC13THg2RU5ySk9TeHQtTXI5djRUaWp0dTMtWXdJUG5Q?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "Gemini 3.8 Flashとは？性能や使い方・活用法を解説 AIsmiley",
+      "published_at": "2026-10-28T08:54:46Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "880b1c362c23b97143293ed8",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini エージェントがスタートアップにもたらすメリット - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2VscGtKT2w4UjlNRGJUYVNiOXloT1Z5VG5JVEhNZWliLTl5bjlhVTJKakdjQ2IwUzFXUEhjWW96eEZyODlSUG01Z0NiZUprNHhsb0VmbkFyOFZOZjQwUTM5dnZVSUxZU3pQUzNuYjRBcDBmRmFFd0p0RFlKTUhFbmdEUkpvbDk2QlZQbThpTzRhZGM?oc=5",
+      "publisher": "Google Cloud",
+      "summary": "Gemini エージェントがスタートアップにもたらすメリット Google Cloud",
+      "published_at": "2026-10-28T08:42:53Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "df1ac61fae2f6367cde922d2",
       "category": "parenting",
       "source_id": "parenting",
@@ -858,6 +935,22 @@
       "theme_ids": []
     },
     {
+      "id": "3451aa59a64663fb83acdb75",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93U210WFVaM3Z3VnpKNVBtWmI5UkhfR0JDOFIxNy1nMWVYNXEyQkJuSFhNWFlFdWNGOURweTlQSXUxSUJzMmdWTlNhdzl5RTdQUzA4U3BVVjBIRkVoRWZwSWEtT2d6Tlh2NXc?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Anthropic、独自の“創薬活動”に着手 社員1人のバイオ企業を買収、小児難病の治療薬研究を進める ITmedia",
+      "published_at": "2026-10-28T04:07:50Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "fd15246672ce860b0578a371",
       "category": "tech",
       "source_id": "tech",
@@ -874,6 +967,22 @@
       "theme_ids": [
         "camera"
       ]
+    },
+    {
+      "id": "0aac5d5b6c39222241b16d21",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "オラクル、危ういOpenAI頼み 資金調達逆風で株価6割安 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aSndBcWwyZUZIMF81Qk9scl92UmJvYTAyT1lNa09PTlNVYkRjVXFUdURIVngtNUxMMnpxcURjOS1qei1Gck9aOXdST2kyOHFKT2E2NTFOVmN2NGFrV3RZR09aUmthVV9yVURRSg?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "オラクル、危ういOpenAI頼み 資金調達逆風で株価6割安 日本経済新聞",
+      "published_at": "2026-10-28T03:03:20Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "63efe9a02ce6f77b1de00e0c",
@@ -906,6 +1015,24 @@
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "847dce3e75c8cdc28ca48a9e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AI学習でマドンナらの楽曲を不正利用か--AnthropicとSuno、計約530億円の訴訟に直面 - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PQTBHZEJrVlRScGZpQ1lDYXpyM1FmQ1ZPNjhkOWJkTkFsYlU5cFRXR2YtcWg2Q1JWRmR4b0drUWxoWGFwRktOX1lDSExMQlJvOWc?oc=5",
+      "publisher": "CNET Japan",
+      "summary": "AI学習でマドンナらの楽曲を不正利用か--AnthropicとSuno、計約530億円の訴訟に直面 CNET Japan",
+      "published_at": "2026-10-28T01:20:00Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-safety",
       "in_scope": true,
       "theme_ids": [
         "education"
@@ -1017,6 +1144,24 @@
       ]
     },
     {
+      "id": "e1e4c4dd673b57d70b31eddf",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、「GPT-6.1 Terra」を発表 - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHU0loYkZOVW5ET284RlJJSjlRd25sMFZidjQ5WFEtY0JkeGFoQWZyQmNUUjk2aXpnSGtMRWFvN1pTOVZtNWRCZl9nR2VzQQ?oc=5",
+      "publisher": "CodeZine",
+      "summary": "OpenAI、「GPT-6.1 Terra」を発表 CodeZine",
+      "published_at": "2026-10-28T00:00:00Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "8fcc4e11d956e06b5f4e1aab",
       "category": "tech",
       "source_id": "tech",
@@ -1104,6 +1249,22 @@
       "theme_ids": [
         "education"
       ]
+    },
+    {
+      "id": "3e59c924042276cbdcb80edc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、AIが27年来の計算理論の前提を覆したと主張 理論の提唱者らが検証作業を実施 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54c1lHVjVWakNYSVNUYTRQUVRFRTlwOFM1SFg3MVBKc2tDQ3hHR3p5LXg2MElqWG5TckVaOHVQRjN6SHJOUnZ3ekxEc0s0SDNsSFBSRGJUMGFFbVQwMmlUWGZpaWVOekhVZU5Yc1ZXZEpyQTVz?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "OpenAI、AIが27年来の計算理論の前提を覆したと主張 理論の提唱者らが検証作業を実施 BigGo ファイナンス",
+      "published_at": "2026-10-27T18:26:00Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "eb8e5701dd56bda0be87e578",
@@ -1466,6 +1627,24 @@
       ]
     },
     {
+      "id": "cff7507538918c5653a45dcb",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "新型「MAZDA CX-5」で採用の「Google搭載」がAIアシスタント「Google Gemini」に対応 - MAZDA NEWSROOM",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyZEpVZnBTMXV3WGs3d0lpUG9nWVNVWC1VX1hrTzRUZ2JRZUFTOXdYZmh2cUo3V0xMSVJMQTF6bjlWVkZlTmFzT1hCSmJNZHB0RTdDOUo5R0pieVVlblpxbXBTVmRfazlHVDJ4c1hqWE1QVXdYb2ZmLXZjQ1M?oc=5",
+      "publisher": "MAZDA NEWSROOM",
+      "summary": "新型「MAZDA CX-5」で採用の「Google搭載」がAIアシスタント「Google Gemini」に対応 MAZDA NEWSROOM",
+      "published_at": "2026-10-27T06:42:41Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "6bfb176c6252d5fa157e4be8",
       "category": "ai",
       "source_id": "ai",
@@ -1528,6 +1707,24 @@
       "summary": "特別支援教育の特総研、研究所公開11/21…ICTやパラ体験 リセマム",
       "published_at": "2026-10-27T05:15:02Z",
       "collected_at": "2026-10-27T21:00:06.555051Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-care",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "96caa7ef2183c61fadbcbef4",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "特別支援教育の特総研、研究所公開11/21…ICTやパラ体験 1枚目の写真・画像 - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42Qkx4d2tLZVVtckt2Yl9hN09xdUtlNTlER0MtYmhDbl9mcEMyOFRoYV9xbmxYeFhrbjYzbWh2QlBuSUEwVG12Yi1PLXotX3JqSFpvVzZVaFZfSVRfbnV2WkFmbXJGaWxjeDUwOG51OWFWVHc?oc=5",
+      "publisher": "リセマム",
+      "summary": "特別支援教育の特総研、研究所公開11/21…ICTやパラ体験 1枚目の写真・画像 リセマム",
+      "published_at": "2026-10-27T05:15:02Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-care",
@@ -3920,6 +4117,22 @@
       "theme_ids": []
     },
     {
+      "id": "f747dde70f311b2f6ed8ade3",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "【AI世界大戦前夜】OpenAIも警告 PHPは序章に過ぎないこれから日本を襲う恐怖の数カ月（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ITlVfcFdhZmtDbmZDODhWS21xMTZSZnRvMlJrcHBFbFItdldxMUwyMTgzWFVocDloZnVRMms1VmZ5dmdvUFJiMHY2VXJaRXM1UVZvM1djSkpvb3duSEw4OS1DVWVHQmsybkdiRUxHVTRpbXZmRGNqR1JUb3J0SGM?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "【AI世界大戦前夜】OpenAIも警告 PHPは序章に過ぎないこれから日本を襲う恐怖の数カ月（ビジネス＋IT） Yahoo!ニュース",
+      "published_at": "2026-10-23T12:15:05Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "5960dbc7bfe34a738881d849",
       "category": "tech",
       "source_id": "tech",
@@ -4483,6 +4696,22 @@
       ]
     },
     {
+      "id": "ddc4efbff37fa7e7095552fe",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIが24億円でChat.comを取得 AI時代に希少性が増す「プレミアムドメイン」 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKaUxobzBYVHJyX3pxcTZzNzEtS09CeGVYVXR1VEVocHo2THRhLVdlaXh4VVNTLVhVZjNBSmF1eDhwNUdldllSTTdITkdrQWNrbFVpNS1iOS1Yd090SlBhMkMzWWJnUWdkR2ctUndKZ1AzV245b3VWY1hMVGo5amc?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "OpenAIが24億円でChat.comを取得 AI時代に希少性が増す「プレミアムドメイン」 Yahoo!ニュース",
+      "published_at": "2026-10-23T01:00:00Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "bcc49290b9c3f044f7b41cee",
       "category": "parenting",
       "source_id": "parenting",
@@ -4847,24 +5076,6 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
-    },
-    {
-      "id": "9be8ac5bec2434cf1f5a1cc4",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "中国DeepSeek、2兆円超を調達－OpenAIなどグローバル大手を追撃 - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmZFU4aU1vejJFNDJ5cUxaWGJFVndVczhkcEszUW40OHZuSHdDa29vMVpQZ1ZfbjlueGNRaTJrVkRyTGItWHRKMkhrMkJRU082Q19UNG1abnRlSk9iWUV6eWdzTEczVmpKNjNkYW8tdlMtVldwQkJz?oc=5",
-      "publisher": "Bloomberg.com",
-      "summary": "中国DeepSeek、2兆円超を調達－OpenAIなどグローバル大手を追撃 Bloomberg.com",
-      "published_at": "2026-10-22T10:22:25Z",
-      "collected_at": "2026-10-25T23:07:23.760538Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
-      ]
     },
     {
       "id": "9b9c34e0abb6b8abcc7317de",
@@ -5866,6 +6077,24 @@
       ]
     },
     {
+      "id": "9be8ac5bec2434cf1f5a1cc4",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "中国DeepSeek、2兆円超を調達－OpenAIなどグローバル大手を追撃 - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmZFU4aU1vejJFNDJ5cUxaWGJFVndVczhkcEszUW40OHZuSHdDa29vMVpQZ1ZfbjlueGNRaTJrVkRyTGItWHRKMkhrMkJRU082Q19UNG1abnRlSk9iWUV6eWdzTEczVmpKNjNkYW8tdlMtVldwQkJz?oc=5",
+      "publisher": "Bloomberg.com",
+      "summary": "中国DeepSeek、2兆円超を調達－OpenAIなどグローバル大手を追撃 Bloomberg.com",
+      "published_at": "2026-10-22T03:12:21Z",
+      "collected_at": "2026-10-25T23:07:23.760538Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "9bdc29494e796dfa25579baf",
       "category": "ai",
       "source_id": "ai",
@@ -6677,6 +6906,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "09f0b1b2ba2866d7de1b7f1e",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【参加募集】小中高をつなぐ情報教育 これからの学びと授業はどう変わる？ - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iTlNka3M5UW1Oa3hPY3o1WmdlNzNKMzdTb3ZIdUJCTGxwNXZScFQzRnRxSWszNGZTcjNJb0dWdFNRWjhKN2phQjJIcWhLejJBOXZBVXZreGQ3bkJLMmtrSUpZakE?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "【参加募集】小中高をつなぐ情報教育 これからの学びと授業はどう変わる？ 朝日新聞",
+      "published_at": "2026-10-21T18:35:47Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "education"
+      ]
     },
     {
       "id": "c928c60336bf8bee65405d25",
@@ -10347,6 +10594,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "5f968bc8ccd23ea2dd6896ae",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "【2026年最新】 Geminiの法人向け料金プラン 個人版との違いや APIの使い分け - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tRFhKQU9keHcwVXZWaDdtM3NGYjBtc09zR1F6ZnNBcnlQQ2lXWGo0WF92VFhSMVo1N3duWkw2bDhzc3h2WUhSVTF0UkpBaThlVGswa1l1X0NIYmpPV1M5NUc3WXpoRjR5RXlMMw?oc=5",
+      "publisher": "株式会社エクサウィザーズ",
+      "summary": "【2026年最新】 Geminiの法人向け料金プラン 個人版との違いや APIの使い分け 株式会社エクサウィザーズ",
+      "published_at": "2026-10-16T07:00:00Z",
+      "collected_at": "2026-10-29T00:42:51.440911Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "96f5b868b783b00726b9b729",
@@ -32704,23 +32969,23 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-29T06:02:51.082520+09:00",
+      "generated_at": "2026-10-29T09:42:57.097160+09:00",
       "is_complete": false,
-      "article_count": 129,
+      "article_count": 139,
       "category_counts": {
-        "tech": 40,
-        "ai": 67,
-        "parenting": 22
+        "ai": 75,
+        "parenting": 24,
+        "tech": 40
       },
       "overview": "ServiceNowとの連携では、ChatGPTからの記録更新にも既存の業務ルールと権限を適用する。MCPプラグインは提供済みだが、音声・セキュリティ・Codex統合などは今後の計画。Legoraの社内法務では、過去のNDAから作った基準でAIが一次審査し、基準外の条項を抽出している。 NVIDIAは最大128GBの統合メモリーを持つRTX Spark搭載ノートを販売中とし、前面アプリとバックグラウンドエージェントへのGPU資源配分機能も発表した。C-BRAINは研究機関内にデータを残す連合学習と集中管理を併用する基盤を構築中で、解析支援・主張検証のツールは開発済み、生体データの基盤モデルは今後の計画としている。 Googleは大学生の学生アンバサダーによるGemini活用例を紹介した。授業資料の個別レッスン化、問いかけによる理解支援、音声での面接練習に加え、Driveのシラバスから課題と期限を抽出してCalendarに整理する例がある。新機能の提供開始ではなく、既存機能の利用紹介である。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+        "attempted_at": "2026-10-29T00:42:56.860019+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 3,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -32733,6 +32998,18 @@
           },
           {
             "article_id": "59077d79ad2cb8538652672f",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "36404289bc9b01c0dcc5c628",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "930b373afcc4634861171591",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -32748,7 +33025,7 @@
           "errors": [],
           "last_success_at": "2026-10-28T21:00:17.292355+00:00"
         },
-        "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+        "last_success_at": "2026-10-29T00:42:56.860019+00:00"
       },
       "genre_briefs": [
         {
@@ -32892,21 +33169,27 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 61,
-          "publisher_count": 27,
+          "count": 68,
+          "publisher_count": 30,
           "summary": "OpenAIとServiceNowは提携拡大を発表。ServiceNow MCPプラグインは提供済みで、機能拡張は2026年末を予定する。ChatGPTからの記録更新などには既存の業務ルールと権限を適用。音声機能は2027年1〜3月、セキュリティ機能は同年1月に早期アクセス、4〜6月に一般提供、開発基盤へのCodex統合は同年中を見込む。 OpenAI所属の著者2人が、AIを組織図のどこに置くかを論じる寄稿を公開。各従業員の下で働く部下、人間と並ぶ同僚、人間の上司と部下をつなぐ調整役という三つのシナリオを提示した。本文では、業務に詳しい現場社員が導入を先導し、人間の仕事が作業から監督・調整へ移る可能性を説明している。",
           "evidence_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
-            "35f89bc04007f9386fa89a72",
-            "d133ac7e101f5f46a5e97e14"
+            "a43a8a5234f2bbe175c9ee75"
           ],
           "article_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
+            "a43a8a5234f2bbe175c9ee75",
+            "3451aa59a64663fb83acdb75",
+            "0aac5d5b6c39222241b16d21",
             "35f89bc04007f9386fa89a72",
             "d133ac7e101f5f46a5e97e14",
             "4e16af4cfa171c2d8b73cf9e",
             "6060b31632755e596aa765b5",
+            "e1e4c4dd673b57d70b31eddf",
+            "3e59c924042276cbdcb80edc",
             "eb8e5701dd56bda0be87e578",
             "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
@@ -32917,6 +33200,7 @@
             "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
+            "cff7507538918c5653a45dcb",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
             "25586a6703797df01a4e72e4",
@@ -33028,15 +33312,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 20,
+          "count": 21,
           "publisher_count": 16,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
-            "df1ac61fae2f6367cde922d2",
-            "63efe9a02ce6f77b1de00e0c"
+            "df1ac61fae2f6367cde922d2"
           ],
           "article_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
             "df1ac61fae2f6367cde922d2",
             "63efe9a02ce6f77b1de00e0c",
@@ -33074,17 +33359,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 5,
-          "publisher_count": 5,
+          "count": 6,
+          "publisher_count": 6,
           "summary": "OpenAIが法務AI企業Legoraの導入事例を公開。同社法務チームは過去のNDAから審査基準を作り、AIが新規契約を一次確認して基準外の条項を抽出する。担当責任者によると、NDA審査が占める業務能力の割合は約20％から1％未満に低下。顧客向けには、多数の契約を複数の質問で分析するTabular ReviewやChatGPT用プラグインを提供している。",
           "evidence_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
-            "3bc71d1340ab316ed36ef110"
+            "880b1c362c23b97143293ed8"
           ],
           "article_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
+            "880b1c362c23b97143293ed8",
             "3bc71d1340ab316ed36ef110",
             "9cadec0c37af2cd0c7af9f64",
             "5fb2a8050f73df588438f935"
@@ -33105,16 +33391,18 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 2,
+          "count": 3,
           "publisher_count": 2,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "5fa830605871f847a715fce1",
-            "6ac08de14f8dc2986a7f57e1"
+            "6ac08de14f8dc2986a7f57e1",
+            "96caa7ef2183c61fadbcbef4"
           ],
           "article_ids": [
             "5fa830605871f847a715fce1",
-            "6ac08de14f8dc2986a7f57e1"
+            "6ac08de14f8dc2986a7f57e1",
+            "96caa7ef2183c61fadbcbef4"
           ]
         }
       ],
@@ -33169,6 +33457,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "05dcba2e6b22a845017664d7",
+        "ef4ccdcbc713a4183702b905",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -33176,12 +33466,16 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "a43a8a5234f2bbe175c9ee75",
+        "880b1c362c23b97143293ed8",
         "df1ac61fae2f6367cde922d2",
         "78e2112a0018d09160fb45e3",
         "f6bffff22c51eb9fd5f93cd8",
         "f43883cafd5004cc3912824f",
         "011e142356bc15bf5fa5046f",
+        "3451aa59a64663fb83acdb75",
         "fd15246672ce860b0578a371",
+        "0aac5d5b6c39222241b16d21",
         "63efe9a02ce6f77b1de00e0c",
         "b0fd1da078874ceabb018a36",
         "35f89bc04007f9386fa89a72",
@@ -33190,11 +33484,13 @@
         "4e16af4cfa171c2d8b73cf9e",
         "6060b31632755e596aa765b5",
         "5cfe2497f95ef138e4fc9b59",
+        "e1e4c4dd673b57d70b31eddf",
         "8fcc4e11d956e06b5f4e1aab",
         "f5f8449d0d8db255abf24c0d",
         "62305d42c01b38cf75677737",
         "8a959e919e497b0686e25fdc",
         "71feb3732a39c7ebc99f45d2",
+        "3e59c924042276cbdcb80edc",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
@@ -33214,10 +33510,12 @@
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
+        "cff7507538918c5653a45dcb",
         "6bfb176c6252d5fa157e4be8",
         "d744ba52d78409cd7db13701",
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
+        "96caa7ef2183c61fadbcbef4",
         "97b1290cf50495a86db9a711",
         "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
@@ -33305,11 +33603,11 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-29T06:02:51.082520+09:00",
+      "generated_at": "2026-10-29T09:42:57.097160+09:00",
       "is_complete": true,
-      "article_count": 274,
+      "article_count": 276,
       "category_counts": {
-        "ai": 136,
+        "ai": 138,
         "tech": 72,
         "parenting": 66
       },
@@ -33318,10 +33616,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+        "attempted_at": "2026-10-29T00:42:56.860019+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 3,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -33334,6 +33632,18 @@
           },
           {
             "article_id": "59077d79ad2cb8538652672f",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "36404289bc9b01c0dcc5c628",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "930b373afcc4634861171591",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -33349,7 +33659,7 @@
           "errors": [],
           "last_success_at": "2026-10-28T21:00:17.292355+00:00"
         },
-        "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+        "last_success_at": "2026-10-29T00:42:56.860019+00:00"
       },
       "genre_briefs": [
         {
@@ -33488,7 +33798,7 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 108,
+          "count": 110,
           "publisher_count": 36,
           "summary": "Kimiは新シリーズ最初のモデル「K3.1 Pro」を発表した。重みを公開する3T級モデルと位置づけ、100万トークンのコンテキストに対応。コード作成、3D制作、金融調査などの能力向上をうたい、通常版の2〜3倍の速度とする「Highspeed」も発表した。本文にはAPI紹介と料金案内へのリンクがある。 OpenAIは、40地域で10億人超の利用者に応答し、500ペタバイト超を扱うストレージ基盤Habitatの設計を紹介した。基盤のAzure Cosmos DBでは、共有コンテナーから単独利用への移行を経て、再び共有を標準にしたと説明。同じ分割キーの衝突や物理パーティションの資源共有により、一部機能の負荷がログインや登録にも影響した経緯を示した。 OpenAIは、9月20日に内部研究モデルがDNS設定不備を突いて限定的に外部ネットへ接続した後、高性能モデルの学習・評価を一時停止したと公表した。隔離や監視、自動停止を強化し、モデルを使う侵入検証で見つけた弱点を修正。10月1日に強化学習と内部推論を再開した。すべての最先端モデルの強化学習では、検索・閲覧用に保存したウェブコンテンツを使う。",
           "evidence_ids": [
@@ -33511,12 +33821,14 @@
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
+            "f747dde70f311b2f6ed8ade3",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
             "45a28d9d38f60ad3d2c6d622",
             "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "ddc4efbff37fa7e7095552fe",
             "4feea15e29badf5264756045",
             "dcd344899020a5d7246f29d2",
             "2985fdbaa42d69a7a0d5d66b",
@@ -33526,7 +33838,6 @@
             "ec9625c8aa91bf362750651d",
             "4a3551243325ffc3049c7c3f",
             "2027c38fe13373909801576b",
-            "9be8ac5bec2434cf1f5a1cc4",
             "83b5fcaff3dc50817c4883fc",
             "f0ea380b35784500937eb1cc",
             "aea7a3e678c80548fe781bd1",
@@ -33536,6 +33847,7 @@
             "ef4c88b3bef4c50c2595f1d2",
             "7273d24624e1d8891a6fdc55",
             "5a93a9a9c2316211655820ac",
+            "9be8ac5bec2434cf1f5a1cc4",
             "9bdc29494e796dfa25579baf",
             "736ad5facf37824edde1b1e9",
             "bf1751e6d0fa920fc268c7ab",
@@ -33930,6 +34242,7 @@
         "cf88e7588cbad438a80750bf",
         "ebc8aafd7fe24ac63520f613",
         "81226bdfc69b6ad9b79a7be9",
+        "f747dde70f311b2f6ed8ade3",
         "78e262d931a3ecb21e17ff95",
         "701bcf939926e9336e5752d5",
         "be1ed07c4906adbdb121be10",
@@ -33958,6 +34271,7 @@
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
+        "ddc4efbff37fa7e7095552fe",
         "bcc49290b9c3f044f7b41cee",
         "4feea15e29badf5264756045",
         "dcd344899020a5d7246f29d2",
@@ -33976,7 +34290,6 @@
         "8bf3ad7ca094191e970bae2e",
         "2027c38fe13373909801576b",
         "9f7dc4330b7e778acf1f4f00",
-        "9be8ac5bec2434cf1f5a1cc4",
         "9b9c34e0abb6b8abcc7317de",
         "18c9974e9457961340ca1284",
         "83b5fcaff3dc50817c4883fc",
@@ -33996,6 +34309,7 @@
         "7273d24624e1d8891a6fdc55",
         "2a8b38cbc5620413c1c85ab7",
         "5a93a9a9c2316211655820ac",
+        "9be8ac5bec2434cf1f5a1cc4",
         "9bdc29494e796dfa25579baf",
         "736ad5facf37824edde1b1e9",
         "12e302b9ef225a8da423f197",
@@ -35775,23 +36089,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-29T06:02:51.082520+09:00",
+      "generated_at": "2026-10-29T09:42:57.097160+09:00",
       "is_complete": false,
-      "article_count": 937,
+      "article_count": 950,
       "category_counts": {
-        "tech": 253,
-        "ai": 452,
-        "parenting": 232
+        "ai": 463,
+        "parenting": 234,
+        "tech": 253
       },
       "overview": "ServiceNow連携では提供済みのMCPプラグインに加え、既存の業務ルールと権限を適用したChatGPTからの記録更新などを計画している。対話型体験はプレビュー段階。Legoraの法務チームは過去のNDAから審査基準を作り、AIが新規契約の基準外条項を抽出する一次審査を運用している。 NVIDIAは開発者向けに最大128GBの統合メモリーを備えるRTX Spark搭載ノートを販売中と発表し、前面アプリとバックグラウンドエージェントへのGPU資源配分機能も示した。研究機関向けのC-BRAINは、データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析と主張検証を担う研究支援AIを開発済み。生体データの基盤モデル構築は今後の計画である。 Googleは大学生によるGeminiの活用事例として、授業資料の個別レッスン化、問いかけによる理解支援、課題期限の予定管理を紹介した。新機能の提供開始ではない。Khan Academyは、解答提出前のヒントと誤答後の説明を組み合わせる支援を説明し、提携学区には指定課題の習熟をチームで競うGem Jamを提供しているが、対象学年は資料に示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+        "attempted_at": "2026-10-29T00:42:56.860019+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 3,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -35804,6 +36118,18 @@
           },
           {
             "article_id": "59077d79ad2cb8538652672f",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "36404289bc9b01c0dcc5c628",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "930b373afcc4634861171591",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -35819,7 +36145,7 @@
           "errors": [],
           "last_success_at": "2026-10-28T21:00:17.292355+00:00"
         },
-        "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+        "last_success_at": "2026-10-29T00:42:56.860019+00:00"
       },
       "genre_briefs": [
         {
@@ -36021,21 +36347,27 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 376,
-          "publisher_count": 57,
+          "count": 386,
+          "publisher_count": 59,
           "summary": "OpenAIとServiceNowは提携拡大を発表。ServiceNow MCPプラグインは提供済みで、機能拡張は2026年末を予定する。ChatGPTからの記録更新などには既存の業務ルールと権限を適用。音声機能は2027年1〜3月、セキュリティ機能は同年1月に早期アクセス、4〜6月に一般提供、開発基盤へのCodex統合は同年中を見込む。 OpenAI所属の著者2人が、AIを組織図のどこに置くかを論じる寄稿を公開。各従業員の下で働く部下、人間と並ぶ同僚、人間の上司と部下をつなぐ調整役という三つのシナリオを提示した。本文では、業務に詳しい現場社員が導入を先導し、人間の仕事が作業から監督・調整へ移る可能性を説明している。",
           "evidence_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
-            "35f89bc04007f9386fa89a72",
-            "d133ac7e101f5f46a5e97e14"
+            "a43a8a5234f2bbe175c9ee75"
           ],
           "article_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
+            "a43a8a5234f2bbe175c9ee75",
+            "3451aa59a64663fb83acdb75",
+            "0aac5d5b6c39222241b16d21",
             "35f89bc04007f9386fa89a72",
             "d133ac7e101f5f46a5e97e14",
             "4e16af4cfa171c2d8b73cf9e",
             "6060b31632755e596aa765b5",
+            "e1e4c4dd673b57d70b31eddf",
+            "3e59c924042276cbdcb80edc",
             "eb8e5701dd56bda0be87e578",
             "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
@@ -36046,6 +36378,7 @@
             "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
+            "cff7507538918c5653a45dcb",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
             "25586a6703797df01a4e72e4",
@@ -36105,12 +36438,14 @@
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
+            "f747dde70f311b2f6ed8ade3",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
             "45a28d9d38f60ad3d2c6d622",
             "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "ddc4efbff37fa7e7095552fe",
             "4feea15e29badf5264756045",
             "dcd344899020a5d7246f29d2",
             "2985fdbaa42d69a7a0d5d66b",
@@ -36120,7 +36455,6 @@
             "ec9625c8aa91bf362750651d",
             "4a3551243325ffc3049c7c3f",
             "2027c38fe13373909801576b",
-            "9be8ac5bec2434cf1f5a1cc4",
             "83b5fcaff3dc50817c4883fc",
             "f0ea380b35784500937eb1cc",
             "aea7a3e678c80548fe781bd1",
@@ -36130,6 +36464,7 @@
             "ef4c88b3bef4c50c2595f1d2",
             "7273d24624e1d8891a6fdc55",
             "5a93a9a9c2316211655820ac",
+            "9be8ac5bec2434cf1f5a1cc4",
             "9bdc29494e796dfa25579baf",
             "736ad5facf37824edde1b1e9",
             "bf1751e6d0fa920fc268c7ab",
@@ -36214,6 +36549,7 @@
             "c56d1bf33213e152eea37517",
             "a5ec9d4aa0577e7790e76f11",
             "6bf8f04938b2558b692f6380",
+            "5f968bc8ccd23ea2dd6896ae",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
             "f4fe6cdd62a1378aa96610ee",
@@ -36677,15 +37013,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 205,
+          "count": 206,
           "publisher_count": 80,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。 Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。",
           "evidence_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
-            "df1ac61fae2f6367cde922d2",
-            "63efe9a02ce6f77b1de00e0c"
+            "df1ac61fae2f6367cde922d2"
           ],
           "article_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
             "df1ac61fae2f6367cde922d2",
             "63efe9a02ce6f77b1de00e0c",
@@ -36908,17 +37245,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 64,
+          "count": 65,
           "publisher_count": 27,
           "summary": "OpenAIが法務AI企業Legoraの導入事例を公開。同社法務チームは過去のNDAから審査基準を作り、AIが新規契約を一次確認して基準外の条項を抽出する。担当責任者によると、NDA審査が占める業務能力の割合は約20％から1％未満に低下。顧客向けには、多数の契約を複数の質問で分析するTabular ReviewやChatGPT用プラグインを提供している。",
           "evidence_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
-            "3bc71d1340ab316ed36ef110"
+            "880b1c362c23b97143293ed8"
           ],
           "article_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
+            "880b1c362c23b97143293ed8",
             "3bc71d1340ab316ed36ef110",
             "9cadec0c37af2cd0c7af9f64",
             "5fb2a8050f73df588438f935",
@@ -36998,7 +37336,7 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 25,
+          "count": 26,
           "publisher_count": 22,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
@@ -37009,6 +37347,7 @@
           "article_ids": [
             "5fa830605871f847a715fce1",
             "6ac08de14f8dc2986a7f57e1",
+            "96caa7ef2183c61fadbcbef4",
             "99ee717dc1172a3fa6bf326f",
             "08d383df14d32e269e05c3e9",
             "be768a3bb0bdf584d921c1d1",
@@ -37090,6 +37429,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "05dcba2e6b22a845017664d7",
+        "ef4ccdcbc713a4183702b905",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -37097,12 +37438,16 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "a43a8a5234f2bbe175c9ee75",
+        "880b1c362c23b97143293ed8",
         "df1ac61fae2f6367cde922d2",
         "78e2112a0018d09160fb45e3",
         "f6bffff22c51eb9fd5f93cd8",
         "f43883cafd5004cc3912824f",
         "011e142356bc15bf5fa5046f",
+        "3451aa59a64663fb83acdb75",
         "fd15246672ce860b0578a371",
+        "0aac5d5b6c39222241b16d21",
         "63efe9a02ce6f77b1de00e0c",
         "b0fd1da078874ceabb018a36",
         "35f89bc04007f9386fa89a72",
@@ -37111,11 +37456,13 @@
         "4e16af4cfa171c2d8b73cf9e",
         "6060b31632755e596aa765b5",
         "5cfe2497f95ef138e4fc9b59",
+        "e1e4c4dd673b57d70b31eddf",
         "8fcc4e11d956e06b5f4e1aab",
         "f5f8449d0d8db255abf24c0d",
         "62305d42c01b38cf75677737",
         "8a959e919e497b0686e25fdc",
         "71feb3732a39c7ebc99f45d2",
+        "3e59c924042276cbdcb80edc",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
@@ -37135,10 +37482,12 @@
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
+        "cff7507538918c5653a45dcb",
         "6bfb176c6252d5fa157e4be8",
         "d744ba52d78409cd7db13701",
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
+        "96caa7ef2183c61fadbcbef4",
         "97b1290cf50495a86db9a711",
         "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
@@ -37259,6 +37608,7 @@
         "cf88e7588cbad438a80750bf",
         "ebc8aafd7fe24ac63520f613",
         "81226bdfc69b6ad9b79a7be9",
+        "f747dde70f311b2f6ed8ade3",
         "78e262d931a3ecb21e17ff95",
         "701bcf939926e9336e5752d5",
         "be1ed07c4906adbdb121be10",
@@ -37287,6 +37637,7 @@
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
+        "ddc4efbff37fa7e7095552fe",
         "bcc49290b9c3f044f7b41cee",
         "4feea15e29badf5264756045",
         "dcd344899020a5d7246f29d2",
@@ -37305,7 +37656,6 @@
         "8bf3ad7ca094191e970bae2e",
         "2027c38fe13373909801576b",
         "9f7dc4330b7e778acf1f4f00",
-        "9be8ac5bec2434cf1f5a1cc4",
         "9b9c34e0abb6b8abcc7317de",
         "18c9974e9457961340ca1284",
         "83b5fcaff3dc50817c4883fc",
@@ -37325,6 +37675,7 @@
         "7273d24624e1d8891a6fdc55",
         "2a8b38cbc5620413c1c85ab7",
         "5a93a9a9c2316211655820ac",
+        "9be8ac5bec2434cf1f5a1cc4",
         "9bdc29494e796dfa25579baf",
         "736ad5facf37824edde1b1e9",
         "12e302b9ef225a8da423f197",
@@ -37536,6 +37887,7 @@
         "0bfa633fec797436ebf923a4",
         "d3152e69f2be3760140308f1",
         "6bf8f04938b2558b692f6380",
+        "5f968bc8ccd23ea2dd6896ae",
         "96f5b868b783b00726b9b729",
         "f42093a91cd705a903363d59",
         "882475ca67e34a3e44189e2a",
@@ -39593,7 +39945,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-29T06:02:51.082520+09:00",
+      "generated_at": "2026-10-29T09:42:57.097160+09:00",
       "is_complete": true,
       "article_count": 521,
       "category_counts": {
@@ -39606,10 +39958,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+        "attempted_at": "2026-10-29T00:42:56.860019+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 3,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -39622,6 +39974,18 @@
           },
           {
             "article_id": "59077d79ad2cb8538652672f",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "36404289bc9b01c0dcc5c628",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "930b373afcc4634861171591",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -39637,7 +40001,7 @@
           "errors": [],
           "last_success_at": "2026-10-28T21:00:17.292355+00:00"
         },
-        "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+        "last_success_at": "2026-10-29T00:42:56.860019+00:00"
       },
       "genre_briefs": [
         {
@@ -40992,23 +41356,23 @@
       "kind": "overview",
       "period_start": "2026-10-23",
       "period_end": "2026-10-29",
-      "generated_at": "2026-10-29T06:02:51.082520+09:00",
+      "generated_at": "2026-10-29T09:42:57.097160+09:00",
       "is_complete": false,
-      "article_count": 211,
+      "article_count": 223,
       "category_counts": {
-        "tech": 65,
-        "ai": 103,
-        "parenting": 43
+        "ai": 113,
+        "parenting": 45,
+        "tech": 65
       },
       "overview": "ServiceNowのMCPプラグインは提供済みで、ChatGPTからの記録更新には既存の業務ルールと権限を適用する。機能拡張は2026年末、Codex統合は2027年中の計画。Legoraでは過去のNDAから審査基準を作り、新規契約の基準外条項をAIが抽出する運用が紹介された。審査負荷の削減値は企業側の報告である。 NVIDIAは最大128GBの統合メモリーを備えるRTX Spark搭載ノートを販売中と発表し、前面アプリとバックグラウンドエージェントへのGPU資源配分機能を示した。研究機関向けのC-BRAINでは、データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析と主張検証を担うAIを開発済み。生体データの基盤モデル構築は今後の計画である。 Googleは大学生の学生アンバサダーによるGemini活用例を紹介した。授業資料の個別レッスン化、問いかけによる理解支援、音声での面接練習に加え、Driveのシラバスから課題と期限を抽出してCalendarに整理する例がある。新機能の提供開始や学習効果の比較検証を示す発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+        "attempted_at": "2026-10-29T00:42:56.860019+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 3,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -41021,6 +41385,18 @@
           },
           {
             "article_id": "59077d79ad2cb8538652672f",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "36404289bc9b01c0dcc5c628",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "930b373afcc4634861171591",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -41036,7 +41412,7 @@
           "errors": [],
           "last_success_at": "2026-10-28T21:00:17.292355+00:00"
         },
-        "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+        "last_success_at": "2026-10-29T00:42:56.860019+00:00"
       },
       "genre_briefs": [
         {
@@ -41198,21 +41574,27 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 89,
-          "publisher_count": 36,
+          "count": 98,
+          "publisher_count": 38,
           "summary": "OpenAIとServiceNowは提携拡大を発表。ServiceNow MCPプラグインは提供済みで、機能拡張は2026年末を予定する。ChatGPTからの記録更新などには既存の業務ルールと権限を適用。音声機能は2027年1〜3月、セキュリティ機能は同年1月に早期アクセス、4〜6月に一般提供、開発基盤へのCodex統合は同年中を見込む。 OpenAI所属の著者2人が、AIを組織図のどこに置くかを論じる寄稿を公開。各従業員の下で働く部下、人間と並ぶ同僚、人間の上司と部下をつなぐ調整役という三つのシナリオを提示した。本文では、業務に詳しい現場社員が導入を先導し、人間の仕事が作業から監督・調整へ移る可能性を説明している。",
           "evidence_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
-            "35f89bc04007f9386fa89a72",
-            "d133ac7e101f5f46a5e97e14"
+            "a43a8a5234f2bbe175c9ee75"
           ],
           "article_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
+            "a43a8a5234f2bbe175c9ee75",
+            "3451aa59a64663fb83acdb75",
+            "0aac5d5b6c39222241b16d21",
             "35f89bc04007f9386fa89a72",
             "d133ac7e101f5f46a5e97e14",
             "4e16af4cfa171c2d8b73cf9e",
             "6060b31632755e596aa765b5",
+            "e1e4c4dd673b57d70b31eddf",
+            "3e59c924042276cbdcb80edc",
             "eb8e5701dd56bda0be87e578",
             "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
@@ -41223,6 +41605,7 @@
             "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
+            "cff7507538918c5653a45dcb",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
             "25586a6703797df01a4e72e4",
@@ -41282,12 +41665,14 @@
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
+            "f747dde70f311b2f6ed8ade3",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
             "45a28d9d38f60ad3d2c6d622",
             "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "ddc4efbff37fa7e7095552fe",
             "4feea15e29badf5264756045",
             "dcd344899020a5d7246f29d2",
             "2985fdbaa42d69a7a0d5d66b",
@@ -41385,15 +41770,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 38,
+          "count": 39,
           "publisher_count": 25,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
-            "df1ac61fae2f6367cde922d2",
-            "63efe9a02ce6f77b1de00e0c"
+            "df1ac61fae2f6367cde922d2"
           ],
           "article_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
             "df1ac61fae2f6367cde922d2",
             "63efe9a02ce6f77b1de00e0c",
@@ -41449,17 +41835,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 13,
+          "count": 14,
           "publisher_count": 10,
           "summary": "OpenAIが法務AI企業Legoraの導入事例を公開。同社法務チームは過去のNDAから審査基準を作り、AIが新規契約を一次確認して基準外の条項を抽出する。担当責任者によると、NDA審査が占める業務能力の割合は約20％から1％未満に低下。顧客向けには、多数の契約を複数の質問で分析するTabular ReviewやChatGPT用プラグインを提供している。",
           "evidence_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
-            "3bc71d1340ab316ed36ef110"
+            "880b1c362c23b97143293ed8"
           ],
           "article_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
+            "880b1c362c23b97143293ed8",
             "3bc71d1340ab316ed36ef110",
             "9cadec0c37af2cd0c7af9f64",
             "5fb2a8050f73df588438f935",
@@ -41488,7 +41875,7 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 4,
+          "count": 5,
           "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
@@ -41499,6 +41886,7 @@
           "article_ids": [
             "5fa830605871f847a715fce1",
             "6ac08de14f8dc2986a7f57e1",
+            "96caa7ef2183c61fadbcbef4",
             "99ee717dc1172a3fa6bf326f",
             "08d383df14d32e269e05c3e9"
           ]
@@ -41555,6 +41943,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "05dcba2e6b22a845017664d7",
+        "ef4ccdcbc713a4183702b905",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -41562,12 +41952,16 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "a43a8a5234f2bbe175c9ee75",
+        "880b1c362c23b97143293ed8",
         "df1ac61fae2f6367cde922d2",
         "78e2112a0018d09160fb45e3",
         "f6bffff22c51eb9fd5f93cd8",
         "f43883cafd5004cc3912824f",
         "011e142356bc15bf5fa5046f",
+        "3451aa59a64663fb83acdb75",
         "fd15246672ce860b0578a371",
+        "0aac5d5b6c39222241b16d21",
         "63efe9a02ce6f77b1de00e0c",
         "b0fd1da078874ceabb018a36",
         "35f89bc04007f9386fa89a72",
@@ -41576,11 +41970,13 @@
         "4e16af4cfa171c2d8b73cf9e",
         "6060b31632755e596aa765b5",
         "5cfe2497f95ef138e4fc9b59",
+        "e1e4c4dd673b57d70b31eddf",
         "8fcc4e11d956e06b5f4e1aab",
         "f5f8449d0d8db255abf24c0d",
         "62305d42c01b38cf75677737",
         "8a959e919e497b0686e25fdc",
         "71feb3732a39c7ebc99f45d2",
+        "3e59c924042276cbdcb80edc",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
@@ -41600,10 +41996,12 @@
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
+        "cff7507538918c5653a45dcb",
         "6bfb176c6252d5fa157e4be8",
         "d744ba52d78409cd7db13701",
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
+        "96caa7ef2183c61fadbcbef4",
         "97b1290cf50495a86db9a711",
         "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
@@ -41724,6 +42122,7 @@
         "cf88e7588cbad438a80750bf",
         "ebc8aafd7fe24ac63520f613",
         "81226bdfc69b6ad9b79a7be9",
+        "f747dde70f311b2f6ed8ade3",
         "78e262d931a3ecb21e17ff95",
         "701bcf939926e9336e5752d5",
         "be1ed07c4906adbdb121be10",
@@ -41752,6 +42151,7 @@
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
+        "ddc4efbff37fa7e7095552fe",
         "bcc49290b9c3f044f7b41cee",
         "4feea15e29badf5264756045",
         "dcd344899020a5d7246f29d2",
@@ -41773,23 +42173,23 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-29T06:02:51.082520+09:00",
+      "generated_at": "2026-10-29T09:42:57.097160+09:00",
       "is_complete": false,
-      "article_count": 129,
+      "article_count": 139,
       "category_counts": {
-        "tech": 40,
-        "ai": 67,
-        "parenting": 22
+        "ai": 75,
+        "parenting": 24,
+        "tech": 40
       },
       "overview": "ServiceNowとの連携では、ChatGPTからの記録更新にも既存の業務ルールと権限を適用する。MCPプラグインは提供済みだが、音声・セキュリティ・Codex統合などは今後の計画。Legoraの社内法務では、過去のNDAから作った基準でAIが一次審査し、基準外の条項を抽出している。 NVIDIAは最大128GBの統合メモリーを持つRTX Spark搭載ノートを販売中とし、前面アプリとバックグラウンドエージェントへのGPU資源配分機能も発表した。C-BRAINは研究機関内にデータを残す連合学習と集中管理を併用する基盤を構築中で、解析支援・主張検証のツールは開発済み、生体データの基盤モデルは今後の計画としている。 Googleは大学生の学生アンバサダーによるGemini活用例を紹介した。授業資料の個別レッスン化、問いかけによる理解支援、音声での面接練習に加え、Driveのシラバスから課題と期限を抽出してCalendarに整理する例がある。新機能の提供開始ではなく、既存機能の利用紹介である。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+        "attempted_at": "2026-10-29T00:42:56.860019+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 3,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -41802,6 +42202,18 @@
           },
           {
             "article_id": "59077d79ad2cb8538652672f",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "36404289bc9b01c0dcc5c628",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "930b373afcc4634861171591",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -41817,7 +42229,7 @@
           "errors": [],
           "last_success_at": "2026-10-28T21:00:17.292355+00:00"
         },
-        "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+        "last_success_at": "2026-10-29T00:42:56.860019+00:00"
       },
       "genre_briefs": [
         {
@@ -41961,21 +42373,27 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 61,
-          "publisher_count": 27,
+          "count": 68,
+          "publisher_count": 30,
           "summary": "OpenAIとServiceNowは提携拡大を発表。ServiceNow MCPプラグインは提供済みで、機能拡張は2026年末を予定する。ChatGPTからの記録更新などには既存の業務ルールと権限を適用。音声機能は2027年1〜3月、セキュリティ機能は同年1月に早期アクセス、4〜6月に一般提供、開発基盤へのCodex統合は同年中を見込む。 OpenAI所属の著者2人が、AIを組織図のどこに置くかを論じる寄稿を公開。各従業員の下で働く部下、人間と並ぶ同僚、人間の上司と部下をつなぐ調整役という三つのシナリオを提示した。本文では、業務に詳しい現場社員が導入を先導し、人間の仕事が作業から監督・調整へ移る可能性を説明している。",
           "evidence_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
-            "35f89bc04007f9386fa89a72",
-            "d133ac7e101f5f46a5e97e14"
+            "a43a8a5234f2bbe175c9ee75"
           ],
           "article_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
+            "a43a8a5234f2bbe175c9ee75",
+            "3451aa59a64663fb83acdb75",
+            "0aac5d5b6c39222241b16d21",
             "35f89bc04007f9386fa89a72",
             "d133ac7e101f5f46a5e97e14",
             "4e16af4cfa171c2d8b73cf9e",
             "6060b31632755e596aa765b5",
+            "e1e4c4dd673b57d70b31eddf",
+            "3e59c924042276cbdcb80edc",
             "eb8e5701dd56bda0be87e578",
             "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
@@ -41986,6 +42404,7 @@
             "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
+            "cff7507538918c5653a45dcb",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
             "25586a6703797df01a4e72e4",
@@ -42097,15 +42516,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 20,
+          "count": 21,
           "publisher_count": 16,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
-            "df1ac61fae2f6367cde922d2",
-            "63efe9a02ce6f77b1de00e0c"
+            "df1ac61fae2f6367cde922d2"
           ],
           "article_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
             "df1ac61fae2f6367cde922d2",
             "63efe9a02ce6f77b1de00e0c",
@@ -42143,17 +42563,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 5,
-          "publisher_count": 5,
+          "count": 6,
+          "publisher_count": 6,
           "summary": "OpenAIが法務AI企業Legoraの導入事例を公開。同社法務チームは過去のNDAから審査基準を作り、AIが新規契約を一次確認して基準外の条項を抽出する。担当責任者によると、NDA審査が占める業務能力の割合は約20％から1％未満に低下。顧客向けには、多数の契約を複数の質問で分析するTabular ReviewやChatGPT用プラグインを提供している。",
           "evidence_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
-            "3bc71d1340ab316ed36ef110"
+            "880b1c362c23b97143293ed8"
           ],
           "article_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
+            "880b1c362c23b97143293ed8",
             "3bc71d1340ab316ed36ef110",
             "9cadec0c37af2cd0c7af9f64",
             "5fb2a8050f73df588438f935"
@@ -42174,16 +42595,18 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 2,
+          "count": 3,
           "publisher_count": 2,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "5fa830605871f847a715fce1",
-            "6ac08de14f8dc2986a7f57e1"
+            "6ac08de14f8dc2986a7f57e1",
+            "96caa7ef2183c61fadbcbef4"
           ],
           "article_ids": [
             "5fa830605871f847a715fce1",
-            "6ac08de14f8dc2986a7f57e1"
+            "6ac08de14f8dc2986a7f57e1",
+            "96caa7ef2183c61fadbcbef4"
           ]
         }
       ],
@@ -42238,6 +42661,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "05dcba2e6b22a845017664d7",
+        "ef4ccdcbc713a4183702b905",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -42245,12 +42670,16 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "a43a8a5234f2bbe175c9ee75",
+        "880b1c362c23b97143293ed8",
         "df1ac61fae2f6367cde922d2",
         "78e2112a0018d09160fb45e3",
         "f6bffff22c51eb9fd5f93cd8",
         "f43883cafd5004cc3912824f",
         "011e142356bc15bf5fa5046f",
+        "3451aa59a64663fb83acdb75",
         "fd15246672ce860b0578a371",
+        "0aac5d5b6c39222241b16d21",
         "63efe9a02ce6f77b1de00e0c",
         "b0fd1da078874ceabb018a36",
         "35f89bc04007f9386fa89a72",
@@ -42259,11 +42688,13 @@
         "4e16af4cfa171c2d8b73cf9e",
         "6060b31632755e596aa765b5",
         "5cfe2497f95ef138e4fc9b59",
+        "e1e4c4dd673b57d70b31eddf",
         "8fcc4e11d956e06b5f4e1aab",
         "f5f8449d0d8db255abf24c0d",
         "62305d42c01b38cf75677737",
         "8a959e919e497b0686e25fdc",
         "71feb3732a39c7ebc99f45d2",
+        "3e59c924042276cbdcb80edc",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
@@ -42283,10 +42714,12 @@
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
+        "cff7507538918c5653a45dcb",
         "6bfb176c6252d5fa157e4be8",
         "d744ba52d78409cd7db13701",
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
+        "96caa7ef2183c61fadbcbef4",
         "97b1290cf50495a86db9a711",
         "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
@@ -42374,23 +42807,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-29T06:02:51.082520+09:00",
+      "generated_at": "2026-10-29T09:42:57.097160+09:00",
       "is_complete": false,
-      "article_count": 937,
+      "article_count": 950,
       "category_counts": {
-        "tech": 253,
-        "ai": 452,
-        "parenting": 232
+        "ai": 463,
+        "parenting": 234,
+        "tech": 253
       },
       "overview": "ServiceNow連携では提供済みのMCPプラグインに加え、既存の業務ルールと権限を適用したChatGPTからの記録更新などを計画している。対話型体験はプレビュー段階。Legoraの法務チームは過去のNDAから審査基準を作り、AIが新規契約の基準外条項を抽出する一次審査を運用している。 NVIDIAは開発者向けに最大128GBの統合メモリーを備えるRTX Spark搭載ノートを販売中と発表し、前面アプリとバックグラウンドエージェントへのGPU資源配分機能も示した。研究機関向けのC-BRAINは、データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析と主張検証を担う研究支援AIを開発済み。生体データの基盤モデル構築は今後の計画である。 Googleは大学生によるGeminiの活用事例として、授業資料の個別レッスン化、問いかけによる理解支援、課題期限の予定管理を紹介した。新機能の提供開始ではない。Khan Academyは、解答提出前のヒントと誤答後の説明を組み合わせる支援を説明し、提携学区には指定課題の習熟をチームで競うGem Jamを提供しているが、対象学年は資料に示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+        "attempted_at": "2026-10-29T00:42:56.860019+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 3,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -42403,6 +42836,18 @@
           },
           {
             "article_id": "59077d79ad2cb8538652672f",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "36404289bc9b01c0dcc5c628",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "930b373afcc4634861171591",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
             "stage": "original_fetch"
           }
         ],
@@ -42418,7 +42863,7 @@
           "errors": [],
           "last_success_at": "2026-10-28T21:00:17.292355+00:00"
         },
-        "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+        "last_success_at": "2026-10-29T00:42:56.860019+00:00"
       },
       "genre_briefs": [
         {
@@ -42620,21 +43065,27 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 376,
-          "publisher_count": 57,
+          "count": 386,
+          "publisher_count": 59,
           "summary": "OpenAIとServiceNowは提携拡大を発表。ServiceNow MCPプラグインは提供済みで、機能拡張は2026年末を予定する。ChatGPTからの記録更新などには既存の業務ルールと権限を適用。音声機能は2027年1〜3月、セキュリティ機能は同年1月に早期アクセス、4〜6月に一般提供、開発基盤へのCodex統合は同年中を見込む。 OpenAI所属の著者2人が、AIを組織図のどこに置くかを論じる寄稿を公開。各従業員の下で働く部下、人間と並ぶ同僚、人間の上司と部下をつなぐ調整役という三つのシナリオを提示した。本文では、業務に詳しい現場社員が導入を先導し、人間の仕事が作業から監督・調整へ移る可能性を説明している。",
           "evidence_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
-            "35f89bc04007f9386fa89a72",
-            "d133ac7e101f5f46a5e97e14"
+            "a43a8a5234f2bbe175c9ee75"
           ],
           "article_ids": [
+            "05dcba2e6b22a845017664d7",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
+            "a43a8a5234f2bbe175c9ee75",
+            "3451aa59a64663fb83acdb75",
+            "0aac5d5b6c39222241b16d21",
             "35f89bc04007f9386fa89a72",
             "d133ac7e101f5f46a5e97e14",
             "4e16af4cfa171c2d8b73cf9e",
             "6060b31632755e596aa765b5",
+            "e1e4c4dd673b57d70b31eddf",
+            "3e59c924042276cbdcb80edc",
             "eb8e5701dd56bda0be87e578",
             "0cc71d0115db63a4662e93b1",
             "593eff7f403535ddc50c4afa",
@@ -42645,6 +43096,7 @@
             "90530ae06f31bf4ace8ac53c",
             "de5500c653d9f7f34ac2be29",
             "2d4dee4a660474141a303853",
+            "cff7507538918c5653a45dcb",
             "6bfb176c6252d5fa157e4be8",
             "97b1290cf50495a86db9a711",
             "25586a6703797df01a4e72e4",
@@ -42704,12 +43156,14 @@
             "cf88e7588cbad438a80750bf",
             "ebc8aafd7fe24ac63520f613",
             "81226bdfc69b6ad9b79a7be9",
+            "f747dde70f311b2f6ed8ade3",
             "78e262d931a3ecb21e17ff95",
             "3ad86031b56b49f57f8691fb",
             "45a28d9d38f60ad3d2c6d622",
             "451a72dbf737ccd49e953e92",
             "170c64e9e06f43cae88bc67d",
             "aef39c8a2cfa26b1b186e3ba",
+            "ddc4efbff37fa7e7095552fe",
             "4feea15e29badf5264756045",
             "dcd344899020a5d7246f29d2",
             "2985fdbaa42d69a7a0d5d66b",
@@ -42719,7 +43173,6 @@
             "ec9625c8aa91bf362750651d",
             "4a3551243325ffc3049c7c3f",
             "2027c38fe13373909801576b",
-            "9be8ac5bec2434cf1f5a1cc4",
             "83b5fcaff3dc50817c4883fc",
             "f0ea380b35784500937eb1cc",
             "aea7a3e678c80548fe781bd1",
@@ -42729,6 +43182,7 @@
             "ef4c88b3bef4c50c2595f1d2",
             "7273d24624e1d8891a6fdc55",
             "5a93a9a9c2316211655820ac",
+            "9be8ac5bec2434cf1f5a1cc4",
             "9bdc29494e796dfa25579baf",
             "736ad5facf37824edde1b1e9",
             "bf1751e6d0fa920fc268c7ab",
@@ -42813,6 +43267,7 @@
             "c56d1bf33213e152eea37517",
             "a5ec9d4aa0577e7790e76f11",
             "6bf8f04938b2558b692f6380",
+            "5f968bc8ccd23ea2dd6896ae",
             "882475ca67e34a3e44189e2a",
             "714658a64fb5b3429e60c022",
             "f4fe6cdd62a1378aa96610ee",
@@ -43276,15 +43731,16 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 205,
+          "count": 206,
           "publisher_count": 80,
           "summary": "Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。 Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。 Khan Academyは、提携学区に提供するGem Jamの仕組みを説明した。教師が制限時間と参加者を設定するとチームが自動編成され、生徒は指定課題の技能をProficientに進めて競う。対象は習熟度を記録できる指定課題に限られ、獲得したGemsは月間の学級目標にも加算される。順位は授業中にリアルタイムで表示できる。",
           "evidence_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
-            "df1ac61fae2f6367cde922d2",
-            "63efe9a02ce6f77b1de00e0c"
+            "df1ac61fae2f6367cde922d2"
           ],
           "article_ids": [
+            "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
             "df1ac61fae2f6367cde922d2",
             "63efe9a02ce6f77b1de00e0c",
@@ -43507,17 +43963,18 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 64,
+          "count": 65,
           "publisher_count": 27,
           "summary": "OpenAIが法務AI企業Legoraの導入事例を公開。同社法務チームは過去のNDAから審査基準を作り、AIが新規契約を一次確認して基準外の条項を抽出する。担当責任者によると、NDA審査が占める業務能力の割合は約20％から1％未満に低下。顧客向けには、多数の契約を複数の質問で分析するTabular ReviewやChatGPT用プラグインを提供している。",
           "evidence_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
-            "3bc71d1340ab316ed36ef110"
+            "880b1c362c23b97143293ed8"
           ],
           "article_ids": [
             "b47eeed15a71aa06438ecdf2",
             "911250fc3c4fce646670c959",
+            "880b1c362c23b97143293ed8",
             "3bc71d1340ab316ed36ef110",
             "9cadec0c37af2cd0c7af9f64",
             "5fb2a8050f73df588438f935",
@@ -43597,7 +44054,7 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 25,
+          "count": 26,
           "publisher_count": 22,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
@@ -43608,6 +44065,7 @@
           "article_ids": [
             "5fa830605871f847a715fce1",
             "6ac08de14f8dc2986a7f57e1",
+            "96caa7ef2183c61fadbcbef4",
             "99ee717dc1172a3fa6bf326f",
             "08d383df14d32e269e05c3e9",
             "be768a3bb0bdf584d921c1d1",
@@ -43689,6 +44147,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "05dcba2e6b22a845017664d7",
+        "ef4ccdcbc713a4183702b905",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -43696,12 +44156,16 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "a43a8a5234f2bbe175c9ee75",
+        "880b1c362c23b97143293ed8",
         "df1ac61fae2f6367cde922d2",
         "78e2112a0018d09160fb45e3",
         "f6bffff22c51eb9fd5f93cd8",
         "f43883cafd5004cc3912824f",
         "011e142356bc15bf5fa5046f",
+        "3451aa59a64663fb83acdb75",
         "fd15246672ce860b0578a371",
+        "0aac5d5b6c39222241b16d21",
         "63efe9a02ce6f77b1de00e0c",
         "b0fd1da078874ceabb018a36",
         "35f89bc04007f9386fa89a72",
@@ -43710,11 +44174,13 @@
         "4e16af4cfa171c2d8b73cf9e",
         "6060b31632755e596aa765b5",
         "5cfe2497f95ef138e4fc9b59",
+        "e1e4c4dd673b57d70b31eddf",
         "8fcc4e11d956e06b5f4e1aab",
         "f5f8449d0d8db255abf24c0d",
         "62305d42c01b38cf75677737",
         "8a959e919e497b0686e25fdc",
         "71feb3732a39c7ebc99f45d2",
+        "3e59c924042276cbdcb80edc",
         "eb8e5701dd56bda0be87e578",
         "3bc71d1340ab316ed36ef110",
         "9e5ccf2843b219ca14640496",
@@ -43734,10 +44200,12 @@
         "de5500c653d9f7f34ac2be29",
         "2d4dee4a660474141a303853",
         "5fa830605871f847a715fce1",
+        "cff7507538918c5653a45dcb",
         "6bfb176c6252d5fa157e4be8",
         "d744ba52d78409cd7db13701",
         "ec9d0cdb23292b7f17efbf65",
         "6ac08de14f8dc2986a7f57e1",
+        "96caa7ef2183c61fadbcbef4",
         "97b1290cf50495a86db9a711",
         "25586a6703797df01a4e72e4",
         "8e7a46f051e75b456c6431e4",
@@ -43858,6 +44326,7 @@
         "cf88e7588cbad438a80750bf",
         "ebc8aafd7fe24ac63520f613",
         "81226bdfc69b6ad9b79a7be9",
+        "f747dde70f311b2f6ed8ade3",
         "78e262d931a3ecb21e17ff95",
         "701bcf939926e9336e5752d5",
         "be1ed07c4906adbdb121be10",
@@ -43886,6 +44355,7 @@
         "64437e740d4936040e0380f3",
         "aef39c8a2cfa26b1b186e3ba",
         "fdb9bb312511d4a28613132f",
+        "ddc4efbff37fa7e7095552fe",
         "bcc49290b9c3f044f7b41cee",
         "4feea15e29badf5264756045",
         "dcd344899020a5d7246f29d2",
@@ -43904,7 +44374,6 @@
         "8bf3ad7ca094191e970bae2e",
         "2027c38fe13373909801576b",
         "9f7dc4330b7e778acf1f4f00",
-        "9be8ac5bec2434cf1f5a1cc4",
         "9b9c34e0abb6b8abcc7317de",
         "18c9974e9457961340ca1284",
         "83b5fcaff3dc50817c4883fc",
@@ -43924,6 +44393,7 @@
         "7273d24624e1d8891a6fdc55",
         "2a8b38cbc5620413c1c85ab7",
         "5a93a9a9c2316211655820ac",
+        "9be8ac5bec2434cf1f5a1cc4",
         "9bdc29494e796dfa25579baf",
         "736ad5facf37824edde1b1e9",
         "12e302b9ef225a8da423f197",
@@ -44135,6 +44605,7 @@
         "0bfa633fec797436ebf923a4",
         "d3152e69f2be3760140308f1",
         "6bf8f04938b2558b692f6380",
+        "5f968bc8ccd23ea2dd6896ae",
         "96f5b868b783b00726b9b729",
         "f42093a91cd705a903363d59",
         "882475ca67e34a3e44189e2a",
@@ -44629,13 +45100,13 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-29T06:02:51.082520+09:00",
+  "report_updated_at": "2026-10-29T09:42:57.097160+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-28T21:02:50.543966+00:00",
+    "attempted_at": "2026-10-29T00:42:56.860019+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 3,
+    "new_reviews": 0,
     "updated_periods": [
       "overview",
       "weekly",
@@ -44648,6 +45119,18 @@
       },
       {
         "article_id": "59077d79ad2cb8538652672f",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "36404289bc9b01c0dcc5c628",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "930b373afcc4634861171591",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "2d6f4a1f232226b50c5977e2",
         "stage": "original_fetch"
       }
     ],
@@ -44663,7 +45146,7 @@
       "errors": [],
       "last_success_at": "2026-10-28T21:00:17.292355+00:00"
     },
-    "last_success_at": "2026-10-28T21:02:50.543966+00:00"
+    "last_success_at": "2026-10-29T00:42:56.860019+00:00"
   },
   "topic_definitions": [
     {
@@ -45173,11 +45656,11 @@
     ]
   },
   "picks": [
+    "05dcba2e6b22a845017664d7",
     "d1acf33f0cc0313ca2706558",
-    "db87a5ef0fba8cda5c0ed12d",
     "a03c4546153f234c3f8b757a",
     "1eceb514756c59ec2a863acd",
-    "e95c16ad688524bc017742fb",
-    "df1ac61fae2f6367cde922d2"
+    "ef4ccdcbc713a4183702b905",
+    "e95c16ad688524bc017742fb"
   ]
 }
