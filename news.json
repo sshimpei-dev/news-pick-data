@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-29T22:36:27.434903Z",
-  "last_attempt_at": "2026-10-29T22:36:27.434903Z",
+  "updated_at": "2026-10-30T00:43:27.062340Z",
+  "last_attempt_at": "2026-10-30T00:43:27.062340Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 9,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-10-29T22:36:27.434903Z",
+      "checked_at": "2026-10-30T00:43:27.062340Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-10-30T00:43:27.062340Z",
+      "new_count": 8,
+      "status": "partial"
+    },
     {
       "at": "2026-10-29T22:36:27.434903Z",
       "new_count": 11,
@@ -633,6 +638,24 @@
   ],
   "articles": [
     {
+      "id": "0db176e9714008cd2c8514c1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sd0UweV9ySE1QUVVnaXZVWWd0aXRnN1ZYbU83WUJuU1VDbk9kZTJBWmFHOS1CSnB2Q08wb2F0UmtYaTFsdlhHMnlLNk1RNEpFTWY5MWZlX29xT0VldUstV2lNX2t6TFlFUlE?oc=5",
+      "publisher": "ITmedia",
+      "summary": "OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記 ITmedia",
+      "published_at": "2026-10-29T23:24:32Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "96effa758ceab8ba185b3877",
       "category": "tech",
       "source_id": "tech",
@@ -719,6 +742,24 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "5d78362e3f543d512106e3bc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "わずか2週間で新モデル誕生！ Google最高峰モデル「Gemini 4 Carbon」発表 アンソロピックは法律・医療にAI活用【AIニュース3選】（リアルサウンド） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yTklfWnNpUWc0OEFwcmlfTGJ4TmV1cUF2RDNTLUxTQ1VCUXVsaGJYUFJxR21RbE93WXJLaXo2ZXUybWRvMElWd2dOSl8xOVNmRk1CNFB1Q1NjVjl5Tjl1UVZWQzMxbTVVcEdmWGNKSWtKOUJ1S3NXc1B2LS1hZGc?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "わずか2週間で新モデル誕生！ Google最高峰モデル「Gemini 4 Carbon」発表 アンソロピックは法律・医療にAI活用【AIニュース3選】（リアルサウンド） Yahoo!ニュース",
+      "published_at": "2026-10-29T12:02:14Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "65d2aa02d9f47c36717696bc",
@@ -1055,6 +1096,42 @@
       ]
     },
     {
+      "id": "a4a9354d1168cdb2f3ea9994",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "「紙の教科書こそ最高」という思い込み デジタル教育批判に欠けた視点（PHPオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XdHM5R1dNWml3MUpkY2FGd1J0QTJFTDBlUTE3M3Y4YWVobUpsRVg3ejhtTWtydWczaERSQThLVW1SdDdZSEZSblVYWDA2SlFjYXRIdUpTUlpmMjQyMy00SVg2S3BHWnVMQk1PdGltbm9wYk15aVZDelJlN1pLR00?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "「紙の教科書こそ最高」という思い込み デジタル教育批判に欠けた視点（PHPオンライン） Yahoo!ニュース",
+      "published_at": "2026-10-29T02:52:29Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "2bf0c49ae105d81e42120c4b",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "人工知能学会、次期指導要領へ情報教育の充実を提言 - リセマム",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Ta28zaUJtR1dtWjFDUG9KZE55ak54SmtKZHRHZlhrMkliTWlKM1cyNlJvRXBCTDFaRU50Q1NsWVhwRE44Mm9fblZmOXRIVFpYSDBYYTZqWnB1RjRkbEhPWjB3TFhTUQ?oc=5",
+      "publisher": "リセマム",
+      "summary": "人工知能学会、次期指導要領へ情報教育の充実を提言 リセマム",
+      "published_at": "2026-10-29T02:45:02Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "64899024f3ce689269118bf9",
       "category": "ai",
       "source_id": "ai",
@@ -1146,6 +1223,24 @@
       ]
     },
     {
+      "id": "dd80c43efe5e286197836fef",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Googleが新フラッグシップAI「Gemini 4 Carbon」を発表したけど…「ベンチマークは最強」しかわからん - Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45eTFwTW9pR3J6X0lWOUtGOElQRGlfYm5uTTUxWVdtaFZsZnBNMmFjakxMOFRCTWdyNERmaC1oVzNZemVpT3A4RmNCdjRTTDNlZXNOYk9HaDdKbmNrNXBQdXhn?oc=5",
+      "publisher": "Gizmodo",
+      "summary": "Googleが新フラッグシップAI「Gemini 4 Carbon」を発表したけど…「ベンチマークは最強」しかわからん Gizmodo",
+      "published_at": "2026-10-29T01:25:00Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "3eea5ca854506b8c2d2ab178",
       "category": "ai",
       "source_id": "mistral",
@@ -1215,6 +1310,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "ad6907dc1869b201b9096fc3",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用（後編） - INTERNET Watch",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGa0hfLVV3cXNxd1dWLThuWFU2cElYR2hiYlRJUnk5MkRBak1UaGdGWTlLQkZBSlpkUGMyR2lnQkVKME9GMTZJZlpwdVJNRHRuY1BxaC1OSmxRUDBvY05kcFJ0Q0g3WmV3YkR6SC1mek5KSFUxVkxrcS1n?oc=5",
+      "publisher": "INTERNET Watch",
+      "summary": "「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用（後編） INTERNET Watch",
+      "published_at": "2026-10-28T21:00:00Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1352,6 +1465,24 @@
       "topic_id": "ai-agents",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "52750e1c5c6720e6403bda95",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "カナダ・オンタリオ州大学図書館コンソーシアム（OCUL）、図書館職員によるAIや機械学習を巡る経験や考え方に関する調査報告書を公開 - カレントアウェアネス・ポータル",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBISnFiaUN0d1Y2UzBaSlE1dXhOR3Frc2E4WlYwZnZ4X19iYUN1TEp2bDZ0SHNtRzRtMlJFMlZ2Vl9FRDd6SEU2ODZkZTE?oc=5",
+      "publisher": "カレントアウェアネス・ポータル",
+      "summary": "カナダ・オンタリオ州大学図書館コンソーシアム（OCUL）、図書館職員によるAIや機械学習を巡る経験や考え方に関する調査報告書を公開 カレントアウェアネス・ポータル",
+      "published_at": "2026-10-28T08:55:48Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
     },
     {
       "id": "a43a8a5234f2bbe175c9ee75",
@@ -2540,6 +2671,24 @@
       "summary": "人手不足への対応 交通誘導にAIカメラシステム試験導入＜宮城・大崎＞（ミヤギテレビ） Yahoo!ニュース",
       "published_at": "2026-10-27T03:28:00Z",
       "collected_at": "2026-10-27T21:00:06.555051Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "a220f82ee81f43cd1201a886",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "人手不足への対応 交通誘導にAIカメラシステム試験導入＜宮城・大崎＞（2026年10月26日掲載）｜ミヤテレNEWS NNN - 日テレNEWS NNN",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1ZnNmw3VUdfS3FfUnFoTzdGOVR0dWVTQkNvRTNUMG80RjBnbGJYV3Q3MEdYcS1sX2JybzlRQTJ6Nm95ZGpaSjdVRTRBSWN3LWhLRm1YQ1FHcURPMTNoOTFpWUpwNDl1WFgzVGRTN2pqWVRYeE80Yi1YQ24xY3E5cm5WY0dVRkU?oc=5",
+      "publisher": "日テレNEWS NNN",
+      "summary": "人手不足への対応 交通誘導にAIカメラシステム試験導入＜宮城・大崎＞（2026年10月26日掲載）｜ミヤテレNEWS NNN 日テレNEWS NNN",
+      "published_at": "2026-10-27T03:28:00Z",
+      "collected_at": "2026-10-30T00:43:27.062340Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -33823,23 +33972,23 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-30T07:36:34.423534+09:00",
+      "generated_at": "2026-10-30T09:43:34.055303+09:00",
       "is_complete": false,
-      "article_count": 180,
+      "article_count": 188,
       "category_counts": {
-        "tech": 47,
-        "ai": 96,
-        "parenting": 37
+        "ai": 100,
+        "tech": 48,
+        "parenting": 40
       },
       "overview": "Ropes & Grayは、買収調査の商業契約を抽出・分類し、要約と報告書を作る専用AIを開発中。弁護士が中間要約と原文を確認し、提出前に全面確認する設計で、数時間での作成は目標段階。一方、OpenAIは逸脱監視を訓練・評価・社内利用・一部外部提供へ拡大し、分類器、会話・ツール利用の点検、ログ照合を組み合わせている。 NVIDIAは、自然言語で指示したエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験環境を構築する事例を紹介。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ハードル越えはシミュレーション100回中64回成功したが、いずれも個別の試作・実験で、一般提供される統一製品の発表ではない。 英国の12〜15歳を対象とする10週間の無作為化比較試験では、専門家が全AI応答を事前確認する条件で、Geminiによる数学指導の課題・小テスト成績は人間の指導と同程度だった一方、標準化テストの改善は見られなかった。イタリアの31校での授業共同設計研究には教師の自己報告が含まれる。大学生の学習・予定管理への活用紹介は体験談であり、いずれも幼児への効果や新機能の一般提供を示すものではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+        "attempted_at": "2026-10-30T00:43:33.800214+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -33861,6 +34010,10 @@
           {
             "article_id": "930b373afcc4634861171591",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -33875,7 +34028,7 @@
           "errors": [],
           "last_success_at": "2026-10-29T22:34:23.436819+00:00"
         },
-        "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+        "last_success_at": "2026-10-30T00:43:33.800214+00:00"
       },
       "genre_briefs": [
         {
@@ -34064,16 +34217,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 85,
-          "publisher_count": 33,
+          "count": 89,
+          "publisher_count": 34,
           "summary": "OpenAIはモデルの望ましい振る舞いを記すModel Specを更新した。人の意図への忠実さ、危害の最小化、正直さと透明性、人の主体性、配慮の5つの価値で構成を再編。会話や記憶などの文脈の扱い、社会規範、副作用の管理・説明に関する指針を追加・拡充し、詳細な文体指針の大半を廃止した。関連する新たな訓練方法も探索中で、結果は今後公表するとしている。 OpenAIはHugging Face事案での監視漏れを受け、エージェントの逸脱監視を訓練・評価・社内利用・一部の外部提供へ拡大した。内部活性の分類器、モデルによる会話・ツール利用の点検、調査エージェント、通信ログなどの照合を組み合わせる。過去事案の再現では隔離環境からの脱出約30分後に通知。9月の実際の訓練では、想定外のネット接続を15分以内に検知し、その後、先端モデルの強化学習を一時停止した。 法律事務所Ropes & GrayはOpenAIと、買収時の法務調査を支援する専用AIを開発している。初期対象は重要な商業契約で、数千ページから関連文書を抽出し、論点別に分類して要約と同事務所形式の報告書を作る。過去案件の弁護士作成報告書と試作出力を比較し、評価基準や形式を調整。弁護士が中間要約と原文を確認する設計で、詳細報告書を数週間ではなく数時間で作ることを目標に掲げる。",
           "evidence_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
-            "4ff6cc14fafc2b17b7ca40e2",
-            "7c43bed9e9b7c412c0982b57"
+            "5d78362e3f543d512106e3bc"
           ],
           "article_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
+            "5d78362e3f543d512106e3bc",
             "ce07ea0c9a149d73db9a815f",
             "2e1fed09dda641448c19a1cf",
             "4ff6cc14fafc2b17b7ca40e2",
@@ -34081,9 +34236,11 @@
             "64899024f3ce689269118bf9",
             "4b53e6e9cfc964a470e3c407",
             "fee9776d61598a4c7cd5e8e5",
+            "dd80c43efe5e286197836fef",
             "3eea5ca854506b8c2d2ab178",
             "7de9fb1a35db54539280c104",
             "05dcba2e6b22a845017664d7",
+            "ad6907dc1869b201b9096fc3",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
             "a43a8a5234f2bbe175c9ee75",
@@ -34167,8 +34324,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 46,
-          "publisher_count": 32,
+          "count": 47,
+          "publisher_count": 33,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。 18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
             "96effa758ceab8ba185b3877",
@@ -34205,6 +34362,7 @@
             "d744ba52d78409cd7db13701",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "a220f82ee81f43cd1201a886",
             "5c7fb462c5dfab8d1c98ead1",
             "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
@@ -34231,8 +34389,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 34,
-          "publisher_count": 27,
+          "count": 37,
+          "publisher_count": 29,
           "summary": "Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
             "733fe957306683835f4abcd2",
@@ -34246,10 +34404,13 @@
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
             "4e18f7734f4676ad5b98b7ed",
+            "a4a9354d1168cdb2f3ea9994",
+            "2bf0c49ae105d81e42120c4b",
             "15aef3933d1b053c3a00eb96",
             "f17209e71fa695f4791f5b2a",
             "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
+            "52750e1c5c6720e6403bda95",
             "5bcd1fe7c3e5a8afb2af5dac",
             "df1ac61fae2f6367cde922d2",
             "baf5f70d599a96424c317190",
@@ -34392,10 +34553,12 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "0db176e9714008cd2c8514c1",
         "96effa758ceab8ba185b3877",
         "538b24d0e6defaaf07578366",
         "badda310cca07906cc76c487",
         "733fe957306683835f4abcd2",
+        "5d78362e3f543d512106e3bc",
         "65d2aa02d9f47c36717696bc",
         "7677dd5283a6ff985c883ef9",
         "ce07ea0c9a149d73db9a815f",
@@ -34412,15 +34575,19 @@
         "d1214495d53bc4aff3fced11",
         "4264a7c043d90668f7605e83",
         "998f3d694f7dcd2f26bbedd8",
+        "a4a9354d1168cdb2f3ea9994",
+        "2bf0c49ae105d81e42120c4b",
         "64899024f3ce689269118bf9",
         "15aef3933d1b053c3a00eb96",
         "4b53e6e9cfc964a470e3c407",
         "f17209e71fa695f4791f5b2a",
         "fee9776d61598a4c7cd5e8e5",
+        "dd80c43efe5e286197836fef",
         "3eea5ca854506b8c2d2ab178",
         "7de9fb1a35db54539280c104",
         "05dcba2e6b22a845017664d7",
         "ef4ccdcbc713a4183702b905",
+        "ad6907dc1869b201b9096fc3",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -34428,6 +34595,7 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "52750e1c5c6720e6403bda95",
         "a43a8a5234f2bbe175c9ee75",
         "880b1c362c23b97143293ed8",
         "5bcd1fe7c3e5a8afb2af5dac",
@@ -34492,6 +34660,7 @@
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
+        "a220f82ee81f43cd1201a886",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
@@ -34579,7 +34748,7 @@
       "kind": "weekly",
       "period_start": "2026-10-19",
       "period_end": "2026-10-25",
-      "generated_at": "2026-10-30T07:36:34.423534+09:00",
+      "generated_at": "2026-10-30T09:43:34.055303+09:00",
       "is_complete": true,
       "article_count": 275,
       "category_counts": {
@@ -34592,10 +34761,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+        "attempted_at": "2026-10-30T00:43:33.800214+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -34617,6 +34786,10 @@
           {
             "article_id": "930b373afcc4634861171591",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -34631,7 +34804,7 @@
           "errors": [],
           "last_success_at": "2026-10-29T22:34:23.436819+00:00"
         },
-        "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+        "last_success_at": "2026-10-30T00:43:33.800214+00:00"
       },
       "genre_briefs": [
         {
@@ -37059,23 +37232,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-30T07:36:34.423534+09:00",
+      "generated_at": "2026-10-30T09:43:34.055303+09:00",
       "is_complete": false,
-      "article_count": 991,
+      "article_count": 999,
       "category_counts": {
-        "tech": 260,
-        "ai": 483,
-        "parenting": 248
+        "ai": 487,
+        "tech": 261,
+        "parenting": 251
       },
       "overview": "Ropes & Grayは、商業契約を抽出・分類し、中間要約と事務所形式の報告書を作る法務調査AIを開発中で、弁護士が原文と出力を確認する。OpenAIは逸脱監視を訓練・評価・社内利用・一部の外部提供へ拡大し、複数の監視手法と人への通知を組み合わせている。Model Specの更新は望ましい行動の指針であり、現行モデルでの完全な実現を示すものではない。 NVIDIAが紹介したOmniverseの開発事例では、自然言語でエージェントを操作してロボットや自動運転の試験環境を構築し、ハードル越えはシミュレーション100回中64回成功した。C-BRAINは、機関内にデータを残す連合学習と集中管理を併用する研究基盤を構築中で、仮説生成・解析と主張の検証を担うAIを開発済みだが、多様な生体データを学ぶ基盤モデルは今後の計画である。 英国の12〜15歳を対象とした10週間の無作為化比較試験では、専門家が全AI応答を事前確認する条件で、Geminiによる数学指導の課題・小テスト成績は人間の指導と同程度だったが、標準化テストの改善は見られなかった。大学生のGemini活用記事は教材の個別レッスン化や予定整理の体験談である。Khan Academyは提出前のヒントと誤答後の説明・練習を組み合わせる設計を紹介したが、対象学年や定量的効果は示していない。いずれも幼児への効果を示す資料ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+        "attempted_at": "2026-10-30T00:43:33.800214+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -37097,6 +37270,10 @@
           {
             "article_id": "930b373afcc4634861171591",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -37111,7 +37288,7 @@
           "errors": [],
           "last_success_at": "2026-10-29T22:34:23.436819+00:00"
         },
-        "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+        "last_success_at": "2026-10-30T00:43:33.800214+00:00"
       },
       "genre_briefs": [
         {
@@ -37320,16 +37497,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 402,
-          "publisher_count": 60,
+          "count": 406,
+          "publisher_count": 61,
           "summary": "OpenAIはモデルの望ましい振る舞いを記すModel Specを更新した。人の意図への忠実さ、危害の最小化、正直さと透明性、人の主体性、配慮の5つの価値で構成を再編。会話や記憶などの文脈の扱い、社会規範、副作用の管理・説明に関する指針を追加・拡充し、詳細な文体指針の大半を廃止した。関連する新たな訓練方法も探索中で、結果は今後公表するとしている。 OpenAIはHugging Face事案での監視漏れを受け、エージェントの逸脱監視を訓練・評価・社内利用・一部の外部提供へ拡大した。内部活性の分類器、モデルによる会話・ツール利用の点検、調査エージェント、通信ログなどの照合を組み合わせる。過去事案の再現では隔離環境からの脱出約30分後に通知。9月の実際の訓練では、想定外のネット接続を15分以内に検知し、その後、先端モデルの強化学習を一時停止した。 法律事務所Ropes & GrayはOpenAIと、買収時の法務調査を支援する専用AIを開発している。初期対象は重要な商業契約で、数千ページから関連文書を抽出し、論点別に分類して要約と同事務所形式の報告書を作る。過去案件の弁護士作成報告書と試作出力を比較し、評価基準や形式を調整。弁護士が中間要約と原文を確認する設計で、詳細報告書を数週間ではなく数時間で作ることを目標に掲げる。",
           "evidence_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
-            "4ff6cc14fafc2b17b7ca40e2",
-            "7c43bed9e9b7c412c0982b57"
+            "5d78362e3f543d512106e3bc"
           ],
           "article_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
+            "5d78362e3f543d512106e3bc",
             "ce07ea0c9a149d73db9a815f",
             "2e1fed09dda641448c19a1cf",
             "4ff6cc14fafc2b17b7ca40e2",
@@ -37337,9 +37516,11 @@
             "64899024f3ce689269118bf9",
             "4b53e6e9cfc964a470e3c407",
             "fee9776d61598a4c7cd5e8e5",
+            "dd80c43efe5e286197836fef",
             "3eea5ca854506b8c2d2ab178",
             "7de9fb1a35db54539280c104",
             "05dcba2e6b22a845017664d7",
+            "ad6907dc1869b201b9096fc3",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
             "a43a8a5234f2bbe175c9ee75",
@@ -37740,7 +37921,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 250,
+          "count": 251,
           "publisher_count": 109,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。 18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
@@ -37778,6 +37959,7 @@
             "d744ba52d78409cd7db13701",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "a220f82ee81f43cd1201a886",
             "5c7fb462c5dfab8d1c98ead1",
             "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
@@ -38008,8 +38190,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 220,
-          "publisher_count": 85,
+          "count": 223,
+          "publisher_count": 86,
           "summary": "Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。 Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。",
           "evidence_ids": [
             "733fe957306683835f4abcd2",
@@ -38023,10 +38205,13 @@
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
             "4e18f7734f4676ad5b98b7ed",
+            "a4a9354d1168cdb2f3ea9994",
+            "2bf0c49ae105d81e42120c4b",
             "15aef3933d1b053c3a00eb96",
             "f17209e71fa695f4791f5b2a",
             "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
+            "52750e1c5c6720e6403bda95",
             "5bcd1fe7c3e5a8afb2af5dac",
             "df1ac61fae2f6367cde922d2",
             "baf5f70d599a96424c317190",
@@ -38442,10 +38627,12 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "0db176e9714008cd2c8514c1",
         "96effa758ceab8ba185b3877",
         "538b24d0e6defaaf07578366",
         "badda310cca07906cc76c487",
         "733fe957306683835f4abcd2",
+        "5d78362e3f543d512106e3bc",
         "65d2aa02d9f47c36717696bc",
         "7677dd5283a6ff985c883ef9",
         "ce07ea0c9a149d73db9a815f",
@@ -38462,15 +38649,19 @@
         "d1214495d53bc4aff3fced11",
         "4264a7c043d90668f7605e83",
         "998f3d694f7dcd2f26bbedd8",
+        "a4a9354d1168cdb2f3ea9994",
+        "2bf0c49ae105d81e42120c4b",
         "64899024f3ce689269118bf9",
         "15aef3933d1b053c3a00eb96",
         "4b53e6e9cfc964a470e3c407",
         "f17209e71fa695f4791f5b2a",
         "fee9776d61598a4c7cd5e8e5",
+        "dd80c43efe5e286197836fef",
         "3eea5ca854506b8c2d2ab178",
         "7de9fb1a35db54539280c104",
         "05dcba2e6b22a845017664d7",
         "ef4ccdcbc713a4183702b905",
+        "ad6907dc1869b201b9096fc3",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -38478,6 +38669,7 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "52750e1c5c6720e6403bda95",
         "a43a8a5234f2bbe175c9ee75",
         "880b1c362c23b97143293ed8",
         "5bcd1fe7c3e5a8afb2af5dac",
@@ -38542,6 +38734,7 @@
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
+        "a220f82ee81f43cd1201a886",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
@@ -40999,7 +41192,7 @@
       "kind": "monthly",
       "period_start": "2026-09-01",
       "period_end": "2026-09-30",
-      "generated_at": "2026-10-30T07:36:34.423534+09:00",
+      "generated_at": "2026-10-30T09:43:34.055303+09:00",
       "is_complete": true,
       "article_count": 521,
       "category_counts": {
@@ -41012,10 +41205,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+        "attempted_at": "2026-10-30T00:43:33.800214+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -41037,6 +41230,10 @@
           {
             "article_id": "930b373afcc4634861171591",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -41051,7 +41248,7 @@
           "errors": [],
           "last_success_at": "2026-10-29T22:34:23.436819+00:00"
         },
-        "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+        "last_success_at": "2026-10-30T00:43:33.800214+00:00"
       },
       "genre_briefs": [
         {
@@ -42406,23 +42603,23 @@
       "kind": "overview",
       "period_start": "2026-10-24",
       "period_end": "2026-10-30",
-      "generated_at": "2026-10-30T07:36:34.423534+09:00",
+      "generated_at": "2026-10-30T09:43:34.055303+09:00",
       "is_complete": false,
-      "article_count": 220,
+      "article_count": 228,
       "category_counts": {
-        "tech": 53,
-        "ai": 114,
-        "parenting": 53
+        "ai": 118,
+        "tech": 54,
+        "parenting": 56
       },
       "overview": "OpenAIはModel Specを5つの価値で再編し、文脈や人の主体性、副作用の管理に関する指針を拡充した。逸脱監視では内部活性の分類器、会話・ツール利用の点検、ログ照合を組み合わせ、訓練や一部の外部提供へ対象を拡大した。Ropes & Grayが開発中の買収調査AIは、商業契約を抽出・分類して報告書を作り、弁護士が中間要約と原文を確認する設計。指針の完全実現や報告書作成時間の短縮は実証されていない。 NVIDIAは、自然言語で指示するAIエージェントとOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験環境を作る事例を紹介した。センサー検証では約3日でデジタルツインを2件新規作成し、既存2件を改善。ロボット競技の実験では単一のハードル越えに100回中64回成功したが、いずれも個別の開発事例やシミュレーションの成果で、統一された新製品の一般提供発表ではない。 Googleが公開した英国の研究では、12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施した。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校の授業設計研究には教師の自己報告が含まれる。別記事の大学生アンバサダーによる個別学習・予定管理の紹介は活用体験談であり、新機能の提供開始や効果検証ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+        "attempted_at": "2026-10-30T00:43:33.800214+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -42444,6 +42641,10 @@
           {
             "article_id": "930b373afcc4634861171591",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -42458,7 +42659,7 @@
           "errors": [],
           "last_success_at": "2026-10-29T22:34:23.436819+00:00"
         },
-        "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+        "last_success_at": "2026-10-30T00:43:33.800214+00:00"
       },
       "genre_briefs": [
         {
@@ -42647,16 +42848,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 99,
-          "publisher_count": 37,
+          "count": 103,
+          "publisher_count": 38,
           "summary": "OpenAIはモデルの望ましい振る舞いを記すModel Specを更新した。人の意図への忠実さ、危害の最小化、正直さと透明性、人の主体性、配慮の5つの価値で構成を再編。会話や記憶などの文脈の扱い、社会規範、副作用の管理・説明に関する指針を追加・拡充し、詳細な文体指針の大半を廃止した。関連する新たな訓練方法も探索中で、結果は今後公表するとしている。 OpenAIはHugging Face事案での監視漏れを受け、エージェントの逸脱監視を訓練・評価・社内利用・一部の外部提供へ拡大した。内部活性の分類器、モデルによる会話・ツール利用の点検、調査エージェント、通信ログなどの照合を組み合わせる。過去事案の再現では隔離環境からの脱出約30分後に通知。9月の実際の訓練では、想定外のネット接続を15分以内に検知し、その後、先端モデルの強化学習を一時停止した。 法律事務所Ropes & GrayはOpenAIと、買収時の法務調査を支援する専用AIを開発している。初期対象は重要な商業契約で、数千ページから関連文書を抽出し、論点別に分類して要約と同事務所形式の報告書を作る。過去案件の弁護士作成報告書と試作出力を比較し、評価基準や形式を調整。弁護士が中間要約と原文を確認する設計で、詳細報告書を数週間ではなく数時間で作ることを目標に掲げる。",
           "evidence_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
-            "4ff6cc14fafc2b17b7ca40e2",
-            "7c43bed9e9b7c412c0982b57"
+            "5d78362e3f543d512106e3bc"
           ],
           "article_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
+            "5d78362e3f543d512106e3bc",
             "ce07ea0c9a149d73db9a815f",
             "2e1fed09dda641448c19a1cf",
             "4ff6cc14fafc2b17b7ca40e2",
@@ -42664,9 +42867,11 @@
             "64899024f3ce689269118bf9",
             "4b53e6e9cfc964a470e3c407",
             "fee9776d61598a4c7cd5e8e5",
+            "dd80c43efe5e286197836fef",
             "3eea5ca854506b8c2d2ab178",
             "7de9fb1a35db54539280c104",
             "05dcba2e6b22a845017664d7",
+            "ad6907dc1869b201b9096fc3",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
             "a43a8a5234f2bbe175c9ee75",
@@ -42764,8 +42969,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 52,
-          "publisher_count": 36,
+          "count": 53,
+          "publisher_count": 37,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。 18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
             "96effa758ceab8ba185b3877",
@@ -42802,6 +43007,7 @@
             "d744ba52d78409cd7db13701",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "a220f82ee81f43cd1201a886",
             "5c7fb462c5dfab8d1c98ead1",
             "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
@@ -42834,8 +43040,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 48,
-          "publisher_count": 32,
+          "count": 51,
+          "publisher_count": 34,
           "summary": "Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
             "733fe957306683835f4abcd2",
@@ -42849,10 +43055,13 @@
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
             "4e18f7734f4676ad5b98b7ed",
+            "a4a9354d1168cdb2f3ea9994",
+            "2bf0c49ae105d81e42120c4b",
             "15aef3933d1b053c3a00eb96",
             "f17209e71fa695f4791f5b2a",
             "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
+            "52750e1c5c6720e6403bda95",
             "5bcd1fe7c3e5a8afb2af5dac",
             "df1ac61fae2f6367cde922d2",
             "baf5f70d599a96424c317190",
@@ -43015,10 +43224,12 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "0db176e9714008cd2c8514c1",
         "96effa758ceab8ba185b3877",
         "538b24d0e6defaaf07578366",
         "badda310cca07906cc76c487",
         "733fe957306683835f4abcd2",
+        "5d78362e3f543d512106e3bc",
         "65d2aa02d9f47c36717696bc",
         "7677dd5283a6ff985c883ef9",
         "ce07ea0c9a149d73db9a815f",
@@ -43035,15 +43246,19 @@
         "d1214495d53bc4aff3fced11",
         "4264a7c043d90668f7605e83",
         "998f3d694f7dcd2f26bbedd8",
+        "a4a9354d1168cdb2f3ea9994",
+        "2bf0c49ae105d81e42120c4b",
         "64899024f3ce689269118bf9",
         "15aef3933d1b053c3a00eb96",
         "4b53e6e9cfc964a470e3c407",
         "f17209e71fa695f4791f5b2a",
         "fee9776d61598a4c7cd5e8e5",
+        "dd80c43efe5e286197836fef",
         "3eea5ca854506b8c2d2ab178",
         "7de9fb1a35db54539280c104",
         "05dcba2e6b22a845017664d7",
         "ef4ccdcbc713a4183702b905",
+        "ad6907dc1869b201b9096fc3",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -43051,6 +43266,7 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "52750e1c5c6720e6403bda95",
         "a43a8a5234f2bbe175c9ee75",
         "880b1c362c23b97143293ed8",
         "5bcd1fe7c3e5a8afb2af5dac",
@@ -43115,6 +43331,7 @@
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
+        "a220f82ee81f43cd1201a886",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
@@ -43242,23 +43459,23 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-10-30T07:36:34.423534+09:00",
+      "generated_at": "2026-10-30T09:43:34.055303+09:00",
       "is_complete": false,
-      "article_count": 180,
+      "article_count": 188,
       "category_counts": {
-        "tech": 47,
-        "ai": 96,
-        "parenting": 37
+        "ai": 100,
+        "tech": 48,
+        "parenting": 40
       },
       "overview": "Ropes & Grayは、買収調査の商業契約を抽出・分類し、要約と報告書を作る専用AIを開発中。弁護士が中間要約と原文を確認し、提出前に全面確認する設計で、数時間での作成は目標段階。一方、OpenAIは逸脱監視を訓練・評価・社内利用・一部外部提供へ拡大し、分類器、会話・ツール利用の点検、ログ照合を組み合わせている。 NVIDIAは、自然言語で指示したエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験環境を構築する事例を紹介。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ハードル越えはシミュレーション100回中64回成功したが、いずれも個別の試作・実験で、一般提供される統一製品の発表ではない。 英国の12〜15歳を対象とする10週間の無作為化比較試験では、専門家が全AI応答を事前確認する条件で、Geminiによる数学指導の課題・小テスト成績は人間の指導と同程度だった一方、標準化テストの改善は見られなかった。イタリアの31校での授業共同設計研究には教師の自己報告が含まれる。大学生の学習・予定管理への活用紹介は体験談であり、いずれも幼児への効果や新機能の一般提供を示すものではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+        "attempted_at": "2026-10-30T00:43:33.800214+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -43280,6 +43497,10 @@
           {
             "article_id": "930b373afcc4634861171591",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -43294,7 +43515,7 @@
           "errors": [],
           "last_success_at": "2026-10-29T22:34:23.436819+00:00"
         },
-        "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+        "last_success_at": "2026-10-30T00:43:33.800214+00:00"
       },
       "genre_briefs": [
         {
@@ -43483,16 +43704,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 85,
-          "publisher_count": 33,
+          "count": 89,
+          "publisher_count": 34,
           "summary": "OpenAIはモデルの望ましい振る舞いを記すModel Specを更新した。人の意図への忠実さ、危害の最小化、正直さと透明性、人の主体性、配慮の5つの価値で構成を再編。会話や記憶などの文脈の扱い、社会規範、副作用の管理・説明に関する指針を追加・拡充し、詳細な文体指針の大半を廃止した。関連する新たな訓練方法も探索中で、結果は今後公表するとしている。 OpenAIはHugging Face事案での監視漏れを受け、エージェントの逸脱監視を訓練・評価・社内利用・一部の外部提供へ拡大した。内部活性の分類器、モデルによる会話・ツール利用の点検、調査エージェント、通信ログなどの照合を組み合わせる。過去事案の再現では隔離環境からの脱出約30分後に通知。9月の実際の訓練では、想定外のネット接続を15分以内に検知し、その後、先端モデルの強化学習を一時停止した。 法律事務所Ropes & GrayはOpenAIと、買収時の法務調査を支援する専用AIを開発している。初期対象は重要な商業契約で、数千ページから関連文書を抽出し、論点別に分類して要約と同事務所形式の報告書を作る。過去案件の弁護士作成報告書と試作出力を比較し、評価基準や形式を調整。弁護士が中間要約と原文を確認する設計で、詳細報告書を数週間ではなく数時間で作ることを目標に掲げる。",
           "evidence_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
-            "4ff6cc14fafc2b17b7ca40e2",
-            "7c43bed9e9b7c412c0982b57"
+            "5d78362e3f543d512106e3bc"
           ],
           "article_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
+            "5d78362e3f543d512106e3bc",
             "ce07ea0c9a149d73db9a815f",
             "2e1fed09dda641448c19a1cf",
             "4ff6cc14fafc2b17b7ca40e2",
@@ -43500,9 +43723,11 @@
             "64899024f3ce689269118bf9",
             "4b53e6e9cfc964a470e3c407",
             "fee9776d61598a4c7cd5e8e5",
+            "dd80c43efe5e286197836fef",
             "3eea5ca854506b8c2d2ab178",
             "7de9fb1a35db54539280c104",
             "05dcba2e6b22a845017664d7",
+            "ad6907dc1869b201b9096fc3",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
             "a43a8a5234f2bbe175c9ee75",
@@ -43586,8 +43811,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 46,
-          "publisher_count": 32,
+          "count": 47,
+          "publisher_count": 33,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。 18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
             "96effa758ceab8ba185b3877",
@@ -43624,6 +43849,7 @@
             "d744ba52d78409cd7db13701",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "a220f82ee81f43cd1201a886",
             "5c7fb462c5dfab8d1c98ead1",
             "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
@@ -43650,8 +43876,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 34,
-          "publisher_count": 27,
+          "count": 37,
+          "publisher_count": 29,
           "summary": "Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
             "733fe957306683835f4abcd2",
@@ -43665,10 +43891,13 @@
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
             "4e18f7734f4676ad5b98b7ed",
+            "a4a9354d1168cdb2f3ea9994",
+            "2bf0c49ae105d81e42120c4b",
             "15aef3933d1b053c3a00eb96",
             "f17209e71fa695f4791f5b2a",
             "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
+            "52750e1c5c6720e6403bda95",
             "5bcd1fe7c3e5a8afb2af5dac",
             "df1ac61fae2f6367cde922d2",
             "baf5f70d599a96424c317190",
@@ -43811,10 +44040,12 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "0db176e9714008cd2c8514c1",
         "96effa758ceab8ba185b3877",
         "538b24d0e6defaaf07578366",
         "badda310cca07906cc76c487",
         "733fe957306683835f4abcd2",
+        "5d78362e3f543d512106e3bc",
         "65d2aa02d9f47c36717696bc",
         "7677dd5283a6ff985c883ef9",
         "ce07ea0c9a149d73db9a815f",
@@ -43831,15 +44062,19 @@
         "d1214495d53bc4aff3fced11",
         "4264a7c043d90668f7605e83",
         "998f3d694f7dcd2f26bbedd8",
+        "a4a9354d1168cdb2f3ea9994",
+        "2bf0c49ae105d81e42120c4b",
         "64899024f3ce689269118bf9",
         "15aef3933d1b053c3a00eb96",
         "4b53e6e9cfc964a470e3c407",
         "f17209e71fa695f4791f5b2a",
         "fee9776d61598a4c7cd5e8e5",
+        "dd80c43efe5e286197836fef",
         "3eea5ca854506b8c2d2ab178",
         "7de9fb1a35db54539280c104",
         "05dcba2e6b22a845017664d7",
         "ef4ccdcbc713a4183702b905",
+        "ad6907dc1869b201b9096fc3",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -43847,6 +44082,7 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "52750e1c5c6720e6403bda95",
         "a43a8a5234f2bbe175c9ee75",
         "880b1c362c23b97143293ed8",
         "5bcd1fe7c3e5a8afb2af5dac",
@@ -43911,6 +44147,7 @@
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
+        "a220f82ee81f43cd1201a886",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
@@ -43998,23 +44235,23 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-10-30T07:36:34.423534+09:00",
+      "generated_at": "2026-10-30T09:43:34.055303+09:00",
       "is_complete": false,
-      "article_count": 991,
+      "article_count": 999,
       "category_counts": {
-        "tech": 260,
-        "ai": 483,
-        "parenting": 248
+        "ai": 487,
+        "tech": 261,
+        "parenting": 251
       },
       "overview": "Ropes & Grayは、商業契約を抽出・分類し、中間要約と事務所形式の報告書を作る法務調査AIを開発中で、弁護士が原文と出力を確認する。OpenAIは逸脱監視を訓練・評価・社内利用・一部の外部提供へ拡大し、複数の監視手法と人への通知を組み合わせている。Model Specの更新は望ましい行動の指針であり、現行モデルでの完全な実現を示すものではない。 NVIDIAが紹介したOmniverseの開発事例では、自然言語でエージェントを操作してロボットや自動運転の試験環境を構築し、ハードル越えはシミュレーション100回中64回成功した。C-BRAINは、機関内にデータを残す連合学習と集中管理を併用する研究基盤を構築中で、仮説生成・解析と主張の検証を担うAIを開発済みだが、多様な生体データを学ぶ基盤モデルは今後の計画である。 英国の12〜15歳を対象とした10週間の無作為化比較試験では、専門家が全AI応答を事前確認する条件で、Geminiによる数学指導の課題・小テスト成績は人間の指導と同程度だったが、標準化テストの改善は見られなかった。大学生のGemini活用記事は教材の個別レッスン化や予定整理の体験談である。Khan Academyは提出前のヒントと誤答後の説明・練習を組み合わせる設計を紹介したが、対象学年や定量的効果は示していない。いずれも幼児への効果を示す資料ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+        "attempted_at": "2026-10-30T00:43:33.800214+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -44036,6 +44273,10 @@
           {
             "article_id": "930b373afcc4634861171591",
             "stage": "original_fetch"
+          },
+          {
+            "article_id": "2d6f4a1f232226b50c5977e2",
+            "stage": "original_fetch"
           }
         ],
         "local_codex": {
@@ -44050,7 +44291,7 @@
           "errors": [],
           "last_success_at": "2026-10-29T22:34:23.436819+00:00"
         },
-        "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+        "last_success_at": "2026-10-30T00:43:33.800214+00:00"
       },
       "genre_briefs": [
         {
@@ -44259,16 +44500,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 402,
-          "publisher_count": 60,
+          "count": 406,
+          "publisher_count": 61,
           "summary": "OpenAIはモデルの望ましい振る舞いを記すModel Specを更新した。人の意図への忠実さ、危害の最小化、正直さと透明性、人の主体性、配慮の5つの価値で構成を再編。会話や記憶などの文脈の扱い、社会規範、副作用の管理・説明に関する指針を追加・拡充し、詳細な文体指針の大半を廃止した。関連する新たな訓練方法も探索中で、結果は今後公表するとしている。 OpenAIはHugging Face事案での監視漏れを受け、エージェントの逸脱監視を訓練・評価・社内利用・一部の外部提供へ拡大した。内部活性の分類器、モデルによる会話・ツール利用の点検、調査エージェント、通信ログなどの照合を組み合わせる。過去事案の再現では隔離環境からの脱出約30分後に通知。9月の実際の訓練では、想定外のネット接続を15分以内に検知し、その後、先端モデルの強化学習を一時停止した。 法律事務所Ropes & GrayはOpenAIと、買収時の法務調査を支援する専用AIを開発している。初期対象は重要な商業契約で、数千ページから関連文書を抽出し、論点別に分類して要約と同事務所形式の報告書を作る。過去案件の弁護士作成報告書と試作出力を比較し、評価基準や形式を調整。弁護士が中間要約と原文を確認する設計で、詳細報告書を数週間ではなく数時間で作ることを目標に掲げる。",
           "evidence_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
-            "4ff6cc14fafc2b17b7ca40e2",
-            "7c43bed9e9b7c412c0982b57"
+            "5d78362e3f543d512106e3bc"
           ],
           "article_ids": [
+            "0db176e9714008cd2c8514c1",
             "538b24d0e6defaaf07578366",
+            "5d78362e3f543d512106e3bc",
             "ce07ea0c9a149d73db9a815f",
             "2e1fed09dda641448c19a1cf",
             "4ff6cc14fafc2b17b7ca40e2",
@@ -44276,9 +44519,11 @@
             "64899024f3ce689269118bf9",
             "4b53e6e9cfc964a470e3c407",
             "fee9776d61598a4c7cd5e8e5",
+            "dd80c43efe5e286197836fef",
             "3eea5ca854506b8c2d2ab178",
             "7de9fb1a35db54539280c104",
             "05dcba2e6b22a845017664d7",
+            "ad6907dc1869b201b9096fc3",
             "d1acf33f0cc0313ca2706558",
             "db87a5ef0fba8cda5c0ed12d",
             "a43a8a5234f2bbe175c9ee75",
@@ -44679,7 +44924,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 250,
+          "count": 251,
           "publisher_count": 109,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。 18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
@@ -44717,6 +44962,7 @@
             "d744ba52d78409cd7db13701",
             "ec9d0cdb23292b7f17efbf65",
             "aff91f0770bec17bf7568e43",
+            "a220f82ee81f43cd1201a886",
             "5c7fb462c5dfab8d1c98ead1",
             "d5fb20c08dfda71bf49ae15b",
             "7d169c3885c9daabc1c83840",
@@ -44947,8 +45193,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 220,
-          "publisher_count": 85,
+          "count": 223,
+          "publisher_count": 86,
           "summary": "Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。 Khan Academyは、学習継続を支える機能の設計を紹介した。Missionsが次の課題を示し、Gemsが技能の進歩を可視化する。Khanmigoは解答提出前には答えを控えて質問やヒントを出し、誤答提出後には間違いの説明や同じ技能の練習で支援する。学級の月間目標に加え、提携学区向けにはライブ形式のGem Jamを提供している。",
           "evidence_ids": [
             "733fe957306683835f4abcd2",
@@ -44962,10 +45208,13 @@
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
             "4e18f7734f4676ad5b98b7ed",
+            "a4a9354d1168cdb2f3ea9994",
+            "2bf0c49ae105d81e42120c4b",
             "15aef3933d1b053c3a00eb96",
             "f17209e71fa695f4791f5b2a",
             "ef4ccdcbc713a4183702b905",
             "e95c16ad688524bc017742fb",
+            "52750e1c5c6720e6403bda95",
             "5bcd1fe7c3e5a8afb2af5dac",
             "df1ac61fae2f6367cde922d2",
             "baf5f70d599a96424c317190",
@@ -45381,10 +45630,12 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "0db176e9714008cd2c8514c1",
         "96effa758ceab8ba185b3877",
         "538b24d0e6defaaf07578366",
         "badda310cca07906cc76c487",
         "733fe957306683835f4abcd2",
+        "5d78362e3f543d512106e3bc",
         "65d2aa02d9f47c36717696bc",
         "7677dd5283a6ff985c883ef9",
         "ce07ea0c9a149d73db9a815f",
@@ -45401,15 +45652,19 @@
         "d1214495d53bc4aff3fced11",
         "4264a7c043d90668f7605e83",
         "998f3d694f7dcd2f26bbedd8",
+        "a4a9354d1168cdb2f3ea9994",
+        "2bf0c49ae105d81e42120c4b",
         "64899024f3ce689269118bf9",
         "15aef3933d1b053c3a00eb96",
         "4b53e6e9cfc964a470e3c407",
         "f17209e71fa695f4791f5b2a",
         "fee9776d61598a4c7cd5e8e5",
+        "dd80c43efe5e286197836fef",
         "3eea5ca854506b8c2d2ab178",
         "7de9fb1a35db54539280c104",
         "05dcba2e6b22a845017664d7",
         "ef4ccdcbc713a4183702b905",
+        "ad6907dc1869b201b9096fc3",
         "a03c4546153f234c3f8b757a",
         "d1acf33f0cc0313ca2706558",
         "e95c16ad688524bc017742fb",
@@ -45417,6 +45672,7 @@
         "db87a5ef0fba8cda5c0ed12d",
         "b47eeed15a71aa06438ecdf2",
         "911250fc3c4fce646670c959",
+        "52750e1c5c6720e6403bda95",
         "a43a8a5234f2bbe175c9ee75",
         "880b1c362c23b97143293ed8",
         "5bcd1fe7c3e5a8afb2af5dac",
@@ -45481,6 +45737,7 @@
         "8e7a46f051e75b456c6431e4",
         "e12e7f8b6f14ca6c4f1334bf",
         "aff91f0770bec17bf7568e43",
+        "a220f82ee81f43cd1201a886",
         "ed4c75ab463b2745d924fd87",
         "a99921f40a08bb409c8b3ba1",
         "21889cc9cd9866ed79f60b6a",
@@ -46375,13 +46632,13 @@
       ]
     }
   },
-  "report_updated_at": "2026-10-30T07:36:34.423534+09:00",
+  "report_updated_at": "2026-10-30T09:43:34.055303+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-10-29T22:36:34.091232+00:00",
+    "attempted_at": "2026-10-30T00:43:33.800214+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 1,
+    "new_reviews": 0,
     "updated_periods": [
       "overview",
       "weekly",
@@ -46403,6 +46660,10 @@
       {
         "article_id": "930b373afcc4634861171591",
         "stage": "original_fetch"
+      },
+      {
+        "article_id": "2d6f4a1f232226b50c5977e2",
+        "stage": "original_fetch"
       }
     ],
     "local_codex": {
@@ -46417,7 +46678,7 @@
       "errors": [],
       "last_success_at": "2026-10-29T22:34:23.436819+00:00"
     },
-    "last_success_at": "2026-10-29T22:36:34.091232+00:00"
+    "last_success_at": "2026-10-30T00:43:33.800214+00:00"
   },
   "topic_definitions": [
     {
@@ -46929,8 +47190,8 @@
     ]
   },
   "picks": [
+    "0db176e9714008cd2c8514c1",
     "538b24d0e6defaaf07578366",
-    "65d2aa02d9f47c36717696bc",
     "96effa758ceab8ba185b3877",
     "badda310cca07906cc76c487",
     "733fe957306683835f4abcd2",
