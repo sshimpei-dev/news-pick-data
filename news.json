@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-01T21:01:17.455185Z",
-  "last_attempt_at": "2026-11-01T21:01:17.455185Z",
+  "updated_at": "2026-11-02T00:29:03.005899Z",
+  "last_attempt_at": "2026-11-02T00:29:03.005899Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 9,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-01T21:01:17.455185Z",
+      "checked_at": "2026-11-02T00:29:03.005899Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-02T00:29:03.005899Z",
+      "new_count": 18,
+      "status": "partial"
+    },
     {
       "at": "2026-11-01T21:01:17.455185Z",
       "new_count": 5,
@@ -678,6 +683,76 @@
   ],
   "articles": [
     {
+      "id": "c2663ac7d1da529de5a3f0dd",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "毎週数十万人が使うターミナル型AIコーディングエージェント「Pi」が1.0に 何ができる？ - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41aTUtTzNBak15clBET1Ffa2poSWtlTjE5Ynk4MFFGbVNhSHZRRXg2QUZlaFZfX0NoTnhFV3pyUC1rODFLd0Q2YU9kSzY5ckxBOXdnREtNV2xkM0FZZmtzcXBaY042TmtLUDNtNTB1VnhRUQ?oc=5",
+      "publisher": "ITmedia",
+      "summary": "毎週数十万人が使うターミナル型AIコーディングエージェント「Pi」が1.0に 何ができる？ ITmedia",
+      "published_at": "2026-11-01T22:45:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "cdc0451c30feecf8521850da",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "robots.txtで「クロールはOK、でもAIの学習には使わないで」を明示可能に OpenAIやGoogleら - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tU3lXTElQN21jckd3Mm1yYTZScVZ5Y0hBakdEUVprb3h5WHhqbkNTcXVtaFFUcWVESGhjZHpXeWNXT2tvRnFObmVxZHJVNkI4QUE?oc=5",
+      "publisher": "CNET Japan",
+      "summary": "robots.txtで「クロールはOK、でもAIの学習には使わないで」を明示可能に OpenAIやGoogleら CNET Japan",
+      "published_at": "2026-11-01T22:40:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "e26de4615efa0bcc2db58e0b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "丸文、エッジAIなど3分野を展示へ…EdgeTech+ 2026 - レスポンス（Response.jp）",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GOXBuRnI2WEFkbHk0MkNEa1BxUWwwUHNhZlI3QnpjX3R1Y18zMTBkUUpyRHNDZUxEVjk4V2Jmb0hIcnpPekxWYnljc3NRdEZQclFIdUtuZHVpSXNEYkYw?oc=5",
+      "publisher": "レスポンス（Response.jp）",
+      "summary": "丸文、エッジAIなど3分野を展示へ…EdgeTech+ 2026 レスポンス（Response.jp）",
+      "published_at": "2026-11-01T22:30:03Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "afa84a463679fd755ed88a87",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIカメラ5台以上の導入が、初期費用0円。年内在庫限りの特別キャンペーンを開始 - Excite エキサイト",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xOEp6MVpaZlplU1BrR092RzlTeVY0NlNiX0VPVnJzVFRqY01uV0l2UzJpc3dqa3AxUWN3WENMUTZON1p6SE1zZjhIQjR6UndDRU9jcjUxZ3lvcW01V2NXU3RsQXRYVnpOOGZjWkhUTndMS00?oc=5",
+      "publisher": "Excite エキサイト",
+      "summary": "AIカメラ5台以上の導入が、初期費用0円。年内在庫限りの特別キャンペーンを開始 Excite エキサイト",
+      "published_at": "2026-11-01T22:10:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "051d933e072d207402f6fb7b",
       "category": "tech",
       "source_id": "tech",
@@ -693,6 +768,24 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
+      ]
+    },
+    {
+      "id": "e2b97f9be7685b8648e7ba99",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【詳報】人と学ぶAI 動作を学習するロボット - 47NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wMjgzTURVNGpwVDktUXNUUlF4NzB0cElKRkllUEVRRzUyUGs2bXBhT1lPNkVJQllzZmR4d25fOVhmQUZhN3FFYVR4OA?oc=5",
+      "publisher": "47NEWS",
+      "summary": "【詳報】人と学ぶAI 動作を学習するロボット 47NEWS",
+      "published_at": "2026-11-01T08:32:42Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -714,6 +807,24 @@
       ]
     },
     {
+      "id": "2a01607d22c09011e4b46c0e",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI学習だけ拒否、クロールは止めない――OpenAI・Googleなど4社がrobots.txtの共通ルールを支持 - shiritomo",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE52NUVDS25Tenc4THVldXdPT195ajJiMjYxc3JMbW14c0FicGItWjNGUWplUWc0VkNhQ2RXa3FYbmtYUQ?oc=5",
+      "publisher": "shiritomo",
+      "summary": "AI学習だけ拒否、クロールは止めない――OpenAI・Googleなど4社がrobots.txtの共通ルールを支持 shiritomo",
+      "published_at": "2026-11-01T03:33:02Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "eb56b9d034efb28199077fe6",
       "category": "parenting",
       "source_id": "parenting",
@@ -732,6 +843,24 @@
       ]
     },
     {
+      "id": "1cca0dbdb76e95e429ed77b7",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "＜教育関係者対象＞AI時代の学びを支える大人の役割「探究ナビゲーター」体験ワークショップを11/7に開催〜教育AI活用協会 - 教育家庭新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUdDdwUnN6TWVFUS1Rd3NyME5za1dXMHlGNG05LXFEX19DZnMtOU5ZOE9oQWIza0J5TmV5UE1seUJ3MG1uTTFMOFRMQVlpLTR1OUhR?oc=5",
+      "publisher": "教育家庭新聞社",
+      "summary": "＜教育関係者対象＞AI時代の学びを支える大人の役割「探究ナビゲーター」体験ワークショップを11/7に開催〜教育AI活用協会 教育家庭新聞社",
+      "published_at": "2026-11-01T01:05:23Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "db83070f11d30160c9212477",
       "category": "parenting",
       "source_id": "parenting",
@@ -741,6 +870,24 @@
       "summary": "AI学習の可否をrobots.txtで指定 Google、MS、OpenAIらが共通仕様を27年導入 Impress Watch",
       "published_at": "2026-11-01T00:00:00Z",
       "collected_at": "2026-11-01T21:00:06.943818Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "b0684afff4a3554e906d77e8",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "「無料のAI家庭教師」を前に生徒の96％が直面した壁。2030年代の教育現場で「教える先生」より重宝される人間の役割（SPA!） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BOWxTX29TNUlJMDdXSXEyeUhGUm8tUm9qVVhpa3pIeFRjbDRQSEtYZUZtSlBiODA1OEFvNTZWS3kxeExtUXhPTXJiaV9JNDY0TVVqdGNVdDZYbHF6cWt6aFJEVHExYkFSclIxWUQ2S0lQT2lVa0dUcUd3TDZNWHM?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "「無料のAI家庭教師」を前に生徒の96％が直面した壁。2030年代の教育現場で「教える先生」より重宝される人間の役割（SPA!） Yahoo!ニュース",
+      "published_at": "2026-10-31T23:54:03Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -786,6 +933,24 @@
       ]
     },
     {
+      "id": "00450615b1909d736d3430dc",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "教育の未来｜生成AI・少子化・多様化する社会の中で、私たちは何を教えるべきなのか｜佐々木康仁 - mbp-japan.com",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sQlpSM2ZtSi1SdGlPbmZ2WHZCTF9hSUtZVW5BNDFqNnBZYlllVWNjSGNOT3R5dGhHaFpZY3hRRU9RU3c4RGhqcWRWaEhWX1Jac1dTUEZ5N0VDMzNwZmJLS3pucG00TEo5ZWUwSlpTRQ?oc=5",
+      "publisher": "mbp-japan.com",
+      "summary": "教育の未来｜生成AI・少子化・多様化する社会の中で、私たちは何を教えるべきなのか｜佐々木康仁 mbp-japan.com",
+      "published_at": "2026-10-31T23:09:52Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "82e551bd8fe8f55e185b8c3a",
       "category": "ai",
       "source_id": "ai",
@@ -800,6 +965,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "d338aa867aa788d3a95d17fd",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "高等教育の未来、8つの予測 - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUEp5YWpybV9kSzVIamJudGpHWWpybWVaVXM3Rkt0WlRCcXZxaWVCWUZuZEdCYUVfaWozNVJJQmltNWdHRWNVZGRtbDNLYUFRYWlYRTJLcS0yZGlkUktyelFMandXZzZFbHZfaEloenNkZVBRSjRXRnI1SmI0TE1mZ09Sanh5eTRz?oc=5",
+      "publisher": "WIRED.jp",
+      "summary": "高等教育の未来、8つの予測 WIRED.jp",
+      "published_at": "2026-10-31T22:00:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "education"
+      ]
     },
     {
       "id": "9c147d215e21f7a29e872520",
@@ -817,6 +1000,58 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "923f972c478d34bbd1762f05",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "育成就労の日本語教育、認定校は3校のみ 来春開始も教員確保進まず [外国人] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QZ0JOaGI5RVBaNllQYlVUTnY0RFlWVnFDdzJTbmV5YUktQjZrQnNmM1FzQmhxdXAwSUQ0LTBZZUJmSEhPU0Y2dGNTbjRNNzJGMzZVb3JZZ0lqdVZ2YlAwRmE1NVRuZ2s?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "育成就労の日本語教育、認定校は3校のみ 来春開始も教員確保進まず [外国人] 朝日新聞",
+      "published_at": "2026-10-31T21:00:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "8851b09c23efea2a88531b73",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "セカンドキャリア教員、日本は0.9% OECD局長「存在高めて」 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GbHhyZ3RRS1ZNdUQtUF9sZUpQLS1ueXV1VTBxNEpzMDRZRmFTSDVBcWw3SGRlTllkOWp2c3lTRnFva1h5OC1iNXk4U1FCUmc1UnhGYllzZGhyUmczN1dhWnVSQnVjYm8?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "セカンドキャリア教員、日本は0.9% OECD局長「存在高めて」 朝日新聞",
+      "published_at": "2026-10-31T21:00:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "b885f584577b19b518d6643a",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【人工知能学会前会長・栗原聡インタビュー #1】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは - 新潮QUE",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oeXhfMEQyWV9aZVJQYzk5NFBzRWcxRUhrOHV6UTIzS2o1WW5iVmkzX3pKNFV5U0VGUkY1a0d2cTBwbkhZT1BwSzVvR05OY2g2?oc=5",
+      "publisher": "新潮QUE",
+      "summary": "【人工知能学会前会長・栗原聡インタビュー #1】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは 新潮QUE",
+      "published_at": "2026-10-31T20:21:54Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -906,6 +1141,24 @@
       "topic_id": "parent-ict",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "16cff891db8c26c8a5239734",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売 - テクノエッジ TechnoEdge",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZbWNhOXluMjJCSjFXdGNXUXRtdlJ5T3pSd3l5MHUyYVpJekNvcU9aZm42NW5QMmtHUzRpOFp5Vnh1bHBvT1QzbGtacW9MeFdQTzdCREt0ZWpNdjlZT3JGelRsSEJTanNtR3lneEMtdWJjZw?oc=5",
+      "publisher": "テクノエッジ TechnoEdge",
+      "summary": "【AOSU】AIが「監視」から「行動理解」へ。 固定カメラと追尾カメラを1台に搭載した2in1ソーラー防犯カメラ「AOSU C9P21」を発売 テクノエッジ TechnoEdge",
+      "published_at": "2026-10-31T07:34:01Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "39bb8ae8715fa712a91656f0",
@@ -1047,6 +1300,22 @@
       "theme_ids": []
     },
     {
+      "id": "af3d305cb1376cd06eb89e58",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県] - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYbjFRenp3MmMtdUZ0U1drdkpyQ19OV1hVcm02VlJRVTlVSS1sanVEYnZhSVBpVVJDVlVRTUFnV0VDemVmUExLVmk3OGotVlVkUXAyU3FOelJSS3NJeGpheU5RMldwNklyQ2Q2Y1h3?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "小学生の絵に「AIくさい」 中傷相次ぎしょうゆコンクール公開中止 [福島県] 朝日新聞",
+      "published_at": "2026-10-30T22:00:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "0111694ad799f3411646ad90",
       "category": "ai",
       "source_id": "ai",
@@ -1112,6 +1381,22 @@
       "origin_kind": "official",
       "topic_id": "tech-platform",
       "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "84cbc03899e84b9e17183059",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "衆議院の議員定数31減で合意 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ueVJrSXI3M3JtSzEySFNDNVg1bjctN1NhbjA4SG1Sd1hIZ3poSGJxSzJGZGpVR3FTRVpqd3hBWlRFSU1EU3RKaVNmWG9hOHpLaC00eGNNZlZxRXJvdnZlUWRRemEtak9G?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "衆議院の議員定数31減で合意 朝日新聞",
+      "published_at": "2026-10-30T15:00:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
       "theme_ids": []
     },
     {
@@ -1248,6 +1533,24 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "1f2a41e3e0f4e60c6f73eb76",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "KDDI、接客から教育まで一貫支援するAIプラットフォーム「KDDI Avatar Canvas」提供開始。労働力不足などの課題解決に対応 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yY3lNSXZhbHdteEx1b1NCZmlYcG1BS2VWYXZMYkR3UkQyS2JPSk04cDZsZkdJZjNXa3RSQU53UXlBbzctRUN2WXZPOFY3SFJObEpkNU5JZ2tvYTBlRkZ2TDVnMA?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "KDDI、接客から教育まで一貫支援するAIプラットフォーム「KDDI Avatar Canvas」提供開始。労働力不足などの課題解決に対応 AIsmiley",
+      "published_at": "2026-10-30T08:00:30Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-care",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -1532,6 +1835,22 @@
       "theme_ids": [
         "models"
       ]
+    },
+    {
+      "id": "73edcb5fe8287e85f7f7f904",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "内で直接ファイルを作成⁠ - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VY20xSUt2bWVpa1RBcDVmY1JkX0tUV0ltdURIUHJ6RkJaQTRncmctOFNoYUpYdjY5REhENTh6V28zS3I4SDNrNnNVTVhCRXpRMkpCX3BoT3dHbXFfV0FJdnlKTjE5dw?oc=5",
+      "publisher": "gihyo.jp",
+      "summary": "内で直接ファイルを作成⁠ gihyo.jp",
+      "published_at": "2026-10-30T02:07:00Z",
+      "collected_at": "2026-11-02T00:29:03.005899Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "e8a925cf89d5e332b23f363d",
@@ -2058,6 +2377,24 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "e3403d2aa125c98565d6251d",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "子育て応援アプリを「ひら☆はぐ」にリニューアル！ - 枚方市",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDTHQwSVlsTVJEZmFXU3NNMHR4Mm1rX1pSVHdGSlFhSUdNRmgwV2xmdVVCRDFKajg1bFE4eFRWX1hMR2NpUFdzLXBMUUM2OXFjTXJrb29Hc21TMDJZN3Nz?oc=5",
+      "publisher": "枚方市",
+      "summary": "子育て応援アプリを「ひら☆はぐ」にリニューアル！ 枚方市",
+      "published_at": "2026-10-29T07:00:00Z",
+      "collected_at": "2026-10-21T21:00:05.997594Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "parenting"
       ]
     },
     {
@@ -7175,10 +7512,10 @@
       "id": "553cacc479f0e9c2edccf619",
       "category": "tech",
       "source_id": "tech",
-      "title": "VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発 - NEC",
+      "title": "NEC、VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発 - NEC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11Z04wTWN4T0FiOVBPbk1YV1I0SmNYczViNmxfbVpwOUpfbEk5aUVzV3d3eXVEZWh1U2ZqRXZTb1gxN2V2eGozWGVBQ19qSHlmV1BKNjktWjV1NW1XY3c?oc=5",
       "publisher": "NEC",
-      "summary": "VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発 NEC",
+      "summary": "NEC、VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発 NEC",
       "published_at": "2026-10-23T07:00:00Z",
       "collected_at": "2026-10-23T23:48:03.534105Z",
       "provider": null,
@@ -19935,24 +20272,6 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
-      ]
-    },
-    {
-      "id": "e3403d2aa125c98565d6251d",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "子育て応援アプリを「ひら☆はぐ」にリニューアル！ - 枚方市",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDTHQwSVlsTVJEZmFXU3NNMHR4Mm1rX1pSVHdGSlFhSUdNRmgwV2xmdVVCRDFKajg1bFE4eFRWX1hMR2NpUFdzLXBMUUM2OXFjTXJrb29Hc21TMDJZN3Nz?oc=5",
-      "publisher": "枚方市",
-      "summary": "子育て応援アプリを「ひら☆はぐ」にリニューアル！ 枚方市",
-      "published_at": "2026-10-06T07:00:00Z",
-      "collected_at": "2026-10-21T21:00:05.997594Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "parenting"
       ]
     },
     {
@@ -35692,16 +36011,19 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-02T06:01:24.182716+09:00",
+      "generated_at": "2026-11-02T09:29:09.217128+09:00",
       "is_complete": false,
-      "article_count": 0,
-      "category_counts": {},
+      "article_count": 4,
+      "category_counts": {
+        "tech": 3,
+        "parenting": 1
+      },
       "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+        "attempted_at": "2026-11-02T00:29:09.007895+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -35733,27 +36055,71 @@
           ],
           "last_success_at": "2026-11-01T21:00:20.007284+00:00"
         },
-        "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+        "last_success_at": "2026-11-02T00:29:09.007895+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
-      "topics": [],
-      "total_topics": 0,
+      "topics": [
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 3,
+          "publisher_count": 3,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87"
+          ],
+          "article_ids": [
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87"
+          ]
+        },
+        {
+          "id": "parent-ict",
+          "category": "parenting",
+          "label": "育児アプリ・保育ICT",
+          "words": [],
+          "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
+          "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "cdc0451c30feecf8521850da"
+          ],
+          "article_ids": [
+            "cdc0451c30feecf8521850da"
+          ]
+        }
+      ],
+      "total_topics": 2,
       "insights": [],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
-      "article_ids": []
+      "article_ids": [
+        "c2663ac7d1da529de5a3f0dd",
+        "cdc0451c30feecf8521850da",
+        "e26de4615efa0bcc2db58e0b",
+        "afa84a463679fd755ed88a87"
+      ]
     },
     {
       "id": "9ae16987a9920657ec0c6c93",
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-02T06:01:24.182716+09:00",
+      "generated_at": "2026-11-02T09:29:09.217128+09:00",
       "is_complete": false,
-      "article_count": 8,
+      "article_count": 18,
       "category_counts": {
-        "tech": 2,
-        "parenting": 4,
+        "tech": 5,
+        "parenting": 11,
         "ai": 2
       },
       "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
@@ -35761,7 +36127,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+        "attempted_at": "2026-11-02T00:29:09.007895+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -35793,7 +36159,7 @@
           ],
           "last_success_at": "2026-11-01T21:00:20.007284+00:00"
         },
-        "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+        "last_success_at": "2026-11-02T00:29:09.007895+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
@@ -35824,14 +36190,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 5,
+          "publisher_count": 5,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "051d933e072d207402f6fb7b",
-            "40a66e89a51a976a9bd43880"
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87"
           ],
           "article_ids": [
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87",
             "051d933e072d207402f6fb7b",
             "40a66e89a51a976a9bd43880"
           ]
@@ -35843,19 +36213,26 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 4,
-          "publisher_count": 4,
+          "count": 11,
+          "publisher_count": 10,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "eb56b9d034efb28199077fe6",
-            "db83070f11d30160c9212477",
-            "2d1c9cee60d06e5aae473b33"
+            "cdc0451c30feecf8521850da",
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e"
           ],
           "article_ids": [
+            "cdc0451c30feecf8521850da",
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e",
             "eb56b9d034efb28199077fe6",
+            "1cca0dbdb76e95e429ed77b7",
             "db83070f11d30160c9212477",
+            "b0684afff4a3554e906d77e8",
             "2d1c9cee60d06e5aae473b33",
-            "15453b4e65fe96e5eebfe317"
+            "15453b4e65fe96e5eebfe317",
+            "00450615b1909d736d3430dc",
+            "b885f584577b19b518d6643a"
           ]
         }
       ],
@@ -35863,14 +36240,24 @@
       "insights": [],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "c2663ac7d1da529de5a3f0dd",
+        "cdc0451c30feecf8521850da",
+        "e26de4615efa0bcc2db58e0b",
+        "afa84a463679fd755ed88a87",
         "051d933e072d207402f6fb7b",
+        "e2b97f9be7685b8648e7ba99",
         "40a66e89a51a976a9bd43880",
+        "2a01607d22c09011e4b46c0e",
         "eb56b9d034efb28199077fe6",
+        "1cca0dbdb76e95e429ed77b7",
         "db83070f11d30160c9212477",
+        "b0684afff4a3554e906d77e8",
         "2d1c9cee60d06e5aae473b33",
         "15453b4e65fe96e5eebfe317",
+        "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
-        "9c147d215e21f7a29e872520"
+        "9c147d215e21f7a29e872520",
+        "b885f584577b19b518d6643a"
       ]
     },
     {
@@ -35878,20 +36265,20 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-11-02T06:01:24.182716+09:00",
+      "generated_at": "2026-11-02T09:29:09.217128+09:00",
       "is_complete": true,
-      "article_count": 274,
+      "article_count": 284,
       "category_counts": {
-        "tech": 69,
-        "parenting": 68,
-        "ai": 137
+        "tech": 70,
+        "parenting": 76,
+        "ai": 138
       },
       "overview": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に伝える共通信号を尊重すると発表した。今後数カ月以内の実装予定で、既存のクローラー別制御も継続する。任意参加の仕組みであり、全事業者への適用は保証されない。 Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語によるアンテナ操作、較正、データ補正、AI解析を可能にしたと発表した。装置近くで毎秒2.4テラビットのデータを処理し、パルサーをリアルタイム検出した実績を示した。公開モデルの評価は継続中で、地球外文明の信号発見を示す成果ではない。 Googleが公開した英国の研究では、12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施した。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストの改善は見られなかった。イタリア31校の年間研究は教師との授業共同設計を扱い、参加増加などの結果には自己報告が含まれる。いずれも研究結果の紹介で、新たな一般提供の発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+        "attempted_at": "2026-11-02T00:29:09.007895+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -35923,7 +36310,7 @@
           ],
           "last_success_at": "2026-11-01T21:00:20.007284+00:00"
         },
-        "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+        "last_success_at": "2026-11-02T00:29:09.007895+00:00"
       },
       "genre_briefs": [
         {
@@ -36108,7 +36495,7 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 126,
+          "count": 127,
           "publisher_count": 39,
           "summary": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 OpenAIは、18歳未満への武器・保安システムの悪用可能な実用情報の制限と、全年齢への過去の大量襲撃の詳細説明の制限を発表した。暴力への固執を示す会話の自動終了や反復時のアカウント一時停止も整備し、保護措置は今後数週間で順次導入する。安全性報告は2027年初めに初刊、その後半年ごとに公表予定。 OpenAIは10月30日、ニューヨーク・タイムズとの訴訟に関連し、AI学習へのフェアユース適用を支持する団体や専門家の提出書面を紹介した。著作者団体は非侵害の生成物との競争による市場希薄化を著作権上の損害と扱わないよう求め、図書館・障害者支援団体などは研究やアクセシビリティへの影響を論じている。",
           "evidence_ids": [
@@ -36137,6 +36524,7 @@
             "20ea436289f3569a37198516",
             "24eeb862acc5dddf90f2a8e5",
             "5e00557b33286825cf664206",
+            "73edcb5fe8287e85f7f7f904",
             "b27bbe7039fe3fc00260d38f",
             "8f5de03ae01749c5f36329a6",
             "8c2e0f7523fe8c0f032a5640",
@@ -36252,8 +36640,8 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 68,
-          "publisher_count": 44,
+          "count": 69,
+          "publisher_count": 45,
           "summary": "Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語の指示によるアンテナ操作、較正、データ補正、AI解析を可能にした。Holoscanなどで毎秒2.4テラビットのデータを処理し、装置近くで推論を実行する。かに星雲のパルサーをAIでリアルタイム検出した実績があり、Nemotronを含む公開モデルの評価も進めている。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。",
           "evidence_ids": [
             "051d933e072d207402f6fb7b",
@@ -36264,6 +36652,7 @@
             "051d933e072d207402f6fb7b",
             "40a66e89a51a976a9bd43880",
             "5fed3a5fe2493b3ceb51d3b9",
+            "16cff891db8c26c8a5239734",
             "75bc3041d2af7f3207b61af9",
             "7313fedba4ba3466db3b041e",
             "38e899fd103f45b2839954e4",
@@ -36338,19 +36727,25 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 64,
-          "publisher_count": 42,
+          "count": 71,
+          "publisher_count": 48,
           "summary": "Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
-            "eb56b9d034efb28199077fe6",
-            "db83070f11d30160c9212477",
-            "2d1c9cee60d06e5aae473b33"
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e",
+            "eb56b9d034efb28199077fe6"
           ],
           "article_ids": [
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e",
             "eb56b9d034efb28199077fe6",
+            "1cca0dbdb76e95e429ed77b7",
             "db83070f11d30160c9212477",
+            "b0684afff4a3554e906d77e8",
             "2d1c9cee60d06e5aae473b33",
             "15453b4e65fe96e5eebfe317",
+            "00450615b1909d736d3430dc",
+            "b885f584577b19b518d6643a",
             "7d0ddb532cfe0305592c5fea",
             "098bc215e15eef4fd926a9b4",
             "d0b751d19dcd072477e1bb4c",
@@ -36369,6 +36764,7 @@
             "733fe957306683835f4abcd2",
             "f17e98000a2732edaec19bef",
             "26783b41eb7be3fd7cb4b847",
+            "e3403d2aa125c98565d6251d",
             "891fc454a5d16f2362daf90d",
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
@@ -36462,15 +36858,16 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 4,
-          "publisher_count": 3,
+          "count": 5,
+          "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "1f2a41e3e0f4e60c6f73eb76",
             "0f417873c57392f07e965dad",
-            "5fa830605871f847a715fce1",
-            "6ac08de14f8dc2986a7f57e1"
+            "5fa830605871f847a715fce1"
           ],
           "article_ids": [
+            "1f2a41e3e0f4e60c6f73eb76",
             "0f417873c57392f07e965dad",
             "5fa830605871f847a715fce1",
             "6ac08de14f8dc2986a7f57e1",
@@ -36526,17 +36923,24 @@
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
         "051d933e072d207402f6fb7b",
+        "e2b97f9be7685b8648e7ba99",
         "40a66e89a51a976a9bd43880",
+        "2a01607d22c09011e4b46c0e",
         "eb56b9d034efb28199077fe6",
+        "1cca0dbdb76e95e429ed77b7",
         "db83070f11d30160c9212477",
+        "b0684afff4a3554e906d77e8",
         "2d1c9cee60d06e5aae473b33",
         "15453b4e65fe96e5eebfe317",
+        "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
         "9c147d215e21f7a29e872520",
+        "b885f584577b19b518d6643a",
         "5fed3a5fe2493b3ceb51d3b9",
         "7d0ddb532cfe0305592c5fea",
         "098bc215e15eef4fd926a9b4",
         "d0b751d19dcd072477e1bb4c",
+        "16cff891db8c26c8a5239734",
         "39bb8ae8715fa712a91656f0",
         "00a0a77ae9bf81a4d7ebe658",
         "a4cb2c6e689a62c59d6c1fdc",
@@ -36555,6 +36959,7 @@
         "7a6cfeaa64af7b1e49a687b6",
         "71d02c549d701413ea1a192e",
         "b769f19d2c0c03f447085ad3",
+        "1f2a41e3e0f4e60c6f73eb76",
         "4de42b06c20e1fe1f45e47f3",
         "c1a012835a28926d19da340d",
         "e577f9a69b01106e04a227a7",
@@ -36571,6 +36976,7 @@
         "4116c3df045905c493594762",
         "e5e14d50070fd83895ce7676",
         "5e00557b33286825cf664206",
+        "73edcb5fe8287e85f7f7f904",
         "e8a925cf89d5e332b23f363d",
         "b27bbe7039fe3fc00260d38f",
         "40c6a18e02da51c3868b5bd0",
@@ -36598,6 +37004,7 @@
         "26783b41eb7be3fd7cb4b847",
         "2e1fed09dda641448c19a1cf",
         "c9942e8b04ed2319c0726588",
+        "e3403d2aa125c98565d6251d",
         "4ff6cc14fafc2b17b7ca40e2",
         "891fc454a5d16f2362daf90d",
         "b3cb1a30be629962f12c0857",
@@ -39296,20 +39703,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-02T06:01:24.182716+09:00",
+      "generated_at": "2026-11-02T09:29:09.217128+09:00",
       "is_complete": true,
-      "article_count": 1080,
+      "article_count": 1083,
       "category_counts": {
-        "tech": 281,
-        "parenting": 276,
-        "ai": 523
+        "tech": 282,
+        "parenting": 277,
+        "ai": 524
       },
       "overview": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 SETI観測では、自然言語によるアンテナ操作や較正、装置近くでのAI解析を組み合わせ、パルサーをリアルタイム検出した。Omniverseの開発事例では、AIエージェントで物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転向けの試験環境を構築した。後者は個別の実験・プロトタイプで、実機性能の実証ではない。 英国の12〜15歳を対象にしたGeminiの10週間の比較試験では、全AI応答を専門家が事前確認する条件で課題・小テスト成績は人間の指導と同程度だったが、標準化テストの改善は見られなかった。Khan Academyは、解答提出前は質問やヒント、誤答後は説明と練習を提供する設計を紹介したが、対象学年や定量的な効果は示していない。いずれも幼児への効果を示す資料ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+        "attempted_at": "2026-11-02T00:29:09.007895+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -39341,7 +39748,7 @@
           ],
           "last_success_at": "2026-11-01T21:00:20.007284+00:00"
         },
-        "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+        "last_success_at": "2026-11-02T00:29:09.007895+00:00"
       },
       "genre_briefs": [
         {
@@ -39546,7 +39953,7 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 442,
+          "count": 443,
           "publisher_count": 64,
           "summary": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 OpenAIは、18歳未満への武器・保安システムの悪用可能な実用情報の制限と、全年齢への過去の大量襲撃の詳細説明の制限を発表した。暴力への固執を示す会話の自動終了や反復時のアカウント一時停止も整備し、保護措置は今後数週間で順次導入する。安全性報告は2027年初めに初刊、その後半年ごとに公表予定。 OpenAIは10月30日、ニューヨーク・タイムズとの訴訟に関連し、AI学習へのフェアユース適用を支持する団体や専門家の提出書面を紹介した。著作者団体は非侵害の生成物との競争による市場希薄化を著作権上の損害と扱わないよう求め、図書館・障害者支援団体などは研究やアクセシビリティへの影響を論じている。",
           "evidence_ids": [
@@ -39573,6 +39980,7 @@
             "20ea436289f3569a37198516",
             "24eeb862acc5dddf90f2a8e5",
             "5e00557b33286825cf664206",
+            "73edcb5fe8287e85f7f7f904",
             "b27bbe7039fe3fc00260d38f",
             "8f5de03ae01749c5f36329a6",
             "8c2e0f7523fe8c0f032a5640",
@@ -40006,16 +40414,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 271,
-          "publisher_count": 114,
+          "count": 272,
+          "publisher_count": 115,
           "summary": "Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語の指示によるアンテナ操作、較正、データ補正、AI解析を可能にした。Holoscanなどで毎秒2.4テラビットのデータを処理し、装置近くで推論を実行する。かに星雲のパルサーをAIでリアルタイム検出した実績があり、Nemotronを含む公開モデルの評価も進めている。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。",
           "evidence_ids": [
             "5fed3a5fe2493b3ceb51d3b9",
-            "75bc3041d2af7f3207b61af9",
-            "7313fedba4ba3466db3b041e"
+            "16cff891db8c26c8a5239734",
+            "75bc3041d2af7f3207b61af9"
           ],
           "article_ids": [
             "5fed3a5fe2493b3ceb51d3b9",
+            "16cff891db8c26c8a5239734",
             "75bc3041d2af7f3207b61af9",
             "7313fedba4ba3466db3b041e",
             "38e899fd103f45b2839954e4",
@@ -40322,6 +40731,7 @@
             "733fe957306683835f4abcd2",
             "f17e98000a2732edaec19bef",
             "26783b41eb7be3fd7cb4b847",
+            "e3403d2aa125c98565d6251d",
             "891fc454a5d16f2362daf90d",
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
@@ -40510,7 +40920,6 @@
             "e7798d506ca6ea17e0ca320f",
             "0cc884ac8dd138cc0408af2a",
             "a0fcf89330d95e7155f7f16b",
-            "e3403d2aa125c98565d6251d",
             "e833aed5d4d282b98c6e69c7",
             "e700d08ac53b99cb9936a38e",
             "984926d97b69cc89f67dad35",
@@ -40660,15 +41069,16 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 28,
-          "publisher_count": 24,
+          "count": 29,
+          "publisher_count": 25,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "1f2a41e3e0f4e60c6f73eb76",
             "0f417873c57392f07e965dad",
-            "5fa830605871f847a715fce1",
-            "6ac08de14f8dc2986a7f57e1"
+            "5fa830605871f847a715fce1"
           ],
           "article_ids": [
+            "1f2a41e3e0f4e60c6f73eb76",
             "0f417873c57392f07e965dad",
             "5fa830605871f847a715fce1",
             "6ac08de14f8dc2986a7f57e1",
@@ -40751,6 +41161,7 @@
         "7d0ddb532cfe0305592c5fea",
         "098bc215e15eef4fd926a9b4",
         "d0b751d19dcd072477e1bb4c",
+        "16cff891db8c26c8a5239734",
         "39bb8ae8715fa712a91656f0",
         "00a0a77ae9bf81a4d7ebe658",
         "a4cb2c6e689a62c59d6c1fdc",
@@ -40769,6 +41180,7 @@
         "7a6cfeaa64af7b1e49a687b6",
         "71d02c549d701413ea1a192e",
         "b769f19d2c0c03f447085ad3",
+        "1f2a41e3e0f4e60c6f73eb76",
         "4de42b06c20e1fe1f45e47f3",
         "c1a012835a28926d19da340d",
         "e577f9a69b01106e04a227a7",
@@ -40785,6 +41197,7 @@
         "4116c3df045905c493594762",
         "e5e14d50070fd83895ce7676",
         "5e00557b33286825cf664206",
+        "73edcb5fe8287e85f7f7f904",
         "e8a925cf89d5e332b23f363d",
         "b27bbe7039fe3fc00260d38f",
         "40c6a18e02da51c3868b5bd0",
@@ -40812,6 +41225,7 @@
         "26783b41eb7be3fd7cb4b847",
         "2e1fed09dda641448c19a1cf",
         "c9942e8b04ed2319c0726588",
+        "e3403d2aa125c98565d6251d",
         "4ff6cc14fafc2b17b7ca40e2",
         "891fc454a5d16f2362daf90d",
         "b3cb1a30be629962f12c0857",
@@ -41677,7 +42091,6 @@
         "59482b469a6f76b767934461",
         "5888079b2e776d91a1d82b16",
         "ab9e51cd984e1b578c7ca0c2",
-        "e3403d2aa125c98565d6251d",
         "c8fbac2e8bf598193f2e16a1",
         "29049cc6afd3ed82db8d14bc",
         "b6f362ec683316b1d0758e4f",
@@ -44804,20 +45217,20 @@
       "kind": "overview",
       "period_start": "2026-10-27",
       "period_end": "2026-11-02",
-      "generated_at": "2026-11-02T06:01:24.182716+09:00",
+      "generated_at": "2026-11-02T09:29:09.217128+09:00",
       "is_complete": false,
-      "article_count": 223,
+      "article_count": 237,
       "category_counts": {
-        "tech": 58,
-        "parenting": 55,
-        "ai": 110
+        "tech": 62,
+        "parenting": 64,
+        "ai": 111
       },
       "overview": "OpenAIは、サイト運営者がrobots.txtの共通信号で複数の参加事業者にAI学習への利用希望を伝える仕組みを、今後数カ月以内に実装する予定と発表した。既存のクローラー別制御も継続する。任意の取り組みであり、発表時点で対応済みではない。 Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語によるアンテナ操作、較正、データ補正、AI解析を可能にしたと発表した。装置近くで推論を実行し、パルサーのリアルタイム検出実績を示した。公開モデルの評価は進行中で、地球外文明の信号を発見したという報告ではない。 Googleが公開した英国の研究では、12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施した。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。研究結果の公開であり、新たな一般提供や幼児への効果を示す発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+        "attempted_at": "2026-11-02T00:29:09.007895+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -44849,7 +45262,7 @@
           ],
           "last_success_at": "2026-11-01T21:00:20.007284+00:00"
         },
-        "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+        "last_success_at": "2026-11-02T00:29:09.007895+00:00"
       },
       "genre_briefs": [
         {
@@ -45034,7 +45447,7 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 100,
+          "count": 101,
           "publisher_count": 38,
           "summary": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 OpenAIは、18歳未満への武器・保安システムの悪用可能な実用情報の制限と、全年齢への過去の大量襲撃の詳細説明の制限を発表した。暴力への固執を示す会話の自動終了や反復時のアカウント一時停止も整備し、保護措置は今後数週間で順次導入する。安全性報告は2027年初めに初刊、その後半年ごとに公表予定。 OpenAIは10月30日、ニューヨーク・タイムズとの訴訟に関連し、AI学習へのフェアユース適用を支持する団体や専門家の提出書面を紹介した。著作者団体は非侵害の生成物との競争による市場希薄化を著作権上の損害と扱わないよう求め、図書館・障害者支援団体などは研究やアクセシビリティへの影響を論じている。",
           "evidence_ids": [
@@ -45063,6 +45476,7 @@
             "20ea436289f3569a37198516",
             "24eeb862acc5dddf90f2a8e5",
             "5e00557b33286825cf664206",
+            "73edcb5fe8287e85f7f7f904",
             "b27bbe7039fe3fc00260d38f",
             "8f5de03ae01749c5f36329a6",
             "8c2e0f7523fe8c0f032a5640",
@@ -45152,18 +45566,22 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 58,
-          "publisher_count": 38,
+          "count": 62,
+          "publisher_count": 41,
           "summary": "Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語の指示によるアンテナ操作、較正、データ補正、AI解析を可能にした。Holoscanなどで毎秒2.4テラビットのデータを処理し、装置近くで推論を実行する。かに星雲のパルサーをAIでリアルタイム検出した実績があり、Nemotronを含む公開モデルの評価も進めている。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。",
           "evidence_ids": [
-            "051d933e072d207402f6fb7b",
-            "40a66e89a51a976a9bd43880",
-            "5fed3a5fe2493b3ceb51d3b9"
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87"
           ],
           "article_ids": [
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87",
             "051d933e072d207402f6fb7b",
             "40a66e89a51a976a9bd43880",
             "5fed3a5fe2493b3ceb51d3b9",
+            "16cff891db8c26c8a5239734",
             "75bc3041d2af7f3207b61af9",
             "7313fedba4ba3466db3b041e",
             "38e899fd103f45b2839954e4",
@@ -45228,19 +45646,26 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 51,
-          "publisher_count": 35,
+          "count": 59,
+          "publisher_count": 41,
           "summary": "Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
-            "eb56b9d034efb28199077fe6",
-            "db83070f11d30160c9212477",
-            "2d1c9cee60d06e5aae473b33"
+            "cdc0451c30feecf8521850da",
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e"
           ],
           "article_ids": [
+            "cdc0451c30feecf8521850da",
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e",
             "eb56b9d034efb28199077fe6",
+            "1cca0dbdb76e95e429ed77b7",
             "db83070f11d30160c9212477",
+            "b0684afff4a3554e906d77e8",
             "2d1c9cee60d06e5aae473b33",
             "15453b4e65fe96e5eebfe317",
+            "00450615b1909d736d3430dc",
+            "b885f584577b19b518d6643a",
             "7d0ddb532cfe0305592c5fea",
             "098bc215e15eef4fd926a9b4",
             "d0b751d19dcd072477e1bb4c",
@@ -45259,6 +45684,7 @@
             "733fe957306683835f4abcd2",
             "f17e98000a2732edaec19bef",
             "26783b41eb7be3fd7cb4b847",
+            "e3403d2aa125c98565d6251d",
             "891fc454a5d16f2362daf90d",
             "e8e07030aff00eb8f87ad017",
             "f875133fe800c017f9023f27",
@@ -45339,15 +45765,16 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 4,
-          "publisher_count": 3,
+          "count": 5,
+          "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "1f2a41e3e0f4e60c6f73eb76",
             "0f417873c57392f07e965dad",
-            "5fa830605871f847a715fce1",
-            "6ac08de14f8dc2986a7f57e1"
+            "5fa830605871f847a715fce1"
           ],
           "article_ids": [
+            "1f2a41e3e0f4e60c6f73eb76",
             "0f417873c57392f07e965dad",
             "5fa830605871f847a715fce1",
             "6ac08de14f8dc2986a7f57e1",
@@ -45402,18 +45829,29 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "c2663ac7d1da529de5a3f0dd",
+        "cdc0451c30feecf8521850da",
+        "e26de4615efa0bcc2db58e0b",
+        "afa84a463679fd755ed88a87",
         "051d933e072d207402f6fb7b",
+        "e2b97f9be7685b8648e7ba99",
         "40a66e89a51a976a9bd43880",
+        "2a01607d22c09011e4b46c0e",
         "eb56b9d034efb28199077fe6",
+        "1cca0dbdb76e95e429ed77b7",
         "db83070f11d30160c9212477",
+        "b0684afff4a3554e906d77e8",
         "2d1c9cee60d06e5aae473b33",
         "15453b4e65fe96e5eebfe317",
+        "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
         "9c147d215e21f7a29e872520",
+        "b885f584577b19b518d6643a",
         "5fed3a5fe2493b3ceb51d3b9",
         "7d0ddb532cfe0305592c5fea",
         "098bc215e15eef4fd926a9b4",
         "d0b751d19dcd072477e1bb4c",
+        "16cff891db8c26c8a5239734",
         "39bb8ae8715fa712a91656f0",
         "00a0a77ae9bf81a4d7ebe658",
         "a4cb2c6e689a62c59d6c1fdc",
@@ -45432,6 +45870,7 @@
         "7a6cfeaa64af7b1e49a687b6",
         "71d02c549d701413ea1a192e",
         "b769f19d2c0c03f447085ad3",
+        "1f2a41e3e0f4e60c6f73eb76",
         "4de42b06c20e1fe1f45e47f3",
         "c1a012835a28926d19da340d",
         "e577f9a69b01106e04a227a7",
@@ -45448,6 +45887,7 @@
         "4116c3df045905c493594762",
         "e5e14d50070fd83895ce7676",
         "5e00557b33286825cf664206",
+        "73edcb5fe8287e85f7f7f904",
         "e8a925cf89d5e332b23f363d",
         "b27bbe7039fe3fc00260d38f",
         "40c6a18e02da51c3868b5bd0",
@@ -45475,6 +45915,7 @@
         "26783b41eb7be3fd7cb4b847",
         "2e1fed09dda641448c19a1cf",
         "c9942e8b04ed2319c0726588",
+        "e3403d2aa125c98565d6251d",
         "4ff6cc14fafc2b17b7ca40e2",
         "891fc454a5d16f2362daf90d",
         "b3cb1a30be629962f12c0857",
@@ -45632,16 +46073,19 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-02T06:01:24.182716+09:00",
+      "generated_at": "2026-11-02T09:29:09.217128+09:00",
       "is_complete": false,
-      "article_count": 0,
-      "category_counts": {},
+      "article_count": 4,
+      "category_counts": {
+        "tech": 3,
+        "parenting": 1
+      },
       "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+        "attempted_at": "2026-11-02T00:29:09.007895+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -45673,27 +46117,71 @@
           ],
           "last_success_at": "2026-11-01T21:00:20.007284+00:00"
         },
-        "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+        "last_success_at": "2026-11-02T00:29:09.007895+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
-      "topics": [],
-      "total_topics": 0,
+      "topics": [
+        {
+          "id": "tech-platform",
+          "category": "tech",
+          "label": "デジタル基盤・新しい技術",
+          "words": [],
+          "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
+          "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
+          "count": 3,
+          "publisher_count": 3,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87"
+          ],
+          "article_ids": [
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87"
+          ]
+        },
+        {
+          "id": "parent-ict",
+          "category": "parenting",
+          "label": "育児アプリ・保育ICT",
+          "words": [],
+          "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
+          "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
+          "count": 1,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "cdc0451c30feecf8521850da"
+          ],
+          "article_ids": [
+            "cdc0451c30feecf8521850da"
+          ]
+        }
+      ],
+      "total_topics": 2,
       "insights": [],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
-      "article_ids": []
+      "article_ids": [
+        "c2663ac7d1da529de5a3f0dd",
+        "cdc0451c30feecf8521850da",
+        "e26de4615efa0bcc2db58e0b",
+        "afa84a463679fd755ed88a87"
+      ]
     },
     "monthly": {
       "id": "9ae16987a9920657ec0c6c93",
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-02T06:01:24.182716+09:00",
+      "generated_at": "2026-11-02T09:29:09.217128+09:00",
       "is_complete": false,
-      "article_count": 8,
+      "article_count": 18,
       "category_counts": {
-        "tech": 2,
-        "parenting": 4,
+        "tech": 5,
+        "parenting": 11,
         "ai": 2
       },
       "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
@@ -45701,7 +46189,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+        "attempted_at": "2026-11-02T00:29:09.007895+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -45733,7 +46221,7 @@
           ],
           "last_success_at": "2026-11-01T21:00:20.007284+00:00"
         },
-        "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+        "last_success_at": "2026-11-02T00:29:09.007895+00:00"
       },
       "genre_briefs": [],
       "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
@@ -45764,14 +46252,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 5,
+          "publisher_count": 5,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "051d933e072d207402f6fb7b",
-            "40a66e89a51a976a9bd43880"
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87"
           ],
           "article_ids": [
+            "c2663ac7d1da529de5a3f0dd",
+            "e26de4615efa0bcc2db58e0b",
+            "afa84a463679fd755ed88a87",
             "051d933e072d207402f6fb7b",
             "40a66e89a51a976a9bd43880"
           ]
@@ -45783,19 +46275,26 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 4,
-          "publisher_count": 4,
+          "count": 11,
+          "publisher_count": 10,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "eb56b9d034efb28199077fe6",
-            "db83070f11d30160c9212477",
-            "2d1c9cee60d06e5aae473b33"
+            "cdc0451c30feecf8521850da",
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e"
           ],
           "article_ids": [
+            "cdc0451c30feecf8521850da",
+            "e2b97f9be7685b8648e7ba99",
+            "2a01607d22c09011e4b46c0e",
             "eb56b9d034efb28199077fe6",
+            "1cca0dbdb76e95e429ed77b7",
             "db83070f11d30160c9212477",
+            "b0684afff4a3554e906d77e8",
             "2d1c9cee60d06e5aae473b33",
-            "15453b4e65fe96e5eebfe317"
+            "15453b4e65fe96e5eebfe317",
+            "00450615b1909d736d3430dc",
+            "b885f584577b19b518d6643a"
           ]
         }
       ],
@@ -45803,21 +46302,31 @@
       "insights": [],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "c2663ac7d1da529de5a3f0dd",
+        "cdc0451c30feecf8521850da",
+        "e26de4615efa0bcc2db58e0b",
+        "afa84a463679fd755ed88a87",
         "051d933e072d207402f6fb7b",
+        "e2b97f9be7685b8648e7ba99",
         "40a66e89a51a976a9bd43880",
+        "2a01607d22c09011e4b46c0e",
         "eb56b9d034efb28199077fe6",
+        "1cca0dbdb76e95e429ed77b7",
         "db83070f11d30160c9212477",
+        "b0684afff4a3554e906d77e8",
         "2d1c9cee60d06e5aae473b33",
         "15453b4e65fe96e5eebfe317",
+        "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
-        "9c147d215e21f7a29e872520"
+        "9c147d215e21f7a29e872520",
+        "b885f584577b19b518d6643a"
       ]
     }
   },
-  "report_updated_at": "2026-11-02T06:01:24.182716+09:00",
+  "report_updated_at": "2026-11-02T09:29:09.217128+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-01T21:01:23.872821+00:00",
+    "attempted_at": "2026-11-02T00:29:09.007895+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -45849,7 +46358,7 @@
       ],
       "last_success_at": "2026-11-01T21:00:20.007284+00:00"
     },
-    "last_success_at": "2026-11-01T21:01:23.872821+00:00"
+    "last_success_at": "2026-11-02T00:29:09.007895+00:00"
   },
   "topic_definitions": [
     {
@@ -46369,9 +46878,9 @@
   "picks": [
     "82e551bd8fe8f55e185b8c3a",
     "9c147d215e21f7a29e872520",
-    "051d933e072d207402f6fb7b",
-    "40a66e89a51a976a9bd43880",
-    "eb56b9d034efb28199077fe6",
-    "db83070f11d30160c9212477"
+    "c2663ac7d1da529de5a3f0dd",
+    "e26de4615efa0bcc2db58e0b",
+    "cdc0451c30feecf8521850da",
+    "e2b97f9be7685b8648e7ba99"
   ]
 }
