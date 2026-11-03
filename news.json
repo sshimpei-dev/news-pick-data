@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-02T21:02:12.076000Z",
-  "last_attempt_at": "2026-11-02T21:02:12.076000Z",
+  "updated_at": "2026-11-03T02:51:16.337646Z",
+  "last_attempt_at": "2026-11-03T02:51:16.337646Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-02T21:02:12.076000Z",
+      "checked_at": "2026-11-03T02:51:16.337646Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-03T02:51:16.337646Z",
+      "new_count": 7,
+      "status": "partial"
+    },
     {
       "at": "2026-11-02T21:02:12.076000Z",
       "new_count": 25,
@@ -709,6 +714,41 @@
       "theme_ids": []
     },
     {
+      "id": "c6d7864399daaf60e2023309",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "publisher": "OpenAI 公式",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "published_at": "2026-11-02T15:30:00Z",
+      "collected_at": "2026-11-03T02:51:16.337646Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "e6e2928fa354457a5dd1c9e1",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "カメラ管理ソフトウェアの悪用が初期アクセスを可能に - SOC Prime",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOG1CU1RJakNoV2lhdkRZYjMxQ09xdjVhdEYxTi1sNUFUT0lzUGRzNTNtMzV6TTdIVkk0alJEUzFSenNMVFNsWkVxYm5FX1NhOEVidHlQd3dQV1VvRjRxN1B1Ukp4X2JmZ0RCbVExVmhmanl3c3VCbk03ZTZvNG1OcjhpQXh4QTRaRHBTMU1ldVRUdTdtSEVLTjRoOXR4SkhxdUhVaGVpbkJiSlNDR0w5Ql9jTTEzc0ta?oc=5",
+      "publisher": "SOC Prime",
+      "summary": "カメラ管理ソフトウェアの悪用が初期アクセスを可能に SOC Prime",
+      "published_at": "2026-11-02T15:03:43Z",
+      "collected_at": "2026-11-03T02:51:16.337646Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera",
+        "development"
+      ]
+    },
+    {
       "id": "56ab7523ef7021ee6e6b2960",
       "category": "ai",
       "source_id": "openai",
@@ -723,6 +763,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "96394bdabc4eb4795333196a",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "ＡＩカメラで再使用促進 市役所などで実証実験 - タウンニュース",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kZVFKMmkzVEw0STlVSmxla1huRlBOWUE5T09nU2NMZUpaR2h6OFpkbEZyRmRhZGEtc1RUY19pWXlLbGkzT1lhd0JPQW1YaEY2XzhDMGJiZE5KQVlTdWU3akN1SUU?oc=5",
+      "publisher": "タウンニュース",
+      "summary": "ＡＩカメラで再使用促進 市役所などで実証実験 タウンニュース",
+      "published_at": "2026-11-02T15:00:00Z",
+      "collected_at": "2026-11-03T02:51:16.337646Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
     },
     {
       "id": "088a468da9fd86b047ff15a7",
@@ -1130,6 +1188,22 @@
       ]
     },
     {
+      "id": "af02702970fabfef0ffb403f",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "publisher": "OpenAI 公式",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
+      "published_at": "2026-11-02T00:00:00Z",
+      "collected_at": "2026-11-03T02:51:16.337646Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "430dec5f1d961fc453d2dcf6",
       "category": "ai",
       "source_id": "ai",
@@ -1250,6 +1324,58 @@
       "theme_ids": [
         "models"
       ]
+    },
+    {
+      "id": "3e95505f3f8c368a05732fdc",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI時代の新人教育 18社の試行錯誤 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "AI時代の新人教育 18社の試行錯誤 日経クロステック",
+      "published_at": "2026-11-01T20:55:33Z",
+      "collected_at": "2026-11-02T21:00:07.032860Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "f94539be91df6ed7dc2a2510",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "小学生見守りサービス導入 大垣市 福岡の新興、セイノーＨＤと協定 - 中部経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mSG5vTmpXTmNGT0paTWlnZmxBdThiY25TV3JTWUNzamJBNXZmXzJYSU5iS3dhZklSdHhnRk1FQ3VTam5FMThLN2Y1RWRhVVpxLTVNUlpfWENXZmpGVVVNc2U5Nmp6YXNzVmR3ejdHOWFYZHc?oc=5",
+      "publisher": "中部経済新聞",
+      "summary": "小学生見守りサービス導入 大垣市 福岡の新興、セイノーＨＤと協定 中部経済新聞",
+      "published_at": "2026-11-01T20:00:00Z",
+      "collected_at": "2026-11-03T02:51:16.337646Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "parenting"
+      ]
+    },
+    {
+      "id": "a7975a83dfef1497a17a5456",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "Sakana AI - Sakana AI",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ON1I4LXhaRG1Vc21IcmtFbGRNaTZQOF95aUFCRDJBbjNzYnVvLWNlN1dCVTRLYUJ3RlFrenVkenZZeU96TjdISw?oc=5",
+      "publisher": "Sakana AI",
+      "summary": "Sakana AI Sakana AI",
+      "published_at": "2026-11-01T15:00:00Z",
+      "collected_at": "2026-11-03T02:51:16.337646Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
     },
     {
       "id": "051d933e072d207402f6fb7b",
@@ -1642,6 +1768,24 @@
       "theme_ids": []
     },
     {
+      "id": "7ba7a300a93e18ad2608a682",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Googleが最先端モデル「Gemini 4 Carbon」を発表／OpenAIが新モデル「GPT-6.1 Terra」を発表 API料金は従来の半額：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5naEt0OTBicUdhQUxHQmtRQmgtOTlqSVZ2NkpCcmdDODFldFNkUkpjX21fYVdkMXM1cHFEWk53a3IzM0RHRlBsVjRoR3JSTlNRcE1HU25EUzEzbjRUNzJLQjdGV1p6MzhRODNrYlpPMNIBaEFVX3lxTE5VOG5OVzkxWUFkVDVIa1R0V2FocXY4dWg2TW82X3JlZkNkY3Y2Z3g0QUIzZXFqSEhkaHVfbGtJZFFDRXVMVzZhMW1Jc3pUbXRaY1RoY2tYUEowVHh5VXRKb3kwQjNLeEk3?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Googleが最先端モデル「Gemini 4 Carbon」を発表／OpenAIが新モデル「GPT-6.1 Terra」を発表 API料金は従来の半額：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER ITmedia",
+      "published_at": "2026-10-31T21:00:00Z",
+      "collected_at": "2026-11-03T02:51:16.337646Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "b885f584577b19b518d6643a",
       "category": "parenting",
       "source_id": "parenting",
@@ -1651,24 +1795,6 @@
       "summary": "【人工知能学会前会長・栗原聡インタビュー #1】AI時代の教育術｜生成AIで子どもの思考力が低下する？ AI教育に要注意の年代とは 新潮QUE",
       "published_at": "2026-10-31T20:21:54Z",
       "collected_at": "2026-11-02T00:29:03.005899Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
-    },
-    {
-      "id": "3e95505f3f8c368a05732fdc",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "AI時代の新人教育 18社の試行錯誤 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5",
-      "publisher": "日経クロステック",
-      "summary": "AI時代の新人教育 18社の試行錯誤 日経クロステック",
-      "published_at": "2026-10-31T17:06:09Z",
-      "collected_at": "2026-11-02T21:00:07.032860Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -14234,7 +14360,7 @@
       "title": "How Itaú is building generative AI for its entire customer base",
       "url": "https://openai.com/index/itau-generative-ai",
       "publisher": "OpenAI 公式",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
+      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees—in one of Brazil’s most regulated sectors.",
       "published_at": "2026-10-16T19:00:00Z",
       "collected_at": "2026-10-17T21:00:04.657685Z",
       "provider": "OpenAI",
@@ -37071,23 +37197,23 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-03T06:02:18.606158+09:00",
+      "generated_at": "2026-11-03T11:51:23.377849+09:00",
       "is_complete": false,
-      "article_count": 29,
+      "article_count": 34,
       "category_counts": {
-        "tech": 8,
-        "ai": 13,
-        "parenting": 8
+        "tech": 10,
+        "ai": 15,
+        "parenting": 9
       },
       "overview": "OpenAIは、育児・介護や家計管理などの実務を測るLifeValを紹介し、幼稚園比較・入園情報整理の課題で93.1％の評価値を示した。ただし採点方法やモデル名、実環境での再現性は不明で、入園完了率や教育効果を示す数値ではない。Kimiは組織向けAdmin APIを提供開始し、メンバー・プロジェクト・推論用APIキーの管理、請求・利用状況の照会を社内システムに組み込めるようにした。OpenAIの電力需要調整計画は将来の米国計算拠点が対象で、開発中のEffingham拠点で最大1,000MWの契約上の需要調整を試す意向だが、運用実績は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+        "attempted_at": "2026-11-03T02:51:23.152790+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -37095,7 +37221,15 @@
         ],
         "errors": [
           {
+            "article_id": "c6d7864399daaf60e2023309",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "4591fa12a1930fcfb95536f9",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "af02702970fabfef0ffb403f",
             "stage": "original_fetch"
           },
           {
@@ -37115,7 +37249,7 @@
           "errors": [],
           "last_success_at": "2026-11-02T21:00:15.116266+00:00"
         },
-        "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+        "last_success_at": "2026-11-03T02:51:23.152790+00:00"
       },
       "genre_briefs": [
         {
@@ -37190,21 +37324,23 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 9,
+          "count": 11,
           "publisher_count": 7,
           "summary": "OpenAIは、将来の米国計算拠点が電力逼迫時に消費を抑える「Grid Protectors Program」を開始した。電力会社などと削減量・応答速度・継続時間を取り決め、地域に応じて自家発電や蓄電池も活用する計画。開発中のジョージア州Effingham拠点を試行対象とする意向で、同拠点の契約には最大1,000MWの需要調整と、必要な電力・インフラ費用の全額負担が含まれる。 Kimi Open Platformは、複数チームでKimi APIを利用する組織向けにAdmin APIの提供を開始した。メンバー、プロジェクト、推論用APIキーの管理と、請求・利用状況の照会を社内システムに組み込める。管理者の入退社対応や経理の照合作業などの自動化を想定する。利用開始にはコンソールで組織認証を行い、Admin APIキーを作成する。 OpenAIは、育児・介護、教育、家計管理、行政サービス利用など、日常の実務におけるAI性能を測る「LifeVal」を紹介した。米国と国際的な生活時間調査を基に、人口構成を反映した3,995人への追加調査で支援を望む課題を選定。過去1年のモデル改善に使用した。掲載例では、転居後の幼稚園比較・入園情報整理の課題に93.1％という評価値を示した。",
           "evidence_ids": [
-            "56ab7523ef7021ee6e6b2960",
+            "c6d7864399daaf60e2023309",
             "556c8830faa0f5d48adaed63",
             "81368fd1acae5bd8fa5ec776"
           ],
           "article_ids": [
+            "c6d7864399daaf60e2023309",
             "56ab7523ef7021ee6e6b2960",
             "556c8830faa0f5d48adaed63",
             "5d3cc5b78e25faae2d7d97d7",
             "81368fd1acae5bd8fa5ec776",
             "ee24e1a896b6f99dd72a0fde",
             "c244f722fc0e76994bb6ddc7",
+            "af02702970fabfef0ffb403f",
             "430dec5f1d961fc453d2dcf6",
             "4efc06c64f239b747548aed7",
             "19a7c9af4d6b64a11b204df6"
@@ -37217,16 +37353,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 10,
+          "publisher_count": 10,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "bdc779077bc56250454887bd",
-            "088a468da9fd86b047ff15a7",
-            "d977dfc906fe5b517f1a6487"
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a"
           ],
           "article_ids": [
             "bdc779077bc56250454887bd",
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a",
             "088a468da9fd86b047ff15a7",
             "d977dfc906fe5b517f1a6487",
             "84e860b9071dceba2aae6de7",
@@ -37243,8 +37381,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 8,
-          "publisher_count": 6,
+          "count": 9,
+          "publisher_count": 7,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "db985fc246f50d0ce35bf167",
@@ -37259,7 +37397,8 @@
             "cf3a845dd057f71204c88e97",
             "e3605b1f56bda459571d944a",
             "a001456328e94fc17fc106f0",
-            "cdc0451c30feecf8521850da"
+            "cdc0451c30feecf8521850da",
+            "3e95505f3f8c368a05732fdc"
           ]
         },
         {
@@ -37317,7 +37456,10 @@
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
         "bdc779077bc56250454887bd",
+        "c6d7864399daaf60e2023309",
+        "e6e2928fa354457a5dd1c9e1",
         "56ab7523ef7021ee6e6b2960",
+        "96394bdabc4eb4795333196a",
         "088a468da9fd86b047ff15a7",
         "db985fc246f50d0ce35bf167",
         "5551083991a5c2eac4312820",
@@ -37338,13 +37480,15 @@
         "cdf0e1cd9c8af92938e92a87",
         "4591fa12a1930fcfb95536f9",
         "c244f722fc0e76994bb6ddc7",
+        "af02702970fabfef0ffb403f",
         "430dec5f1d961fc453d2dcf6",
         "4efc06c64f239b747548aed7",
         "c2663ac7d1da529de5a3f0dd",
         "cdc0451c30feecf8521850da",
         "e26de4615efa0bcc2db58e0b",
         "afa84a463679fd755ed88a87",
-        "19a7c9af4d6b64a11b204df6"
+        "19a7c9af4d6b64a11b204df6",
+        "3e95505f3f8c368a05732fdc"
       ]
     },
     {
@@ -37352,12 +37496,12 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-03T06:02:18.606158+09:00",
+      "generated_at": "2026-11-03T11:51:23.377849+09:00",
       "is_complete": false,
-      "article_count": 48,
+      "article_count": 53,
       "category_counts": {
-        "tech": 11,
-        "ai": 18,
+        "tech": 13,
+        "ai": 21,
         "parenting": 19
       },
       "overview": "Kimiは組織向けAdmin APIを提供開始し、メンバー・プロジェクト・推論用APIキーの管理や請求・利用状況の照会を社内システムに組み込めるようにした。OpenAIは生活実務を測るLifeValを紹介し、幼稚園比較・入園情報整理の評価例を掲載した。また、将来の米国計算拠点で電力消費を調整する計画を発表したが、試行対象のEffingham拠点は開発中である。",
@@ -37365,10 +37509,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+        "attempted_at": "2026-11-03T02:51:23.152790+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -37376,7 +37520,15 @@
         ],
         "errors": [
           {
+            "article_id": "c6d7864399daaf60e2023309",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "4591fa12a1930fcfb95536f9",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "af02702970fabfef0ffb403f",
             "stage": "original_fetch"
           },
           {
@@ -37396,7 +37548,7 @@
           "errors": [],
           "last_success_at": "2026-11-02T21:00:15.116266+00:00"
         },
-        "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+        "last_success_at": "2026-11-03T02:51:23.152790+00:00"
       },
       "genre_briefs": [
         {
@@ -37471,27 +37623,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 12,
-          "publisher_count": 8,
+          "count": 15,
+          "publisher_count": 9,
           "summary": "OpenAIは、将来の米国計算拠点が電力逼迫時に消費を抑える「Grid Protectors Program」を開始した。電力会社などと削減量・応答速度・継続時間を取り決め、地域に応じて自家発電や蓄電池も活用する計画。開発中のジョージア州Effingham拠点を試行対象とする意向で、同拠点の契約には最大1,000MWの需要調整と、必要な電力・インフラ費用の全額負担が含まれる。 Kimi Open Platformは、複数チームでKimi APIを利用する組織向けにAdmin APIの提供を開始した。メンバー、プロジェクト、推論用APIキーの管理と、請求・利用状況の照会を社内システムに組み込める。管理者の入退社対応や経理の照合作業などの自動化を想定する。利用開始にはコンソールで組織認証を行い、Admin APIキーを作成する。 OpenAIは、育児・介護、教育、家計管理、行政サービス利用など、日常の実務におけるAI性能を測る「LifeVal」を紹介した。米国と国際的な生活時間調査を基に、人口構成を反映した3,995人への追加調査で支援を望む課題を選定。過去1年のモデル改善に使用した。掲載例では、転居後の幼稚園比較・入園情報整理の課題に93.1％という評価値を示した。",
           "evidence_ids": [
-            "56ab7523ef7021ee6e6b2960",
+            "c6d7864399daaf60e2023309",
             "556c8830faa0f5d48adaed63",
             "81368fd1acae5bd8fa5ec776"
           ],
           "article_ids": [
+            "c6d7864399daaf60e2023309",
             "56ab7523ef7021ee6e6b2960",
             "556c8830faa0f5d48adaed63",
             "5d3cc5b78e25faae2d7d97d7",
             "81368fd1acae5bd8fa5ec776",
             "ee24e1a896b6f99dd72a0fde",
             "c244f722fc0e76994bb6ddc7",
+            "af02702970fabfef0ffb403f",
             "430dec5f1d961fc453d2dcf6",
             "4efc06c64f239b747548aed7",
             "19a7c9af4d6b64a11b204df6",
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
-            "9c147d215e21f7a29e872520"
+            "9c147d215e21f7a29e872520",
+            "7ba7a300a93e18ad2608a682"
           ]
         },
         {
@@ -37501,16 +37656,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 11,
-          "publisher_count": 10,
+          "count": 13,
+          "publisher_count": 12,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "bdc779077bc56250454887bd",
-            "088a468da9fd86b047ff15a7",
-            "d977dfc906fe5b517f1a6487"
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a"
           ],
           "article_ids": [
             "bdc779077bc56250454887bd",
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a",
             "088a468da9fd86b047ff15a7",
             "d977dfc906fe5b517f1a6487",
             "84e860b9071dceba2aae6de7",
@@ -37547,6 +37704,7 @@
             "e3605b1f56bda459571d944a",
             "a001456328e94fc17fc106f0",
             "cdc0451c30feecf8521850da",
+            "3e95505f3f8c368a05732fdc",
             "e2b97f9be7685b8648e7ba99",
             "2a01607d22c09011e4b46c0e",
             "eb56b9d034efb28199077fe6",
@@ -37556,8 +37714,7 @@
             "2d1c9cee60d06e5aae473b33",
             "15453b4e65fe96e5eebfe317",
             "00450615b1909d736d3430dc",
-            "b885f584577b19b518d6643a",
-            "3e95505f3f8c368a05732fdc"
+            "b885f584577b19b518d6643a"
           ]
         },
         {
@@ -37617,7 +37774,10 @@
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
         "bdc779077bc56250454887bd",
+        "c6d7864399daaf60e2023309",
+        "e6e2928fa354457a5dd1c9e1",
         "56ab7523ef7021ee6e6b2960",
+        "96394bdabc4eb4795333196a",
         "088a468da9fd86b047ff15a7",
         "db985fc246f50d0ce35bf167",
         "5551083991a5c2eac4312820",
@@ -37638,6 +37798,7 @@
         "cdf0e1cd9c8af92938e92a87",
         "4591fa12a1930fcfb95536f9",
         "c244f722fc0e76994bb6ddc7",
+        "af02702970fabfef0ffb403f",
         "430dec5f1d961fc453d2dcf6",
         "4efc06c64f239b747548aed7",
         "c2663ac7d1da529de5a3f0dd",
@@ -37645,6 +37806,7 @@
         "e26de4615efa0bcc2db58e0b",
         "afa84a463679fd755ed88a87",
         "19a7c9af4d6b64a11b204df6",
+        "3e95505f3f8c368a05732fdc",
         "051d933e072d207402f6fb7b",
         "e2b97f9be7685b8648e7ba99",
         "05ab540793aba21ccea00f55",
@@ -37662,8 +37824,8 @@
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
         "9c147d215e21f7a29e872520",
-        "b885f584577b19b518d6643a",
-        "3e95505f3f8c368a05732fdc"
+        "7ba7a300a93e18ad2608a682",
+        "b885f584577b19b518d6643a"
       ]
     },
     {
@@ -37671,23 +37833,23 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-11-03T06:02:18.606158+09:00",
+      "generated_at": "2026-11-03T11:51:23.377849+09:00",
       "is_complete": true,
       "article_count": 308,
       "category_counts": {
         "tech": 74,
-        "parenting": 83,
-        "ai": 151
+        "parenting": 82,
+        "ai": 152
       },
       "overview": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に伝える共通信号を尊重すると発表した。今後数カ月以内の実装予定で、既存のクローラー別制御も継続する。任意参加の仕組みであり、全事業者への適用は保証されない。 Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語によるアンテナ操作、較正、データ補正、AI解析を可能にしたと発表した。装置近くで毎秒2.4テラビットのデータを処理し、パルサーをリアルタイム検出した実績を示した。公開モデルの評価は継続中で、地球外文明の信号発見を示す成果ではない。 Googleが公開した英国の研究では、12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施した。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストの改善は見られなかった。イタリア31校の年間研究は教師との授業共同設計を扱い、参加増加などの結果には自己報告が含まれる。いずれも研究結果の紹介で、新たな一般提供の発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+        "attempted_at": "2026-11-03T02:51:23.152790+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -37695,7 +37857,15 @@
         ],
         "errors": [
           {
+            "article_id": "c6d7864399daaf60e2023309",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "4591fa12a1930fcfb95536f9",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "af02702970fabfef0ffb403f",
             "stage": "original_fetch"
           },
           {
@@ -37715,7 +37885,7 @@
           "errors": [],
           "last_success_at": "2026-11-02T21:00:15.116266+00:00"
         },
-        "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+        "last_success_at": "2026-11-03T02:51:23.152790+00:00"
       },
       "genre_briefs": [
         {
@@ -37921,18 +38091,19 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 136,
+          "count": 137,
           "publisher_count": 41,
           "summary": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 OpenAIは、18歳未満への武器・保安システムの悪用可能な実用情報の制限と、全年齢への過去の大量襲撃の詳細説明の制限を発表した。暴力への固執を示す会話の自動終了や反復時のアカウント一時停止も整備し、保護措置は今後数週間で順次導入する。安全性報告は2027年初めに初刊、その後半年ごとに公表予定。 OpenAIは10月30日、ニューヨーク・タイムズとの訴訟に関連し、AI学習へのフェアユース適用を支持する団体や専門家の提出書面を紹介した。著作者団体は非侵害の生成物との競争による市場希薄化を著作権上の損害と扱わないよう求め、図書館・障害者支援団体などは研究やアクセシビリティへの影響を論じている。",
           "evidence_ids": [
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
-            "c4e87d5d11aa59b92f335764"
+            "7ba7a300a93e18ad2608a682"
           ],
           "article_ids": [
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
             "9c147d215e21f7a29e872520",
+            "7ba7a300a93e18ad2608a682",
             "c4e87d5d11aa59b92f335764",
             "157eb1dcc604ecc78d582acd",
             "39bb8ae8715fa712a91656f0",
@@ -38166,8 +38337,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 78,
-          "publisher_count": 51,
+          "count": 77,
+          "publisher_count": 50,
           "summary": "Googleは10月29日、Gemini Notebookで、米国・インドのOpenStax、Open Textbook Library、S Chand Publishingなどが提供する数百冊の教科書を無料で追加できるようにした。追加した教科書に基づく回答には文中引用と原典へのリンクが付き、学習ガイド、練習問題、暗記カードも作成できる。「Add sources」の「Textbooks」から教材を選択する。 Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
             "e2b97f9be7685b8648e7ba99",
@@ -38185,7 +38356,6 @@
             "15453b4e65fe96e5eebfe317",
             "00450615b1909d736d3430dc",
             "b885f584577b19b518d6643a",
-            "3e95505f3f8c368a05732fdc",
             "36d0488382a44a0f4f4611a8",
             "7d0ddb532cfe0305592c5fea",
             "098bc215e15eef4fd926a9b4",
@@ -38389,8 +38559,8 @@
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
         "9c147d215e21f7a29e872520",
+        "7ba7a300a93e18ad2608a682",
         "b885f584577b19b518d6643a",
-        "3e95505f3f8c368a05732fdc",
         "5fed3a5fe2493b3ceb51d3b9",
         "c4e87d5d11aa59b92f335764",
         "36d0488382a44a0f4f4611a8",
@@ -41177,7 +41347,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-03T06:02:18.606158+09:00",
+      "generated_at": "2026-11-03T11:51:23.377849+09:00",
       "is_complete": true,
       "article_count": 1106,
       "category_counts": {
@@ -41190,10 +41360,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+        "attempted_at": "2026-11-03T02:51:23.152790+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -41201,7 +41371,15 @@
         ],
         "errors": [
           {
+            "article_id": "c6d7864399daaf60e2023309",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "4591fa12a1930fcfb95536f9",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "af02702970fabfef0ffb403f",
             "stage": "original_fetch"
           },
           {
@@ -41221,7 +41399,7 @@
           "errors": [],
           "last_success_at": "2026-11-02T21:00:15.116266+00:00"
         },
-        "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+        "last_success_at": "2026-11-03T02:51:23.152790+00:00"
       },
       "genre_briefs": [
         {
@@ -46731,12 +46909,12 @@
       "kind": "overview",
       "period_start": "2026-10-28",
       "period_end": "2026-11-03",
-      "generated_at": "2026-11-03T06:02:18.606158+09:00",
+      "generated_at": "2026-11-03T11:51:23.377849+09:00",
       "is_complete": false,
-      "article_count": 215,
+      "article_count": 220,
       "category_counts": {
-        "tech": 51,
-        "ai": 96,
+        "tech": 53,
+        "ai": 99,
         "parenting": 68
       },
       "overview": "OpenAIは、生活時間調査と3,995人への追加調査から課題を選ぶLifeValを紹介し、過去1年のモデル改善に使用したと説明した。転居後の幼稚園比較・入園情報整理では93.1％という評価値を掲載したが、採点方法や対象モデル、実環境での再現性は示されていない。 アレン電波望遠鏡群では、自然言語によるアンテナ操作・較正・データ補正と装置近くでのAI解析を導入し、パルサーをリアルタイム検出したと発表された。NVIDIAのOmniverse事例では、自然言語でエージェントに指示してロボットや自動運転の試験用プロトタイプを構築したが、成果は個別実験やシミュレーション内の結果である。 GoogleはGemini Notebookで数百冊の教科書を無料追加できる機能を提供し、引用付き回答や練習問題の作成に対応したが、対象学年や日本語教材の有無は示していない。一方、英国の12〜15歳を対象とする10週間の研究では、全AI応答を専門家が事前確認する条件で数学の課題・小テスト成績は人間の指導と同程度だったものの、標準化テストの改善は見られなかった。",
@@ -46744,10 +46922,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+        "attempted_at": "2026-11-03T02:51:23.152790+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -46755,7 +46933,15 @@
         ],
         "errors": [
           {
+            "article_id": "c6d7864399daaf60e2023309",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "4591fa12a1930fcfb95536f9",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "af02702970fabfef0ffb403f",
             "stage": "original_fetch"
           },
           {
@@ -46775,7 +46961,7 @@
           "errors": [],
           "last_success_at": "2026-11-02T21:00:15.116266+00:00"
         },
-        "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+        "last_success_at": "2026-11-03T02:51:23.152790+00:00"
       },
       "genre_briefs": [
         {
@@ -46962,27 +47148,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 80,
+          "count": 83,
           "publisher_count": 32,
           "summary": "OpenAIは、将来の米国計算拠点が電力逼迫時に消費を抑える「Grid Protectors Program」を開始した。電力会社などと削減量・応答速度・継続時間を取り決め、地域に応じて自家発電や蓄電池も活用する計画。開発中のジョージア州Effingham拠点を試行対象とする意向で、同拠点の契約には最大1,000MWの需要調整と、必要な電力・インフラ費用の全額負担が含まれる。 Kimi Open Platformは、複数チームでKimi APIを利用する組織向けにAdmin APIの提供を開始した。メンバー、プロジェクト、推論用APIキーの管理と、請求・利用状況の照会を社内システムに組み込める。管理者の入退社対応や経理の照合作業などの自動化を想定する。利用開始にはコンソールで組織認証を行い、Admin APIキーを作成する。 OpenAIは、育児・介護、教育、家計管理、行政サービス利用など、日常の実務におけるAI性能を測る「LifeVal」を紹介した。米国と国際的な生活時間調査を基に、人口構成を反映した3,995人への追加調査で支援を望む課題を選定。過去1年のモデル改善に使用した。掲載例では、転居後の幼稚園比較・入園情報整理の課題に93.1％という評価値を示した。",
           "evidence_ids": [
-            "56ab7523ef7021ee6e6b2960",
+            "c6d7864399daaf60e2023309",
             "556c8830faa0f5d48adaed63",
             "81368fd1acae5bd8fa5ec776"
           ],
           "article_ids": [
+            "c6d7864399daaf60e2023309",
             "56ab7523ef7021ee6e6b2960",
             "556c8830faa0f5d48adaed63",
             "5d3cc5b78e25faae2d7d97d7",
             "81368fd1acae5bd8fa5ec776",
             "ee24e1a896b6f99dd72a0fde",
             "c244f722fc0e76994bb6ddc7",
+            "af02702970fabfef0ffb403f",
             "430dec5f1d961fc453d2dcf6",
             "4efc06c64f239b747548aed7",
             "19a7c9af4d6b64a11b204df6",
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
             "9c147d215e21f7a29e872520",
+            "7ba7a300a93e18ad2608a682",
             "c4e87d5d11aa59b92f335764",
             "157eb1dcc604ecc78d582acd",
             "39bb8ae8715fa712a91656f0",
@@ -47060,16 +47249,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 51,
-          "publisher_count": 34,
+          "count": 53,
+          "publisher_count": 36,
           "summary": "Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語の指示によるアンテナ操作、較正、データ補正、AI解析を可能にした。Holoscanなどで毎秒2.4テラビットのデータを処理し、装置近くで推論を実行する。かに星雲のパルサーをAIでリアルタイム検出した実績があり、Nemotronを含む公開モデルの評価も進めている。 NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。",
           "evidence_ids": [
             "bdc779077bc56250454887bd",
-            "088a468da9fd86b047ff15a7",
-            "d977dfc906fe5b517f1a6487"
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a"
           ],
           "article_ids": [
             "bdc779077bc56250454887bd",
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a",
             "088a468da9fd86b047ff15a7",
             "d977dfc906fe5b517f1a6487",
             "84e860b9071dceba2aae6de7",
@@ -47146,6 +47337,7 @@
             "e3605b1f56bda459571d944a",
             "a001456328e94fc17fc106f0",
             "cdc0451c30feecf8521850da",
+            "3e95505f3f8c368a05732fdc",
             "e2b97f9be7685b8648e7ba99",
             "2a01607d22c09011e4b46c0e",
             "eb56b9d034efb28199077fe6",
@@ -47156,7 +47348,6 @@
             "15453b4e65fe96e5eebfe317",
             "00450615b1909d736d3430dc",
             "b885f584577b19b518d6643a",
-            "3e95505f3f8c368a05732fdc",
             "36d0488382a44a0f4f4611a8",
             "7d0ddb532cfe0305592c5fea",
             "098bc215e15eef4fd926a9b4",
@@ -47327,7 +47518,10 @@
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
         "bdc779077bc56250454887bd",
+        "c6d7864399daaf60e2023309",
+        "e6e2928fa354457a5dd1c9e1",
         "56ab7523ef7021ee6e6b2960",
+        "96394bdabc4eb4795333196a",
         "088a468da9fd86b047ff15a7",
         "db985fc246f50d0ce35bf167",
         "5551083991a5c2eac4312820",
@@ -47348,6 +47542,7 @@
         "cdf0e1cd9c8af92938e92a87",
         "4591fa12a1930fcfb95536f9",
         "c244f722fc0e76994bb6ddc7",
+        "af02702970fabfef0ffb403f",
         "430dec5f1d961fc453d2dcf6",
         "4efc06c64f239b747548aed7",
         "c2663ac7d1da529de5a3f0dd",
@@ -47355,6 +47550,7 @@
         "e26de4615efa0bcc2db58e0b",
         "afa84a463679fd755ed88a87",
         "19a7c9af4d6b64a11b204df6",
+        "3e95505f3f8c368a05732fdc",
         "051d933e072d207402f6fb7b",
         "e2b97f9be7685b8648e7ba99",
         "05ab540793aba21ccea00f55",
@@ -47372,8 +47568,8 @@
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
         "9c147d215e21f7a29e872520",
+        "7ba7a300a93e18ad2608a682",
         "b885f584577b19b518d6643a",
-        "3e95505f3f8c368a05732fdc",
         "5fed3a5fe2493b3ceb51d3b9",
         "c4e87d5d11aa59b92f335764",
         "36d0488382a44a0f4f4611a8",
@@ -47548,23 +47744,23 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-03T06:02:18.606158+09:00",
+      "generated_at": "2026-11-03T11:51:23.377849+09:00",
       "is_complete": false,
-      "article_count": 29,
+      "article_count": 34,
       "category_counts": {
-        "tech": 8,
-        "ai": 13,
-        "parenting": 8
+        "tech": 10,
+        "ai": 15,
+        "parenting": 9
       },
       "overview": "OpenAIは、育児・介護や家計管理などの実務を測るLifeValを紹介し、幼稚園比較・入園情報整理の課題で93.1％の評価値を示した。ただし採点方法やモデル名、実環境での再現性は不明で、入園完了率や教育効果を示す数値ではない。Kimiは組織向けAdmin APIを提供開始し、メンバー・プロジェクト・推論用APIキーの管理、請求・利用状況の照会を社内システムに組み込めるようにした。OpenAIの電力需要調整計画は将来の米国計算拠点が対象で、開発中のEffingham拠点で最大1,000MWの契約上の需要調整を試す意向だが、運用実績は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+        "attempted_at": "2026-11-03T02:51:23.152790+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -47572,7 +47768,15 @@
         ],
         "errors": [
           {
+            "article_id": "c6d7864399daaf60e2023309",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "4591fa12a1930fcfb95536f9",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "af02702970fabfef0ffb403f",
             "stage": "original_fetch"
           },
           {
@@ -47592,7 +47796,7 @@
           "errors": [],
           "last_success_at": "2026-11-02T21:00:15.116266+00:00"
         },
-        "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+        "last_success_at": "2026-11-03T02:51:23.152790+00:00"
       },
       "genre_briefs": [
         {
@@ -47667,21 +47871,23 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 9,
+          "count": 11,
           "publisher_count": 7,
           "summary": "OpenAIは、将来の米国計算拠点が電力逼迫時に消費を抑える「Grid Protectors Program」を開始した。電力会社などと削減量・応答速度・継続時間を取り決め、地域に応じて自家発電や蓄電池も活用する計画。開発中のジョージア州Effingham拠点を試行対象とする意向で、同拠点の契約には最大1,000MWの需要調整と、必要な電力・インフラ費用の全額負担が含まれる。 Kimi Open Platformは、複数チームでKimi APIを利用する組織向けにAdmin APIの提供を開始した。メンバー、プロジェクト、推論用APIキーの管理と、請求・利用状況の照会を社内システムに組み込める。管理者の入退社対応や経理の照合作業などの自動化を想定する。利用開始にはコンソールで組織認証を行い、Admin APIキーを作成する。 OpenAIは、育児・介護、教育、家計管理、行政サービス利用など、日常の実務におけるAI性能を測る「LifeVal」を紹介した。米国と国際的な生活時間調査を基に、人口構成を反映した3,995人への追加調査で支援を望む課題を選定。過去1年のモデル改善に使用した。掲載例では、転居後の幼稚園比較・入園情報整理の課題に93.1％という評価値を示した。",
           "evidence_ids": [
-            "56ab7523ef7021ee6e6b2960",
+            "c6d7864399daaf60e2023309",
             "556c8830faa0f5d48adaed63",
             "81368fd1acae5bd8fa5ec776"
           ],
           "article_ids": [
+            "c6d7864399daaf60e2023309",
             "56ab7523ef7021ee6e6b2960",
             "556c8830faa0f5d48adaed63",
             "5d3cc5b78e25faae2d7d97d7",
             "81368fd1acae5bd8fa5ec776",
             "ee24e1a896b6f99dd72a0fde",
             "c244f722fc0e76994bb6ddc7",
+            "af02702970fabfef0ffb403f",
             "430dec5f1d961fc453d2dcf6",
             "4efc06c64f239b747548aed7",
             "19a7c9af4d6b64a11b204df6"
@@ -47694,16 +47900,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 10,
+          "publisher_count": 10,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "bdc779077bc56250454887bd",
-            "088a468da9fd86b047ff15a7",
-            "d977dfc906fe5b517f1a6487"
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a"
           ],
           "article_ids": [
             "bdc779077bc56250454887bd",
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a",
             "088a468da9fd86b047ff15a7",
             "d977dfc906fe5b517f1a6487",
             "84e860b9071dceba2aae6de7",
@@ -47720,8 +47928,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 8,
-          "publisher_count": 6,
+          "count": 9,
+          "publisher_count": 7,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "db985fc246f50d0ce35bf167",
@@ -47736,7 +47944,8 @@
             "cf3a845dd057f71204c88e97",
             "e3605b1f56bda459571d944a",
             "a001456328e94fc17fc106f0",
-            "cdc0451c30feecf8521850da"
+            "cdc0451c30feecf8521850da",
+            "3e95505f3f8c368a05732fdc"
           ]
         },
         {
@@ -47794,7 +48003,10 @@
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
         "bdc779077bc56250454887bd",
+        "c6d7864399daaf60e2023309",
+        "e6e2928fa354457a5dd1c9e1",
         "56ab7523ef7021ee6e6b2960",
+        "96394bdabc4eb4795333196a",
         "088a468da9fd86b047ff15a7",
         "db985fc246f50d0ce35bf167",
         "5551083991a5c2eac4312820",
@@ -47815,13 +48027,15 @@
         "cdf0e1cd9c8af92938e92a87",
         "4591fa12a1930fcfb95536f9",
         "c244f722fc0e76994bb6ddc7",
+        "af02702970fabfef0ffb403f",
         "430dec5f1d961fc453d2dcf6",
         "4efc06c64f239b747548aed7",
         "c2663ac7d1da529de5a3f0dd",
         "cdc0451c30feecf8521850da",
         "e26de4615efa0bcc2db58e0b",
         "afa84a463679fd755ed88a87",
-        "19a7c9af4d6b64a11b204df6"
+        "19a7c9af4d6b64a11b204df6",
+        "3e95505f3f8c368a05732fdc"
       ]
     },
     "monthly": {
@@ -47829,12 +48043,12 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-03T06:02:18.606158+09:00",
+      "generated_at": "2026-11-03T11:51:23.377849+09:00",
       "is_complete": false,
-      "article_count": 48,
+      "article_count": 53,
       "category_counts": {
-        "tech": 11,
-        "ai": 18,
+        "tech": 13,
+        "ai": 21,
         "parenting": 19
       },
       "overview": "Kimiは組織向けAdmin APIを提供開始し、メンバー・プロジェクト・推論用APIキーの管理や請求・利用状況の照会を社内システムに組み込めるようにした。OpenAIは生活実務を測るLifeValを紹介し、幼稚園比較・入園情報整理の評価例を掲載した。また、将来の米国計算拠点で電力消費を調整する計画を発表したが、試行対象のEffingham拠点は開発中である。",
@@ -47842,10 +48056,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+        "attempted_at": "2026-11-03T02:51:23.152790+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 1,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -47853,7 +48067,15 @@
         ],
         "errors": [
           {
+            "article_id": "c6d7864399daaf60e2023309",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "4591fa12a1930fcfb95536f9",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "af02702970fabfef0ffb403f",
             "stage": "original_fetch"
           },
           {
@@ -47873,7 +48095,7 @@
           "errors": [],
           "last_success_at": "2026-11-02T21:00:15.116266+00:00"
         },
-        "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+        "last_success_at": "2026-11-03T02:51:23.152790+00:00"
       },
       "genre_briefs": [
         {
@@ -47948,27 +48170,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 12,
-          "publisher_count": 8,
+          "count": 15,
+          "publisher_count": 9,
           "summary": "OpenAIは、将来の米国計算拠点が電力逼迫時に消費を抑える「Grid Protectors Program」を開始した。電力会社などと削減量・応答速度・継続時間を取り決め、地域に応じて自家発電や蓄電池も活用する計画。開発中のジョージア州Effingham拠点を試行対象とする意向で、同拠点の契約には最大1,000MWの需要調整と、必要な電力・インフラ費用の全額負担が含まれる。 Kimi Open Platformは、複数チームでKimi APIを利用する組織向けにAdmin APIの提供を開始した。メンバー、プロジェクト、推論用APIキーの管理と、請求・利用状況の照会を社内システムに組み込める。管理者の入退社対応や経理の照合作業などの自動化を想定する。利用開始にはコンソールで組織認証を行い、Admin APIキーを作成する。 OpenAIは、育児・介護、教育、家計管理、行政サービス利用など、日常の実務におけるAI性能を測る「LifeVal」を紹介した。米国と国際的な生活時間調査を基に、人口構成を反映した3,995人への追加調査で支援を望む課題を選定。過去1年のモデル改善に使用した。掲載例では、転居後の幼稚園比較・入園情報整理の課題に93.1％という評価値を示した。",
           "evidence_ids": [
-            "56ab7523ef7021ee6e6b2960",
+            "c6d7864399daaf60e2023309",
             "556c8830faa0f5d48adaed63",
             "81368fd1acae5bd8fa5ec776"
           ],
           "article_ids": [
+            "c6d7864399daaf60e2023309",
             "56ab7523ef7021ee6e6b2960",
             "556c8830faa0f5d48adaed63",
             "5d3cc5b78e25faae2d7d97d7",
             "81368fd1acae5bd8fa5ec776",
             "ee24e1a896b6f99dd72a0fde",
             "c244f722fc0e76994bb6ddc7",
+            "af02702970fabfef0ffb403f",
             "430dec5f1d961fc453d2dcf6",
             "4efc06c64f239b747548aed7",
             "19a7c9af4d6b64a11b204df6",
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
-            "9c147d215e21f7a29e872520"
+            "9c147d215e21f7a29e872520",
+            "7ba7a300a93e18ad2608a682"
           ]
         },
         {
@@ -47978,16 +48203,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 11,
-          "publisher_count": 10,
+          "count": 13,
+          "publisher_count": 12,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "bdc779077bc56250454887bd",
-            "088a468da9fd86b047ff15a7",
-            "d977dfc906fe5b517f1a6487"
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a"
           ],
           "article_ids": [
             "bdc779077bc56250454887bd",
+            "e6e2928fa354457a5dd1c9e1",
+            "96394bdabc4eb4795333196a",
             "088a468da9fd86b047ff15a7",
             "d977dfc906fe5b517f1a6487",
             "84e860b9071dceba2aae6de7",
@@ -48024,6 +48251,7 @@
             "e3605b1f56bda459571d944a",
             "a001456328e94fc17fc106f0",
             "cdc0451c30feecf8521850da",
+            "3e95505f3f8c368a05732fdc",
             "e2b97f9be7685b8648e7ba99",
             "2a01607d22c09011e4b46c0e",
             "eb56b9d034efb28199077fe6",
@@ -48033,8 +48261,7 @@
             "2d1c9cee60d06e5aae473b33",
             "15453b4e65fe96e5eebfe317",
             "00450615b1909d736d3430dc",
-            "b885f584577b19b518d6643a",
-            "3e95505f3f8c368a05732fdc"
+            "b885f584577b19b518d6643a"
           ]
         },
         {
@@ -48094,7 +48321,10 @@
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
         "bdc779077bc56250454887bd",
+        "c6d7864399daaf60e2023309",
+        "e6e2928fa354457a5dd1c9e1",
         "56ab7523ef7021ee6e6b2960",
+        "96394bdabc4eb4795333196a",
         "088a468da9fd86b047ff15a7",
         "db985fc246f50d0ce35bf167",
         "5551083991a5c2eac4312820",
@@ -48115,6 +48345,7 @@
         "cdf0e1cd9c8af92938e92a87",
         "4591fa12a1930fcfb95536f9",
         "c244f722fc0e76994bb6ddc7",
+        "af02702970fabfef0ffb403f",
         "430dec5f1d961fc453d2dcf6",
         "4efc06c64f239b747548aed7",
         "c2663ac7d1da529de5a3f0dd",
@@ -48122,6 +48353,7 @@
         "e26de4615efa0bcc2db58e0b",
         "afa84a463679fd755ed88a87",
         "19a7c9af4d6b64a11b204df6",
+        "3e95505f3f8c368a05732fdc",
         "051d933e072d207402f6fb7b",
         "e2b97f9be7685b8648e7ba99",
         "05ab540793aba21ccea00f55",
@@ -48139,18 +48371,18 @@
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
         "9c147d215e21f7a29e872520",
-        "b885f584577b19b518d6643a",
-        "3e95505f3f8c368a05732fdc"
+        "7ba7a300a93e18ad2608a682",
+        "b885f584577b19b518d6643a"
       ]
     }
   },
-  "report_updated_at": "2026-11-03T06:02:18.606158+09:00",
+  "report_updated_at": "2026-11-03T11:51:23.377849+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-02T21:02:18.278585+00:00",
+    "attempted_at": "2026-11-03T02:51:23.152790+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 1,
+    "new_reviews": 0,
     "updated_periods": [
       "overview",
       "weekly",
@@ -48158,7 +48390,15 @@
     ],
     "errors": [
       {
+        "article_id": "c6d7864399daaf60e2023309",
+        "stage": "original_fetch"
+      },
+      {
         "article_id": "4591fa12a1930fcfb95536f9",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "af02702970fabfef0ffb403f",
         "stage": "original_fetch"
       },
       {
@@ -48178,7 +48418,7 @@
       "errors": [],
       "last_success_at": "2026-11-02T21:00:15.116266+00:00"
     },
-    "last_success_at": "2026-11-02T21:02:18.278585+00:00"
+    "last_success_at": "2026-11-03T02:51:23.152790+00:00"
   },
   "topic_definitions": [
     {
@@ -48694,10 +48934,10 @@
     ]
   },
   "picks": [
+    "c6d7864399daaf60e2023309",
     "56ab7523ef7021ee6e6b2960",
-    "556c8830faa0f5d48adaed63",
     "bdc779077bc56250454887bd",
-    "088a468da9fd86b047ff15a7",
+    "e6e2928fa354457a5dd1c9e1",
     "db985fc246f50d0ce35bf167",
     "5551083991a5c2eac4312820"
   ]
