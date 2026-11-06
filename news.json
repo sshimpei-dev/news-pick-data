@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-05T21:02:28.000426Z",
-  "last_attempt_at": "2026-11-05T21:02:28.000426Z",
+  "updated_at": "2026-11-06T01:27:22.297125Z",
+  "last_attempt_at": "2026-11-06T01:27:22.297125Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-05T21:02:28.000426Z",
+      "checked_at": "2026-11-06T01:27:22.297125Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-06T01:27:22.297125Z",
+      "new_count": 8,
+      "status": "partial"
+    },
     {
       "at": "2026-11-05T21:02:28.000426Z",
       "new_count": 3,
@@ -738,6 +743,24 @@
   ],
   "articles": [
     {
+      "id": "236b667674825bb26e60281a",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "不正アクセス対策の切り札に？ OpenAIが「GPT-6 Cyber」発表 脆弱性の発見力が向上 - CNET Japan",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03YnJYVjQ4azRCNUxTdVZGY1kwLVE2REU0Y2VsbkxwaFNlUzRJclo2cTRyZlhUeUdqTVpEMXREXzN5UHV6WVFBMmV1OEUzSDRhMVE?oc=5",
+      "publisher": "CNET Japan",
+      "summary": "不正アクセス対策の切り札に？ OpenAIが「GPT-6 Cyber」発表 脆弱性の発見力が向上 CNET Japan",
+      "published_at": "2026-11-05T23:10:00Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "cf62ce1292f80856db9edb52",
       "category": "tech",
       "source_id": "nvidia",
@@ -752,6 +775,24 @@
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
+    },
+    {
+      "id": "b123e14f1bce0630c3c07761",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "publisher": "OpenAI 公式",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "published_at": "2026-11-05T20:00:00Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
     },
     {
       "id": "6f6cc2a9fd6a9c033d177351",
@@ -1017,6 +1058,22 @@
       ]
     },
     {
+      "id": "3a58a2b637c265fce544f78e",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "publisher": "OpenAI 公式",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+      "published_at": "2026-11-05T08:00:00Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "1547c694ff5ed82dc3dd601b",
       "category": "parenting",
       "source_id": "parenting",
@@ -1261,6 +1318,24 @@
       "theme_ids": []
     },
     {
+      "id": "6ce624ce46f28c18827b4339",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9USS1nWGZHU0N1Ulh0ZDgxcm1wb1paVndnNm02SkZncTlLcFF4YUxLT1p4dHlBZTJETE9Mdy1rQjdGR0ZVZGJKMFdjN0Q0cVFvLVVMNnAwQ2N5a05PTzRfSFpmUks1OE5yMVE?oc=5",
+      "publisher": "ITmedia",
+      "summary": "OpenAI、「Images 2.6」発表 生成速度50％向上、GIFアニメの生成も可能に ITmedia",
+      "published_at": "2026-11-05T01:59:38Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "16bdeae80cd9be053bae3c48",
       "category": "tech",
       "source_id": "tech",
@@ -1331,6 +1406,22 @@
       "theme_ids": [
         "development"
       ]
+    },
+    {
+      "id": "ddc140613e7c969bf75ced2b",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "publisher": "OpenAI 公式",
+      "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "published_at": "2026-11-05T00:45:15Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "8c21647d163f72916f2e1c1d",
@@ -1419,6 +1510,22 @@
       "theme_ids": [
         "models"
       ]
+    },
+    {
+      "id": "30d57ef8110f4977e11e5114",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "publisher": "OpenAI 公式",
+      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+      "published_at": "2026-11-05T00:00:00Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "90b7ae20436b868e2d352f92",
@@ -1706,7 +1813,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBZMlRhNzVKcW55V241aElzUC1ZX082MEY3VlFiQlZkZ193M0VRZFkzZTZxVGVNTDRzcFV1SlMybUIzN1VyZXhJQTQ0eG1VN0o5Zm5RaFhndnhFSVBRYmpOREtsM3N6OGZUNVMxYnc3Tlc3TjNL?oc=5",
       "publisher": "BigGo ファイナンス",
       "summary": "ITMAX、エヌビディア製チップで2027年までに1万7,000台のカメラを束ねるAI交通管制システムを構築へ BigGo ファイナンス",
-      "published_at": "2026-11-04T08:26:00Z",
+      "published_at": "2026-11-04T08:31:59Z",
       "collected_at": "2026-11-04T21:00:07.450048Z",
       "provider": null,
       "origin_kind": "media",
@@ -2228,6 +2335,22 @@
       ]
     },
     {
+      "id": "b9fb9f112649c732ab576f1c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AnthropicのIPO：AI企業評価の試金石――そして私が広範なエクスポージャーを好む理由 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0JJTzhyV08zZ3BPc0FLLW5ONWVPMFJDanVkRTctd0FRUzQtSVNuNmFEbVRiWTY5MjV0VUNyZ3lKOV9HMkRkWmQwMDFGdHBIeVlYSW91NWZRZzRvUHNScjRNYnhSQ3pyblRxeW51WEtLNWNsNVRMOEZVaXhOTGVDT3JTNV9VUG9QVFIwQnVGemhCY0pDbFhKai0xWHdTR0FTR1ZaM01Odw?oc=5",
+      "publisher": "Moomoo",
+      "summary": "AnthropicのIPO：AI企業評価の試金石――そして私が広範なエクスポージャーを好む理由 Moomoo",
+      "published_at": "2026-11-03T23:43:00Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "e8dc369be0819dfcc4731938",
       "category": "tech",
       "source_id": "tech",
@@ -2290,6 +2413,25 @@
       "summary": "Google、生徒用の「学校用アカウント」で検索やGeminiを標準オフに CNET Japan",
       "published_at": "2026-11-03T23:10:00Z",
       "collected_at": "2026-11-04T21:00:07.450048Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
+      "id": "4aadf2aa0b389441a1ed37c3",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、生徒用の「学校用アカウント」で検索やGeminiを標準オフに - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZRWxVazZLTkthSkt2LWs3WlV4eWdIeEg3R3RZMkpsU01yOFREU2lpYXZncVFuME9EZ1M1eTdQaHdZREVqY2xyb29VUmRPb2g3ZGF6b0pLYWNZVzFWTWRXZkRVcnNxSDQ2VVJiRnl0eHdJWWpVMk0xNW1hcnprMW8?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Google、生徒用の「学校用アカウント」で検索やGeminiを標準オフに Yahoo!ニュース",
+      "published_at": "2026-11-03T23:10:00Z",
+      "collected_at": "2026-11-06T01:27:22.297125Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -6430,24 +6572,6 @@
       ]
     },
     {
-      "id": "f17209e71fa695f4791f5b2a",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "【研究成果】AI活用で訪問看護師の精神的負担が低減 ～診療ガイドライン学習AIを用いた比較実験で検証 - 広島大学",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmUlZOTDNGTGtWTEFuY2lVREtMODk5NE4xd3Q0cEJ4RGxneE4xTlhWM2JLOFlOSUh6YnMzRzFYT2lGXy0tVlNWMmpYbnNXd3JKMncw?oc=5",
-      "publisher": "広島大学",
-      "summary": "【研究成果】AI活用で訪問看護師の精神的負担が低減 ～診療ガイドライン学習AIを用いた比較実験で検証 広島大学",
-      "published_at": "2026-10-29T01:55:38Z",
-      "collected_at": "2026-10-29T22:34:16.975976Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
-    },
-    {
       "id": "fee9776d61598a4c7cd5e8e5",
       "category": "ai",
       "source_id": "ai",
@@ -7005,6 +7129,24 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
+      ]
+    },
+    {
+      "id": "f17209e71fa695f4791f5b2a",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【研究成果】AI活用で訪問看護師の精神的負担が低減 ～診療ガイドライン学習AIを用いた比較実験で検証 - 広島大学",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmUlZOTDNGTGtWTEFuY2lVREtMODk5NE4xd3Q0cEJ4RGxneE4xTlhWM2JLOFlOSUh6YnMzRzFYT2lGXy0tVlNWMmpYbnNXd3JKMncw?oc=5",
+      "publisher": "広島大学",
+      "summary": "【研究成果】AI活用で訪問看護師の精神的負担が低減 ～診療ガイドライン学習AIを用いた比較実験で検証 広島大学",
+      "published_at": "2026-10-28T07:00:00Z",
+      "collected_at": "2026-10-29T22:34:16.975976Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -39896,12 +40038,12 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-06T06:02:34.638836+09:00",
+      "generated_at": "2026-11-06T10:27:29.460909+09:00",
       "is_complete": false,
-      "article_count": 165,
+      "article_count": 173,
       "category_counts": {
+        "ai": 87,
         "tech": 43,
-        "ai": 79,
         "parenting": 43
       },
       "overview": "Mistralは企業向けStudioで、手順を記したスキル、コード実行環境、サブエージェントを設定できる管理型エージェントと、業務イベントによる起動・処理可視化を発表した。クラウド、専用VPC、自社設備での展開に対応するとしている。既存顧客のStudio本番利用は示されているが、新機能すべての導入実績や利用条件は不明。OpenAIのGPT‑6 Cyberは脆弱性の発見・検証・修正を支援し、提供元評価で性能向上を報告したが、参加対象の拡大は目標段階で、一般提供範囲は確定できない。 NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用環境を作る事例を紹介した。成果は実験・プロトタイプ段階で、実機性能や開発時間の短縮は示されていない。別記事ではAI基盤運営者向けに、NVFP4による重み・KVキャッシュ圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定負荷での結果で、各構成の提供時期は不明。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningのClassroomでの世界展開を開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価。Google.orgは教師向けAIなどを開発する団体への助成も発表したが、初期読解支援の対象年齢や提供時期、学習効果は示していない。",
@@ -39909,7 +40051,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -39920,23 +40062,23 @@
         ],
         "errors": [
           {
+            "article_id": "b123e14f1bce0630c3c07761",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "3a58a2b637c265fce544f78e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "ddc140613e7c969bf75ced2b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "30d57ef8110f4977e11e5114",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "9771416a7fcd9d1a88f5d431",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "77bc0868fdde07365f4e7b17",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "895d0a4731206e7c40c20dee",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "b0cf35cfb2230650ae25cf62",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "04cff4be408229136cf83384",
             "stage": "original_fetch"
           }
         ],
@@ -39952,7 +40094,7 @@
           "errors": [],
           "last_success_at": "2026-11-05T21:00:18.519593+00:00"
         },
-        "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
       },
       "genre_briefs": [
         {
@@ -40159,26 +40301,31 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 64,
+          "count": 71,
           "publisher_count": 28,
           "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
           "evidence_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a",
-            "fedca01a80f7222ddc3e3f8d"
+            "5476360b2e56c2c98645298a"
           ],
           "article_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
+            "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
             "a695c90fcb89a16e3e8342c9",
+            "6ce624ce46f28c18827b4339",
             "ec96332878f44bcf9320a924",
+            "ddc140613e7c969bf75ced2b",
+            "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
             "30429c3e0ce92f9ac905bf52",
@@ -40196,8 +40343,10 @@
             "ff9a882c609c95f43d813c84",
             "77bc0868fdde07365f4e7b17",
             "895d0a4731206e7c40c20dee",
+            "b9fb9f112649c732ab576f1c",
             "0264bf4085c45b44d1d9b57b",
             "fee9029837f7b81d5b1ed60c",
+            "4aadf2aa0b389441a1ed37c3",
             "1e7b1d9a3df537e233eb1432",
             "35071312658b94dbeaaf0c1c",
             "004aced0723a87061e40c949",
@@ -40369,15 +40518,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 15,
+          "count": 16,
           "publisher_count": 12,
           "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
           "evidence_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
-            "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b"
           ],
           "article_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
@@ -40475,6 +40625,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "236b667674825bb26e60281a",
+        "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
         "badda310cca07906cc76c487",
@@ -40489,6 +40641,7 @@
         "55796f5d33eea9e47f5a7706",
         "fedca01a80f7222ddc3e3f8d",
         "becc23512e6adc0a640ab61b",
+        "3a58a2b637c265fce544f78e",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -40503,15 +40656,18 @@
         "c9ac43b76060c31a7415d34a",
         "b493b255fa1d8eeaa4793a6b",
         "a695c90fcb89a16e3e8342c9",
+        "6ce624ce46f28c18827b4339",
         "16bdeae80cd9be053bae3c48",
         "ec96332878f44bcf9320a924",
         "9a61e28eeb672ca9ae706392",
         "c13aabaaff19bb57bccb0eed",
+        "ddc140613e7c969bf75ced2b",
         "8c21647d163f72916f2e1c1d",
         "a7dfa46e9c13d39446f931b1",
         "0c4520c9041e0b6ad87127ba",
         "d649b1f72b526f8dbfb4b192",
         "2d74012b20661e371118d081",
+        "30d57ef8110f4977e11e5114",
         "90b7ae20436b868e2d352f92",
         "dea0009e30e16a2ef0515eb1",
         "8cd97509142723cd48ed14a4",
@@ -40554,10 +40710,12 @@
         "1af51c555af907e55c490d27",
         "77bc0868fdde07365f4e7b17",
         "895d0a4731206e7c40c20dee",
+        "b9fb9f112649c732ab576f1c",
         "e8dc369be0819dfcc4731938",
         "6e7007279773425e393d3e45",
         "0264bf4085c45b44d1d9b57b",
         "fee9029837f7b81d5b1ed60c",
+        "4aadf2aa0b389441a1ed37c3",
         "52016182f887214a8babd780",
         "592b28560bad816dd1b2288e",
         "3fc8a13b3c55d4c6cc7b37ce",
@@ -40647,12 +40805,12 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-06T06:02:34.638836+09:00",
+      "generated_at": "2026-11-06T10:27:29.460909+09:00",
       "is_complete": false,
-      "article_count": 184,
+      "article_count": 192,
       "category_counts": {
+        "ai": 93,
         "tech": 46,
-        "ai": 85,
         "parenting": 53
       },
       "overview": "Mistralは企業向けStudioで、手順を記すスキル、コード実行環境、サブエージェントを備えた管理型エージェントと、業務イベントから起動し処理を可視化するワークフローの拡充を発表した。クラウド、専用VPC、自社設備で展開できるが、既存顧客の本番利用は新機能すべての導入実績を示さず、各機能の利用条件も不明だ。 NVIDIAはAI基盤運営者向けに、NVFP4で重みとKVキャッシュを圧縮し、重みを最大72基のGPUへ分散し、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定モデル・負荷・生成速度条件での比較で、各構成の提供時期は確定できない。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、ウェブ教材のみの群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果を示してはいない。",
@@ -40660,7 +40818,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -40671,23 +40829,23 @@
         ],
         "errors": [
           {
+            "article_id": "b123e14f1bce0630c3c07761",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "3a58a2b637c265fce544f78e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "ddc140613e7c969bf75ced2b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "30d57ef8110f4977e11e5114",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "9771416a7fcd9d1a88f5d431",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "77bc0868fdde07365f4e7b17",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "895d0a4731206e7c40c20dee",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "b0cf35cfb2230650ae25cf62",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "04cff4be408229136cf83384",
             "stage": "original_fetch"
           }
         ],
@@ -40703,7 +40861,7 @@
           "errors": [],
           "last_success_at": "2026-11-05T21:00:18.519593+00:00"
         },
-        "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
       },
       "genre_briefs": [
         {
@@ -40910,26 +41068,31 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 68,
+          "count": 75,
           "publisher_count": 28,
           "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
           "evidence_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a",
-            "fedca01a80f7222ddc3e3f8d"
+            "5476360b2e56c2c98645298a"
           ],
           "article_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
+            "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
             "a695c90fcb89a16e3e8342c9",
+            "6ce624ce46f28c18827b4339",
             "ec96332878f44bcf9320a924",
+            "ddc140613e7c969bf75ced2b",
+            "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
             "30429c3e0ce92f9ac905bf52",
@@ -40947,8 +41110,10 @@
             "ff9a882c609c95f43d813c84",
             "77bc0868fdde07365f4e7b17",
             "895d0a4731206e7c40c20dee",
+            "b9fb9f112649c732ab576f1c",
             "0264bf4085c45b44d1d9b57b",
             "fee9029837f7b81d5b1ed60c",
+            "4aadf2aa0b389441a1ed37c3",
             "1e7b1d9a3df537e233eb1432",
             "35071312658b94dbeaaf0c1c",
             "004aced0723a87061e40c949",
@@ -41137,15 +41302,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 17,
+          "count": 18,
           "publisher_count": 14,
           "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
           "evidence_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
-            "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b"
           ],
           "article_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
@@ -41239,6 +41405,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "236b667674825bb26e60281a",
+        "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
         "badda310cca07906cc76c487",
@@ -41253,6 +41421,7 @@
         "55796f5d33eea9e47f5a7706",
         "fedca01a80f7222ddc3e3f8d",
         "becc23512e6adc0a640ab61b",
+        "3a58a2b637c265fce544f78e",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -41267,15 +41436,18 @@
         "c9ac43b76060c31a7415d34a",
         "b493b255fa1d8eeaa4793a6b",
         "a695c90fcb89a16e3e8342c9",
+        "6ce624ce46f28c18827b4339",
         "16bdeae80cd9be053bae3c48",
         "ec96332878f44bcf9320a924",
         "9a61e28eeb672ca9ae706392",
         "c13aabaaff19bb57bccb0eed",
+        "ddc140613e7c969bf75ced2b",
         "8c21647d163f72916f2e1c1d",
         "a7dfa46e9c13d39446f931b1",
         "0c4520c9041e0b6ad87127ba",
         "d649b1f72b526f8dbfb4b192",
         "2d74012b20661e371118d081",
+        "30d57ef8110f4977e11e5114",
         "90b7ae20436b868e2d352f92",
         "dea0009e30e16a2ef0515eb1",
         "8cd97509142723cd48ed14a4",
@@ -41318,10 +41490,12 @@
         "1af51c555af907e55c490d27",
         "77bc0868fdde07365f4e7b17",
         "895d0a4731206e7c40c20dee",
+        "b9fb9f112649c732ab576f1c",
         "e8dc369be0819dfcc4731938",
         "6e7007279773425e393d3e45",
         "0264bf4085c45b44d1d9b57b",
         "fee9029837f7b81d5b1ed60c",
+        "4aadf2aa0b389441a1ed37c3",
         "52016182f887214a8babd780",
         "592b28560bad816dd1b2288e",
         "3fc8a13b3c55d4c6cc7b37ce",
@@ -41430,7 +41604,7 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-11-06T06:02:34.638836+09:00",
+      "generated_at": "2026-11-06T10:27:29.460909+09:00",
       "is_complete": true,
       "article_count": 317,
       "category_counts": {
@@ -41443,7 +41617,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -41454,23 +41628,23 @@
         ],
         "errors": [
           {
+            "article_id": "b123e14f1bce0630c3c07761",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "3a58a2b637c265fce544f78e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "ddc140613e7c969bf75ced2b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "30d57ef8110f4977e11e5114",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "9771416a7fcd9d1a88f5d431",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "77bc0868fdde07365f4e7b17",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "895d0a4731206e7c40c20dee",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "b0cf35cfb2230650ae25cf62",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "04cff4be408229136cf83384",
             "stage": "original_fetch"
           }
         ],
@@ -41486,7 +41660,7 @@
           "errors": [],
           "last_success_at": "2026-11-05T21:00:18.519593+00:00"
         },
-        "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
       },
       "genre_briefs": [
         {
@@ -41996,7 +42170,6 @@
             "a4a9354d1168cdb2f3ea9994",
             "2bf0c49ae105d81e42120c4b",
             "15aef3933d1b053c3a00eb96",
-            "f17209e71fa695f4791f5b2a",
             "9307073570a2f046846846de",
             "ef4ccdcbc713a4183702b905",
             "48572180c7d6e0994bba249f",
@@ -42004,6 +42177,7 @@
             "52750e1c5c6720e6403bda95",
             "5bcd1fe7c3e5a8afb2af5dac",
             "df1ac61fae2f6367cde922d2",
+            "f17209e71fa695f4791f5b2a",
             "795a4e1ba59092846a07ab2d",
             "41c2da9d7d65a7702916c992",
             "8a049a5878cca6d21f736f6a",
@@ -42278,7 +42452,6 @@
         "15aef3933d1b053c3a00eb96",
         "4b53e6e9cfc964a470e3c407",
         "a3d9cab0206f553eb767e266",
-        "f17209e71fa695f4791f5b2a",
         "fee9776d61598a4c7cd5e8e5",
         "dd80c43efe5e286197836fef",
         "4bcab471fcb50bb23ebaf7fa",
@@ -42310,6 +42483,7 @@
         "df1ac61fae2f6367cde922d2",
         "78e2112a0018d09160fb45e3",
         "f6bffff22c51eb9fd5f93cd8",
+        "f17209e71fa695f4791f5b2a",
         "998f3d694f7dcd2f26bbedd8",
         "4c42c8e5e3a02ad940887352",
         "3451aa59a64663fb83acdb75",
@@ -44964,7 +45138,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-06T06:02:34.638836+09:00",
+      "generated_at": "2026-11-06T10:27:29.460909+09:00",
       "is_complete": true,
       "article_count": 1118,
       "category_counts": {
@@ -44977,7 +45151,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -44988,23 +45162,23 @@
         ],
         "errors": [
           {
+            "article_id": "b123e14f1bce0630c3c07761",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "3a58a2b637c265fce544f78e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "ddc140613e7c969bf75ced2b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "30d57ef8110f4977e11e5114",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "9771416a7fcd9d1a88f5d431",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "77bc0868fdde07365f4e7b17",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "895d0a4731206e7c40c20dee",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "b0cf35cfb2230650ae25cf62",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "04cff4be408229136cf83384",
             "stage": "original_fetch"
           }
         ],
@@ -45020,7 +45194,7 @@
           "errors": [],
           "last_success_at": "2026-11-05T21:00:18.519593+00:00"
         },
-        "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
       },
       "genre_briefs": [
         {
@@ -46039,7 +46213,6 @@
             "a4a9354d1168cdb2f3ea9994",
             "2bf0c49ae105d81e42120c4b",
             "15aef3933d1b053c3a00eb96",
-            "f17209e71fa695f4791f5b2a",
             "9307073570a2f046846846de",
             "ef4ccdcbc713a4183702b905",
             "48572180c7d6e0994bba249f",
@@ -46047,6 +46220,7 @@
             "52750e1c5c6720e6403bda95",
             "5bcd1fe7c3e5a8afb2af5dac",
             "df1ac61fae2f6367cde922d2",
+            "f17209e71fa695f4791f5b2a",
             "795a4e1ba59092846a07ab2d",
             "41c2da9d7d65a7702916c992",
             "8a049a5878cca6d21f736f6a",
@@ -46558,7 +46732,6 @@
         "15aef3933d1b053c3a00eb96",
         "4b53e6e9cfc964a470e3c407",
         "a3d9cab0206f553eb767e266",
-        "f17209e71fa695f4791f5b2a",
         "fee9776d61598a4c7cd5e8e5",
         "dd80c43efe5e286197836fef",
         "4bcab471fcb50bb23ebaf7fa",
@@ -46590,6 +46763,7 @@
         "df1ac61fae2f6367cde922d2",
         "78e2112a0018d09160fb45e3",
         "f6bffff22c51eb9fd5f93cd8",
+        "f17209e71fa695f4791f5b2a",
         "998f3d694f7dcd2f26bbedd8",
         "4c42c8e5e3a02ad940887352",
         "3451aa59a64663fb83acdb75",
@@ -50544,12 +50718,12 @@
       "kind": "overview",
       "period_start": "2026-10-31",
       "period_end": "2026-11-06",
-      "generated_at": "2026-11-06T06:02:34.638836+09:00",
+      "generated_at": "2026-11-06T10:27:29.460909+09:00",
       "is_complete": false,
-      "article_count": 206,
+      "article_count": 214,
       "category_counts": {
+        "ai": 103,
         "tech": 52,
-        "ai": 95,
         "parenting": 59
       },
       "overview": "Mistralは企業向けStudioで、手順を指定するスキル、コード実行環境、サブエージェント、業務イベントによる起動と処理の可視化を拡充すると発表した。クラウド・専用VPC・自社設備での展開に対応するが、既存顧客の本番利用が新機能すべての導入実績を示すわけではなく、料金や機能別の利用条件は不明。 NVIDIAは、自然言語で指示するAIエージェントとOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転向けの試験環境を作る事例を紹介した。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。成果は個別の試作・実験であり、新製品の一般提供や実機での性能を示すものではない。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをClassroomで世界向けに展開開始し、教師による課題の割り当てと学習状況の把握を可能にした。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価である。",
@@ -50557,7 +50731,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -50568,23 +50742,23 @@
         ],
         "errors": [
           {
+            "article_id": "b123e14f1bce0630c3c07761",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "3a58a2b637c265fce544f78e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "ddc140613e7c969bf75ced2b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "30d57ef8110f4977e11e5114",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "9771416a7fcd9d1a88f5d431",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "77bc0868fdde07365f4e7b17",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "895d0a4731206e7c40c20dee",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "b0cf35cfb2230650ae25cf62",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "04cff4be408229136cf83384",
             "stage": "original_fetch"
           }
         ],
@@ -50600,7 +50774,7 @@
           "errors": [],
           "last_success_at": "2026-11-05T21:00:18.519593+00:00"
         },
-        "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
       },
       "genre_briefs": [
         {
@@ -50807,26 +50981,31 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 78,
+          "count": 85,
           "publisher_count": 32,
           "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
           "evidence_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a",
-            "fedca01a80f7222ddc3e3f8d"
+            "5476360b2e56c2c98645298a"
           ],
           "article_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
+            "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
             "a695c90fcb89a16e3e8342c9",
+            "6ce624ce46f28c18827b4339",
             "ec96332878f44bcf9320a924",
+            "ddc140613e7c969bf75ced2b",
+            "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
             "30429c3e0ce92f9ac905bf52",
@@ -50844,8 +51023,10 @@
             "ff9a882c609c95f43d813c84",
             "77bc0868fdde07365f4e7b17",
             "895d0a4731206e7c40c20dee",
+            "b9fb9f112649c732ab576f1c",
             "0264bf4085c45b44d1d9b57b",
             "fee9029837f7b81d5b1ed60c",
+            "4aadf2aa0b389441a1ed37c3",
             "1e7b1d9a3df537e233eb1432",
             "35071312658b94dbeaaf0c1c",
             "004aced0723a87061e40c949",
@@ -51056,15 +51237,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 17,
+          "count": 18,
           "publisher_count": 14,
           "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
           "evidence_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
-            "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b"
           ],
           "article_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
@@ -51158,6 +51340,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "236b667674825bb26e60281a",
+        "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
         "badda310cca07906cc76c487",
@@ -51172,6 +51356,7 @@
         "55796f5d33eea9e47f5a7706",
         "fedca01a80f7222ddc3e3f8d",
         "becc23512e6adc0a640ab61b",
+        "3a58a2b637c265fce544f78e",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -51186,15 +51371,18 @@
         "c9ac43b76060c31a7415d34a",
         "b493b255fa1d8eeaa4793a6b",
         "a695c90fcb89a16e3e8342c9",
+        "6ce624ce46f28c18827b4339",
         "16bdeae80cd9be053bae3c48",
         "ec96332878f44bcf9320a924",
         "9a61e28eeb672ca9ae706392",
         "c13aabaaff19bb57bccb0eed",
+        "ddc140613e7c969bf75ced2b",
         "8c21647d163f72916f2e1c1d",
         "a7dfa46e9c13d39446f931b1",
         "0c4520c9041e0b6ad87127ba",
         "d649b1f72b526f8dbfb4b192",
         "2d74012b20661e371118d081",
+        "30d57ef8110f4977e11e5114",
         "90b7ae20436b868e2d352f92",
         "dea0009e30e16a2ef0515eb1",
         "8cd97509142723cd48ed14a4",
@@ -51237,10 +51425,12 @@
         "1af51c555af907e55c490d27",
         "77bc0868fdde07365f4e7b17",
         "895d0a4731206e7c40c20dee",
+        "b9fb9f112649c732ab576f1c",
         "e8dc369be0819dfcc4731938",
         "6e7007279773425e393d3e45",
         "0264bf4085c45b44d1d9b57b",
         "fee9029837f7b81d5b1ed60c",
+        "4aadf2aa0b389441a1ed37c3",
         "52016182f887214a8babd780",
         "592b28560bad816dd1b2288e",
         "3fc8a13b3c55d4c6cc7b37ce",
@@ -51371,12 +51561,12 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-06T06:02:34.638836+09:00",
+      "generated_at": "2026-11-06T10:27:29.460909+09:00",
       "is_complete": false,
-      "article_count": 165,
+      "article_count": 173,
       "category_counts": {
+        "ai": 87,
         "tech": 43,
-        "ai": 79,
         "parenting": 43
       },
       "overview": "Mistralは企業向けStudioで、手順を記したスキル、コード実行環境、サブエージェントを設定できる管理型エージェントと、業務イベントによる起動・処理可視化を発表した。クラウド、専用VPC、自社設備での展開に対応するとしている。既存顧客のStudio本番利用は示されているが、新機能すべての導入実績や利用条件は不明。OpenAIのGPT‑6 Cyberは脆弱性の発見・検証・修正を支援し、提供元評価で性能向上を報告したが、参加対象の拡大は目標段階で、一般提供範囲は確定できない。 NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用環境を作る事例を紹介した。成果は実験・プロトタイプ段階で、実機性能や開発時間の短縮は示されていない。別記事ではAI基盤運営者向けに、NVFP4による重み・KVキャッシュ圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定負荷での結果で、各構成の提供時期は不明。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningのClassroomでの世界展開を開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価。Google.orgは教師向けAIなどを開発する団体への助成も発表したが、初期読解支援の対象年齢や提供時期、学習効果は示していない。",
@@ -51384,7 +51574,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -51395,23 +51585,23 @@
         ],
         "errors": [
           {
+            "article_id": "b123e14f1bce0630c3c07761",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "3a58a2b637c265fce544f78e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "ddc140613e7c969bf75ced2b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "30d57ef8110f4977e11e5114",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "9771416a7fcd9d1a88f5d431",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "77bc0868fdde07365f4e7b17",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "895d0a4731206e7c40c20dee",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "b0cf35cfb2230650ae25cf62",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "04cff4be408229136cf83384",
             "stage": "original_fetch"
           }
         ],
@@ -51427,7 +51617,7 @@
           "errors": [],
           "last_success_at": "2026-11-05T21:00:18.519593+00:00"
         },
-        "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
       },
       "genre_briefs": [
         {
@@ -51634,26 +51824,31 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 64,
+          "count": 71,
           "publisher_count": 28,
           "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
           "evidence_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a",
-            "fedca01a80f7222ddc3e3f8d"
+            "5476360b2e56c2c98645298a"
           ],
           "article_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
+            "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
             "a695c90fcb89a16e3e8342c9",
+            "6ce624ce46f28c18827b4339",
             "ec96332878f44bcf9320a924",
+            "ddc140613e7c969bf75ced2b",
+            "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
             "30429c3e0ce92f9ac905bf52",
@@ -51671,8 +51866,10 @@
             "ff9a882c609c95f43d813c84",
             "77bc0868fdde07365f4e7b17",
             "895d0a4731206e7c40c20dee",
+            "b9fb9f112649c732ab576f1c",
             "0264bf4085c45b44d1d9b57b",
             "fee9029837f7b81d5b1ed60c",
+            "4aadf2aa0b389441a1ed37c3",
             "1e7b1d9a3df537e233eb1432",
             "35071312658b94dbeaaf0c1c",
             "004aced0723a87061e40c949",
@@ -51844,15 +52041,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 15,
+          "count": 16,
           "publisher_count": 12,
           "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
           "evidence_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
-            "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b"
           ],
           "article_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
@@ -51950,6 +52148,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "236b667674825bb26e60281a",
+        "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
         "badda310cca07906cc76c487",
@@ -51964,6 +52164,7 @@
         "55796f5d33eea9e47f5a7706",
         "fedca01a80f7222ddc3e3f8d",
         "becc23512e6adc0a640ab61b",
+        "3a58a2b637c265fce544f78e",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -51978,15 +52179,18 @@
         "c9ac43b76060c31a7415d34a",
         "b493b255fa1d8eeaa4793a6b",
         "a695c90fcb89a16e3e8342c9",
+        "6ce624ce46f28c18827b4339",
         "16bdeae80cd9be053bae3c48",
         "ec96332878f44bcf9320a924",
         "9a61e28eeb672ca9ae706392",
         "c13aabaaff19bb57bccb0eed",
+        "ddc140613e7c969bf75ced2b",
         "8c21647d163f72916f2e1c1d",
         "a7dfa46e9c13d39446f931b1",
         "0c4520c9041e0b6ad87127ba",
         "d649b1f72b526f8dbfb4b192",
         "2d74012b20661e371118d081",
+        "30d57ef8110f4977e11e5114",
         "90b7ae20436b868e2d352f92",
         "dea0009e30e16a2ef0515eb1",
         "8cd97509142723cd48ed14a4",
@@ -52029,10 +52233,12 @@
         "1af51c555af907e55c490d27",
         "77bc0868fdde07365f4e7b17",
         "895d0a4731206e7c40c20dee",
+        "b9fb9f112649c732ab576f1c",
         "e8dc369be0819dfcc4731938",
         "6e7007279773425e393d3e45",
         "0264bf4085c45b44d1d9b57b",
         "fee9029837f7b81d5b1ed60c",
+        "4aadf2aa0b389441a1ed37c3",
         "52016182f887214a8babd780",
         "592b28560bad816dd1b2288e",
         "3fc8a13b3c55d4c6cc7b37ce",
@@ -52122,12 +52328,12 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-06T06:02:34.638836+09:00",
+      "generated_at": "2026-11-06T10:27:29.460909+09:00",
       "is_complete": false,
-      "article_count": 184,
+      "article_count": 192,
       "category_counts": {
+        "ai": 93,
         "tech": 46,
-        "ai": 85,
         "parenting": 53
       },
       "overview": "Mistralは企業向けStudioで、手順を記すスキル、コード実行環境、サブエージェントを備えた管理型エージェントと、業務イベントから起動し処理を可視化するワークフローの拡充を発表した。クラウド、専用VPC、自社設備で展開できるが、既存顧客の本番利用は新機能すべての導入実績を示さず、各機能の利用条件も不明だ。 NVIDIAはAI基盤運営者向けに、NVFP4で重みとKVキャッシュを圧縮し、重みを最大72基のGPUへ分散し、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定モデル・負荷・生成速度条件での比較で、各構成の提供時期は確定できない。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、ウェブ教材のみの群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果を示してはいない。",
@@ -52135,7 +52341,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -52146,23 +52352,23 @@
         ],
         "errors": [
           {
+            "article_id": "b123e14f1bce0630c3c07761",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "3a58a2b637c265fce544f78e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "ddc140613e7c969bf75ced2b",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "30d57ef8110f4977e11e5114",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "9771416a7fcd9d1a88f5d431",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "77bc0868fdde07365f4e7b17",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "895d0a4731206e7c40c20dee",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "b0cf35cfb2230650ae25cf62",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "04cff4be408229136cf83384",
             "stage": "original_fetch"
           }
         ],
@@ -52178,7 +52384,7 @@
           "errors": [],
           "last_success_at": "2026-11-05T21:00:18.519593+00:00"
         },
-        "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
       },
       "genre_briefs": [
         {
@@ -52385,26 +52591,31 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 68,
+          "count": 75,
           "publisher_count": 28,
           "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
           "evidence_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a",
-            "fedca01a80f7222ddc3e3f8d"
+            "5476360b2e56c2c98645298a"
           ],
           "article_ids": [
+            "236b667674825bb26e60281a",
             "062b7d9fdc16c39468980f7d",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
+            "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
             "a695c90fcb89a16e3e8342c9",
+            "6ce624ce46f28c18827b4339",
             "ec96332878f44bcf9320a924",
+            "ddc140613e7c969bf75ced2b",
+            "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
             "30429c3e0ce92f9ac905bf52",
@@ -52422,8 +52633,10 @@
             "ff9a882c609c95f43d813c84",
             "77bc0868fdde07365f4e7b17",
             "895d0a4731206e7c40c20dee",
+            "b9fb9f112649c732ab576f1c",
             "0264bf4085c45b44d1d9b57b",
             "fee9029837f7b81d5b1ed60c",
+            "4aadf2aa0b389441a1ed37c3",
             "1e7b1d9a3df537e233eb1432",
             "35071312658b94dbeaaf0c1c",
             "004aced0723a87061e40c949",
@@ -52612,15 +52825,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 17,
+          "count": 18,
           "publisher_count": 14,
           "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
           "evidence_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
-            "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b"
           ],
           "article_ids": [
+            "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
@@ -52714,6 +52928,8 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "236b667674825bb26e60281a",
+        "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
         "badda310cca07906cc76c487",
@@ -52728,6 +52944,7 @@
         "55796f5d33eea9e47f5a7706",
         "fedca01a80f7222ddc3e3f8d",
         "becc23512e6adc0a640ab61b",
+        "3a58a2b637c265fce544f78e",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -52742,15 +52959,18 @@
         "c9ac43b76060c31a7415d34a",
         "b493b255fa1d8eeaa4793a6b",
         "a695c90fcb89a16e3e8342c9",
+        "6ce624ce46f28c18827b4339",
         "16bdeae80cd9be053bae3c48",
         "ec96332878f44bcf9320a924",
         "9a61e28eeb672ca9ae706392",
         "c13aabaaff19bb57bccb0eed",
+        "ddc140613e7c969bf75ced2b",
         "8c21647d163f72916f2e1c1d",
         "a7dfa46e9c13d39446f931b1",
         "0c4520c9041e0b6ad87127ba",
         "d649b1f72b526f8dbfb4b192",
         "2d74012b20661e371118d081",
+        "30d57ef8110f4977e11e5114",
         "90b7ae20436b868e2d352f92",
         "dea0009e30e16a2ef0515eb1",
         "8cd97509142723cd48ed14a4",
@@ -52793,10 +53013,12 @@
         "1af51c555af907e55c490d27",
         "77bc0868fdde07365f4e7b17",
         "895d0a4731206e7c40c20dee",
+        "b9fb9f112649c732ab576f1c",
         "e8dc369be0819dfcc4731938",
         "6e7007279773425e393d3e45",
         "0264bf4085c45b44d1d9b57b",
         "fee9029837f7b81d5b1ed60c",
+        "4aadf2aa0b389441a1ed37c3",
         "52016182f887214a8babd780",
         "592b28560bad816dd1b2288e",
         "3fc8a13b3c55d4c6cc7b37ce",
@@ -52901,10 +53123,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-11-06T06:02:34.638836+09:00",
+  "report_updated_at": "2026-11-06T10:27:29.460909+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-05T21:02:34.393137+00:00",
+    "attempted_at": "2026-11-06T01:27:29.181533+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -52915,23 +53137,23 @@
     ],
     "errors": [
       {
+        "article_id": "b123e14f1bce0630c3c07761",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "3a58a2b637c265fce544f78e",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "ddc140613e7c969bf75ced2b",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "30d57ef8110f4977e11e5114",
+        "stage": "original_fetch"
+      },
+      {
         "article_id": "9771416a7fcd9d1a88f5d431",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "77bc0868fdde07365f4e7b17",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "895d0a4731206e7c40c20dee",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "b0cf35cfb2230650ae25cf62",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "04cff4be408229136cf83384",
         "stage": "original_fetch"
       }
     ],
@@ -52947,7 +53169,7 @@
       "errors": [],
       "last_success_at": "2026-11-05T21:00:18.519593+00:00"
     },
-    "last_success_at": "2026-11-05T21:02:34.393137+00:00"
+    "last_success_at": "2026-11-06T01:27:29.181533+00:00"
   },
   "topic_definitions": [
     {
@@ -53465,8 +53687,8 @@
     ]
   },
   "picks": [
-    "062b7d9fdc16c39468980f7d",
-    "716dbc2817426bfca0266458",
+    "236b667674825bb26e60281a",
+    "b123e14f1bce0630c3c07761",
     "6f6cc2a9fd6a9c033d177351",
     "badda310cca07906cc76c487",
     "92eb98f100e3dca81af2a2e5",
