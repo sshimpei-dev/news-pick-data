@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-06T01:27:22.297125Z",
-  "last_attempt_at": "2026-11-06T01:27:22.297125Z",
+  "updated_at": "2026-11-06T21:02:01.288641Z",
+  "last_attempt_at": "2026-11-06T21:02:01.288641Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,23 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-06T01:27:22.297125Z",
+      "checked_at": "2026-11-06T21:02:01.288641Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-06T21:02:01.288641Z",
+      "new_count": 0,
+      "status": "partial"
+    },
+    {
+      "at": "2026-11-06T21:00:07.713533Z",
+      "new_count": 38,
+      "status": "partial"
+    },
     {
       "at": "2026-11-06T01:27:22.297125Z",
       "new_count": 8,
@@ -743,6 +753,498 @@
   ],
   "articles": [
     {
+      "id": "82a22eba784ac22b81538c98",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "DeepSeekなど中国AIの収益、米AI2社の10分の1 計算資源節約で克服 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoVlhPX0tENUtjbzlyY3daY09zT2liZFdjWEl2S0NwNGk3RzhGaFF6WFlXYlhkQ3djak9jVmhUcUdyajFVb0lhaGNPTXpVdXdIcHRHN01iVUpwcF91eDdLOUlXR0hJVmEyVlltdg?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "DeepSeekなど中国AIの収益、米AI2社の10分の1 計算資源節約で克服 日本経済新聞",
+      "published_at": "2026-11-06T20:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "c9361a8e3e5ec195eda7d45f",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "人工知能（AI）カメラ市場、2035年までの予測：産業自動化と小売分析の需要が成長を加速 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbWFRMDdON3lfWUVXYjBIaFBQT2hhVHJmWTdtQVRMVzUySFN2eTFYbE9XOW9yRmVKVFZnOHh6d1BHMzJTT0VJUG1zV1ZUUVFUdjR1UUU1ZVVJdUlmSExqcDRUNktEWE1LOHMyZ2tIbGlUb3ZvbEdnaUZaUzRZUVJXRjFkTmt6TGpsMk1FQkRRcl8tWXhlSmlybjMtdGQ0YjJjRmFhRHVRbjB3eVFjeHZqa0dVNU5Bb25BdUNOYVVVdmtaNGswckVKMHI4cGNqR1QzbC1lVFhKM2pHa2R3MlhrQkNMWWlQNTJsWDlUSG1GT0NIbVE?oc=5",
+      "publisher": "IndexBox",
+      "summary": "人工知能（AI）カメラ市場、2035年までの予測：産業自動化と小売分析の需要が成長を加速 IndexBox",
+      "published_at": "2026-11-06T18:21:04Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "97e5d2da49d7b6ca6716710e",
+      "category": "tech",
+      "source_id": "nvidia",
+      "title": "How NVIDIA Open Source Tools Are Helping Researchers Build Next-Generation 6G Networks",
+      "url": "https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/",
+      "publisher": "NVIDIA 公式ブログ",
+      "summary": "A year ago, NVIDIA open sourced its Aerial wireless software, joining Sionna and a broader suite of open source tools for accelerating next-generation 6G network development. Together, they give researchers a foundation for testing ideas, comparing results and building on each other’s work — connecting simulation and AI training with experiments on real over-the-air wireless […]",
+      "published_at": "2026-11-06T16:00:35Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": "NVIDIA",
+      "origin_kind": "official",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "f7b661573ce6d63d07845eb2",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Claudeが「家計簿」化！ OpenAIのサイバー特化モデルにGoogleの動画生成AI発表も【AIニュース3選】（リアルサウンド） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KbFRHdjNPTkp4RTR1YTI2eU80a1VGTVFFM2NObHQzZ0g3MTRfQ2RLUmxfRllZbTVmbHZrSE5KaGZRMEVsTy1QU2R5VWlIWktkWDQ5bExCOV9EcjR0OGNnZGFObWxxNnRsMXZFN3p6NldNWmczbXNqOWFmRE5qV1E?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Claudeが「家計簿」化！ OpenAIのサイバー特化モデルにGoogleの動画生成AI発表も【AIニュース3選】（リアルサウンド） Yahoo!ニュース",
+      "published_at": "2026-11-06T12:01:48Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "3e95505f3f8c368a05732fdc",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI時代の新人教育 18社の試行錯誤 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "AI時代の新人教育 18社の試行錯誤 日経クロステック",
+      "published_at": "2026-11-06T10:11:35Z",
+      "collected_at": "2026-11-02T21:00:07.032860Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "d223bb479161a61d9f78e62a",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92THpsU2J2V1FtMURzenRKaFJkT1AtVFpmNUd5b0ZnLUlYaFJGSndRSkJ0UkgzMUR5ZmNJSWRGcEk0YXA2czRXN1lManRpREg2Y0NjVlRJNFBTRm1oSFNodENRcks?oc=5",
+      "publisher": "Impress Watch",
+      "summary": "15秒動画を生成する「Gemini Omni 1.2 Flash」 料金は30%引き下げ Impress Watch",
+      "published_at": "2026-11-06T09:16:05Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "108a75f6351e2f39e19db61d",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "publisher": "OpenAI 公式",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "published_at": "2026-11-06T08:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "8ee3315c4254da2155d759ee",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIが新モデル「GPT-6 Cyber」発表 Firefoxの未知の脆弱性検知 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zUGI5MldISi16X2ZkWmV1V0JWRmN4cUpERkd4YkdhWlNDUDRzZnVENmFzQ3ZIM0hTT1U2VEl4bm1tWHpKTW8xZ1FvNVN6S1htcjNwdGVDRUR4ZTVi?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "OpenAIが新モデル「GPT-6 Cyber」発表 Firefoxの未知の脆弱性検知 日経クロステック",
+      "published_at": "2026-11-06T08:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "8a11f33f7df7ec78516ceb2f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIの新たなセキュリティ特化モデル「GPT-6 Cyber」、攻め・守りの両面で能力が向上 - EnterpriseZine",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VcDlUMGxPWm03QmdaLTFnYS1GMEc5eXBwUC1RMjNzdU5fckJVdlFTaHd5TlNWSkZiN2FPbnZuOWIwbVA2YnRPdUh2YkVPVlg4YW5ORUxR?oc=5",
+      "publisher": "EnterpriseZine",
+      "summary": "OpenAIの新たなセキュリティ特化モデル「GPT-6 Cyber」、攻め・守りの両面で能力が向上 EnterpriseZine",
+      "published_at": "2026-11-06T07:27:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "7d0c1d3eaeb2f706c89deb54",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "見守りカメラおすすめ5選｜2025〜2026年発売の最新モデルを画質・AI検知・価格で比較 - FUNQ",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIRTlHVzJOUmxWUmNEMm9ibVFTSVdJTFRpVmNmZDJhQ2RsX19hVklSOUg3blpyU1lBcVdTMjdnN2xudW16?oc=5",
+      "publisher": "FUNQ",
+      "summary": "見守りカメラおすすめ5選｜2025〜2026年発売の最新モデルを画質・AI検知・価格で比較 FUNQ",
+      "published_at": "2026-11-06T07:22:39Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "camera",
+        "parenting"
+      ]
+    },
+    {
+      "id": "b1edd1f0d01f027ca3bc99d8",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google Classroom、Geminiの「Guided Learning」を任意の課題に追加可能に - CodeZine",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBGb3VTZ2VWSFEybktTUEtBXzRsYS14Q1lFRU9wdnk2aXUzZmVmdGFhNUdpWWJQZHZWcURmN3BzSlVSSEl3eEtjV2d3WDl4UQ?oc=5",
+      "publisher": "CodeZine",
+      "summary": "Google Classroom、Geminiの「Guided Learning」を任意の課題に追加可能に CodeZine",
+      "published_at": "2026-11-06T07:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
+      "id": "9ec2e0748cfe0605fa3c785d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "ケンコー・トキナー、ZHIYUNのAIトラッキングと革新的な内蔵ハンドグリップを備えた次世代カメラ用ジンバル「ZHIYUN WEEBILL 5」を発売 - VIDEO SALON.web",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uVHI4TXVWbElabjZJVXdzTUFVRFd1X08zMVlQdlNNTXZWbm9Jd1BoZ3NSbGRoUG9JU2Jyb3BCRmItaFZjeEdzRVctV2RVYjd3cVpXZ2JvZw?oc=5",
+      "publisher": "VIDEO SALON.web",
+      "summary": "ケンコー・トキナー、ZHIYUNのAIトラッキングと革新的な内蔵ハンドグリップを備えた次世代カメラ用ジンバル「ZHIYUN WEEBILL 5」を発売 VIDEO SALON.web",
+      "published_at": "2026-11-06T06:38:54Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "790c222f62898eb2a3d88f4d",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "手描きのモックアップから「Gemini」がコードを書いてアプリ化する機能 - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5naWY3bGhVS25penVFd3hIZzZBdDl0M25uYVNPSEJnUVRUMl9CWUdBUkY5MDhpNEtWOHFBT0k5bkVlTVZVNW5PR3FHZXNYTk1tYWtWQ2lSTGhaNDJVUDJLWnV6V1NINzA?oc=5",
+      "publisher": "ケータイ Watch",
+      "summary": "手描きのモックアップから「Gemini」がコードを書いてアプリ化する機能 ケータイ Watch",
+      "published_at": "2026-11-06T06:38:52Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "37eded9fc374f1f490fec079",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "米国中間選挙でAIデータセンターに逆風 OpenAI、Googleらが地域貢献をアピール - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8wR2x2NHRSbmNpZi1menl6VW5lMlk0dkltVHBjcjZ6NkVxTWlLMzdZcHRhQms2aExveUVzMEJGNG90bDdGaS1VdzEyY2tzdjg4LVM1VGpUWWR0MXlndm5VdXMtd3E?oc=5",
+      "publisher": "Impress Watch",
+      "summary": "米国中間選挙でAIデータセンターに逆風 OpenAI、Googleらが地域貢献をアピール Impress Watch",
+      "published_at": "2026-11-06T06:13:14Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "bec7004d77847e64b96c2237",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【注目トピックス 日本株】CRI・ミドルウェア—DMPとエッジAIカメラ向け動画圧縮で協業の基本合意 - マネーポストWEB",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHNm5WWFZhZklBRzgxYzVHYU5jZXlYNnNOX1BPVjNfQkFHYUVnSXBMeXF3c2hacjU4V3hteHMwT1FQdGdpRU5J?oc=5",
+      "publisher": "マネーポストWEB",
+      "summary": "【注目トピックス 日本株】CRI・ミドルウェア—DMPとエッジAIカメラ向け動画圧縮で協業の基本合意 マネーポストWEB",
+      "published_at": "2026-11-06T05:52:47Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "eb3776e63d3a773707ccc876",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "金融サービスチームと法務チーム向けの新しい Gemini コース - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSUppVUVZcFVVSTYxbUlNbnRZRUpwVkpYbHdtb2JJZzREYTZaOGJSUnZZRWloal9tWi1zWFVTS05XRjhnZ1JwcUZBQWlYVTdzazBoOUs4WlhrT2kzTDNhYUtjOUZtdFRkNzAzdWZjLW5iVVl6RXZXQXQ1ay1EaTdKMVY4OEhTelhLLTZzVFd1VUluNTFJX0o4U05QNThzeGJEeE54eUg2cFluWi1KazJkVGxmbEhpT3Rva204T193?oc=5",
+      "publisher": "Google Cloud",
+      "summary": "金融サービスチームと法務チーム向けの新しい Gemini コース Google Cloud",
+      "published_at": "2026-11-06T04:28:09Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "c557372306b2b9ee66a03694",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "ChatGPTの検索量、グーグルの2割とOpenAIが主張──両社の広告収益化を探る - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9KM0Y3cU9Dd3M5MTM2ekxFdFZ1Xy1Ibm42cnIwd3JycUZsbUJuVXBBR2xHemlGaDBRclBnRGdSTGk1YzZpZk84WmdyWERTMnNGXzdGMGZJQjlXUDlLcWlCRUhrR3dPSm5vanZSSnVrbmhKQUl4Z0N1TXJCU2EwN0k?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "ChatGPTの検索量、グーグルの2割とOpenAIが主張──両社の広告収益化を探る Yahoo!ニュース",
+      "published_at": "2026-11-06T03:30:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "9f872c30d15de1dbbd336ce1",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "世界初、2本目のハンドルを折りたたみ式にしたカメラジンバル AIモジュールも利用可能な「ZHIYUN WEEBILL 5」 - デジカメ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EQlNpRWg3eTh2MmlMVl9wS1FsZ1BLWHVyeW9WRHRCUlY4RWNlWEM4SWZjMTcxamFOSUIxYWZWbENxdXg3UFNPejdwMWZ6OC1mMVF2QnhLMUNOa3M1UTY0Qjg5Yw?oc=5",
+      "publisher": "デジカメ Watch",
+      "summary": "世界初、2本目のハンドルを折りたたみ式にしたカメラジンバル AIモジュールも利用可能な「ZHIYUN WEEBILL 5」 デジカメ Watch",
+      "published_at": "2026-11-06T03:08:27Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "9b811b24b7cd298bd5299506",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "関文科相 米グーグルの学校向けAI機能制限、影響を適切判断 - NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DU3hXcVJVaHYyQXNpRkVTeEJSUWE0M1V3THVMQk1IVmdpZ2dpc2E1TmVkRVdsbzg1Z1ZxMjZlSTlXZVJwNGxHRWM5WFNpaURVNlVqazZwbkU0RVJMd3Nv?oc=5",
+      "publisher": "NHKニュース",
+      "summary": "関文科相 米グーグルの学校向けAI機能制限、影響を適切判断 NHKニュース",
+      "published_at": "2026-11-06T02:48:42Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "7aef2ec4a9c54f48400d15da",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、動画生成・編集AI「Gemini Omni 1.2 Flash」を一般提供 ～最大15秒の動画に対応 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fNnRrUzBUOVRoMjVhSzZiMEtOV1pCNE9OcWtNQzFKY2d1VzlJYmx6OEhfLW5YRkN6OS1kOFptckVhWWlJUDN4RGVNbjJGem9FYl9ZMnA2Vlo5VFRralRjcUU0bmFLbXpy?oc=5",
+      "publisher": "窓の杜",
+      "summary": "Google、動画生成・編集AI「Gemini Omni 1.2 Flash」を一般提供 ～最大15秒の動画に対応 窓の杜",
+      "published_at": "2026-11-06T02:01:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "d8c3afb00af41116faf3ebff",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、データセンターの地域への約束を公表——米国各地で逆風が強まる反対意見に対応 - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT3ZkWUdVX0ZDdTRSd2xLTkVSalJRUVg1XzgxczFtX1dSd3ZVNWdZcUZZdzJIandlb0dhLXVvUlVJV2RUdjJUZERQOHd2WFVNQ1dFOUdQMkx3WERtM0M1QTRDUEh1emhVWVpuSGd4cWNiN2hoSDliM2QzZXZUZ1FKczJkZw?oc=5",
+      "publisher": "BRIDGE（ブリッジ）",
+      "summary": "OpenAI、データセンターの地域への約束を公表——米国各地で逆風が強まる反対意見に対応 BRIDGE（ブリッジ）",
+      "published_at": "2026-11-06T01:53:11Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "a06f7f6843ffddd39b703609",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、K-12の生徒アカウントでGeminiやSearchを既定でオフに、学校の管理者が有効にするまで使えない形へ - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVUl3cm9nQVZ2YzdOUjlYN3NGcHlwMGMtSTh0Q2pxbDVQb2k0eEVHWWVQTGZoT1l0eExnUEJmRjNOcFE1OUlRVVNSSWlJeExMMGxPNFAzVTJaU2VYUkJral8xQjA5Q29hVmpEQW02ejRzUHdKUmxsTzhmUGROY1BEOXRvLTNyY3o1?oc=5",
+      "publisher": "BRIDGE（ブリッジ）",
+      "summary": "Google、K-12の生徒アカウントでGeminiやSearchを既定でオフに、学校の管理者が有効にするまで使えない形へ BRIDGE（ブリッジ）",
+      "published_at": "2026-11-06T01:35:53Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
+      "id": "27501dbcf74681cf612656da",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "根拠の大半は「黒塗り」 AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査（1/2 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE44c1hMLWlXUm1TNkhKM2pnd0JMeEVGTFhsYjBsTmhEZi01azF5YndBSU1hQnFmXzNqY1JkYTJGYlNmQXA5blhWSGZsbF8ySWJxS3VDRUtQRHFpWGNkQjVjR3RiTkNVMTU3N0RVaQ?oc=5",
+      "publisher": "ITmedia",
+      "summary": "根拠の大半は「黒塗り」 AIはAI開発を加速しているか、第三者機関がAnthropic内部を調査（1/2 ページ） ITmedia",
+      "published_at": "2026-11-06T01:31:59Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "c1b0246d166bbe65f6c29627",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、画像生成「Images 2.6」を公開、生成を50%高速化しGIFの作成にも対応 - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Vc1VSYkxOSnhpMlVNbzZoaEZHYXFUSlp4OFMya1Nqc2NQb296OUVJemtLWTkwZTJUc1BuaktrVk1UUnlwdFV0SkpzeU9FRVJMVG9zZzY5ZjlSQUsyUkRmaHVyVFNSTHln?oc=5",
+      "publisher": "BRIDGE（ブリッジ）",
+      "summary": "OpenAI、画像生成「Images 2.6」を公開、生成を50%高速化しGIFの作成にも対応 BRIDGE（ブリッジ）",
+      "published_at": "2026-11-06T01:31:06Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "825bf6c46ee5885106939b77",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "丸文、エッジAIなど3分野を展示へ…EdgeTech+ 2026 - ロボスタ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tbVIyVmRPZGs5R1JCNWhZUGhnR2FLZ2YzOXBXRXVJUW93UF85RW12Q2lSc0p3c1hjVHlpWlhCY2NTWTh2Sm9EYTh6NGtWNGlaX2VvRlFPcjVybnliVEx4OVJ0X20?oc=5",
+      "publisher": "ロボスタ",
+      "summary": "丸文、エッジAIなど3分野を展示へ…EdgeTech+ 2026 ロボスタ",
+      "published_at": "2026-11-06T01:25:02Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "b1480f969a139ea7267ad4dc",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "元OpenAI CTO設立のThinking Machines、594B級新AI発表 重みは来週Apache 2.0で公開 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnRTJ3TjJ5aXlXbEN6UjdrOTRWcDN6bEpXdGV1R0FKS3ExakhiSUdQQ1BQbG4xblcxenVfSTg2MU5KSTFLeWZoUzJ1OExqUmRIb1B3?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "元OpenAI CTO設立のThinking Machines、594B級新AI発表 重みは来週Apache 2.0で公開 ビジネス+IT",
+      "published_at": "2026-11-06T01:13:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "eb4d5bf90adda097176a3459",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "publisher": "OpenAI 公式",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "published_at": "2026-11-06T00:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "9a032cf4b0d8c3ed160b2f95",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFSTVfNzJTM1RFSmk5S3ZRbGxaMDBsVjhfek1TeGxtTzgtaE9KQTZfaVRXNV9oVFZDbVlkZ1kyTG42QThqbk1Tc0tsSl9tdGltWE00dDI1UWdKbmEySEo5cGNDNG5yUWREMWc?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供 ITmedia",
+      "published_at": "2026-11-05T23:49:28Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "236b667674825bb26e60281a",
       "category": "ai",
       "source_id": "ai",
@@ -752,6 +1254,24 @@
       "summary": "不正アクセス対策の切り札に？ OpenAIが「GPT-6 Cyber」発表 脆弱性の発見力が向上 CNET Japan",
       "published_at": "2026-11-05T23:10:00Z",
       "collected_at": "2026-11-06T01:27:22.297125Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "bf9ca24e7086b8c60ab42246",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jTjBGZzlSVk95WFJxLW5lRDdwQUJuMEYwdV9UbWJuT3ZCNGxPcGhYZEpCakd4ek50X0dfTTNYWEFEMzdxMmJQRGxEaEVfVE9CaHVOU3cyTXJ5a2JsNXJOSk9NUFZKelRuSVE?oc=5",
+      "publisher": "ITmedia",
+      "summary": "OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見 ITmedia",
+      "published_at": "2026-11-05T22:57:34Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -802,7 +1322,7 @@
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xem9tTVdDV3B4N2dLdUdLTTZUZC1mQTM4VzVpRDZEZXQ1bU5PSWhoTk1fX19NU3VHVlROc2lhbjM4WnFsVjY3akNB?oc=5",
       "publisher": "LOGISTICS TODAY",
       "summary": "ホロンシステム、映像AIで作業のムダを可視化 LOGISTICS TODAY",
-      "published_at": "2026-11-05T19:41:15Z",
+      "published_at": "2026-11-05T19:45:26Z",
       "collected_at": "2026-11-05T21:00:08.113187Z",
       "provider": null,
       "origin_kind": "media",
@@ -829,6 +1349,22 @@
       "theme_ids": []
     },
     {
+      "id": "7f1d3478f61bb83999d5cf1d",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、データセンター事業の推進方法見直し－世論の反発受け - Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZZFhYZllReXRULU1qeVFocm1RUjBpa0FEdUJlbWJ0UDFTUVlSdE5ZV3VrSDBtUVBxT2NlbmlROXV0LU5FLTNPZG9rcDJxbWlsNExjQmNDd2d1dlZuenpsSUd0U3R0clFRZkxLTzZCZkZNM0llQllF?oc=5",
+      "publisher": "Bloomberg.com",
+      "summary": "OpenAI、データセンター事業の推進方法見直し－世論の反発受け Bloomberg.com",
+      "published_at": "2026-11-05T17:08:33Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "badda310cca07906cc76c487",
       "category": "tech",
       "source_id": "nvidia",
@@ -845,6 +1381,22 @@
       "theme_ids": [
         "development"
       ]
+    },
+    {
+      "id": "17ce8b8532de65db9e95cc24",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "publisher": "OpenAI 公式",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
+      "published_at": "2026-11-05T17:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "93de2d24a7e0922172eca408",
@@ -928,6 +1480,22 @@
       "collected_at": "2026-11-05T21:00:08.113187Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "7068ae8d669eaf4dbef6b82c",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AIの時代になぜ？名門校がこぞって生徒に課す「英語の宿題」の意外な中身（＠ＤＩＭＥ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVZGFYTUhQMUdjQVdDY3l4X3dHbThvVGExTUtidzNNSFFIS2ZHX3VYVXNkLU02N1hWMnpRMDJSUTBoajlia0IwN2ZCbEF0UV9DVXI0dTN1UjB1MFB0eGVNZE1oSkd0ZzJ0S25pY2FzVnJjb2dPamFzdWVIMjNtUDg?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AIの時代になぜ？名門校がこぞって生徒に課す「英語の宿題」の意外な中身（＠ＤＩＭＥ） Yahoo!ニュース",
+      "published_at": "2026-11-05T12:40:01Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
       "topic_id": null,
       "in_scope": false,
       "theme_ids": []
@@ -1113,17 +1681,19 @@
       "id": "49de63f8152317ab30e22300",
       "category": "ai",
       "source_id": "ai",
-      "title": "カーネルを最新セキュリティAI - gihyo.jp",
+      "title": "OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成 - gihyo.jp",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FWlNUcEhJWkVsOW1wMUwyQ1BpM213Z2pWVlZ5NXlTcnlSZ3RPTEJnNzNIZ1BLY2Jydk1wQ0otUHdHMXZtU2JLZlc5eGp0TUs4LVN2b3NRR1ozQ2k5Y3FCMHBtNkh2eWRNZDI5SDRTZ21ZMXJoTnBSMWYzaDhaMmc?oc=5",
       "publisher": "gihyo.jp",
-      "summary": "カーネルを最新セキュリティAI gihyo.jp",
+      "summary": "OpenAI、Linuxカーネルを最新セキュリティAIモデルで調査、ローカル権限昇格の脆弱性948件を実証 ―エクスプロイト、パッチまで生成 gihyo.jp",
       "published_at": "2026-11-05T06:53:00Z",
       "collected_at": "2026-11-05T21:00:08.113187Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
       "in_scope": true,
-      "theme_ids": []
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "2f5896bc90422eb53cda7a56",
@@ -1191,6 +1761,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "197c0bf5fdda502c7e0ff6bb",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DZ1l2cVFrWHk3cWZqZTU1dDFrR0JhelB6clNxZ0wwRkZ6WWJqZl8zX2RheURHQkR1WDAwNHNJRHpfaTdCMzFtQnJRM2wtRXRMdmY2VHpHSkhNcmo2NW1LM2lLMXJ1dXll?oc=5",
+      "publisher": "窓の杜",
+      "summary": "OpenAI、「Images 2.6」を発表 ～GIFアニメーションに対応、生成速度は50％向上 窓の杜",
+      "published_at": "2026-11-05T04:03:20Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -1683,6 +2271,24 @@
       "theme_ids": []
     },
     {
+      "id": "eaac9e7c1373e2f6b0ba6ee1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Images 2.6 のご紹介 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE52aHkzLTQzWlJCejJvQlZybkgxVWxCWUFUNWpYbWNwaXZkMUdCX3NPdzFXem0ycmp6V2pRM21LcS1TUTV3X2xia1JQYm5sdFRNd1ZGYnp2VVJrRGR1azhTd2hoZmk?oc=5",
+      "publisher": "OpenAI",
+      "summary": "Images 2.6 のご紹介 OpenAI",
+      "published_at": "2026-11-04T17:02:44Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "30429c3e0ce92f9ac905bf52",
       "category": "ai",
       "source_id": "openai",
@@ -1797,6 +2403,24 @@
       "summary": "360度カメラ映像をAIが分析 工場のCO２削減をデジタル化 愛媛・四国中央市 TBS NEWS DIG",
       "published_at": "2026-11-04T09:14:32Z",
       "collected_at": "2026-11-04T21:00:07.450048Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "44c64e645f7c7eb9f3e1324a",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "360度カメラ映像をAIが分析 工場のCO２削減をデジタル化 愛媛・四国中央市 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MemdRVzk5N0dacGlYbWlZeXRGbjNWSWhXREtCRXBsZlQzbVAxZVRVNjJzaUxidi1lR2phdlFZUDlGRzFlazFYYXVnSTBGbnJwRFJub0V5MA?oc=5",
+      "publisher": "TBS NEWS DIG",
+      "summary": "360度カメラ映像をAIが分析 工場のCO２削減をデジタル化 愛媛・四国中央市 TBS NEWS DIG",
+      "published_at": "2026-11-04T09:14:32Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -2008,24 +2632,6 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
-      ]
-    },
-    {
-      "id": "3e95505f3f8c368a05732fdc",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "AI時代の新人教育 18社の試行錯誤 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5",
-      "publisher": "日経クロステック",
-      "summary": "AI時代の新人教育 18社の試行錯誤 日経クロステック",
-      "published_at": "2026-11-04T05:09:05Z",
-      "collected_at": "2026-11-02T21:00:07.032860Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
       ]
     },
     {
@@ -4332,6 +4938,24 @@
       ]
     },
     {
+      "id": "a42a9f26aeb4336e5c0bbad0",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Googleの「Gemini Notebook」、数百冊の教科書を無料で追加可能に - ケータイ Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XZEE0M0ptUy1pVEJBZHczbjMyN3VKMDh0cEdRRFVyNmdULUc3WW5IMS1RdjQ4cjlYX2VyZmpPbktGcVptNkJGeElPYTYwUjdnLS00aVVNaTRkUDJSSThYT1hISm4taUE?oc=5",
+      "publisher": "ケータイ Watch",
+      "summary": "Googleの「Gemini Notebook」、数百冊の教科書を無料で追加可能に ケータイ Watch",
+      "published_at": "2026-10-31T22:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "9c147d215e21f7a29e872520",
       "category": "ai",
       "source_id": "ai",
@@ -5123,6 +5747,24 @@
       ]
     },
     {
+      "id": "7d7cc448e725c69592aa6a63",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "プレスリリース：（一社）教育AI活用協会、AI時代の学びを支える大人の役割を考える「探究ナビゲーター」体験ワークショップを11月7日にオンライン開催（PR TIMES） - 毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MUUViSGotN1dQZkVLUE9VeGdRMWd3SWVkbjZLVmhaeExGeW10VFgyN2hndllrYnFiRm5EZE1XOGpHaTk4RzRycFlpVm9HT0NIdV9CdHpfNmtDWWNSSjVUdnEzakgxekVC?oc=5",
+      "publisher": "毎日新聞",
+      "summary": "プレスリリース：（一社）教育AI活用協会、AI時代の学びを支える大人の役割を考える「探究ナビゲーター」体験ワークショップを11月7日にオンライン開催（PR TIMES） 毎日新聞",
+      "published_at": "2026-10-30T07:23:35Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "538aca2a4511e7aa073d714e",
       "category": "parenting",
       "source_id": "parenting",
@@ -5154,6 +5796,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "75a1d5b6a0052cebda667dba",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【最新版】画像認識AIカオスマップを公開！製造業から小売・物流まで！用途別に探せる最新AIサービス140選以上 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE13SWkwbVludGwtbDRIN0U2d1JtdjA3T0prSVhqTmFsN1lYbE1nSTU0Rm9RUlV6ZmRKSjVZeFdCVDlCaHQ3Y3pMbDJ1OXBqazVFQi1UVUt0TmJFRmVnNVZxRDlNNEhkdm5pZTBnZzRR?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "【最新版】画像認識AIカオスマップを公開！製造業から小売・物流まで！用途別に探せる最新AIサービス140選以上 AIsmiley",
+      "published_at": "2026-10-30T07:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -6173,6 +6833,24 @@
       "summary": "GeminiのGemとは？機能・作り方・使い方・活用例を徹底解説 AIsmiley",
       "published_at": "2026-10-29T07:00:00Z",
       "collected_at": "2026-11-04T21:00:07.450048Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "685fd3a6f4178af1f203ad6c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "NotebookLMとGeminiの違いは？最強の使い分け術と最新機能を徹底比較【2026年最新】 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qeUU4Q2FBY0o4VVV5ZnZhX0V0MGJVMDZVV1dRU2VfcUljTE4zVzVtR2tWcjIzUDN4NnR2Qmo0bk1iaWZjZlNBbWVQdzJaNHNFX2d3SzNQbE9QYnRtOEFjckktTFdYcldfY3NtMQ?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "NotebookLMとGeminiの違いは？最強の使い分け術と最新機能を徹底比較【2026年最新】 AIsmiley",
+      "published_at": "2026-10-29T07:00:00Z",
+      "collected_at": "2026-11-06T21:00:07.713533Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -7218,6 +7896,22 @@
       ]
     },
     {
+      "id": "35f89bc04007f9386fa89a72",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropicの巨額IPOに見る収益力の「今」と発明するAIという「未来」 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qZEpKS19BVlE2SlUycDcyR1cyVjF4OE1ITHJnMzF3Y2tHTTFqdEM5aDgtOEhIbm4wYkhlTmhmS0lHSkNCWUVoT0JIZzJnUV9sN1F4NUVCcFpIdkNJZDhIRzBNWkdyQQ?oc=5",
+      "publisher": "株式会社エクサウィザーズ",
+      "summary": "Anthropicの巨額IPOに見る収益力の「今」と発明するAIという「未来」 株式会社エクサウィザーズ",
+      "published_at": "2026-10-28T07:00:00Z",
+      "collected_at": "2026-10-28T21:00:10.451384Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "f43883cafd5004cc3912824f",
       "category": "tech",
       "source_id": "tech",
@@ -7490,22 +8184,6 @@
       "theme_ids": [
         "education"
       ]
-    },
-    {
-      "id": "35f89bc04007f9386fa89a72",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "Anthropicの巨額IPOに見る収益力の「今」と発明するAIという「未来」 - 株式会社エクサウィザーズ",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qZEpKS19BVlE2SlUycDcyR1cyVjF4OE1ITHJnMzF3Y2tHTTFqdEM5aDgtOEhIbm4wYkhlTmhmS0lHSkNCWUVoT0JIZzJnUV9sN1F4NUVCcFpIdkNJZDhIRzBNWkdyQQ?oc=5",
-      "publisher": "株式会社エクサウィザーズ",
-      "summary": "Anthropicの巨額IPOに見る収益力の「今」と発明するAIという「未来」 株式会社エクサウィザーズ",
-      "published_at": "2026-10-28T00:44:30Z",
-      "collected_at": "2026-10-28T21:00:10.451384Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": []
     },
     {
       "id": "02f6ecdf6c07284ca2dc3229",
@@ -8125,7 +8803,7 @@
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1EWXZhbXlsNS15N24tUl9MZFVFWVktT08xNnRvSF90MEJsM2l0Tm0xckxicmpWOGlBVTZBTWMtblFmUGZpVkJoeG5WZ1lCOXNoR1BjdnNVbDYwdFlhb1RoOHVkYnB2blI1T2tWbDFzcw?oc=5",
       "publisher": "MONOist",
       "summary": "新型「CX-5」で「Google Gemini」が利用可能に、自然な対話で音声操作できる：コックピット／車載情報機器 MONOist",
-      "published_at": "2026-10-27T07:30:00Z",
+      "published_at": "2026-10-27T07:00:00Z",
       "collected_at": "2026-10-27T21:02:03.123076Z",
       "provider": null,
       "origin_kind": "media",
@@ -8283,7 +8961,7 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMVVUdUtKTkFlMWZsQTBTRTdHSjM4VW5YOTFLLW5MOFJ4NTVLT1BQR2ViYTAzQ240MkIxdVJVQ3ZERzcxWFdoZnBrSmxzN2J2Q2ZDejdYcDhTNmRCME9qQ2NjSmxqb3lMVkw1eE90WHVtclpwRE5OYThmR0JNSVRKbnhyT1J2NFVXMHhNb2lR?oc=5",
       "publisher": "豊中市",
       "summary": "子育て相談生成AIチャットボット「とよなか子育てまるっとAIサポート」 豊中市",
-      "published_at": "2026-10-27T06:51:37Z",
+      "published_at": "2026-10-27T07:00:00Z",
       "collected_at": "2026-10-27T21:02:03.123076Z",
       "provider": null,
       "origin_kind": "media",
@@ -9557,11 +10235,29 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUE1QYzZXYXY0eGJiYXlHR3JiUkpvS0lOR19hX3hrTHRmVGRyYXFXbDFfRE1QVlZtQ3RXUF9tMElBZjJabWFvbFdnb3EwMklMVHoxaE1QT2F5T1lFNXNXNkhiX19pdkVwRml5cUNDVGNwUUMtMklFRk1iUWhHWU5MWXJlOEgyeE53dXM1aVR6TEZWLTZIWHNMRFZwbTJEc2dfVGV2UURkcFRnSEpmSVppaE9INmVuN2h0NHdoZXY5MjJqdzU5c0E?oc=5",
       "publisher": "合同会社ロケットボーイズ",
       "summary": "AIコーディングエージェントを狙う「AGENTS.md」攻撃、ダウンロードフォルダーからCodexを誘導 悪性npm導入を実環境で阻止 合同会社ロケットボーイズ",
-      "published_at": "2026-10-26T06:00:28Z",
+      "published_at": "2026-10-26T07:00:00Z",
       "collected_at": "2026-10-27T00:18:51.102808Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-security",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "2de4f63e085e80f030d56aa0",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "ダウンロードフォルダに投下したAGENTS.mdファイルでAIコーディングエージェントを乗っ取る手法、研究者が発見 - 株式会社マキナレコード",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeG1qenhJYmEyNDBkX09ja1RGazR5MnF6RHpJZlpWTDZVOWE0b3R0S0hUN2tMc0Zsd1lfVDIyZWp0cDIzRGVxQThBUjQyOGtmamt1c2hhMVlWcGlCd29ISXV3QWV0eXJrOE1pRDZNR0puNllBVWdBRXhZcmxqSmxLYXZBN2U?oc=5",
+      "publisher": "株式会社マキナレコード",
+      "summary": "ダウンロードフォルダに投下したAGENTS.mdファイルでAIコーディングエージェントを乗っ取る手法、研究者が発見 株式会社マキナレコード",
+      "published_at": "2026-10-26T07:00:00Z",
+      "collected_at": "2026-10-26T21:00:06.037616Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
       "in_scope": true,
       "theme_ids": [
         "development"
@@ -9759,24 +10455,6 @@
       "in_scope": true,
       "theme_ids": [
         "models"
-      ]
-    },
-    {
-      "id": "2de4f63e085e80f030d56aa0",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "ダウンロードフォルダに投下したAGENTS.mdファイルでAIコーディングエージェントを乗っ取る手法、研究者が発見 - 株式会社マキナレコード",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeG1qenhJYmEyNDBkX09ja1RGazR5MnF6RHpJZlpWTDZVOWE0b3R0S0hUN2tMc0Zsd1lfVDIyZWp0cDIzRGVxQThBUjQyOGtmamt1c2hhMVlWcGlCd29ISXV3QWV0eXJrOE1pRDZNR0puNllBVWdBRXhZcmxqSmxLYXZBN2U?oc=5",
-      "publisher": "株式会社マキナレコード",
-      "summary": "ダウンロードフォルダに投下したAGENTS.mdファイルでAIコーディングエージェントを乗っ取る手法、研究者が発見 株式会社マキナレコード",
-      "published_at": "2026-10-26T02:39:53Z",
-      "collected_at": "2026-10-26T21:00:06.037616Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "development"
       ]
     },
     {
@@ -10596,24 +11274,6 @@
       "theme_ids": []
     },
     {
-      "id": "365ec2209b20128d3401d5b3",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "小学4年以下は“紙中心”に 紙かデジタルか…揺れる教育現場（テレビ朝日系（ANN）） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FN1BwRU9iUXdCbEttdE1kdHdfXzFYS1RpOENLdWRPRXdBYll5TnlpQ1VLZ25uQXNDV3Z3dEItWGxVUU05YUNvOFAyemViSEdDODFabFR4SHFoeXdXcE9lQkQxbUpna0paSnJzd3RRWjl3ektYb3hxdlBrREl6M1U?oc=5",
-      "publisher": "Yahoo!ニュース",
-      "summary": "小学4年以下は“紙中心”に 紙かデジタルか…揺れる教育現場（テレビ朝日系（ANN）） Yahoo!ニュース",
-      "published_at": "2026-10-24T11:21:00Z",
-      "collected_at": "2026-10-24T23:02:20.357744Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
-    },
-    {
       "id": "3e6c07a957bc1c04a62d28b0",
       "category": "ai",
       "source_id": "ai",
@@ -10630,6 +11290,24 @@
       "theme_ids": [
         "models",
         "development"
+      ]
+    },
+    {
+      "id": "365ec2209b20128d3401d5b3",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "小学4年以下は“紙中心”に 紙かデジタルか…揺れる教育現場（テレビ朝日系（ANN）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FN1BwRU9iUXdCbEttdE1kdHdfXzFYS1RpOENLdWRPRXdBYll5TnlpQ1VLZ25uQXNDV3Z3dEItWGxVUU05YUNvOFAyemViSEdDODFabFR4SHFoeXdXcE9lQkQxbUpna0paSnJzd3RRWjl3ektYb3hxdlBrREl6M1U?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "小学4年以下は“紙中心”に 紙かデジタルか…揺れる教育現場（テレビ朝日系（ANN）） Yahoo!ニュース",
+      "published_at": "2026-10-24T07:00:00Z",
+      "collected_at": "2026-10-24T23:02:20.357744Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -10722,24 +11400,6 @@
       "in_scope": true,
       "theme_ids": [
         "education"
-      ]
-    },
-    {
-      "id": "8a8ff91cbd99ecf3b076857e",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "さっぽろ子育てアプリがリニューアル 家族で成長記録共有、26日から - 北海道新聞デジタル",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkR0tTQmtpWHZPYlRUSi01Vk9UdDJYeFZVYk9aTkdlcDdYTGlaYzdQZG1EYWJTTVkxZldzLTVFQjJ0UlExR0FMeUJpLV9KUEVJUmd5VFBxSXVrQQ?oc=5",
-      "publisher": "北海道新聞デジタル",
-      "summary": "さっぽろ子育てアプリがリニューアル 家族で成長記録共有、26日から 北海道新聞デジタル",
-      "published_at": "2026-10-24T07:00:00Z",
-      "collected_at": "2026-11-05T01:24:28.232417Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-monitor",
-      "in_scope": true,
-      "theme_ids": [
-        "parenting"
       ]
     },
     {
@@ -11144,24 +11804,6 @@
       ]
     },
     {
-      "id": "8eb874c9bf39f98f2827fb51",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画（窓の杜） - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zLUszMUxRTmdjVlhHTmszN0RfOV8ycWl3TG14OE1qRXNVbjFLX0hJUWlsTXF4VmhUNFdaaWJvaXg3NXRrZ1NiMWpMdm8xSkZ5YUlHRHJZVllDNjlROUR3dnVBclhlMU5TRWY1NXYxM2xLcFlsOVQ3YmZvMVJ6T28?oc=5",
-      "publisher": "Yahoo!ニュース",
-      "summary": "PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画（窓の杜） Yahoo!ニュース",
-      "published_at": "2026-10-23T07:52:00Z",
-      "collected_at": "2026-10-28T21:02:43.228816Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
       "id": "65a05f73599a4dcd2f38d347",
       "category": "tech",
       "source_id": "tech",
@@ -11171,6 +11813,42 @@
       "summary": "トヨクモ、AIカメラと「kintone」を連携した現場監視サービス--巡回・目視確認の省力化へ Yahoo!ニュース",
       "published_at": "2026-10-23T07:11:00Z",
       "collected_at": "2026-10-24T23:02:20.357744Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "8a8ff91cbd99ecf3b076857e",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "さっぽろ子育てアプリがリニューアル 家族で成長記録共有、26日から - 北海道新聞デジタル",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkR0tTQmtpWHZPYlRUSi01Vk9UdDJYeFZVYk9aTkdlcDdYTGlaYzdQZG1EYWJTTVkxZldzLTVFQjJ0UlExR0FMeUJpLV9KUEVJUmd5VFBxSXVrQQ?oc=5",
+      "publisher": "北海道新聞デジタル",
+      "summary": "さっぽろ子育てアプリがリニューアル 家族で成長記録共有、26日から 北海道新聞デジタル",
+      "published_at": "2026-10-23T07:00:00Z",
+      "collected_at": "2026-11-05T01:24:28.232417Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-monitor",
+      "in_scope": true,
+      "theme_ids": [
+        "parenting"
+      ]
+    },
+    {
+      "id": "8eb874c9bf39f98f2827fb51",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画（窓の杜） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zLUszMUxRTmdjVlhHTmszN0RfOV8ycWl3TG14OE1qRXNVbjFLX0hJUWlsTXF4VmhUNFdaaWJvaXg3NXRrZ1NiMWpMdm8xSkZ5YUlHRHJZVllDNjlROUR3dnVBclhlMU5TRWY1NXYxM2xLcFlsOVQ3YmZvMVJ6T28?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "PCをAI監視カメラにする「LiveCapture4」が公開 ～検知の10秒前から録画（窓の杜） Yahoo!ニュース",
+      "published_at": "2026-10-23T07:00:00Z",
+      "collected_at": "2026-10-28T21:02:43.228816Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -40038,20 +40716,20 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-06T10:27:29.460909+09:00",
+      "generated_at": "2026-11-07T06:02:08.603805+09:00",
       "is_complete": false,
-      "article_count": 173,
+      "article_count": 204,
       "category_counts": {
-        "ai": 87,
-        "tech": 43,
-        "parenting": 43
+        "ai": 111,
+        "tech": 49,
+        "parenting": 44
       },
-      "overview": "Mistralは企業向けStudioで、手順を記したスキル、コード実行環境、サブエージェントを設定できる管理型エージェントと、業務イベントによる起動・処理可視化を発表した。クラウド、専用VPC、自社設備での展開に対応するとしている。既存顧客のStudio本番利用は示されているが、新機能すべての導入実績や利用条件は不明。OpenAIのGPT‑6 Cyberは脆弱性の発見・検証・修正を支援し、提供元評価で性能向上を報告したが、参加対象の拡大は目標段階で、一般提供範囲は確定できない。 NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用環境を作る事例を紹介した。成果は実験・プロトタイプ段階で、実機性能や開発時間の短縮は示されていない。別記事ではAI基盤運営者向けに、NVFP4による重み・KVキャッシュ圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定負荷での結果で、各構成の提供時期は不明。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningのClassroomでの世界展開を開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価。Google.orgは教師向けAIなどを開発する団体への助成も発表したが、初期読解支援の対象年齢や提供時期、学習効果は示していない。",
+      "overview": "OpenAIとLigoが発表したBioBasicsBenchは、生物実験の100課題でゲル画像や顕微鏡像の解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定でGPT‑6 Astraは満点比66.7％を獲得したが、部分点を含む評価得点であり、実験成功率や研究現場での効果ではない。 NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを構築する事例を紹介した。センサー検証では約3日間でデジタルツインを新規作成・改善したが、一般提供する統一製品の発表ではなく、実機性能や従来手法に対する時間短縮は示されていない。 Googleは、教師が教材に沿った課題の割り当てと学習状況の把握を行えるGuided LearningをClassroomで世界向けに展開開始した。大学生300人超を対象とする半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果は確認されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+        "attempted_at": "2026-11-06T21:02:08.278707+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -40062,7 +40740,7 @@
         ],
         "errors": [
           {
-            "article_id": "b123e14f1bce0630c3c07761",
+            "article_id": "17ce8b8532de65db9e95cc24",
             "stage": "original_fetch"
           },
           {
@@ -40083,18 +40761,18 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+          "attempted_at": "2026-11-06T21:00:15.012434+00:00",
           "status": "ok",
-          "new_reviews": 5,
+          "new_reviews": 3,
           "updated_periods": [
             "overview",
             "weekly",
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+          "last_success_at": "2026-11-06T21:00:15.012434+00:00"
         },
-        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+        "last_success_at": "2026-11-06T21:02:08.278707+00:00"
       },
       "genre_briefs": [
         {
@@ -40102,62 +40780,60 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "55796f5d33eea9e47f5a7706",
-              "headline": "OpenAI、許可範囲の順守を強化したGPT‑6 Cyberを発表",
-              "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。",
-              "impact": "考察：悪用可能性の検証と修正案の作成を組み合わせることで、防御側が優先して直す問題を判断しやすくなる可能性がある。",
+              "article_id": "108a75f6351e2f39e19db61d",
+              "headline": "OpenAI、Hacktronと外部サービス連携部分の脆弱性を共同検証へ",
+              "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
+              "impact": "考察：サービス間の接続や権限の境界を重点検証することで、個別システムの検査では見落としやすい問題の発見につながる可能性がある。",
               "category": "ai",
-              "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+              "source_url": "https://openai.com/index/partnering-with-hacktron/",
               "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は提供元の評価・報告。許可範囲を守った割合100％は特定の評価とプロンプト条件での結果であり、実運用全般の保証ではない。参加対象の拡大は目標で、一般提供の範囲は本文から確定できない。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber.",
-              "published_at": "2026-11-05T09:00:00Z"
-            },
-            {
-              "article_id": "a695c90fcb89a16e3e8342c9",
-              "headline": "OpenAI、将来自社運営する計算拠点で地域協約と費用負担を約束",
-              "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
-              "impact": "考察：費用負担と使用資源を拠点ごとに公開すれば、住民が計画の影響や約束の履行を確認する材料になり得る。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。自社の約束は将来所有・運営する拠点が対象。業界全体へのルールは政策提案であり、法制化済みではない。地域投資の事例も、教育・保育への効果を検証した結果ではない。",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象システムの詳細、検証日程、アクセス拡大の具体的な範囲は本文にない。提携による安全性向上は今後の成果であり、実証済みではない。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Every future compute campus OpenAI owns and operates will have its own local compact.",
-              "published_at": "2026-11-05T02:00:00Z"
+              "evidence_quote": "with a focus on how our systems interact with third-party services.",
+              "published_at": "2026-11-06T08:00:00Z"
             },
             {
-              "article_id": "2d74012b20661e371118d081",
-              "headline": "Mistral Studio、管理型エージェントと業務ワークフロー機能を拡充",
-              "summary": "Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
-              "impact": "考察：実行基盤と承認手順を共通化できれば、企業が複数の業務へエージェントを展開する際の開発・運用負担を減らせる可能性がある。",
+              "article_id": "eb4d5bf90adda097176a3459",
+              "headline": "OpenAI、実験の生データを読むAIを測るBioBasicsBenchを発表",
+              "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。",
+              "impact": "考察：正答だけでなく証拠の限界や対照実験の問題も評価するため、研究者がAIに任せる分析と人が確認すべき分析を見極める材料になりうる。",
               "category": "ai",
-              "source_url": "https://mistral.ai/news/build-with-studio/",
-              "source_label": "Mistral 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。既存顧客によるStudioの本番利用は、新機能すべての導入実績を意味しない。時間削減は提供元の社内事例であり、他社で同じ効果が出るとは限らない。料金や各機能の利用条件は本文にない。",
-              "provider": "Mistral",
+              "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は100課題での部分点を含む平均得点で、実験成功率ではない。実際の研究現場での時間短縮や発見の増加は検証しておらず、画像解釈などにも改善余地がある。",
+              "provider": "OpenAI",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The benchmark’s 100 tasks test whether agents can interpret raw experimental data, identify errors, and recognize when the evidence cannot support a conclusion.",
+              "published_at": "2026-11-06T00:00:00Z"
+            },
+            {
+              "article_id": "b123e14f1bce0630c3c07761",
+              "headline": "Cult.fit、Codexの全社活用と音声AIトレーナーの事例を公開",
+              "summary": "OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
+              "impact": "考察：開発規約の統一に加え、技術相談会や部門への技術者配置を組み合わせた点は、非技術部門のアプリを運用まで進めるための参考になる。",
+              "category": "ai",
+              "source_url": "https://openai.com/index/cultfit-builds-with-codex/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。費用削減などは企業の報告で、独立した検証や算定条件は示されていない。AI Trainerの利用率約20％は製品全体の値で、最新版の普及率や運動効果を示すものではない。",
+              "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [
-                "models"
+                "development"
               ],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Today’s release also adds event triggers from enterprise systems and a visual graph that makes each workflow’s logic easier to inspect.",
-              "published_at": "2026-11-05T00:00:00Z"
+              "evidence_quote": "More than 20 internal applications have been built by non-engineering teams in recent months.",
+              "published_at": "2026-11-05T20:00:00Z"
             }
           ]
         },
@@ -40301,23 +40977,44 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 71,
-          "publisher_count": 28,
-          "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
+          "count": 93,
+          "publisher_count": 34,
+          "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
           "evidence_ids": [
-            "236b667674825bb26e60281a",
-            "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a"
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a"
           ],
           "article_ids": [
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a",
+            "108a75f6351e2f39e19db61d",
+            "8ee3315c4254da2155d759ee",
+            "8a11f33f7df7ec78516ceb2f",
+            "b1edd1f0d01f027ca3bc99d8",
+            "790c222f62898eb2a3d88f4d",
+            "37eded9fc374f1f490fec079",
+            "eb3776e63d3a773707ccc876",
+            "c557372306b2b9ee66a03694",
+            "7aef2ec4a9c54f48400d15da",
+            "d8c3afb00af41116faf3ebff",
+            "a06f7f6843ffddd39b703609",
+            "c1b0246d166bbe65f6c29627",
+            "b1480f969a139ea7267ad4dc",
+            "9a032cf4b0d8c3ed160b2f95",
             "236b667674825bb26e60281a",
+            "bf9ca24e7086b8c60ab42246",
             "062b7d9fdc16c39468980f7d",
+            "7f1d3478f61bb83999d5cf1d",
+            "17ce8b8532de65db9e95cc24",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
             "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
+            "197c0bf5fdda502c7e0ff6bb",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
@@ -40328,6 +41025,7 @@
             "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
+            "eaac9e7c1373e2f6b0ba6ee1",
             "30429c3e0ce92f9ac905bf52",
             "214a6e08c8ff037e905f5380",
             "1b43db3b1d1ec35f08c6019d",
@@ -40390,15 +41088,21 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 41,
-          "publisher_count": 28,
+          "count": 47,
+          "publisher_count": 33,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAの技術者Chris Alexiuk氏が、YouTubeで公開LLMの構築、微調整、評価、本番導入を教える活動を紹介。Nemotronの用途として、個人開発者の反復処理向けLightningや、企業の長時間エージェント処理向けUltraを説明している。新製品の提供開始ではなく、既存の教育活動とモデル活用の考え方を扱う人物紹介だ。 NVIDIAは、NVFP4による重み・KVキャッシュの圧縮、最大72基のGPUへの重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。AI基盤運営者向けに、Vera Rubin NVL72はGB300 NVL72比でGPU当たりHBM容量が約3％増ながら、特定条件の推論で費用当たり処理量が最大30倍になると報告している。",
           "evidence_ids": [
-            "6f6cc2a9fd6a9c033d177351",
-            "badda310cca07906cc76c487",
-            "837c2ffc2d8e8e65b49f007a"
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d"
           ],
           "article_ids": [
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d",
+            "bec7004d77847e64b96c2237",
+            "9f872c30d15de1dbbd336ce1",
+            "825bf6c46ee5885106939b77",
             "6f6cc2a9fd6a9c033d177351",
             "badda310cca07906cc76c487",
             "93de2d24a7e0922172eca408",
@@ -40449,15 +41153,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 43,
+          "count": 44,
           "publisher_count": 28,
           "summary": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。 Googleは教育向け製品群の更新として、Guided LearningのGoogle Classroomでの世界展開と、Google検索への同機能の導入を発表した。また、初等・中等教育の児童生徒用アカウントについて、Gemini、Gemini Notebook、Gemini in Classroom、Google検索の管理方法を更新すると説明。教育者向けAI研修の拡大や研究、助成も一連の発表に含めた。",
           "evidence_ids": [
-            "92eb98f100e3dca81af2a2e5",
-            "1547c694ff5ed82dc3dd601b",
-            "6c58f9f8c451861a8968a785"
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
+            "92eb98f100e3dca81af2a2e5"
           ],
           "article_ids": [
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
             "92eb98f100e3dca81af2a2e5",
             "1547c694ff5ed82dc3dd601b",
             "6c58f9f8c451861a8968a785",
@@ -40473,7 +41179,6 @@
             "382dd78e063d7b835c45674a",
             "79993886a96970f62a7d894c",
             "f4848be7c9eab71d59245c0c",
-            "3e95505f3f8c368a05732fdc",
             "303ef1ac871c8421e6a49712",
             "33ba15ab6e78fa59f1dffaa8",
             "093a142bf083cb8920d586b3",
@@ -40518,15 +41223,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 16,
-          "publisher_count": 12,
-          "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
+          "count": 18,
+          "publisher_count": 13,
+          "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。 OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
           "evidence_ids": [
-            "b123e14f1bce0630c3c07761",
-            "716dbc2817426bfca0266458",
-            "becc23512e6adc0a640ab61b"
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
+            "716dbc2817426bfca0266458"
           ],
           "article_ids": [
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
             "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
@@ -40576,60 +41283,84 @@
       "insights": [
         {
           "category": "ai",
-          "label": "業務エージェントの実行機能と管理条件",
-          "observation": "Mistralは企業向けStudioで、手順を記したスキル、コード実行環境、サブエージェントを設定できる管理型エージェントと、業務イベントによる起動・処理可視化を発表した。クラウド、専用VPC、自社設備での展開に対応するとしている。既存顧客のStudio本番利用は示されているが、新機能すべての導入実績や利用条件は不明。OpenAIのGPT‑6 Cyberは脆弱性の発見・検証・修正を支援し、提供元評価で性能向上を報告したが、参加対象の拡大は目標段階で、一般提供範囲は確定できない。",
-          "interpretation": "業務への適用では、処理能力に加えて、実行手順・配置先・許可範囲を管理できることが導入判断の重要な条件になる可能性がある。ただし、発表内容だけでは実運用の安全性や導入効果は判断できない。",
-          "next_question": "Studioの新機能ごとの提供条件と本番導入例、GPT‑6 Cyberの参加資格・許可範囲の設定方法・実運用での逸脱検証結果は公開されるか。",
+          "label": "研究支援AIは生データの解釈能力も評価対象に",
+          "observation": "OpenAIとLigoが発表したBioBasicsBenchは、生物実験の100課題でゲル画像や顕微鏡像の解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定でGPT‑6 Astraは満点比66.7％を獲得したが、部分点を含む評価得点であり、実験成功率や研究現場での効果ではない。",
+          "interpretation": "研究支援AIの導入判断には、回答の正確さに加えて、不十分な証拠から結論を出さない能力の確認が重要になる可能性がある。今回の評価だけでは実務への適合性は確定しない。",
+          "next_question": "実際の研究室の未見データでも誤りや証拠不足を認識できるか。専門家による修正時間と誤判断率を含めて検証できるか。",
           "required_ids": [
-            "2d74012b20661e371118d081",
-            "55796f5d33eea9e47f5a7706"
+            "eb4d5bf90adda097176a3459"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "2d74012b20661e371118d081",
-            "55796f5d33eea9e47f5a7706"
+            "eb4d5bf90adda097176a3459"
           ]
         },
         {
           "category": "tech",
-          "label": "シミュレーション構築と推論資源管理の具体化",
-          "observation": "NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用環境を作る事例を紹介した。成果は実験・プロトタイプ段階で、実機性能や開発時間の短縮は示されていない。別記事ではAI基盤運営者向けに、NVFP4による重み・KVキャッシュ圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定負荷での結果で、各構成の提供時期は不明。",
-          "interpretation": "AIを使った開発では、試験環境の構築を支援する仕組みと、推論時のメモリを効率よく使う仕組みが、実装上の選択肢になり得る。ただし、両者を組み合わせた効果や一般的な費用削減を示す資料ではない。",
-          "next_question": "同じ品質・負荷条件で、環境構築に必要な人手と時間、実機への移行後の成功率、推論の遅延と総費用を測ると、従来構成に対してどの程度の差が出るか。",
+          "label": "シミュレーション構築への自然言語エージェント活用",
+          "observation": "NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを構築する事例を紹介した。センサー検証では約3日間でデジタルツインを新規作成・改善したが、一般提供する統一製品の発表ではなく、実機性能や従来手法に対する時間短縮は示されていない。",
+          "interpretation": "ロボットやセンサーの開発者が試験環境を反復して作る際、自然言語による構築支援が選択肢になる可能性がある。ただし、生成された環境の物理的な妥当性を確認する作業が実用性を左右しそうだ。",
+          "next_question": "同じ試験環境を従来手法とエージェント利用で構築した場合、物理・センサー設定の誤り、修正を含む総作業時間、実機との結果の一致度はどう異なるか。",
           "required_ids": [
-            "badda310cca07906cc76c487",
-            "c5b809404325f202f3bb9c8f"
+            "badda310cca07906cc76c487"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "badda310cca07906cc76c487",
-            "c5b809404325f202f3bb9c8f"
+            "badda310cca07906cc76c487"
           ]
         },
         {
           "category": "parenting",
-          "label": "教師主導の学習支援と年齢別の効果検証",
-          "observation": "Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningのClassroomでの世界展開を開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価。Google.orgは教師向けAIなどを開発する団体への助成も発表したが、初期読解支援の対象年齢や提供時期、学習効果は示していない。",
-          "interpretation": "教師が課題設定と学習状況の確認に関与する仕組みは、学校でAI支援を検証する足場になる可能性がある。ただし、大学生の短時間の結果から、中等教育、初等教育、幼児期の効果を推定することはできず、助成も有効性の証明にはならない。",
-          "next_question": "初等・中等教育それぞれで、対象年齢、教師の介入方法、利用期間を明示した比較試験を行った場合、理解の定着、支援が必要な児童生徒への影響、教師の作業時間はどう変わるか。初期読解支援は何歳を対象に、いつ提供されるか。",
+          "label": "教師が管理する学習支援と年齢別の効果検証",
+          "observation": "Googleは、教師が教材に沿った課題の割り当てと学習状況の把握を行えるGuided LearningをClassroomで世界向けに展開開始した。大学生300人超を対象とする半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果は確認されていない。",
+          "interpretation": "教師が課題と進捗を管理できる仕組みは、授業にAI支援を組み込む手掛かりになる可能性がある。ただし、大学生の短期的な結果から、初等・中等教育で同じ効果が得られるとは判断できない。",
+          "next_question": "小学生と中等教育の生徒を分け、同じ教材・授業時間の比較で、数週間後の理解の定着、自力で解く力、教師の確認作業量にどのような差が出るか。",
           "required_ids": [
-            "23ce8c9263aaa805a198a331",
-            "3d84924411308cf5b9d9a5b1"
+            "23ce8c9263aaa805a198a331"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "23ce8c9263aaa805a198a331",
-            "3d84924411308cf5b9d9a5b1"
+            "23ce8c9263aaa805a198a331"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "82a22eba784ac22b81538c98",
+        "c9361a8e3e5ec195eda7d45f",
+        "f7b661573ce6d63d07845eb2",
+        "3e95505f3f8c368a05732fdc",
+        "d223bb479161a61d9f78e62a",
+        "108a75f6351e2f39e19db61d",
+        "8ee3315c4254da2155d759ee",
+        "8a11f33f7df7ec78516ceb2f",
+        "7d0c1d3eaeb2f706c89deb54",
+        "b1edd1f0d01f027ca3bc99d8",
+        "9ec2e0748cfe0605fa3c785d",
+        "790c222f62898eb2a3d88f4d",
+        "37eded9fc374f1f490fec079",
+        "bec7004d77847e64b96c2237",
+        "eb3776e63d3a773707ccc876",
+        "c557372306b2b9ee66a03694",
+        "9f872c30d15de1dbbd336ce1",
+        "9b811b24b7cd298bd5299506",
+        "7aef2ec4a9c54f48400d15da",
+        "d8c3afb00af41116faf3ebff",
+        "a06f7f6843ffddd39b703609",
+        "27501dbcf74681cf612656da",
+        "c1b0246d166bbe65f6c29627",
+        "825bf6c46ee5885106939b77",
+        "b1480f969a139ea7267ad4dc",
+        "eb4d5bf90adda097176a3459",
+        "9a032cf4b0d8c3ed160b2f95",
         "236b667674825bb26e60281a",
+        "bf9ca24e7086b8c60ab42246",
         "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
+        "7f1d3478f61bb83999d5cf1d",
         "badda310cca07906cc76c487",
+        "17ce8b8532de65db9e95cc24",
         "93de2d24a7e0922172eca408",
         "c5b809404325f202f3bb9c8f",
         "837c2ffc2d8e8e65b49f007a",
@@ -40649,6 +41380,7 @@
         "86914472771219060b4a7b51",
         "4f8d828304e0c95cd93fca2b",
         "6c58f9f8c451861a8968a785",
+        "197c0bf5fdda502c7e0ff6bb",
         "a2ae1d27fe32efb49c6766ad",
         "39adfbcf5bf4df9fc689dff0",
         "d9ff150c320ece1a5429fdf6",
@@ -40674,6 +41406,7 @@
         "d2013711e72022334dbdefe3",
         "d2a9f5c0450942740613f0cf",
         "75e6d1f2e1415f351621d840",
+        "eaac9e7c1373e2f6b0ba6ee1",
         "30429c3e0ce92f9ac905bf52",
         "214a6e08c8ff037e905f5380",
         "3e8668630b7e3aa8c607469a",
@@ -40693,7 +41426,6 @@
         "62f0845f5d20f3595d83e967",
         "8db818de0828f2f392c2714d",
         "f3ee910c087fed4ecbca0c27",
-        "3e95505f3f8c368a05732fdc",
         "303ef1ac871c8421e6a49712",
         "52a73d0b251a7b2dc73145a9",
         "d4b519193c9e00dbaac36db9",
@@ -40805,20 +41537,20 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-06T10:27:29.460909+09:00",
+      "generated_at": "2026-11-07T06:02:08.603805+09:00",
       "is_complete": false,
-      "article_count": 192,
+      "article_count": 224,
       "category_counts": {
-        "ai": 93,
-        "tech": 46,
-        "parenting": 53
+        "ai": 118,
+        "tech": 52,
+        "parenting": 54
       },
-      "overview": "Mistralは企業向けStudioで、手順を記すスキル、コード実行環境、サブエージェントを備えた管理型エージェントと、業務イベントから起動し処理を可視化するワークフローの拡充を発表した。クラウド、専用VPC、自社設備で展開できるが、既存顧客の本番利用は新機能すべての導入実績を示さず、各機能の利用条件も不明だ。 NVIDIAはAI基盤運営者向けに、NVFP4で重みとKVキャッシュを圧縮し、重みを最大72基のGPUへ分散し、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定モデル・負荷・生成速度条件での比較で、各構成の提供時期は確定できない。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、ウェブ教材のみの群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果を示してはいない。",
+      "overview": "OpenAIとLigoのBioBasicsBenchは、生物実験の画像などの解釈や証拠不足の認識を100課題で評価する。得点は実験成功率ではない。Cult.fitは非技術部門による社内アプリ構築と音声AIトレーナーの事例を報告した。一方、Hacktronとの提携は外部サービスとの接続部分を共同検証する段階で、発見・修正実績は示されていない。 NVIDIAは、自然言語で指示するAIエージェントとOmniverseを組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを作る事例を紹介した。成果はシミュレーション内の実験である。別記事ではAI基盤運営者向けに、重み・KVキャッシュの圧縮や、休止中の文脈をCPUメモリなどへ移す仕組みを説明した。一般用途での効果や各構成の提供時期は確定できない。 Googleは、教師が課題を割り当て学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。得点改善の比較試験は大学生の統計学を半日扱ったもので、中等学校での試行は主にアンケートと面談による評価だった。Google.orgの助成には初期読解支援のモデル開発も含まれるが、対象年齢や提供時期は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+        "attempted_at": "2026-11-06T21:02:08.278707+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -40829,7 +41561,7 @@
         ],
         "errors": [
           {
-            "article_id": "b123e14f1bce0630c3c07761",
+            "article_id": "17ce8b8532de65db9e95cc24",
             "stage": "original_fetch"
           },
           {
@@ -40850,18 +41582,18 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+          "attempted_at": "2026-11-06T21:00:15.012434+00:00",
           "status": "ok",
-          "new_reviews": 5,
+          "new_reviews": 3,
           "updated_periods": [
             "overview",
             "weekly",
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+          "last_success_at": "2026-11-06T21:00:15.012434+00:00"
         },
-        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+        "last_success_at": "2026-11-06T21:02:08.278707+00:00"
       },
       "genre_briefs": [
         {
@@ -40869,62 +41601,60 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "55796f5d33eea9e47f5a7706",
-              "headline": "OpenAI、許可範囲の順守を強化したGPT‑6 Cyberを発表",
-              "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。",
-              "impact": "考察：悪用可能性の検証と修正案の作成を組み合わせることで、防御側が優先して直す問題を判断しやすくなる可能性がある。",
+              "article_id": "108a75f6351e2f39e19db61d",
+              "headline": "OpenAI、Hacktronと外部サービス連携部分の脆弱性を共同検証へ",
+              "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
+              "impact": "考察：サービス間の接続や権限の境界を重点検証することで、個別システムの検査では見落としやすい問題の発見につながる可能性がある。",
               "category": "ai",
-              "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+              "source_url": "https://openai.com/index/partnering-with-hacktron/",
               "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は提供元の評価・報告。許可範囲を守った割合100％は特定の評価とプロンプト条件での結果であり、実運用全般の保証ではない。参加対象の拡大は目標で、一般提供の範囲は本文から確定できない。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber.",
-              "published_at": "2026-11-05T09:00:00Z"
-            },
-            {
-              "article_id": "a695c90fcb89a16e3e8342c9",
-              "headline": "OpenAI、将来自社運営する計算拠点で地域協約と費用負担を約束",
-              "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
-              "impact": "考察：費用負担と使用資源を拠点ごとに公開すれば、住民が計画の影響や約束の履行を確認する材料になり得る。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。自社の約束は将来所有・運営する拠点が対象。業界全体へのルールは政策提案であり、法制化済みではない。地域投資の事例も、教育・保育への効果を検証した結果ではない。",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象システムの詳細、検証日程、アクセス拡大の具体的な範囲は本文にない。提携による安全性向上は今後の成果であり、実証済みではない。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Every future compute campus OpenAI owns and operates will have its own local compact.",
-              "published_at": "2026-11-05T02:00:00Z"
+              "evidence_quote": "with a focus on how our systems interact with third-party services.",
+              "published_at": "2026-11-06T08:00:00Z"
             },
             {
-              "article_id": "2d74012b20661e371118d081",
-              "headline": "Mistral Studio、管理型エージェントと業務ワークフロー機能を拡充",
-              "summary": "Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
-              "impact": "考察：実行基盤と承認手順を共通化できれば、企業が複数の業務へエージェントを展開する際の開発・運用負担を減らせる可能性がある。",
+              "article_id": "eb4d5bf90adda097176a3459",
+              "headline": "OpenAI、実験の生データを読むAIを測るBioBasicsBenchを発表",
+              "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。",
+              "impact": "考察：正答だけでなく証拠の限界や対照実験の問題も評価するため、研究者がAIに任せる分析と人が確認すべき分析を見極める材料になりうる。",
               "category": "ai",
-              "source_url": "https://mistral.ai/news/build-with-studio/",
-              "source_label": "Mistral 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。既存顧客によるStudioの本番利用は、新機能すべての導入実績を意味しない。時間削減は提供元の社内事例であり、他社で同じ効果が出るとは限らない。料金や各機能の利用条件は本文にない。",
-              "provider": "Mistral",
+              "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は100課題での部分点を含む平均得点で、実験成功率ではない。実際の研究現場での時間短縮や発見の増加は検証しておらず、画像解釈などにも改善余地がある。",
+              "provider": "OpenAI",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The benchmark’s 100 tasks test whether agents can interpret raw experimental data, identify errors, and recognize when the evidence cannot support a conclusion.",
+              "published_at": "2026-11-06T00:00:00Z"
+            },
+            {
+              "article_id": "b123e14f1bce0630c3c07761",
+              "headline": "Cult.fit、Codexの全社活用と音声AIトレーナーの事例を公開",
+              "summary": "OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
+              "impact": "考察：開発規約の統一に加え、技術相談会や部門への技術者配置を組み合わせた点は、非技術部門のアプリを運用まで進めるための参考になる。",
+              "category": "ai",
+              "source_url": "https://openai.com/index/cultfit-builds-with-codex/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。費用削減などは企業の報告で、独立した検証や算定条件は示されていない。AI Trainerの利用率約20％は製品全体の値で、最新版の普及率や運動効果を示すものではない。",
+              "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [
-                "models"
+                "development"
               ],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Today’s release also adds event triggers from enterprise systems and a visual graph that makes each workflow’s logic easier to inspect.",
-              "published_at": "2026-11-05T00:00:00Z"
+              "evidence_quote": "More than 20 internal applications have been built by non-engineering teams in recent months.",
+              "published_at": "2026-11-05T20:00:00Z"
             }
           ]
         },
@@ -41068,23 +41798,44 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 75,
-          "publisher_count": 28,
-          "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
+          "count": 98,
+          "publisher_count": 34,
+          "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
           "evidence_ids": [
-            "236b667674825bb26e60281a",
-            "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a"
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a"
           ],
           "article_ids": [
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a",
+            "108a75f6351e2f39e19db61d",
+            "8ee3315c4254da2155d759ee",
+            "8a11f33f7df7ec78516ceb2f",
+            "b1edd1f0d01f027ca3bc99d8",
+            "790c222f62898eb2a3d88f4d",
+            "37eded9fc374f1f490fec079",
+            "eb3776e63d3a773707ccc876",
+            "c557372306b2b9ee66a03694",
+            "7aef2ec4a9c54f48400d15da",
+            "d8c3afb00af41116faf3ebff",
+            "a06f7f6843ffddd39b703609",
+            "c1b0246d166bbe65f6c29627",
+            "b1480f969a139ea7267ad4dc",
+            "9a032cf4b0d8c3ed160b2f95",
             "236b667674825bb26e60281a",
+            "bf9ca24e7086b8c60ab42246",
             "062b7d9fdc16c39468980f7d",
+            "7f1d3478f61bb83999d5cf1d",
+            "17ce8b8532de65db9e95cc24",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
             "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
+            "197c0bf5fdda502c7e0ff6bb",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
@@ -41095,6 +41846,7 @@
             "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
+            "eaac9e7c1373e2f6b0ba6ee1",
             "30429c3e0ce92f9ac905bf52",
             "214a6e08c8ff037e905f5380",
             "1b43db3b1d1ec35f08c6019d",
@@ -41150,6 +41902,7 @@
             "4cd140f2ee6766e69134defb",
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
+            "a42a9f26aeb4336e5c0bbad0",
             "9c147d215e21f7a29e872520",
             "7ba7a300a93e18ad2608a682"
           ]
@@ -41161,15 +41914,21 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 44,
-          "publisher_count": 30,
+          "count": 50,
+          "publisher_count": 35,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAの技術者Chris Alexiuk氏が、YouTubeで公開LLMの構築、微調整、評価、本番導入を教える活動を紹介。Nemotronの用途として、個人開発者の反復処理向けLightningや、企業の長時間エージェント処理向けUltraを説明している。新製品の提供開始ではなく、既存の教育活動とモデル活用の考え方を扱う人物紹介だ。 NVIDIAは、NVFP4による重み・KVキャッシュの圧縮、最大72基のGPUへの重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。AI基盤運営者向けに、Vera Rubin NVL72はGB300 NVL72比でGPU当たりHBM容量が約3％増ながら、特定条件の推論で費用当たり処理量が最大30倍になると報告している。",
           "evidence_ids": [
-            "6f6cc2a9fd6a9c033d177351",
-            "badda310cca07906cc76c487",
-            "837c2ffc2d8e8e65b49f007a"
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d"
           ],
           "article_ids": [
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d",
+            "bec7004d77847e64b96c2237",
+            "9f872c30d15de1dbbd336ce1",
+            "825bf6c46ee5885106939b77",
             "6f6cc2a9fd6a9c033d177351",
             "badda310cca07906cc76c487",
             "93de2d24a7e0922172eca408",
@@ -41223,15 +41982,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 53,
+          "count": 54,
           "publisher_count": 33,
           "summary": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。 Googleは教育向け製品群の更新として、Guided LearningのGoogle Classroomでの世界展開と、Google検索への同機能の導入を発表した。また、初等・中等教育の児童生徒用アカウントについて、Gemini、Gemini Notebook、Gemini in Classroom、Google検索の管理方法を更新すると説明。教育者向けAI研修の拡大や研究、助成も一連の発表に含めた。",
           "evidence_ids": [
-            "92eb98f100e3dca81af2a2e5",
-            "1547c694ff5ed82dc3dd601b",
-            "6c58f9f8c451861a8968a785"
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
+            "92eb98f100e3dca81af2a2e5"
           ],
           "article_ids": [
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
             "92eb98f100e3dca81af2a2e5",
             "1547c694ff5ed82dc3dd601b",
             "6c58f9f8c451861a8968a785",
@@ -41247,7 +42008,6 @@
             "382dd78e063d7b835c45674a",
             "79993886a96970f62a7d894c",
             "f4848be7c9eab71d59245c0c",
-            "3e95505f3f8c368a05732fdc",
             "303ef1ac871c8421e6a49712",
             "33ba15ab6e78fa59f1dffaa8",
             "093a142bf083cb8920d586b3",
@@ -41302,15 +42062,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 18,
-          "publisher_count": 14,
-          "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
+          "count": 20,
+          "publisher_count": 15,
+          "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。 OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
           "evidence_ids": [
-            "b123e14f1bce0630c3c07761",
-            "716dbc2817426bfca0266458",
-            "becc23512e6adc0a640ab61b"
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
+            "716dbc2817426bfca0266458"
           ],
           "article_ids": [
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
             "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
@@ -41362,54 +42124,92 @@
       "insights": [
         {
           "category": "ai",
-          "label": "企業エージェントの業務組み込みと管理",
-          "observation": "Mistralは企業向けStudioで、手順を記すスキル、コード実行環境、サブエージェントを備えた管理型エージェントと、業務イベントから起動し処理を可視化するワークフローの拡充を発表した。クラウド、専用VPC、自社設備で展開できるが、既存顧客の本番利用は新機能すべての導入実績を示さず、各機能の利用条件も不明だ。",
-          "interpretation": "業務への組み込みでは、モデルの能力に加え、実行手順や処理状況を企業側が管理できることが導入判断の要素になる可能性がある。実際の利用拡大や時間削減は、この発表だけでは判断できない。",
-          "next_question": "新機能ごとの提供条件と本番導入状況はどうなっているか。また、同一業務で導入前後の処理時間、失敗率、人による修正量を比較できるか。",
+          "label": "実務へのAI導入を評価する証拠の切り分け",
+          "observation": "OpenAIとLigoのBioBasicsBenchは、生物実験の画像などの解釈や証拠不足の認識を100課題で評価する。得点は実験成功率ではない。Cult.fitは非技術部門による社内アプリ構築と音声AIトレーナーの事例を報告した。一方、Hacktronとの提携は外部サービスとの接続部分を共同検証する段階で、発見・修正実績は示されていない。",
+          "interpretation": "実務導入の判断には、課題上の能力、導入企業の報告、接続部分の安全性をそれぞれ確かめる必要があると考えられる。今回の資料だけでは、研究現場での生産性向上や共同検証による安全性向上までは判断できない。",
+          "next_question": "BioBasicsBenchの得点は実際の実験データの誤読率や専門家の確認時間と対応するか。また、共同検証で見つかった接続部分の問題と修正結果は公開されるか。",
           "required_ids": [
-            "2d74012b20661e371118d081"
+            "eb4d5bf90adda097176a3459",
+            "b123e14f1bce0630c3c07761",
+            "108a75f6351e2f39e19db61d"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "2d74012b20661e371118d081"
+            "eb4d5bf90adda097176a3459",
+            "b123e14f1bce0630c3c07761",
+            "108a75f6351e2f39e19db61d"
           ]
         },
         {
           "category": "tech",
-          "label": "推論メモリを圧縮と階層化で活用",
-          "observation": "NVIDIAはAI基盤運営者向けに、NVFP4で重みとKVキャッシュを圧縮し、重みを最大72基のGPUへ分散し、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定モデル・負荷・生成速度条件での比較で、各構成の提供時期は確定できない。",
-          "interpretation": "長い文脈を扱うエージェントでは、GPUメモリの容量だけでなく、文脈の配置と移動の設計が運用効率を左右する可能性がある。ただし、転送待ちや圧縮による品質への影響を含めた一般的な費用削減は未確認だ。",
-          "next_question": "対象構成はいつ利用可能になり、実際の業務負荷で同時利用数と文脈長を変えた際、応答遅延、出力品質、ストレージを含む総費用はどう変わるか。",
+          "label": "エージェントの試作環境と推論メモリの設計",
+          "observation": "NVIDIAは、自然言語で指示するAIエージェントとOmniverseを組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを作る事例を紹介した。成果はシミュレーション内の実験である。別記事ではAI基盤運営者向けに、重み・KVキャッシュの圧縮や、休止中の文脈をCPUメモリなどへ移す仕組みを説明した。一般用途での効果や各構成の提供時期は確定できない。",
+          "interpretation": "エージェントを使う開発では、試作の操作方法に加え、文脈を保持するメモリの配置も運用上の検討事項になると考えられる。ただし、紹介事例と特定負荷の性能値から、実機での成功率や一般的な費用削減は推定できない。",
+          "next_question": "同じ開発課題で従来手法と比べた作業時間・修正回数はどう変わるか。また、文脈の退避・復帰による遅延を含め、実運用の負荷でも費用当たり処理量の改善が再現するか。",
           "required_ids": [
+            "badda310cca07906cc76c487",
             "c5b809404325f202f3bb9c8f"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
+            "badda310cca07906cc76c487",
             "c5b809404325f202f3bb9c8f"
           ]
         },
         {
           "category": "parenting",
-          "label": "教師主導のAI学習支援と年齢別の検証",
-          "observation": "Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、ウェブ教材のみの群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果を示してはいない。",
-          "interpretation": "教師が教材と課題を設定する仕組みは、AI支援を授業の目的に合わせる手段になる可能性がある。ただし、大学生の短時間の結果から、中等教育や初等教育での定着効果、家庭の育児負担軽減までは推測できない。",
-          "next_question": "初等教育と中等教育を分け、通常授業との比較で数週間後の理解・定着と教師の確認作業時間を測った結果はあるか。また、それぞれの年齢で利用できる機能と管理条件は何か。",
+          "label": "教師が管理する学習支援と年齢別の効果検証",
+          "observation": "Googleは、教師が課題を割り当て学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。得点改善の比較試験は大学生の統計学を半日扱ったもので、中等学校での試行は主にアンケートと面談による評価だった。Google.orgの助成には初期読解支援のモデル開発も含まれるが、対象年齢や提供時期は示されていない。",
+          "interpretation": "教師による課題設定や状況把握が、学校でAI学習支援を運用する足場になる可能性がある。ただし、大学生の短期試験を幼児・小学生・中高生の効果に当てはめることはできず、初期読解支援も開発段階として評価する必要がある。",
+          "next_question": "初等教育と中等教育それぞれで、通常教材と比較した長期の理解・定着への効果と教師の確認負担はどうなるか。初期読解支援は何歳を対象に、いつ、どの条件で試行されるか。",
           "required_ids": [
-            "23ce8c9263aaa805a198a331"
+            "23ce8c9263aaa805a198a331",
+            "3d84924411308cf5b9d9a5b1"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "23ce8c9263aaa805a198a331"
+            "23ce8c9263aaa805a198a331",
+            "3d84924411308cf5b9d9a5b1"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "82a22eba784ac22b81538c98",
+        "c9361a8e3e5ec195eda7d45f",
+        "f7b661573ce6d63d07845eb2",
+        "3e95505f3f8c368a05732fdc",
+        "d223bb479161a61d9f78e62a",
+        "108a75f6351e2f39e19db61d",
+        "8ee3315c4254da2155d759ee",
+        "8a11f33f7df7ec78516ceb2f",
+        "7d0c1d3eaeb2f706c89deb54",
+        "b1edd1f0d01f027ca3bc99d8",
+        "9ec2e0748cfe0605fa3c785d",
+        "790c222f62898eb2a3d88f4d",
+        "37eded9fc374f1f490fec079",
+        "bec7004d77847e64b96c2237",
+        "eb3776e63d3a773707ccc876",
+        "c557372306b2b9ee66a03694",
+        "9f872c30d15de1dbbd336ce1",
+        "9b811b24b7cd298bd5299506",
+        "7aef2ec4a9c54f48400d15da",
+        "d8c3afb00af41116faf3ebff",
+        "a06f7f6843ffddd39b703609",
+        "27501dbcf74681cf612656da",
+        "c1b0246d166bbe65f6c29627",
+        "825bf6c46ee5885106939b77",
+        "b1480f969a139ea7267ad4dc",
+        "eb4d5bf90adda097176a3459",
+        "9a032cf4b0d8c3ed160b2f95",
         "236b667674825bb26e60281a",
+        "bf9ca24e7086b8c60ab42246",
         "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
+        "7f1d3478f61bb83999d5cf1d",
         "badda310cca07906cc76c487",
+        "17ce8b8532de65db9e95cc24",
         "93de2d24a7e0922172eca408",
         "c5b809404325f202f3bb9c8f",
         "837c2ffc2d8e8e65b49f007a",
@@ -41429,6 +42229,7 @@
         "86914472771219060b4a7b51",
         "4f8d828304e0c95cd93fca2b",
         "6c58f9f8c451861a8968a785",
+        "197c0bf5fdda502c7e0ff6bb",
         "a2ae1d27fe32efb49c6766ad",
         "39adfbcf5bf4df9fc689dff0",
         "d9ff150c320ece1a5429fdf6",
@@ -41454,6 +42255,7 @@
         "d2013711e72022334dbdefe3",
         "d2a9f5c0450942740613f0cf",
         "75e6d1f2e1415f351621d840",
+        "eaac9e7c1373e2f6b0ba6ee1",
         "30429c3e0ce92f9ac905bf52",
         "214a6e08c8ff037e905f5380",
         "3e8668630b7e3aa8c607469a",
@@ -41473,7 +42275,6 @@
         "62f0845f5d20f3595d83e967",
         "8db818de0828f2f392c2714d",
         "f3ee910c087fed4ecbca0c27",
-        "3e95505f3f8c368a05732fdc",
         "303ef1ac871c8421e6a49712",
         "52a73d0b251a7b2dc73145a9",
         "d4b519193c9e00dbaac36db9",
@@ -41594,6 +42395,7 @@
         "15453b4e65fe96e5eebfe317",
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
+        "a42a9f26aeb4336e5c0bbad0",
         "9c147d215e21f7a29e872520",
         "7ba7a300a93e18ad2608a682",
         "b885f584577b19b518d6643a"
@@ -41604,20 +42406,20 @@
       "kind": "weekly",
       "period_start": "2026-10-26",
       "period_end": "2026-11-01",
-      "generated_at": "2026-11-06T10:27:29.460909+09:00",
+      "generated_at": "2026-11-07T06:02:08.603805+09:00",
       "is_complete": true,
-      "article_count": 317,
+      "article_count": 321,
       "category_counts": {
-        "tech": 75,
-        "parenting": 81,
-        "ai": 161
+        "tech": 76,
+        "parenting": 82,
+        "ai": 163
       },
       "overview": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に伝える共通信号を尊重すると発表した。今後数カ月以内の実装予定で、既存のクローラー別制御も継続する。任意参加の仕組みであり、全事業者への適用は保証されない。 Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語によるアンテナ操作、較正、データ補正、AI解析を可能にしたと発表した。装置近くで毎秒2.4テラビットのデータを処理し、パルサーをリアルタイム検出した実績を示した。公開モデルの評価は継続中で、地球外文明の信号発見を示す成果ではない。 Googleが公開した英国の研究では、12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施した。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストの改善は見られなかった。イタリア31校の年間研究は教師との授業共同設計を扱い、参加増加などの結果には自己報告が含まれる。いずれも研究結果の紹介で、新たな一般提供の発表ではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+        "attempted_at": "2026-11-06T21:02:08.278707+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -41628,7 +42430,7 @@
         ],
         "errors": [
           {
-            "article_id": "b123e14f1bce0630c3c07761",
+            "article_id": "17ce8b8532de65db9e95cc24",
             "stage": "original_fetch"
           },
           {
@@ -41649,18 +42451,18 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+          "attempted_at": "2026-11-06T21:00:15.012434+00:00",
           "status": "ok",
-          "new_reviews": 5,
+          "new_reviews": 3,
           "updated_periods": [
             "overview",
             "weekly",
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+          "last_success_at": "2026-11-06T21:00:15.012434+00:00"
         },
-        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+        "last_success_at": "2026-11-06T21:02:08.278707+00:00"
       },
       "genre_briefs": [
         {
@@ -41864,17 +42666,18 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 145,
+          "count": 147,
           "publisher_count": 42,
           "summary": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 OpenAIは、18歳未満への武器・保安システムの悪用可能な実用情報の制限と、全年齢への過去の大量襲撃の詳細説明の制限を発表した。暴力への固執を示す会話の自動終了や反復時のアカウント一時停止も整備し、保護措置は今後数週間で順次導入する。安全性報告は2027年初めに初刊、その後半年ごとに公表予定。 OpenAIは10月30日、ニューヨーク・タイムズとの訴訟に関連し、AI学習へのフェアユース適用を支持する団体や専門家の提出書面を紹介した。著作者団体は非侵害の生成物との競争による市場希薄化を著作権上の損害と扱わないよう求め、図書館・障害者支援団体などは研究やアクセシビリティへの影響を論じている。",
           "evidence_ids": [
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
-            "7ba7a300a93e18ad2608a682"
+            "a42a9f26aeb4336e5c0bbad0"
           ],
           "article_ids": [
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
+            "a42a9f26aeb4336e5c0bbad0",
             "9c147d215e21f7a29e872520",
             "7ba7a300a93e18ad2608a682",
             "c4e87d5d11aa59b92f335764",
@@ -41917,6 +42720,7 @@
             "7a4be2b45ccb4afd8f0cf095",
             "295b52fac23a773c3d0de7ec",
             "ce501d527fc525be5dc167bb",
+            "685fd3a6f4178af1f203ad6c",
             "4ff6cc14fafc2b17b7ca40e2",
             "7c43bed9e9b7c412c0982b57",
             "ee0f56e4c3bb02484aa3fc90",
@@ -41939,11 +42743,11 @@
             "ef06791b1a606755930179fb",
             "4c42c8e5e3a02ad940887352",
             "3451aa59a64663fb83acdb75",
+            "35f89bc04007f9386fa89a72",
             "b309b3bdd974f9f33fc646b8",
             "3121d128688db8c22c7f17c4",
             "0aac5d5b6c39222241b16d21",
             "db5b23fccdefb37059c206d8",
-            "35f89bc04007f9386fa89a72",
             "d133ac7e101f5f46a5e97e14",
             "4e16af4cfa171c2d8b73cf9e",
             "6060b31632755e596aa765b5",
@@ -42027,7 +42831,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 74,
+          "count": 75,
           "publisher_count": 48,
           "summary": "Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語の指示によるアンテナ操作、較正、データ補正、AI解析を可能にした。Holoscanなどで毎秒2.4テラビットのデータを処理し、装置近くで推論を実行する。かに星雲のパルサーをAIでリアルタイム検出した実績があり、Nemotronを含む公開モデルの評価も進めている。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。 18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
@@ -42048,6 +42852,7 @@
             "bb17fd9999484dd9ce77ad88",
             "7a6cfeaa64af7b1e49a687b6",
             "c1a012835a28926d19da340d",
+            "75a1d5b6a0052cebda667dba",
             "14f8f145d2fc6dc512f5eda1",
             "8fbe79d13ab0605e826c2156",
             "ffc2dd1fd1ff292c66c6c071",
@@ -42103,8 +42908,8 @@
             "0a98b28f143969d195a2c536",
             "a220f82ee81f43cd1201a886",
             "79b3a98f12f4d3244706ef56",
-            "981aaad3c30febc201e93463",
             "2de4f63e085e80f030d56aa0",
+            "981aaad3c30febc201e93463",
             "7bc214003cc352e968467481",
             "e2f90d8f85434dee845194ab",
             "b82c170d7ace5421d262abb8",
@@ -42119,8 +42924,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 76,
-          "publisher_count": 50,
+          "count": 77,
+          "publisher_count": 51,
           "summary": "Googleは10月29日、Gemini Notebookで、米国・インドのOpenStax、Open Textbook Library、S Chand Publishingなどが提供する数百冊の教科書を無料で追加できるようにした。追加した教科書に基づく回答には文中引用と原典へのリンクが付き、学習ガイド、練習問題、暗記カードも作成できる。「Add sources」の「Textbooks」から教材を選択する。 Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
             "e2b97f9be7685b8648e7ba99",
@@ -42146,6 +42951,7 @@
             "3d5b4dda1f38a1f407240a81",
             "433b35a4f3950bfd85c17345",
             "4de42b06c20e1fe1f45e47f3",
+            "7d7cc448e725c69592aa6a63",
             "bba118ab7f49f827c8cd6069",
             "203ccab0042bf5f8b2465f87",
             "56913a3438cb1675d2e85ab2",
@@ -42340,6 +43146,7 @@
         "15453b4e65fe96e5eebfe317",
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
+        "a42a9f26aeb4336e5c0bbad0",
         "9c147d215e21f7a29e872520",
         "7ba7a300a93e18ad2608a682",
         "b885f584577b19b518d6643a",
@@ -42378,7 +43185,9 @@
         "d24e1f7a0371c390abbcfdf8",
         "c1a012835a28926d19da340d",
         "e577f9a69b01106e04a227a7",
+        "7d7cc448e725c69592aa6a63",
         "bba118ab7f49f827c8cd6069",
+        "75a1d5b6a0052cebda667dba",
         "5dbbb60a2eb310e63db8086a",
         "14f8f145d2fc6dc512f5eda1",
         "8fbe79d13ab0605e826c2156",
@@ -42433,6 +43242,7 @@
         "7a4be2b45ccb4afd8f0cf095",
         "295b52fac23a773c3d0de7ec",
         "ce501d527fc525be5dc167bb",
+        "685fd3a6f4178af1f203ad6c",
         "4ff6cc14fafc2b17b7ca40e2",
         "891fc454a5d16f2362daf90d",
         "b3cb1a30be629962f12c0857",
@@ -42488,6 +43298,7 @@
         "4c42c8e5e3a02ad940887352",
         "3451aa59a64663fb83acdb75",
         "795a4e1ba59092846a07ab2d",
+        "35f89bc04007f9386fa89a72",
         "f43883cafd5004cc3912824f",
         "c297c19e21947fa99de7fd5a",
         "011e142356bc15bf5fa5046f",
@@ -42502,7 +43313,6 @@
         "baf5f70d599a96424c317190",
         "63efe9a02ce6f77b1de00e0c",
         "b0fd1da078874ceabb018a36",
-        "35f89bc04007f9386fa89a72",
         "d133ac7e101f5f46a5e97e14",
         "4e16af4cfa171c2d8b73cf9e",
         "6060b31632755e596aa765b5",
@@ -42614,6 +43424,7 @@
         "483d190779f5c013aa661e69",
         "79b3a98f12f4d3244706ef56",
         "0c735143d89caaa32e9c08e9",
+        "2de4f63e085e80f030d56aa0",
         "a2bc2b90bf257e43c7610729",
         "e19f3d82e085d2a9daccdaf8",
         "9537e8df5f94d50266064b40",
@@ -42622,7 +43433,6 @@
         "981aaad3c30febc201e93463",
         "6c5c2e2a1e7c976e537d6bdb",
         "80141f5ebe931ef66815b64c",
-        "2de4f63e085e80f030d56aa0",
         "e76ebc85a3f6efadc7a1dc0b",
         "9dfe08cd99a27b07a1294aa7",
         "7bc214003cc352e968467481",
@@ -45138,20 +45948,20 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-06T10:27:29.460909+09:00",
+      "generated_at": "2026-11-07T06:02:08.603805+09:00",
       "is_complete": true,
-      "article_count": 1118,
+      "article_count": 1121,
       "category_counts": {
-        "tech": 289,
-        "ai": 544,
-        "parenting": 285
+        "tech": 290,
+        "ai": 545,
+        "parenting": 286
       },
       "overview": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語の指示によるアンテナ操作、較正、データ補正、AI解析を可能にした。Holoscanなどで毎秒2.4テラビットのデータを処理し、装置近くで推論を実行する。かに星雲のパルサーをAIでリアルタイム検出した実績があり、Nemotronを含む公開モデルの評価も進めている。 Googleは10月29日、Gemini Notebookで、米国・インドのOpenStax、Open Textbook Library、S Chand Publishingなどが提供する数百冊の教科書を無料で追加できるようにした。追加した教科書に基づく回答には文中引用と原典へのリンクが付き、学習ガイド、練習問題、暗記カードも作成できる。「Add sources」の「Textbooks」から教材を選択する。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+        "attempted_at": "2026-11-06T21:02:08.278707+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -45162,7 +45972,7 @@
         ],
         "errors": [
           {
-            "article_id": "b123e14f1bce0630c3c07761",
+            "article_id": "17ce8b8532de65db9e95cc24",
             "stage": "original_fetch"
           },
           {
@@ -45183,18 +45993,18 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+          "attempted_at": "2026-11-06T21:00:15.012434+00:00",
           "status": "ok",
-          "new_reviews": 5,
+          "new_reviews": 3,
           "updated_periods": [
             "overview",
             "weekly",
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+          "last_success_at": "2026-11-06T21:00:15.012434+00:00"
         },
-        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+        "last_success_at": "2026-11-06T21:02:08.278707+00:00"
       },
       "genre_briefs": [
         {
@@ -45398,7 +46208,7 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 460,
+          "count": 461,
           "publisher_count": 65,
           "summary": "OpenAIは、サイト運営者が基盤生成AIの学習への利用希望をrobots.txtで複数の参加事業者に一括して伝える共通信号を尊重すると発表した。事業者ごとの設定負担を減らす任意の取り組みで、今後数カ月以内の実装を目指す。既存のクローラー別制御も引き続き適用する。 OpenAIは、18歳未満への武器・保安システムの悪用可能な実用情報の制限と、全年齢への過去の大量襲撃の詳細説明の制限を発表した。暴力への固執を示す会話の自動終了や反復時のアカウント一時停止も整備し、保護措置は今後数週間で順次導入する。安全性報告は2027年初めに初刊、その後半年ごとに公表予定。 OpenAIは10月30日、ニューヨーク・タイムズとの訴訟に関連し、AI学習へのフェアユース適用を支持する団体や専門家の提出書面を紹介した。著作者団体は非侵害の生成物との競争による市場希薄化を著作権上の損害と扱わないよう求め、図書館・障害者支援団体などは研究やアクセシビリティへの影響を論じている。",
           "evidence_ids": [
@@ -45447,6 +46257,7 @@
             "7a4be2b45ccb4afd8f0cf095",
             "295b52fac23a773c3d0de7ec",
             "ce501d527fc525be5dc167bb",
+            "685fd3a6f4178af1f203ad6c",
             "4ff6cc14fafc2b17b7ca40e2",
             "7c43bed9e9b7c412c0982b57",
             "ee0f56e4c3bb02484aa3fc90",
@@ -45469,11 +46280,11 @@
             "ef06791b1a606755930179fb",
             "4c42c8e5e3a02ad940887352",
             "3451aa59a64663fb83acdb75",
+            "35f89bc04007f9386fa89a72",
             "b309b3bdd974f9f33fc646b8",
             "3121d128688db8c22c7f17c4",
             "0aac5d5b6c39222241b16d21",
             "db5b23fccdefb37059c206d8",
-            "35f89bc04007f9386fa89a72",
             "d133ac7e101f5f46a5e97e14",
             "4e16af4cfa171c2d8b73cf9e",
             "6060b31632755e596aa765b5",
@@ -45876,7 +46687,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 278,
+          "count": 279,
           "publisher_count": 117,
           "summary": "Breakthrough ListenとSETI研究所は、アレン電波望遠鏡群で自然言語の指示によるアンテナ操作、較正、データ補正、AI解析を可能にした。Holoscanなどで毎秒2.4テラビットのデータを処理し、装置近くで推論を実行する。かに星雲のパルサーをAIでリアルタイム検出した実績があり、Nemotronを含む公開モデルの評価も進めている。 NVIDIAは、Blackwell GPUとGrace CPU、最大128GBの統合メモリーを備えるRTX Spark搭載Windowsノートを6社から2,599ドルで販売中と発表。開発者向けには、40言語の文字起こし・話者識別・翻訳を一つで扱う公開重みモデルNemotron 3.5 Transcribeを公開した。NVIDIA Appでは前面アプリとバックグラウンドエージェントへのGPU資源配分を選べる。 18機関が参加するC-BRAINはNVIDIAと協力し、未公表結果などを活用する研究基盤を構築している。データを機関内に残す連合学習と集中管理を併用し、仮説生成・解析を行うOpenScientistと、文献などで仮説や主張を検証するInsightEngineを開発済み。公開事例ではOpenScientistが解析を数分、1回10ドル未満で実行した。多様な生体データを学ぶ基盤モデルの構築は今後の計画だ。",
           "evidence_ids": [
@@ -45894,6 +46705,7 @@
             "bb17fd9999484dd9ce77ad88",
             "7a6cfeaa64af7b1e49a687b6",
             "c1a012835a28926d19da340d",
+            "75a1d5b6a0052cebda667dba",
             "14f8f145d2fc6dc512f5eda1",
             "8fbe79d13ab0605e826c2156",
             "ffc2dd1fd1ff292c66c6c071",
@@ -45949,8 +46761,8 @@
             "0a98b28f143969d195a2c536",
             "a220f82ee81f43cd1201a886",
             "79b3a98f12f4d3244706ef56",
-            "981aaad3c30febc201e93463",
             "2de4f63e085e80f030d56aa0",
+            "981aaad3c30febc201e93463",
             "7bc214003cc352e968467481",
             "e2f90d8f85434dee845194ab",
             "b82c170d7ace5421d262abb8",
@@ -45964,8 +46776,8 @@
             "466faf903e911fd8d0221dbd",
             "c680a73cb18e59a9cb97ac83",
             "d4f3f0fe139b5f3f0674b705",
-            "8eb874c9bf39f98f2827fb51",
             "65a05f73599a4dcd2f38d347",
+            "8eb874c9bf39f98f2827fb51",
             "365dcbfbef3900eaea8ec10d",
             "d5d27e11a82c2b6f6f012f76",
             "61f8667a4d6b1a924b785ef6",
@@ -46172,7 +46984,7 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 253,
+          "count": 254,
           "publisher_count": 96,
           "summary": "Googleは10月29日、Gemini Notebookで、米国・インドのOpenStax、Open Textbook Library、S Chand Publishingなどが提供する数百冊の教科書を無料で追加できるようにした。追加した教科書に基づく回答には文中引用と原典へのリンクが付き、学習ガイド、練習問題、暗記カードも作成できる。「Add sources」の「Textbooks」から教材を選択する。 Googleは英国とイタリアでのGemini活用研究を公開した。英国では12〜15歳の1,100人超を対象に10週間の無作為化比較試験を実施。全AI応答を専門家が事前確認する条件で、数学の課題・小テスト成績は人間の指導と同程度だったが、標準化テストでは改善が見られなかった。イタリアの31校での年間研究では、Geminiと授業を共同設計した教師の報告などから、協働学習や生徒の参加増加が示された。 Googleは学生アンバサダー15人によるGeminiの11通りの活用法を紹介した。授業資料を短い個別レッスンに変えるStudy notebooks、問いかけで理解を促すGuided Learning、音声で面接練習ができるGemini Liveなどを掲載。Driveのシラバスから課題と期限を抽出し、Calendarに整理する利用例も示した。新機能の提供開始ではなく、大学生による活用事例の紹介だ。",
           "evidence_ids": [
@@ -46189,6 +47001,7 @@
             "3d5b4dda1f38a1f407240a81",
             "433b35a4f3950bfd85c17345",
             "4de42b06c20e1fe1f45e47f3",
+            "7d7cc448e725c69592aa6a63",
             "bba118ab7f49f827c8cd6069",
             "203ccab0042bf5f8b2465f87",
             "56913a3438cb1675d2e85ab2",
@@ -46658,7 +47471,9 @@
         "d24e1f7a0371c390abbcfdf8",
         "c1a012835a28926d19da340d",
         "e577f9a69b01106e04a227a7",
+        "7d7cc448e725c69592aa6a63",
         "bba118ab7f49f827c8cd6069",
+        "75a1d5b6a0052cebda667dba",
         "5dbbb60a2eb310e63db8086a",
         "14f8f145d2fc6dc512f5eda1",
         "8fbe79d13ab0605e826c2156",
@@ -46713,6 +47528,7 @@
         "7a4be2b45ccb4afd8f0cf095",
         "295b52fac23a773c3d0de7ec",
         "ce501d527fc525be5dc167bb",
+        "685fd3a6f4178af1f203ad6c",
         "4ff6cc14fafc2b17b7ca40e2",
         "891fc454a5d16f2362daf90d",
         "b3cb1a30be629962f12c0857",
@@ -46768,6 +47584,7 @@
         "4c42c8e5e3a02ad940887352",
         "3451aa59a64663fb83acdb75",
         "795a4e1ba59092846a07ab2d",
+        "35f89bc04007f9386fa89a72",
         "f43883cafd5004cc3912824f",
         "c297c19e21947fa99de7fd5a",
         "011e142356bc15bf5fa5046f",
@@ -46782,7 +47599,6 @@
         "baf5f70d599a96424c317190",
         "63efe9a02ce6f77b1de00e0c",
         "b0fd1da078874ceabb018a36",
-        "35f89bc04007f9386fa89a72",
         "d133ac7e101f5f46a5e97e14",
         "4e16af4cfa171c2d8b73cf9e",
         "6060b31632755e596aa765b5",
@@ -46894,6 +47710,7 @@
         "483d190779f5c013aa661e69",
         "79b3a98f12f4d3244706ef56",
         "0c735143d89caaa32e9c08e9",
+        "2de4f63e085e80f030d56aa0",
         "a2bc2b90bf257e43c7610729",
         "e19f3d82e085d2a9daccdaf8",
         "9537e8df5f94d50266064b40",
@@ -46902,7 +47719,6 @@
         "981aaad3c30febc201e93463",
         "6c5c2e2a1e7c976e537d6bdb",
         "80141f5ebe931ef66815b64c",
-        "2de4f63e085e80f030d56aa0",
         "e76ebc85a3f6efadc7a1dc0b",
         "9dfe08cd99a27b07a1294aa7",
         "7bc214003cc352e968467481",
@@ -46940,14 +47756,13 @@
         "7fe78bb7563bebe24fda2469",
         "129c175cdb3e141133d3781a",
         "8cabacdca2ed83aff443d3ff",
-        "365ec2209b20128d3401d5b3",
         "3e6c07a957bc1c04a62d28b0",
+        "365ec2209b20128d3401d5b3",
         "d25b3ce3a535500fc9ea36c6",
         "2a987b3130f5549fb4d99d56",
         "466faf903e911fd8d0221dbd",
         "96e0b2ff920553bfd8099bf2",
         "0a5aba0920cb44a0aae1a17d",
-        "8a8ff91cbd99ecf3b076857e",
         "5934323c72c70ee6dc847366",
         "08593ae6c12128138573af8f",
         "b5201a8ca5fbff18ff602612",
@@ -46968,8 +47783,9 @@
         "3ad86031b56b49f57f8691fb",
         "284daae1aeb49281cd2e339d",
         "d4f3f0fe139b5f3f0674b705",
-        "8eb874c9bf39f98f2827fb51",
         "65a05f73599a4dcd2f38d347",
+        "8a8ff91cbd99ecf3b076857e",
+        "8eb874c9bf39f98f2827fb51",
         "c3a6aca809f74f6d68c307d7",
         "365dcbfbef3900eaea8ec10d",
         "d5d27e11a82c2b6f6f012f76",
@@ -50714,24 +51530,24 @@
   ],
   "reports": {
     "overview": {
-      "id": "7d491358de57770f588264c7",
+      "id": "eaf874ccac11bf3f1f26c4e1",
       "kind": "overview",
-      "period_start": "2026-10-31",
-      "period_end": "2026-11-06",
-      "generated_at": "2026-11-06T10:27:29.460909+09:00",
+      "period_start": "2026-11-01",
+      "period_end": "2026-11-07",
+      "generated_at": "2026-11-07T06:02:08.603805+09:00",
       "is_complete": false,
-      "article_count": 214,
+      "article_count": 224,
       "category_counts": {
-        "ai": 103,
+        "ai": 118,
         "tech": 52,
-        "parenting": 59
+        "parenting": 54
       },
-      "overview": "Mistralは企業向けStudioで、手順を指定するスキル、コード実行環境、サブエージェント、業務イベントによる起動と処理の可視化を拡充すると発表した。クラウド・専用VPC・自社設備での展開に対応するが、既存顧客の本番利用が新機能すべての導入実績を示すわけではなく、料金や機能別の利用条件は不明。 NVIDIAは、自然言語で指示するAIエージェントとOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転向けの試験環境を作る事例を紹介した。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。成果は個別の試作・実験であり、新製品の一般提供や実機での性能を示すものではない。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをClassroomで世界向けに展開開始し、教師による課題の割り当てと学習状況の把握を可能にした。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価である。",
+      "overview": "BioBasicsBenchは、ゲル画像など生物実験の生データの解釈や証拠不足の認識を100課題で評価する。Cult.fitはCodexによる非技術部門の社内アプリ開発と、GPT Realtimeを使う会員向け音声トレーナーを報告した。一方、Hacktronとの提携は外部サービス接続部分の共同検証を発表した段階で、発見・修正実績は示されていない。 NVIDIAは、自然言語で指示するAIエージェントとOmniverseを使った倉庫ロボット・自動運転向けプロトタイプを紹介した。ハードル越えの成功はシミュレーション内の結果である。推論基盤では、NVFP4による圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明し、特定負荷で費用当たり処理量が最大30倍になると報告した。いずれも一般用途での効果や提供時期を確定する資料ではない。 Googleは、教師が課題を割り当てて学習状況を把握できるGuided LearningをClassroomで世界展開開始した。大学生300人超を対象にした半日の統計学試験では、利用群と通常のウェブ教材群の得点上昇がそれぞれ8.1、5.3ポイントだった。初等・中等教育用アカウントの管理更新も発表したが、具体的変更は不明。Google.orgの助成には初期読解支援モデルの開発が含まれるものの、対象年齢や提供時期は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+        "attempted_at": "2026-11-06T21:02:08.278707+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -50742,7 +51558,7 @@
         ],
         "errors": [
           {
-            "article_id": "b123e14f1bce0630c3c07761",
+            "article_id": "17ce8b8532de65db9e95cc24",
             "stage": "original_fetch"
           },
           {
@@ -50763,18 +51579,18 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+          "attempted_at": "2026-11-06T21:00:15.012434+00:00",
           "status": "ok",
-          "new_reviews": 5,
+          "new_reviews": 3,
           "updated_periods": [
             "overview",
             "weekly",
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+          "last_success_at": "2026-11-06T21:00:15.012434+00:00"
         },
-        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+        "last_success_at": "2026-11-06T21:02:08.278707+00:00"
       },
       "genre_briefs": [
         {
@@ -50782,62 +51598,60 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "55796f5d33eea9e47f5a7706",
-              "headline": "OpenAI、許可範囲の順守を強化したGPT‑6 Cyberを発表",
-              "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。",
-              "impact": "考察：悪用可能性の検証と修正案の作成を組み合わせることで、防御側が優先して直す問題を判断しやすくなる可能性がある。",
+              "article_id": "108a75f6351e2f39e19db61d",
+              "headline": "OpenAI、Hacktronと外部サービス連携部分の脆弱性を共同検証へ",
+              "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
+              "impact": "考察：サービス間の接続や権限の境界を重点検証することで、個別システムの検査では見落としやすい問題の発見につながる可能性がある。",
               "category": "ai",
-              "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+              "source_url": "https://openai.com/index/partnering-with-hacktron/",
               "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は提供元の評価・報告。許可範囲を守った割合100％は特定の評価とプロンプト条件での結果であり、実運用全般の保証ではない。参加対象の拡大は目標で、一般提供の範囲は本文から確定できない。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber.",
-              "published_at": "2026-11-05T09:00:00Z"
-            },
-            {
-              "article_id": "a695c90fcb89a16e3e8342c9",
-              "headline": "OpenAI、将来自社運営する計算拠点で地域協約と費用負担を約束",
-              "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
-              "impact": "考察：費用負担と使用資源を拠点ごとに公開すれば、住民が計画の影響や約束の履行を確認する材料になり得る。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。自社の約束は将来所有・運営する拠点が対象。業界全体へのルールは政策提案であり、法制化済みではない。地域投資の事例も、教育・保育への効果を検証した結果ではない。",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象システムの詳細、検証日程、アクセス拡大の具体的な範囲は本文にない。提携による安全性向上は今後の成果であり、実証済みではない。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Every future compute campus OpenAI owns and operates will have its own local compact.",
-              "published_at": "2026-11-05T02:00:00Z"
+              "evidence_quote": "with a focus on how our systems interact with third-party services.",
+              "published_at": "2026-11-06T08:00:00Z"
             },
             {
-              "article_id": "2d74012b20661e371118d081",
-              "headline": "Mistral Studio、管理型エージェントと業務ワークフロー機能を拡充",
-              "summary": "Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
-              "impact": "考察：実行基盤と承認手順を共通化できれば、企業が複数の業務へエージェントを展開する際の開発・運用負担を減らせる可能性がある。",
+              "article_id": "eb4d5bf90adda097176a3459",
+              "headline": "OpenAI、実験の生データを読むAIを測るBioBasicsBenchを発表",
+              "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。",
+              "impact": "考察：正答だけでなく証拠の限界や対照実験の問題も評価するため、研究者がAIに任せる分析と人が確認すべき分析を見極める材料になりうる。",
               "category": "ai",
-              "source_url": "https://mistral.ai/news/build-with-studio/",
-              "source_label": "Mistral 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。既存顧客によるStudioの本番利用は、新機能すべての導入実績を意味しない。時間削減は提供元の社内事例であり、他社で同じ効果が出るとは限らない。料金や各機能の利用条件は本文にない。",
-              "provider": "Mistral",
+              "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は100課題での部分点を含む平均得点で、実験成功率ではない。実際の研究現場での時間短縮や発見の増加は検証しておらず、画像解釈などにも改善余地がある。",
+              "provider": "OpenAI",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The benchmark’s 100 tasks test whether agents can interpret raw experimental data, identify errors, and recognize when the evidence cannot support a conclusion.",
+              "published_at": "2026-11-06T00:00:00Z"
+            },
+            {
+              "article_id": "b123e14f1bce0630c3c07761",
+              "headline": "Cult.fit、Codexの全社活用と音声AIトレーナーの事例を公開",
+              "summary": "OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
+              "impact": "考察：開発規約の統一に加え、技術相談会や部門への技術者配置を組み合わせた点は、非技術部門のアプリを運用まで進めるための参考になる。",
+              "category": "ai",
+              "source_url": "https://openai.com/index/cultfit-builds-with-codex/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。費用削減などは企業の報告で、独立した検証や算定条件は示されていない。AI Trainerの利用率約20％は製品全体の値で、最新版の普及率や運動効果を示すものではない。",
+              "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [
-                "models"
+                "development"
               ],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Today’s release also adds event triggers from enterprise systems and a visual graph that makes each workflow’s logic easier to inspect.",
-              "published_at": "2026-11-05T00:00:00Z"
+              "evidence_quote": "More than 20 internal applications have been built by non-engineering teams in recent months.",
+              "published_at": "2026-11-05T20:00:00Z"
             }
           ]
         },
@@ -50981,23 +51795,44 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 85,
-          "publisher_count": 32,
-          "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
+          "count": 98,
+          "publisher_count": 34,
+          "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
           "evidence_ids": [
-            "236b667674825bb26e60281a",
-            "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a"
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a"
           ],
           "article_ids": [
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a",
+            "108a75f6351e2f39e19db61d",
+            "8ee3315c4254da2155d759ee",
+            "8a11f33f7df7ec78516ceb2f",
+            "b1edd1f0d01f027ca3bc99d8",
+            "790c222f62898eb2a3d88f4d",
+            "37eded9fc374f1f490fec079",
+            "eb3776e63d3a773707ccc876",
+            "c557372306b2b9ee66a03694",
+            "7aef2ec4a9c54f48400d15da",
+            "d8c3afb00af41116faf3ebff",
+            "a06f7f6843ffddd39b703609",
+            "c1b0246d166bbe65f6c29627",
+            "b1480f969a139ea7267ad4dc",
+            "9a032cf4b0d8c3ed160b2f95",
             "236b667674825bb26e60281a",
+            "bf9ca24e7086b8c60ab42246",
             "062b7d9fdc16c39468980f7d",
+            "7f1d3478f61bb83999d5cf1d",
+            "17ce8b8532de65db9e95cc24",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
             "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
+            "197c0bf5fdda502c7e0ff6bb",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
@@ -51008,6 +51843,7 @@
             "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
+            "eaac9e7c1373e2f6b0ba6ee1",
             "30429c3e0ce92f9ac905bf52",
             "214a6e08c8ff037e905f5380",
             "1b43db3b1d1ec35f08c6019d",
@@ -51063,18 +51899,9 @@
             "4cd140f2ee6766e69134defb",
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
+            "a42a9f26aeb4336e5c0bbad0",
             "9c147d215e21f7a29e872520",
-            "7ba7a300a93e18ad2608a682",
-            "c4e87d5d11aa59b92f335764",
-            "157eb1dcc604ecc78d582acd",
-            "12811111687156af20270324",
-            "39bb8ae8715fa712a91656f0",
-            "00a0a77ae9bf81a4d7ebe658",
-            "a4cb2c6e689a62c59d6c1fdc",
-            "96284c6173b6fe3d31b3c456",
-            "0111694ad799f3411646ad90",
-            "2d6462a7b26cbd85175522da",
-            "0e36eeca43c8219f2756d703"
+            "7ba7a300a93e18ad2608a682"
           ]
         },
         {
@@ -51085,14 +51912,20 @@
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
           "count": 50,
-          "publisher_count": 34,
+          "publisher_count": 35,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAの技術者Chris Alexiuk氏が、YouTubeで公開LLMの構築、微調整、評価、本番導入を教える活動を紹介。Nemotronの用途として、個人開発者の反復処理向けLightningや、企業の長時間エージェント処理向けUltraを説明している。新製品の提供開始ではなく、既存の教育活動とモデル活用の考え方を扱う人物紹介だ。 NVIDIAは、NVFP4による重み・KVキャッシュの圧縮、最大72基のGPUへの重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。AI基盤運営者向けに、Vera Rubin NVL72はGB300 NVL72比でGPU当たりHBM容量が約3％増ながら、特定条件の推論で費用当たり処理量が最大30倍になると報告している。",
           "evidence_ids": [
-            "6f6cc2a9fd6a9c033d177351",
-            "badda310cca07906cc76c487",
-            "837c2ffc2d8e8e65b49f007a"
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d"
           ],
           "article_ids": [
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d",
+            "bec7004d77847e64b96c2237",
+            "9f872c30d15de1dbbd336ce1",
+            "825bf6c46ee5885106939b77",
             "6f6cc2a9fd6a9c033d177351",
             "badda310cca07906cc76c487",
             "93de2d24a7e0922172eca408",
@@ -51136,13 +51969,7 @@
             "2ede0a7d6138852c915ec122",
             "051d933e072d207402f6fb7b",
             "40a66e89a51a976a9bd43880",
-            "3e4da4b2eb70554331eb2390",
-            "5fed3a5fe2493b3ceb51d3b9",
-            "16cff891db8c26c8a5239734",
-            "bdfee37941a0a41b6eb8e9f0",
-            "75bc3041d2af7f3207b61af9",
-            "7313fedba4ba3466db3b041e",
-            "38e899fd103f45b2839954e4"
+            "3e4da4b2eb70554331eb2390"
           ]
         },
         {
@@ -51152,15 +51979,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 59,
-          "publisher_count": 35,
+          "count": 54,
+          "publisher_count": 33,
           "summary": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。 Googleは教育向け製品群の更新として、Guided LearningのGoogle Classroomでの世界展開と、Google検索への同機能の導入を発表した。また、初等・中等教育の児童生徒用アカウントについて、Gemini、Gemini Notebook、Gemini in Classroom、Google検索の管理方法を更新すると説明。教育者向けAI研修の拡大や研究、助成も一連の発表に含めた。",
           "evidence_ids": [
-            "92eb98f100e3dca81af2a2e5",
-            "1547c694ff5ed82dc3dd601b",
-            "6c58f9f8c451861a8968a785"
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
+            "92eb98f100e3dca81af2a2e5"
           ],
           "article_ids": [
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
             "92eb98f100e3dca81af2a2e5",
             "1547c694ff5ed82dc3dd601b",
             "6c58f9f8c451861a8968a785",
@@ -51176,7 +52005,6 @@
             "382dd78e063d7b835c45674a",
             "79993886a96970f62a7d894c",
             "f4848be7c9eab71d59245c0c",
-            "3e95505f3f8c368a05732fdc",
             "303ef1ac871c8421e6a49712",
             "33ba15ab6e78fa59f1dffaa8",
             "093a142bf083cb8920d586b3",
@@ -51213,13 +52041,7 @@
             "2d1c9cee60d06e5aae473b33",
             "15453b4e65fe96e5eebfe317",
             "00450615b1909d736d3430dc",
-            "b885f584577b19b518d6643a",
-            "36d0488382a44a0f4f4611a8",
-            "7d0ddb532cfe0305592c5fea",
-            "098bc215e15eef4fd926a9b4",
-            "d0b751d19dcd072477e1bb4c",
-            "78335cfc0c0cbeddf981a2e2",
-            "3d5b4dda1f38a1f407240a81"
+            "b885f584577b19b518d6643a"
           ]
         },
         {
@@ -51237,15 +52059,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 18,
-          "publisher_count": 14,
-          "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
+          "count": 20,
+          "publisher_count": 15,
+          "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。 OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
           "evidence_ids": [
-            "b123e14f1bce0630c3c07761",
-            "716dbc2817426bfca0266458",
-            "becc23512e6adc0a640ab61b"
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
+            "716dbc2817426bfca0266458"
           ],
           "article_ids": [
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
             "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
@@ -51297,54 +52121,94 @@
       "insights": [
         {
           "category": "ai",
-          "label": "業務エージェントの実行環境と管理機能の拡充",
-          "observation": "Mistralは企業向けStudioで、手順を指定するスキル、コード実行環境、サブエージェント、業務イベントによる起動と処理の可視化を拡充すると発表した。クラウド・専用VPC・自社設備での展開に対応するが、既存顧客の本番利用が新機能すべての導入実績を示すわけではなく、料金や機能別の利用条件は不明。",
-          "interpretation": "実行手順と処理状況を管理できることは、企業がエージェントを業務に組み込む際の検証を進めやすくする可能性がある。ただし、導入需要や作業時間の削減は、この資料からは判断できない。",
-          "next_question": "各新機能はどの契約・展開環境で利用でき、実業務での失敗率、復旧に必要な人手、処理時間は従来の運用と比べてどうなるか。",
+          "label": "実務への導入と評価範囲の切り分け",
+          "observation": "BioBasicsBenchは、ゲル画像など生物実験の生データの解釈や証拠不足の認識を100課題で評価する。Cult.fitはCodexによる非技術部門の社内アプリ開発と、GPT Realtimeを使う会員向け音声トレーナーを報告した。一方、Hacktronとの提携は外部サービス接続部分の共同検証を発表した段階で、発見・修正実績は示されていない。",
+          "interpretation": "これらの事例からは、実務への適用を判断する際に、課題上の得点、導入企業の自己報告、今後の検証計画を分けて確認する必要があると考えられる。ベンチマークの得点や導入事例だけでは、現場での効果や安全性を推定しきれない可能性がある。",
+          "next_question": "生物研究や音声トレーナーの実運用で、誤判断率、専門家による修正時間、接続先に起因する不具合を測定した結果は公開されるか。",
           "required_ids": [
-            "2d74012b20661e371118d081"
+            "eb4d5bf90adda097176a3459",
+            "b123e14f1bce0630c3c07761",
+            "108a75f6351e2f39e19db61d"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "2d74012b20661e371118d081"
+            "eb4d5bf90adda097176a3459",
+            "b123e14f1bce0630c3c07761",
+            "108a75f6351e2f39e19db61d"
           ]
         },
         {
           "category": "tech",
-          "label": "自然言語でシミュレーションを構築する開発事例",
-          "observation": "NVIDIAは、自然言語で指示するAIエージェントとOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転向けの試験環境を作る事例を紹介した。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。成果は個別の試作・実験であり、新製品の一般提供や実機での性能を示すものではない。",
-          "interpretation": "ロボットや自動運転の開発者が試験環境を作り直す工程を、自然言語の指示で支援できる可能性がある。ただし、環境の正確さを確認する負担まで減るかは未検証である。",
-          "next_question": "同じ試験環境を従来手法とエージェント利用で構築した場合、検証・修正を含む総作業時間と、実機の挙動を再現する精度に差が出るか。",
+          "label": "シミュレーションと推論基盤の条件付き成果",
+          "observation": "NVIDIAは、自然言語で指示するAIエージェントとOmniverseを使った倉庫ロボット・自動運転向けプロトタイプを紹介した。ハードル越えの成功はシミュレーション内の結果である。推論基盤では、NVFP4による圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明し、特定負荷で費用当たり処理量が最大30倍になると報告した。いずれも一般用途での効果や提供時期を確定する資料ではない。",
+          "interpretation": "開発者や基盤運営者にとって、仮想環境での試行とメモリ配置の工夫が、複雑な処理を扱う選択肢になる可能性がある。ただし、実機への移行や文脈の退避・復帰を含めた条件によって、得られる効果は変わると考えられる。",
+          "next_question": "実機でのタスク成功率と、同一のモデル・負荷・応答品質で測った遅延および総費用は、それぞれ比較対象に対してどう変わるか。",
           "required_ids": [
-            "badda310cca07906cc76c487"
+            "badda310cca07906cc76c487",
+            "c5b809404325f202f3bb9c8f"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "badda310cca07906cc76c487"
+            "badda310cca07906cc76c487",
+            "c5b809404325f202f3bb9c8f"
           ]
         },
         {
           "category": "parenting",
-          "label": "教師が課題と学習状況を管理するAI学習支援",
-          "observation": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをClassroomで世界向けに展開開始し、教師による課題の割り当てと学習状況の把握を可能にした。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価である。",
-          "interpretation": "教師が教材や課題に結び付けてAIを使わせる設計は、授業への組み込みを支援する可能性がある。ただし、大学生の短時間の結果から、中等教育での長期的な学習効果や、幼児・小学生への効果は推定できない。",
-          "next_question": "中等教育では、同じ教材・授業時間で比較した際に、数週間後の理解度と定着率、教師の確認・介入時間がどう変わるか。",
+          "label": "教師による運用と年齢別の効果検証",
+          "observation": "Googleは、教師が課題を割り当てて学習状況を把握できるGuided LearningをClassroomで世界展開開始した。大学生300人超を対象にした半日の統計学試験では、利用群と通常のウェブ教材群の得点上昇がそれぞれ8.1、5.3ポイントだった。初等・中等教育用アカウントの管理更新も発表したが、具体的変更は不明。Google.orgの助成には初期読解支援モデルの開発が含まれるものの、対象年齢や提供時期は示されていない。",
+          "interpretation": "教師が教材や利用状況を管理できる仕組みは、学校でAIを運用する際の判断材料になる可能性がある。ただし、大学生の短期試験から、幼児・小学生・中高生の学習効果や家庭での有用性まで推定することはできず、年齢段階ごとの検証が必要と考えられる。",
+          "next_question": "初期読解支援は何歳・どの読解段階を対象とし、幼児、小学生、中高生それぞれで、教師の介入条件と長期の学習定着をどう検証するか。",
           "required_ids": [
-            "23ce8c9263aaa805a198a331"
+            "23ce8c9263aaa805a198a331",
+            "3d84924411308cf5b9d9a5b1",
+            "d464444c8c826999a03a6862"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "23ce8c9263aaa805a198a331"
+            "23ce8c9263aaa805a198a331",
+            "3d84924411308cf5b9d9a5b1",
+            "d464444c8c826999a03a6862"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "82a22eba784ac22b81538c98",
+        "c9361a8e3e5ec195eda7d45f",
+        "f7b661573ce6d63d07845eb2",
+        "3e95505f3f8c368a05732fdc",
+        "d223bb479161a61d9f78e62a",
+        "108a75f6351e2f39e19db61d",
+        "8ee3315c4254da2155d759ee",
+        "8a11f33f7df7ec78516ceb2f",
+        "7d0c1d3eaeb2f706c89deb54",
+        "b1edd1f0d01f027ca3bc99d8",
+        "9ec2e0748cfe0605fa3c785d",
+        "790c222f62898eb2a3d88f4d",
+        "37eded9fc374f1f490fec079",
+        "bec7004d77847e64b96c2237",
+        "eb3776e63d3a773707ccc876",
+        "c557372306b2b9ee66a03694",
+        "9f872c30d15de1dbbd336ce1",
+        "9b811b24b7cd298bd5299506",
+        "7aef2ec4a9c54f48400d15da",
+        "d8c3afb00af41116faf3ebff",
+        "a06f7f6843ffddd39b703609",
+        "27501dbcf74681cf612656da",
+        "c1b0246d166bbe65f6c29627",
+        "825bf6c46ee5885106939b77",
+        "b1480f969a139ea7267ad4dc",
+        "eb4d5bf90adda097176a3459",
+        "9a032cf4b0d8c3ed160b2f95",
         "236b667674825bb26e60281a",
+        "bf9ca24e7086b8c60ab42246",
         "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
+        "7f1d3478f61bb83999d5cf1d",
         "badda310cca07906cc76c487",
+        "17ce8b8532de65db9e95cc24",
         "93de2d24a7e0922172eca408",
         "c5b809404325f202f3bb9c8f",
         "837c2ffc2d8e8e65b49f007a",
@@ -51364,6 +52228,7 @@
         "86914472771219060b4a7b51",
         "4f8d828304e0c95cd93fca2b",
         "6c58f9f8c451861a8968a785",
+        "197c0bf5fdda502c7e0ff6bb",
         "a2ae1d27fe32efb49c6766ad",
         "39adfbcf5bf4df9fc689dff0",
         "d9ff150c320ece1a5429fdf6",
@@ -51389,6 +52254,7 @@
         "d2013711e72022334dbdefe3",
         "d2a9f5c0450942740613f0cf",
         "75e6d1f2e1415f351621d840",
+        "eaac9e7c1373e2f6b0ba6ee1",
         "30429c3e0ce92f9ac905bf52",
         "214a6e08c8ff037e905f5380",
         "3e8668630b7e3aa8c607469a",
@@ -51408,7 +52274,6 @@
         "62f0845f5d20f3595d83e967",
         "8db818de0828f2f392c2714d",
         "f3ee910c087fed4ecbca0c27",
-        "3e95505f3f8c368a05732fdc",
         "303ef1ac871c8421e6a49712",
         "52a73d0b251a7b2dc73145a9",
         "d4b519193c9e00dbaac36db9",
@@ -51529,31 +52394,10 @@
         "15453b4e65fe96e5eebfe317",
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
+        "a42a9f26aeb4336e5c0bbad0",
         "9c147d215e21f7a29e872520",
         "7ba7a300a93e18ad2608a682",
-        "b885f584577b19b518d6643a",
-        "5fed3a5fe2493b3ceb51d3b9",
-        "c4e87d5d11aa59b92f335764",
-        "36d0488382a44a0f4f4611a8",
-        "7d0ddb532cfe0305592c5fea",
-        "098bc215e15eef4fd926a9b4",
-        "d0b751d19dcd072477e1bb4c",
-        "157eb1dcc604ecc78d582acd",
-        "16cff891db8c26c8a5239734",
-        "12811111687156af20270324",
-        "bdfee37941a0a41b6eb8e9f0",
-        "39bb8ae8715fa712a91656f0",
-        "00a0a77ae9bf81a4d7ebe658",
-        "a4cb2c6e689a62c59d6c1fdc",
-        "75bc3041d2af7f3207b61af9",
-        "96284c6173b6fe3d31b3c456",
-        "7313fedba4ba3466db3b041e",
-        "78335cfc0c0cbeddf981a2e2",
-        "3d5b4dda1f38a1f407240a81",
-        "0111694ad799f3411646ad90",
-        "2d6462a7b26cbd85175522da",
-        "0e36eeca43c8219f2756d703",
-        "38e899fd103f45b2839954e4"
+        "b885f584577b19b518d6643a"
       ]
     },
     "weekly": {
@@ -51561,20 +52405,20 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-06T10:27:29.460909+09:00",
+      "generated_at": "2026-11-07T06:02:08.603805+09:00",
       "is_complete": false,
-      "article_count": 173,
+      "article_count": 204,
       "category_counts": {
-        "ai": 87,
-        "tech": 43,
-        "parenting": 43
+        "ai": 111,
+        "tech": 49,
+        "parenting": 44
       },
-      "overview": "Mistralは企業向けStudioで、手順を記したスキル、コード実行環境、サブエージェントを設定できる管理型エージェントと、業務イベントによる起動・処理可視化を発表した。クラウド、専用VPC、自社設備での展開に対応するとしている。既存顧客のStudio本番利用は示されているが、新機能すべての導入実績や利用条件は不明。OpenAIのGPT‑6 Cyberは脆弱性の発見・検証・修正を支援し、提供元評価で性能向上を報告したが、参加対象の拡大は目標段階で、一般提供範囲は確定できない。 NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用環境を作る事例を紹介した。成果は実験・プロトタイプ段階で、実機性能や開発時間の短縮は示されていない。別記事ではAI基盤運営者向けに、NVFP4による重み・KVキャッシュ圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定負荷での結果で、各構成の提供時期は不明。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningのClassroomでの世界展開を開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価。Google.orgは教師向けAIなどを開発する団体への助成も発表したが、初期読解支援の対象年齢や提供時期、学習効果は示していない。",
+      "overview": "OpenAIとLigoが発表したBioBasicsBenchは、生物実験の100課題でゲル画像や顕微鏡像の解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定でGPT‑6 Astraは満点比66.7％を獲得したが、部分点を含む評価得点であり、実験成功率や研究現場での効果ではない。 NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを構築する事例を紹介した。センサー検証では約3日間でデジタルツインを新規作成・改善したが、一般提供する統一製品の発表ではなく、実機性能や従来手法に対する時間短縮は示されていない。 Googleは、教師が教材に沿った課題の割り当てと学習状況の把握を行えるGuided LearningをClassroomで世界向けに展開開始した。大学生300人超を対象とする半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果は確認されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+        "attempted_at": "2026-11-06T21:02:08.278707+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -51585,7 +52429,7 @@
         ],
         "errors": [
           {
-            "article_id": "b123e14f1bce0630c3c07761",
+            "article_id": "17ce8b8532de65db9e95cc24",
             "stage": "original_fetch"
           },
           {
@@ -51606,18 +52450,18 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+          "attempted_at": "2026-11-06T21:00:15.012434+00:00",
           "status": "ok",
-          "new_reviews": 5,
+          "new_reviews": 3,
           "updated_periods": [
             "overview",
             "weekly",
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+          "last_success_at": "2026-11-06T21:00:15.012434+00:00"
         },
-        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+        "last_success_at": "2026-11-06T21:02:08.278707+00:00"
       },
       "genre_briefs": [
         {
@@ -51625,62 +52469,60 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "55796f5d33eea9e47f5a7706",
-              "headline": "OpenAI、許可範囲の順守を強化したGPT‑6 Cyberを発表",
-              "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。",
-              "impact": "考察：悪用可能性の検証と修正案の作成を組み合わせることで、防御側が優先して直す問題を判断しやすくなる可能性がある。",
+              "article_id": "108a75f6351e2f39e19db61d",
+              "headline": "OpenAI、Hacktronと外部サービス連携部分の脆弱性を共同検証へ",
+              "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
+              "impact": "考察：サービス間の接続や権限の境界を重点検証することで、個別システムの検査では見落としやすい問題の発見につながる可能性がある。",
               "category": "ai",
-              "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+              "source_url": "https://openai.com/index/partnering-with-hacktron/",
               "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は提供元の評価・報告。許可範囲を守った割合100％は特定の評価とプロンプト条件での結果であり、実運用全般の保証ではない。参加対象の拡大は目標で、一般提供の範囲は本文から確定できない。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber.",
-              "published_at": "2026-11-05T09:00:00Z"
-            },
-            {
-              "article_id": "a695c90fcb89a16e3e8342c9",
-              "headline": "OpenAI、将来自社運営する計算拠点で地域協約と費用負担を約束",
-              "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
-              "impact": "考察：費用負担と使用資源を拠点ごとに公開すれば、住民が計画の影響や約束の履行を確認する材料になり得る。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。自社の約束は将来所有・運営する拠点が対象。業界全体へのルールは政策提案であり、法制化済みではない。地域投資の事例も、教育・保育への効果を検証した結果ではない。",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象システムの詳細、検証日程、アクセス拡大の具体的な範囲は本文にない。提携による安全性向上は今後の成果であり、実証済みではない。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Every future compute campus OpenAI owns and operates will have its own local compact.",
-              "published_at": "2026-11-05T02:00:00Z"
+              "evidence_quote": "with a focus on how our systems interact with third-party services.",
+              "published_at": "2026-11-06T08:00:00Z"
             },
             {
-              "article_id": "2d74012b20661e371118d081",
-              "headline": "Mistral Studio、管理型エージェントと業務ワークフロー機能を拡充",
-              "summary": "Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
-              "impact": "考察：実行基盤と承認手順を共通化できれば、企業が複数の業務へエージェントを展開する際の開発・運用負担を減らせる可能性がある。",
+              "article_id": "eb4d5bf90adda097176a3459",
+              "headline": "OpenAI、実験の生データを読むAIを測るBioBasicsBenchを発表",
+              "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。",
+              "impact": "考察：正答だけでなく証拠の限界や対照実験の問題も評価するため、研究者がAIに任せる分析と人が確認すべき分析を見極める材料になりうる。",
               "category": "ai",
-              "source_url": "https://mistral.ai/news/build-with-studio/",
-              "source_label": "Mistral 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。既存顧客によるStudioの本番利用は、新機能すべての導入実績を意味しない。時間削減は提供元の社内事例であり、他社で同じ効果が出るとは限らない。料金や各機能の利用条件は本文にない。",
-              "provider": "Mistral",
+              "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は100課題での部分点を含む平均得点で、実験成功率ではない。実際の研究現場での時間短縮や発見の増加は検証しておらず、画像解釈などにも改善余地がある。",
+              "provider": "OpenAI",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The benchmark’s 100 tasks test whether agents can interpret raw experimental data, identify errors, and recognize when the evidence cannot support a conclusion.",
+              "published_at": "2026-11-06T00:00:00Z"
+            },
+            {
+              "article_id": "b123e14f1bce0630c3c07761",
+              "headline": "Cult.fit、Codexの全社活用と音声AIトレーナーの事例を公開",
+              "summary": "OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
+              "impact": "考察：開発規約の統一に加え、技術相談会や部門への技術者配置を組み合わせた点は、非技術部門のアプリを運用まで進めるための参考になる。",
+              "category": "ai",
+              "source_url": "https://openai.com/index/cultfit-builds-with-codex/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。費用削減などは企業の報告で、独立した検証や算定条件は示されていない。AI Trainerの利用率約20％は製品全体の値で、最新版の普及率や運動効果を示すものではない。",
+              "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [
-                "models"
+                "development"
               ],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Today’s release also adds event triggers from enterprise systems and a visual graph that makes each workflow’s logic easier to inspect.",
-              "published_at": "2026-11-05T00:00:00Z"
+              "evidence_quote": "More than 20 internal applications have been built by non-engineering teams in recent months.",
+              "published_at": "2026-11-05T20:00:00Z"
             }
           ]
         },
@@ -51824,23 +52666,44 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 71,
-          "publisher_count": 28,
-          "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
+          "count": 93,
+          "publisher_count": 34,
+          "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
           "evidence_ids": [
-            "236b667674825bb26e60281a",
-            "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a"
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a"
           ],
           "article_ids": [
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a",
+            "108a75f6351e2f39e19db61d",
+            "8ee3315c4254da2155d759ee",
+            "8a11f33f7df7ec78516ceb2f",
+            "b1edd1f0d01f027ca3bc99d8",
+            "790c222f62898eb2a3d88f4d",
+            "37eded9fc374f1f490fec079",
+            "eb3776e63d3a773707ccc876",
+            "c557372306b2b9ee66a03694",
+            "7aef2ec4a9c54f48400d15da",
+            "d8c3afb00af41116faf3ebff",
+            "a06f7f6843ffddd39b703609",
+            "c1b0246d166bbe65f6c29627",
+            "b1480f969a139ea7267ad4dc",
+            "9a032cf4b0d8c3ed160b2f95",
             "236b667674825bb26e60281a",
+            "bf9ca24e7086b8c60ab42246",
             "062b7d9fdc16c39468980f7d",
+            "7f1d3478f61bb83999d5cf1d",
+            "17ce8b8532de65db9e95cc24",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
             "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
+            "197c0bf5fdda502c7e0ff6bb",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
@@ -51851,6 +52714,7 @@
             "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
+            "eaac9e7c1373e2f6b0ba6ee1",
             "30429c3e0ce92f9ac905bf52",
             "214a6e08c8ff037e905f5380",
             "1b43db3b1d1ec35f08c6019d",
@@ -51913,15 +52777,21 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 41,
-          "publisher_count": 28,
+          "count": 47,
+          "publisher_count": 33,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAの技術者Chris Alexiuk氏が、YouTubeで公開LLMの構築、微調整、評価、本番導入を教える活動を紹介。Nemotronの用途として、個人開発者の反復処理向けLightningや、企業の長時間エージェント処理向けUltraを説明している。新製品の提供開始ではなく、既存の教育活動とモデル活用の考え方を扱う人物紹介だ。 NVIDIAは、NVFP4による重み・KVキャッシュの圧縮、最大72基のGPUへの重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。AI基盤運営者向けに、Vera Rubin NVL72はGB300 NVL72比でGPU当たりHBM容量が約3％増ながら、特定条件の推論で費用当たり処理量が最大30倍になると報告している。",
           "evidence_ids": [
-            "6f6cc2a9fd6a9c033d177351",
-            "badda310cca07906cc76c487",
-            "837c2ffc2d8e8e65b49f007a"
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d"
           ],
           "article_ids": [
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d",
+            "bec7004d77847e64b96c2237",
+            "9f872c30d15de1dbbd336ce1",
+            "825bf6c46ee5885106939b77",
             "6f6cc2a9fd6a9c033d177351",
             "badda310cca07906cc76c487",
             "93de2d24a7e0922172eca408",
@@ -51972,15 +52842,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 43,
+          "count": 44,
           "publisher_count": 28,
           "summary": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。 Googleは教育向け製品群の更新として、Guided LearningのGoogle Classroomでの世界展開と、Google検索への同機能の導入を発表した。また、初等・中等教育の児童生徒用アカウントについて、Gemini、Gemini Notebook、Gemini in Classroom、Google検索の管理方法を更新すると説明。教育者向けAI研修の拡大や研究、助成も一連の発表に含めた。",
           "evidence_ids": [
-            "92eb98f100e3dca81af2a2e5",
-            "1547c694ff5ed82dc3dd601b",
-            "6c58f9f8c451861a8968a785"
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
+            "92eb98f100e3dca81af2a2e5"
           ],
           "article_ids": [
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
             "92eb98f100e3dca81af2a2e5",
             "1547c694ff5ed82dc3dd601b",
             "6c58f9f8c451861a8968a785",
@@ -51996,7 +52868,6 @@
             "382dd78e063d7b835c45674a",
             "79993886a96970f62a7d894c",
             "f4848be7c9eab71d59245c0c",
-            "3e95505f3f8c368a05732fdc",
             "303ef1ac871c8421e6a49712",
             "33ba15ab6e78fa59f1dffaa8",
             "093a142bf083cb8920d586b3",
@@ -52041,15 +52912,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 16,
-          "publisher_count": 12,
-          "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
+          "count": 18,
+          "publisher_count": 13,
+          "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。 OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
           "evidence_ids": [
-            "b123e14f1bce0630c3c07761",
-            "716dbc2817426bfca0266458",
-            "becc23512e6adc0a640ab61b"
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
+            "716dbc2817426bfca0266458"
           ],
           "article_ids": [
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
             "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
@@ -52099,60 +52972,84 @@
       "insights": [
         {
           "category": "ai",
-          "label": "業務エージェントの実行機能と管理条件",
-          "observation": "Mistralは企業向けStudioで、手順を記したスキル、コード実行環境、サブエージェントを設定できる管理型エージェントと、業務イベントによる起動・処理可視化を発表した。クラウド、専用VPC、自社設備での展開に対応するとしている。既存顧客のStudio本番利用は示されているが、新機能すべての導入実績や利用条件は不明。OpenAIのGPT‑6 Cyberは脆弱性の発見・検証・修正を支援し、提供元評価で性能向上を報告したが、参加対象の拡大は目標段階で、一般提供範囲は確定できない。",
-          "interpretation": "業務への適用では、処理能力に加えて、実行手順・配置先・許可範囲を管理できることが導入判断の重要な条件になる可能性がある。ただし、発表内容だけでは実運用の安全性や導入効果は判断できない。",
-          "next_question": "Studioの新機能ごとの提供条件と本番導入例、GPT‑6 Cyberの参加資格・許可範囲の設定方法・実運用での逸脱検証結果は公開されるか。",
+          "label": "研究支援AIは生データの解釈能力も評価対象に",
+          "observation": "OpenAIとLigoが発表したBioBasicsBenchは、生物実験の100課題でゲル画像や顕微鏡像の解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定でGPT‑6 Astraは満点比66.7％を獲得したが、部分点を含む評価得点であり、実験成功率や研究現場での効果ではない。",
+          "interpretation": "研究支援AIの導入判断には、回答の正確さに加えて、不十分な証拠から結論を出さない能力の確認が重要になる可能性がある。今回の評価だけでは実務への適合性は確定しない。",
+          "next_question": "実際の研究室の未見データでも誤りや証拠不足を認識できるか。専門家による修正時間と誤判断率を含めて検証できるか。",
           "required_ids": [
-            "2d74012b20661e371118d081",
-            "55796f5d33eea9e47f5a7706"
+            "eb4d5bf90adda097176a3459"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "2d74012b20661e371118d081",
-            "55796f5d33eea9e47f5a7706"
+            "eb4d5bf90adda097176a3459"
           ]
         },
         {
           "category": "tech",
-          "label": "シミュレーション構築と推論資源管理の具体化",
-          "observation": "NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用環境を作る事例を紹介した。成果は実験・プロトタイプ段階で、実機性能や開発時間の短縮は示されていない。別記事ではAI基盤運営者向けに、NVFP4による重み・KVキャッシュ圧縮、GPU間の重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定負荷での結果で、各構成の提供時期は不明。",
-          "interpretation": "AIを使った開発では、試験環境の構築を支援する仕組みと、推論時のメモリを効率よく使う仕組みが、実装上の選択肢になり得る。ただし、両者を組み合わせた効果や一般的な費用削減を示す資料ではない。",
-          "next_question": "同じ品質・負荷条件で、環境構築に必要な人手と時間、実機への移行後の成功率、推論の遅延と総費用を測ると、従来構成に対してどの程度の差が出るか。",
+          "label": "シミュレーション構築への自然言語エージェント活用",
+          "observation": "NVIDIAは、自然言語で指示したAIエージェントがOmniverseの物理・描画・センサー機能を組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを構築する事例を紹介した。センサー検証では約3日間でデジタルツインを新規作成・改善したが、一般提供する統一製品の発表ではなく、実機性能や従来手法に対する時間短縮は示されていない。",
+          "interpretation": "ロボットやセンサーの開発者が試験環境を反復して作る際、自然言語による構築支援が選択肢になる可能性がある。ただし、生成された環境の物理的な妥当性を確認する作業が実用性を左右しそうだ。",
+          "next_question": "同じ試験環境を従来手法とエージェント利用で構築した場合、物理・センサー設定の誤り、修正を含む総作業時間、実機との結果の一致度はどう異なるか。",
           "required_ids": [
-            "badda310cca07906cc76c487",
-            "c5b809404325f202f3bb9c8f"
+            "badda310cca07906cc76c487"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "badda310cca07906cc76c487",
-            "c5b809404325f202f3bb9c8f"
+            "badda310cca07906cc76c487"
           ]
         },
         {
           "category": "parenting",
-          "label": "教師主導の学習支援と年齢別の効果検証",
-          "observation": "Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningのClassroomでの世界展開を開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価。Google.orgは教師向けAIなどを開発する団体への助成も発表したが、初期読解支援の対象年齢や提供時期、学習効果は示していない。",
-          "interpretation": "教師が課題設定と学習状況の確認に関与する仕組みは、学校でAI支援を検証する足場になる可能性がある。ただし、大学生の短時間の結果から、中等教育、初等教育、幼児期の効果を推定することはできず、助成も有効性の証明にはならない。",
-          "next_question": "初等・中等教育それぞれで、対象年齢、教師の介入方法、利用期間を明示した比較試験を行った場合、理解の定着、支援が必要な児童生徒への影響、教師の作業時間はどう変わるか。初期読解支援は何歳を対象に、いつ提供されるか。",
+          "label": "教師が管理する学習支援と年齢別の効果検証",
+          "observation": "Googleは、教師が教材に沿った課題の割り当てと学習状況の把握を行えるGuided LearningをClassroomで世界向けに展開開始した。大学生300人超を対象とする半日の統計学試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果は確認されていない。",
+          "interpretation": "教師が課題と進捗を管理できる仕組みは、授業にAI支援を組み込む手掛かりになる可能性がある。ただし、大学生の短期的な結果から、初等・中等教育で同じ効果が得られるとは判断できない。",
+          "next_question": "小学生と中等教育の生徒を分け、同じ教材・授業時間の比較で、数週間後の理解の定着、自力で解く力、教師の確認作業量にどのような差が出るか。",
           "required_ids": [
-            "23ce8c9263aaa805a198a331",
-            "3d84924411308cf5b9d9a5b1"
+            "23ce8c9263aaa805a198a331"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "23ce8c9263aaa805a198a331",
-            "3d84924411308cf5b9d9a5b1"
+            "23ce8c9263aaa805a198a331"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "82a22eba784ac22b81538c98",
+        "c9361a8e3e5ec195eda7d45f",
+        "f7b661573ce6d63d07845eb2",
+        "3e95505f3f8c368a05732fdc",
+        "d223bb479161a61d9f78e62a",
+        "108a75f6351e2f39e19db61d",
+        "8ee3315c4254da2155d759ee",
+        "8a11f33f7df7ec78516ceb2f",
+        "7d0c1d3eaeb2f706c89deb54",
+        "b1edd1f0d01f027ca3bc99d8",
+        "9ec2e0748cfe0605fa3c785d",
+        "790c222f62898eb2a3d88f4d",
+        "37eded9fc374f1f490fec079",
+        "bec7004d77847e64b96c2237",
+        "eb3776e63d3a773707ccc876",
+        "c557372306b2b9ee66a03694",
+        "9f872c30d15de1dbbd336ce1",
+        "9b811b24b7cd298bd5299506",
+        "7aef2ec4a9c54f48400d15da",
+        "d8c3afb00af41116faf3ebff",
+        "a06f7f6843ffddd39b703609",
+        "27501dbcf74681cf612656da",
+        "c1b0246d166bbe65f6c29627",
+        "825bf6c46ee5885106939b77",
+        "b1480f969a139ea7267ad4dc",
+        "eb4d5bf90adda097176a3459",
+        "9a032cf4b0d8c3ed160b2f95",
         "236b667674825bb26e60281a",
+        "bf9ca24e7086b8c60ab42246",
         "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
+        "7f1d3478f61bb83999d5cf1d",
         "badda310cca07906cc76c487",
+        "17ce8b8532de65db9e95cc24",
         "93de2d24a7e0922172eca408",
         "c5b809404325f202f3bb9c8f",
         "837c2ffc2d8e8e65b49f007a",
@@ -52172,6 +53069,7 @@
         "86914472771219060b4a7b51",
         "4f8d828304e0c95cd93fca2b",
         "6c58f9f8c451861a8968a785",
+        "197c0bf5fdda502c7e0ff6bb",
         "a2ae1d27fe32efb49c6766ad",
         "39adfbcf5bf4df9fc689dff0",
         "d9ff150c320ece1a5429fdf6",
@@ -52197,6 +53095,7 @@
         "d2013711e72022334dbdefe3",
         "d2a9f5c0450942740613f0cf",
         "75e6d1f2e1415f351621d840",
+        "eaac9e7c1373e2f6b0ba6ee1",
         "30429c3e0ce92f9ac905bf52",
         "214a6e08c8ff037e905f5380",
         "3e8668630b7e3aa8c607469a",
@@ -52216,7 +53115,6 @@
         "62f0845f5d20f3595d83e967",
         "8db818de0828f2f392c2714d",
         "f3ee910c087fed4ecbca0c27",
-        "3e95505f3f8c368a05732fdc",
         "303ef1ac871c8421e6a49712",
         "52a73d0b251a7b2dc73145a9",
         "d4b519193c9e00dbaac36db9",
@@ -52328,20 +53226,20 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-06T10:27:29.460909+09:00",
+      "generated_at": "2026-11-07T06:02:08.603805+09:00",
       "is_complete": false,
-      "article_count": 192,
+      "article_count": 224,
       "category_counts": {
-        "ai": 93,
-        "tech": 46,
-        "parenting": 53
+        "ai": 118,
+        "tech": 52,
+        "parenting": 54
       },
-      "overview": "Mistralは企業向けStudioで、手順を記すスキル、コード実行環境、サブエージェントを備えた管理型エージェントと、業務イベントから起動し処理を可視化するワークフローの拡充を発表した。クラウド、専用VPC、自社設備で展開できるが、既存顧客の本番利用は新機能すべての導入実績を示さず、各機能の利用条件も不明だ。 NVIDIAはAI基盤運営者向けに、NVFP4で重みとKVキャッシュを圧縮し、重みを最大72基のGPUへ分散し、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定モデル・負荷・生成速度条件での比較で、各構成の提供時期は確定できない。 Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、ウェブ教材のみの群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果を示してはいない。",
+      "overview": "OpenAIとLigoのBioBasicsBenchは、生物実験の画像などの解釈や証拠不足の認識を100課題で評価する。得点は実験成功率ではない。Cult.fitは非技術部門による社内アプリ構築と音声AIトレーナーの事例を報告した。一方、Hacktronとの提携は外部サービスとの接続部分を共同検証する段階で、発見・修正実績は示されていない。 NVIDIAは、自然言語で指示するAIエージェントとOmniverseを組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを作る事例を紹介した。成果はシミュレーション内の実験である。別記事ではAI基盤運営者向けに、重み・KVキャッシュの圧縮や、休止中の文脈をCPUメモリなどへ移す仕組みを説明した。一般用途での効果や各構成の提供時期は確定できない。 Googleは、教師が課題を割り当て学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。得点改善の比較試験は大学生の統計学を半日扱ったもので、中等学校での試行は主にアンケートと面談による評価だった。Google.orgの助成には初期読解支援のモデル開発も含まれるが、対象年齢や提供時期は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+        "attempted_at": "2026-11-06T21:02:08.278707+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -52352,7 +53250,7 @@
         ],
         "errors": [
           {
-            "article_id": "b123e14f1bce0630c3c07761",
+            "article_id": "17ce8b8532de65db9e95cc24",
             "stage": "original_fetch"
           },
           {
@@ -52373,18 +53271,18 @@
           }
         ],
         "local_codex": {
-          "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+          "attempted_at": "2026-11-06T21:00:15.012434+00:00",
           "status": "ok",
-          "new_reviews": 5,
+          "new_reviews": 3,
           "updated_periods": [
             "overview",
             "weekly",
             "monthly"
           ],
           "errors": [],
-          "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+          "last_success_at": "2026-11-06T21:00:15.012434+00:00"
         },
-        "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+        "last_success_at": "2026-11-06T21:02:08.278707+00:00"
       },
       "genre_briefs": [
         {
@@ -52392,62 +53290,60 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "55796f5d33eea9e47f5a7706",
-              "headline": "OpenAI、許可範囲の順守を強化したGPT‑6 Cyberを発表",
-              "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。",
-              "impact": "考察：悪用可能性の検証と修正案の作成を組み合わせることで、防御側が優先して直す問題を判断しやすくなる可能性がある。",
+              "article_id": "108a75f6351e2f39e19db61d",
+              "headline": "OpenAI、Hacktronと外部サービス連携部分の脆弱性を共同検証へ",
+              "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
+              "impact": "考察：サービス間の接続や権限の境界を重点検証することで、個別システムの検査では見落としやすい問題の発見につながる可能性がある。",
               "category": "ai",
-              "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+              "source_url": "https://openai.com/index/partnering-with-hacktron/",
               "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は提供元の評価・報告。許可範囲を守った割合100％は特定の評価とプロンプト条件での結果であり、実運用全般の保証ではない。参加対象の拡大は目標で、一般提供の範囲は本文から確定できない。",
-              "provider": "OpenAI",
-              "origin_kind": "official",
-              "tags": [
-                "models"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber.",
-              "published_at": "2026-11-05T09:00:00Z"
-            },
-            {
-              "article_id": "a695c90fcb89a16e3e8342c9",
-              "headline": "OpenAI、将来自社運営する計算拠点で地域協約と費用負担を約束",
-              "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
-              "impact": "考察：費用負担と使用資源を拠点ごとに公開すれば、住民が計画の影響や約束の履行を確認する材料になり得る。",
-              "category": "ai",
-              "source_url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure/",
-              "source_label": "OpenAI 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。自社の約束は将来所有・運営する拠点が対象。業界全体へのルールは政策提案であり、法制化済みではない。地域投資の事例も、教育・保育への効果を検証した結果ではない。",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象システムの詳細、検証日程、アクセス拡大の具体的な範囲は本文にない。提携による安全性向上は今後の成果であり、実証済みではない。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Every future compute campus OpenAI owns and operates will have its own local compact.",
-              "published_at": "2026-11-05T02:00:00Z"
+              "evidence_quote": "with a focus on how our systems interact with third-party services.",
+              "published_at": "2026-11-06T08:00:00Z"
             },
             {
-              "article_id": "2d74012b20661e371118d081",
-              "headline": "Mistral Studio、管理型エージェントと業務ワークフロー機能を拡充",
-              "summary": "Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
-              "impact": "考察：実行基盤と承認手順を共通化できれば、企業が複数の業務へエージェントを展開する際の開発・運用負担を減らせる可能性がある。",
+              "article_id": "eb4d5bf90adda097176a3459",
+              "headline": "OpenAI、実験の生データを読むAIを測るBioBasicsBenchを発表",
+              "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。",
+              "impact": "考察：正答だけでなく証拠の限界や対照実験の問題も評価するため、研究者がAIに任せる分析と人が確認すべき分析を見極める材料になりうる。",
               "category": "ai",
-              "source_url": "https://mistral.ai/news/build-with-studio/",
-              "source_label": "Mistral 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。既存顧客によるStudioの本番利用は、新機能すべての導入実績を意味しない。時間削減は提供元の社内事例であり、他社で同じ効果が出るとは限らない。料金や各機能の利用条件は本文にない。",
-              "provider": "Mistral",
+              "source_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は100課題での部分点を含む平均得点で、実験成功率ではない。実際の研究現場での時間短縮や発見の増加は検証しておらず、画像解釈などにも改善余地がある。",
+              "provider": "OpenAI",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "ai_source_grounded",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
+              "model": "codex-cli",
+              "evidence_quote": "The benchmark’s 100 tasks test whether agents can interpret raw experimental data, identify errors, and recognize when the evidence cannot support a conclusion.",
+              "published_at": "2026-11-06T00:00:00Z"
+            },
+            {
+              "article_id": "b123e14f1bce0630c3c07761",
+              "headline": "Cult.fit、Codexの全社活用と音声AIトレーナーの事例を公開",
+              "summary": "OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
+              "impact": "考察：開発規約の統一に加え、技術相談会や部門への技術者配置を組み合わせた点は、非技術部門のアプリを運用まで進めるための参考になる。",
+              "category": "ai",
+              "source_url": "https://openai.com/index/cultfit-builds-with-codex/",
+              "source_label": "OpenAI 公式（AI要約）",
+              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。費用削減などは企業の報告で、独立した検証や算定条件は示されていない。AI Trainerの利用率約20％は製品全体の値で、最新版の普及率や運動効果を示すものではない。",
+              "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [
-                "models"
+                "development"
               ],
               "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-05T21:00:18.519593+00:00",
+              "generated_at": "2026-11-06T21:00:15.012434+00:00",
               "model": "codex-cli",
-              "evidence_quote": "Today’s release also adds event triggers from enterprise systems and a visual graph that makes each workflow’s logic easier to inspect.",
-              "published_at": "2026-11-05T00:00:00Z"
+              "evidence_quote": "More than 20 internal applications have been built by non-engineering teams in recent months.",
+              "published_at": "2026-11-05T20:00:00Z"
             }
           ]
         },
@@ -52591,23 +53487,44 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 75,
-          "publisher_count": 28,
-          "summary": "OpenAIは地域向けの全国共通協約と計算拠点の政策提案を公表した。今後自社が所有・運営する各拠点で住民の意見を計画に反映し、電力・必要インフラの全費用負担、着工前の財務保証、使用水量・電力量の公開などを約束。政策提案では他社にも適用する費用負担ルールや、税優遇の条件公開・未達時の返還制度を求めた。",
+          "count": 98,
+          "publisher_count": 34,
+          "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
           "evidence_ids": [
-            "236b667674825bb26e60281a",
-            "062b7d9fdc16c39468980f7d",
-            "5476360b2e56c2c98645298a"
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a"
           ],
           "article_ids": [
+            "82a22eba784ac22b81538c98",
+            "f7b661573ce6d63d07845eb2",
+            "d223bb479161a61d9f78e62a",
+            "108a75f6351e2f39e19db61d",
+            "8ee3315c4254da2155d759ee",
+            "8a11f33f7df7ec78516ceb2f",
+            "b1edd1f0d01f027ca3bc99d8",
+            "790c222f62898eb2a3d88f4d",
+            "37eded9fc374f1f490fec079",
+            "eb3776e63d3a773707ccc876",
+            "c557372306b2b9ee66a03694",
+            "7aef2ec4a9c54f48400d15da",
+            "d8c3afb00af41116faf3ebff",
+            "a06f7f6843ffddd39b703609",
+            "c1b0246d166bbe65f6c29627",
+            "b1480f969a139ea7267ad4dc",
+            "9a032cf4b0d8c3ed160b2f95",
             "236b667674825bb26e60281a",
+            "bf9ca24e7086b8c60ab42246",
             "062b7d9fdc16c39468980f7d",
+            "7f1d3478f61bb83999d5cf1d",
+            "17ce8b8532de65db9e95cc24",
             "5476360b2e56c2c98645298a",
             "21e596a5424139dfdfdacc36",
             "fedca01a80f7222ddc3e3f8d",
             "3a58a2b637c265fce544f78e",
             "49de63f8152317ab30e22300",
             "2f5896bc90422eb53cda7a56",
+            "197c0bf5fdda502c7e0ff6bb",
             "a2ae1d27fe32efb49c6766ad",
             "d9ff150c320ece1a5429fdf6",
             "f528e4df390b50d3b2b9d0e2",
@@ -52618,6 +53535,7 @@
             "30d57ef8110f4977e11e5114",
             "90b7ae20436b868e2d352f92",
             "d2a9f5c0450942740613f0cf",
+            "eaac9e7c1373e2f6b0ba6ee1",
             "30429c3e0ce92f9ac905bf52",
             "214a6e08c8ff037e905f5380",
             "1b43db3b1d1ec35f08c6019d",
@@ -52673,6 +53591,7 @@
             "4cd140f2ee6766e69134defb",
             "1dcd9794fbcc1d9e74b28c75",
             "82e551bd8fe8f55e185b8c3a",
+            "a42a9f26aeb4336e5c0bbad0",
             "9c147d215e21f7a29e872520",
             "7ba7a300a93e18ad2608a682"
           ]
@@ -52684,15 +53603,21 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 44,
-          "publisher_count": 30,
+          "count": 50,
+          "publisher_count": 35,
           "summary": "NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAの技術者Chris Alexiuk氏が、YouTubeで公開LLMの構築、微調整、評価、本番導入を教える活動を紹介。Nemotronの用途として、個人開発者の反復処理向けLightningや、企業の長時間エージェント処理向けUltraを説明している。新製品の提供開始ではなく、既存の教育活動とモデル活用の考え方を扱う人物紹介だ。 NVIDIAは、NVFP4による重み・KVキャッシュの圧縮、最大72基のGPUへの重み分散、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。AI基盤運営者向けに、Vera Rubin NVL72はGB300 NVL72比でGPU当たりHBM容量が約3％増ながら、特定条件の推論で費用当たり処理量が最大30倍になると報告している。",
           "evidence_ids": [
-            "6f6cc2a9fd6a9c033d177351",
-            "badda310cca07906cc76c487",
-            "837c2ffc2d8e8e65b49f007a"
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d"
           ],
           "article_ids": [
+            "c9361a8e3e5ec195eda7d45f",
+            "7d0c1d3eaeb2f706c89deb54",
+            "9ec2e0748cfe0605fa3c785d",
+            "bec7004d77847e64b96c2237",
+            "9f872c30d15de1dbbd336ce1",
+            "825bf6c46ee5885106939b77",
             "6f6cc2a9fd6a9c033d177351",
             "badda310cca07906cc76c487",
             "93de2d24a7e0922172eca408",
@@ -52746,15 +53671,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 53,
+          "count": 54,
           "publisher_count": 33,
           "summary": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。 Googleは教育向け製品群の更新として、Guided LearningのGoogle Classroomでの世界展開と、Google検索への同機能の導入を発表した。また、初等・中等教育の児童生徒用アカウントについて、Gemini、Gemini Notebook、Gemini in Classroom、Google検索の管理方法を更新すると説明。教育者向けAI研修の拡大や研究、助成も一連の発表に含めた。",
           "evidence_ids": [
-            "92eb98f100e3dca81af2a2e5",
-            "1547c694ff5ed82dc3dd601b",
-            "6c58f9f8c451861a8968a785"
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
+            "92eb98f100e3dca81af2a2e5"
           ],
           "article_ids": [
+            "3e95505f3f8c368a05732fdc",
+            "9b811b24b7cd298bd5299506",
             "92eb98f100e3dca81af2a2e5",
             "1547c694ff5ed82dc3dd601b",
             "6c58f9f8c451861a8968a785",
@@ -52770,7 +53697,6 @@
             "382dd78e063d7b835c45674a",
             "79993886a96970f62a7d894c",
             "f4848be7c9eab71d59245c0c",
-            "3e95505f3f8c368a05732fdc",
             "303ef1ac871c8421e6a49712",
             "33ba15ab6e78fa59f1dffaa8",
             "093a142bf083cb8920d586b3",
@@ -52825,15 +53751,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 18,
-          "publisher_count": 14,
-          "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。 Mistralは企業向けStudioに管理型エージェントとアプリ、ワークフローなどの機能拡充を発表した。エージェントには手順を記したスキル、コード実行環境、作業を分担するサブエージェントを設定できる。ワークフローには業務システムからのイベント起動と処理の可視化を追加。クラウド、専用VPC、自社設備などで展開でき、ABANCAやBNP Paribasは既にStudioを本番利用している。",
+          "count": 20,
+          "publisher_count": 15,
+          "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。 OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
           "evidence_ids": [
-            "b123e14f1bce0630c3c07761",
-            "716dbc2817426bfca0266458",
-            "becc23512e6adc0a640ab61b"
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
+            "716dbc2817426bfca0266458"
           ],
           "article_ids": [
+            "27501dbcf74681cf612656da",
+            "eb4d5bf90adda097176a3459",
             "b123e14f1bce0630c3c07761",
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
@@ -52885,54 +53813,92 @@
       "insights": [
         {
           "category": "ai",
-          "label": "企業エージェントの業務組み込みと管理",
-          "observation": "Mistralは企業向けStudioで、手順を記すスキル、コード実行環境、サブエージェントを備えた管理型エージェントと、業務イベントから起動し処理を可視化するワークフローの拡充を発表した。クラウド、専用VPC、自社設備で展開できるが、既存顧客の本番利用は新機能すべての導入実績を示さず、各機能の利用条件も不明だ。",
-          "interpretation": "業務への組み込みでは、モデルの能力に加え、実行手順や処理状況を企業側が管理できることが導入判断の要素になる可能性がある。実際の利用拡大や時間削減は、この発表だけでは判断できない。",
-          "next_question": "新機能ごとの提供条件と本番導入状況はどうなっているか。また、同一業務で導入前後の処理時間、失敗率、人による修正量を比較できるか。",
+          "label": "実務へのAI導入を評価する証拠の切り分け",
+          "observation": "OpenAIとLigoのBioBasicsBenchは、生物実験の画像などの解釈や証拠不足の認識を100課題で評価する。得点は実験成功率ではない。Cult.fitは非技術部門による社内アプリ構築と音声AIトレーナーの事例を報告した。一方、Hacktronとの提携は外部サービスとの接続部分を共同検証する段階で、発見・修正実績は示されていない。",
+          "interpretation": "実務導入の判断には、課題上の能力、導入企業の報告、接続部分の安全性をそれぞれ確かめる必要があると考えられる。今回の資料だけでは、研究現場での生産性向上や共同検証による安全性向上までは判断できない。",
+          "next_question": "BioBasicsBenchの得点は実際の実験データの誤読率や専門家の確認時間と対応するか。また、共同検証で見つかった接続部分の問題と修正結果は公開されるか。",
           "required_ids": [
-            "2d74012b20661e371118d081"
+            "eb4d5bf90adda097176a3459",
+            "b123e14f1bce0630c3c07761",
+            "108a75f6351e2f39e19db61d"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "2d74012b20661e371118d081"
+            "eb4d5bf90adda097176a3459",
+            "b123e14f1bce0630c3c07761",
+            "108a75f6351e2f39e19db61d"
           ]
         },
         {
           "category": "tech",
-          "label": "推論メモリを圧縮と階層化で活用",
-          "observation": "NVIDIAはAI基盤運営者向けに、NVFP4で重みとKVキャッシュを圧縮し、重みを最大72基のGPUへ分散し、休止中の文脈をCPUメモリや共有ストレージへ移す仕組みを説明した。費用当たり処理量が最大30倍という報告は特定モデル・負荷・生成速度条件での比較で、各構成の提供時期は確定できない。",
-          "interpretation": "長い文脈を扱うエージェントでは、GPUメモリの容量だけでなく、文脈の配置と移動の設計が運用効率を左右する可能性がある。ただし、転送待ちや圧縮による品質への影響を含めた一般的な費用削減は未確認だ。",
-          "next_question": "対象構成はいつ利用可能になり、実際の業務負荷で同時利用数と文脈長を変えた際、応答遅延、出力品質、ストレージを含む総費用はどう変わるか。",
+          "label": "エージェントの試作環境と推論メモリの設計",
+          "observation": "NVIDIAは、自然言語で指示するAIエージェントとOmniverseを組み合わせ、倉庫ロボットや自動運転の試験用プロトタイプを作る事例を紹介した。成果はシミュレーション内の実験である。別記事ではAI基盤運営者向けに、重み・KVキャッシュの圧縮や、休止中の文脈をCPUメモリなどへ移す仕組みを説明した。一般用途での効果や各構成の提供時期は確定できない。",
+          "interpretation": "エージェントを使う開発では、試作の操作方法に加え、文脈を保持するメモリの配置も運用上の検討事項になると考えられる。ただし、紹介事例と特定負荷の性能値から、実機での成功率や一般的な費用削減は推定できない。",
+          "next_question": "同じ開発課題で従来手法と比べた作業時間・修正回数はどう変わるか。また、文脈の退避・復帰による遅延を含め、実運用の負荷でも費用当たり処理量の改善が再現するか。",
           "required_ids": [
+            "badda310cca07906cc76c487",
             "c5b809404325f202f3bb9c8f"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
+            "badda310cca07906cc76c487",
             "c5b809404325f202f3bb9c8f"
           ]
         },
         {
           "category": "parenting",
-          "label": "教師主導のAI学習支援と年齢別の検証",
-          "observation": "Googleは、教師が教材に沿った課題を割り当て、学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。東京大学の学生300人超による半日の統計学試験では、利用群の得点上昇は8.1ポイント、ウェブ教材のみの群は5.3ポイントだった。英国の中等学校での試行は主にアンケートと面談による評価で、幼児・小学生や長期の学習効果を示してはいない。",
-          "interpretation": "教師が教材と課題を設定する仕組みは、AI支援を授業の目的に合わせる手段になる可能性がある。ただし、大学生の短時間の結果から、中等教育や初等教育での定着効果、家庭の育児負担軽減までは推測できない。",
-          "next_question": "初等教育と中等教育を分け、通常授業との比較で数週間後の理解・定着と教師の確認作業時間を測った結果はあるか。また、それぞれの年齢で利用できる機能と管理条件は何か。",
+          "label": "教師が管理する学習支援と年齢別の効果検証",
+          "observation": "Googleは、教師が課題を割り当て学習状況を把握できるGuided LearningをClassroomで世界向けに展開開始した。得点改善の比較試験は大学生の統計学を半日扱ったもので、中等学校での試行は主にアンケートと面談による評価だった。Google.orgの助成には初期読解支援のモデル開発も含まれるが、対象年齢や提供時期は示されていない。",
+          "interpretation": "教師による課題設定や状況把握が、学校でAI学習支援を運用する足場になる可能性がある。ただし、大学生の短期試験を幼児・小学生・中高生の効果に当てはめることはできず、初期読解支援も開発段階として評価する必要がある。",
+          "next_question": "初等教育と中等教育それぞれで、通常教材と比較した長期の理解・定着への効果と教師の確認負担はどうなるか。初期読解支援は何歳を対象に、いつ、どの条件で試行されるか。",
           "required_ids": [
-            "23ce8c9263aaa805a198a331"
+            "23ce8c9263aaa805a198a331",
+            "3d84924411308cf5b9d9a5b1"
           ],
           "review_method": "ai_source_grounded",
           "evidence_ids": [
-            "23ce8c9263aaa805a198a331"
+            "23ce8c9263aaa805a198a331",
+            "3d84924411308cf5b9d9a5b1"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "82a22eba784ac22b81538c98",
+        "c9361a8e3e5ec195eda7d45f",
+        "f7b661573ce6d63d07845eb2",
+        "3e95505f3f8c368a05732fdc",
+        "d223bb479161a61d9f78e62a",
+        "108a75f6351e2f39e19db61d",
+        "8ee3315c4254da2155d759ee",
+        "8a11f33f7df7ec78516ceb2f",
+        "7d0c1d3eaeb2f706c89deb54",
+        "b1edd1f0d01f027ca3bc99d8",
+        "9ec2e0748cfe0605fa3c785d",
+        "790c222f62898eb2a3d88f4d",
+        "37eded9fc374f1f490fec079",
+        "bec7004d77847e64b96c2237",
+        "eb3776e63d3a773707ccc876",
+        "c557372306b2b9ee66a03694",
+        "9f872c30d15de1dbbd336ce1",
+        "9b811b24b7cd298bd5299506",
+        "7aef2ec4a9c54f48400d15da",
+        "d8c3afb00af41116faf3ebff",
+        "a06f7f6843ffddd39b703609",
+        "27501dbcf74681cf612656da",
+        "c1b0246d166bbe65f6c29627",
+        "825bf6c46ee5885106939b77",
+        "b1480f969a139ea7267ad4dc",
+        "eb4d5bf90adda097176a3459",
+        "9a032cf4b0d8c3ed160b2f95",
         "236b667674825bb26e60281a",
+        "bf9ca24e7086b8c60ab42246",
         "b123e14f1bce0630c3c07761",
         "6f6cc2a9fd6a9c033d177351",
         "062b7d9fdc16c39468980f7d",
+        "7f1d3478f61bb83999d5cf1d",
         "badda310cca07906cc76c487",
+        "17ce8b8532de65db9e95cc24",
         "93de2d24a7e0922172eca408",
         "c5b809404325f202f3bb9c8f",
         "837c2ffc2d8e8e65b49f007a",
@@ -52952,6 +53918,7 @@
         "86914472771219060b4a7b51",
         "4f8d828304e0c95cd93fca2b",
         "6c58f9f8c451861a8968a785",
+        "197c0bf5fdda502c7e0ff6bb",
         "a2ae1d27fe32efb49c6766ad",
         "39adfbcf5bf4df9fc689dff0",
         "d9ff150c320ece1a5429fdf6",
@@ -52977,6 +53944,7 @@
         "d2013711e72022334dbdefe3",
         "d2a9f5c0450942740613f0cf",
         "75e6d1f2e1415f351621d840",
+        "eaac9e7c1373e2f6b0ba6ee1",
         "30429c3e0ce92f9ac905bf52",
         "214a6e08c8ff037e905f5380",
         "3e8668630b7e3aa8c607469a",
@@ -52996,7 +53964,6 @@
         "62f0845f5d20f3595d83e967",
         "8db818de0828f2f392c2714d",
         "f3ee910c087fed4ecbca0c27",
-        "3e95505f3f8c368a05732fdc",
         "303ef1ac871c8421e6a49712",
         "52a73d0b251a7b2dc73145a9",
         "d4b519193c9e00dbaac36db9",
@@ -53117,16 +54084,17 @@
         "15453b4e65fe96e5eebfe317",
         "00450615b1909d736d3430dc",
         "82e551bd8fe8f55e185b8c3a",
+        "a42a9f26aeb4336e5c0bbad0",
         "9c147d215e21f7a29e872520",
         "7ba7a300a93e18ad2608a682",
         "b885f584577b19b518d6643a"
       ]
     }
   },
-  "report_updated_at": "2026-11-06T10:27:29.460909+09:00",
+  "report_updated_at": "2026-11-07T06:02:08.603805+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-06T01:27:29.181533+00:00",
+    "attempted_at": "2026-11-06T21:02:08.278707+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -53137,7 +54105,7 @@
     ],
     "errors": [
       {
-        "article_id": "b123e14f1bce0630c3c07761",
+        "article_id": "17ce8b8532de65db9e95cc24",
         "stage": "original_fetch"
       },
       {
@@ -53158,18 +54126,18 @@
       }
     ],
     "local_codex": {
-      "attempted_at": "2026-11-05T21:00:18.519593+00:00",
+      "attempted_at": "2026-11-06T21:00:15.012434+00:00",
       "status": "ok",
-      "new_reviews": 5,
+      "new_reviews": 3,
       "updated_periods": [
         "overview",
         "weekly",
         "monthly"
       ],
       "errors": [],
-      "last_success_at": "2026-11-05T21:00:18.519593+00:00"
+      "last_success_at": "2026-11-06T21:00:15.012434+00:00"
     },
-    "last_success_at": "2026-11-06T01:27:29.181533+00:00"
+    "last_success_at": "2026-11-06T21:02:08.278707+00:00"
   },
   "topic_definitions": [
     {
@@ -53246,24 +54214,22 @@
       {
         "provider": "OpenAI",
         "story": {
-          "article_id": "55796f5d33eea9e47f5a7706",
-          "headline": "OpenAI、許可範囲の順守を強化したGPT‑6 Cyberを発表",
-          "summary": "OpenAIは脆弱性の発見・悪用検証・修正を支援するGPT‑6 Cyberを発表した。ExploitGymの成功率は前モデルの32.1％から48.5％に向上。研究者はLinuxで948件の権限昇格エクスプロイトを開発し、Firefoxで未知の重大な脆弱性81件を発見した。Daybreak Redで高度な検証を支援し、今後は参加対象の拡大を目指す。",
-          "impact": "考察：悪用可能性の検証と修正案の作成を組み合わせることで、防御側が優先して直す問題を判断しやすくなる可能性がある。",
+          "article_id": "108a75f6351e2f39e19db61d",
+          "headline": "OpenAI、Hacktronと外部サービス連携部分の脆弱性を共同検証へ",
+          "summary": "OpenAIは11月6日、セキュリティ企業Hacktronとの提携を発表した。両社の技術者・研究者が優先的に検証する領域を共同で選び、OpenAIのシステムと外部サービスの接続部分を重点的に調べる。提携の一環として、Daybreak Redを通じたHacktronの先端モデルへのアクセスも拡大する。今回の共同検証による発見・修正実績は示されていない。",
+          "impact": "考察：サービス間の接続や権限の境界を重点検証することで、個別システムの検査では見落としやすい問題の発見につながる可能性がある。",
           "category": "ai",
-          "source_url": "https://openai.com/index/introducing-gpt-6-cyber/",
+          "source_url": "https://openai.com/index/partnering-with-hacktron/",
           "source_label": "OpenAI 公式（AI要約）",
-          "caveat": "原文を取得しAIで要約。人による内容確認は未実施。数値は提供元の評価・報告。許可範囲を守った割合100％は特定の評価とプロンプト条件での結果であり、実運用全般の保証ではない。参加対象の拡大は目標で、一般提供の範囲は本文から確定できない。",
+          "caveat": "原文を取得しAIで要約。人による内容確認は未実施。対象システムの詳細、検証日程、アクセス拡大の具体的な範囲は本文にない。提携による安全性向上は今後の成果であり、実証済みではない。",
           "provider": "OpenAI",
           "origin_kind": "official",
-          "tags": [
-            "models"
-          ],
+          "tags": [],
           "review_method": "ai_source_grounded",
-          "generated_at": "2026-11-05T21:00:18.519593+00:00",
+          "generated_at": "2026-11-06T21:00:15.012434+00:00",
           "model": "codex-cli",
-          "evidence_quote": "GPT‑6 Cyber scores 48.5%, up from 32.1% for GPT‑5.6 Cyber.",
-          "published_at": "2026-11-05T09:00:00Z"
+          "evidence_quote": "with a focus on how our systems interact with third-party services.",
+          "published_at": "2026-11-06T08:00:00Z"
         }
       },
       {
@@ -53687,11 +54653,11 @@
     ]
   },
   "picks": [
-    "236b667674825bb26e60281a",
-    "b123e14f1bce0630c3c07761",
-    "6f6cc2a9fd6a9c033d177351",
-    "badda310cca07906cc76c487",
-    "92eb98f100e3dca81af2a2e5",
-    "1547c694ff5ed82dc3dd601b"
+    "82a22eba784ac22b81538c98",
+    "f7b661573ce6d63d07845eb2",
+    "c9361a8e3e5ec195eda7d45f",
+    "7d0c1d3eaeb2f706c89deb54",
+    "3e95505f3f8c368a05732fdc",
+    "9b811b24b7cd298bd5299506"
   ]
 }
