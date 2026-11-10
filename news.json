@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-09T22:04:49.792087Z",
-  "last_attempt_at": "2026-11-09T22:04:49.792087Z",
+  "updated_at": "2026-11-10T03:21:31.661292Z",
+  "last_attempt_at": "2026-11-10T03:21:31.661292Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 44,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-09T22:04:49.792087Z",
+      "checked_at": "2026-11-10T03:21:31.661292Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-10T03:21:31.661292Z",
+      "new_count": 27,
+      "status": "partial"
+    },
     {
       "at": "2026-11-09T22:04:49.792087Z",
       "new_count": 2,
@@ -798,6 +803,322 @@
   ],
   "articles": [
     {
+      "id": "e7e3c1d8b6e0a2d39db45931",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "私立学校への国の補助金、学校法人同志社「保留」 辺野古沖事故受け - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDWkZVUG44UEFjV0pXeDZrcFFNbDN1bzlVNVNRWlFMbzVnd2UxblR4UlB2LXpIeFcwbW1USTJfWDJnRldzcG9vMXZ5OGtia01xbEZWUExDNEhDbUgyc2VFT0dlTVA?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "私立学校への国の補助金、学校法人同志社「保留」 辺野古沖事故受け 朝日新聞",
+      "published_at": "2026-11-10T03:01:58Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "76d7c0b75336133ddf40b958",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "元OpenAI CTOのムラティ氏が警告、AIで広がる「同じ盲点」…発想の多様性を失うことに - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12aDRVdlJERVJ2RWZrVmtkdnRwS2dUMHNFRDZHUDRKdDJrMHJpUk82WS1sYUJYMEtDMHc0cFQxV1V3MVVqbHozMkpzckN5aldGVUNj?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "元OpenAI CTOのムラティ氏が警告、AIで広がる「同じ盲点」…発想の多様性を失うことに ビジネス+IT",
+      "published_at": "2026-11-10T02:55:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "f68b5244e2a6b15f5db122af",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "孫氏のAI構想「トランプ米国」全賭けのツケ OpenAI停滞なら守勢再び - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tbWhiRDVZOFM1MlZzZFhyRWJraFpWQlNHTFg2aGVzUGVSSDA2YWhQTV9ZTDNXX3ZXb3g4MlU1LTJueUhhOXlKZE1HYUV0X0pfOGd0Zi1ZZHFzWDlKbU9MSmhwb0ZwN1plenY0NQ?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "孫氏のAI構想「トランプ米国」全賭けのツケ OpenAI停滞なら守勢再び 日本経済新聞",
+      "published_at": "2026-11-10T02:50:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "50e6aa6dc60b6b8ea25f3d60",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "次期学習指導要領に対応する新たな教育AI基盤 「SHUUSAI（シュウサイ）」を発表 - 日本教育新聞電子版 NIKKYOWEB",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTdWhnNjQzTEQtR2d1TnJiUFpiRy1uZHZaLV9sRXRZLVJQY0NTWjVDSURZNnZIWkltSm5oQmZVeHVlLTBXdkN2LU1iM1NwRk9iOWQ0?oc=5",
+      "publisher": "日本教育新聞電子版 NIKKYOWEB",
+      "summary": "次期学習指導要領に対応する新たな教育AI基盤 「SHUUSAI（シュウサイ）」を発表 日本教育新聞電子版 NIKKYOWEB",
+      "published_at": "2026-11-10T02:29:40Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "0a0cb8df6e9a8d3c2297809e",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "マシンビジョンカメラ市場、2035年に209億米ドルへ拡大予測。製造現場の自動化とAI検査技術が成長を後押し - ニコニコニュース",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByR1d1MUtkUmlMSVV2WWh3dFBPWTA4eGpETjlkZWNWdk40bkMtWUVBTVIzVHJOalFyM3R3YWJIVms4NXFlR19yYTcxUzg1VmJqT0IzakRab0hyM1dsSDA2djZZUGJKQXU1?oc=5",
+      "publisher": "ニコニコニュース",
+      "summary": "マシンビジョンカメラ市場、2035年に209億米ドルへ拡大予測。製造現場の自動化とAI検査技術が成長を後押し ニコニコニュース",
+      "published_at": "2026-11-10T02:03:17Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "2d8b26ffcfefb9402fd02282",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "ジンバルカメラの新選択肢「Insta360 Luna Pro」徹底レビュー - PRONEWS",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuSjhMRlh4dndOMnRTcDRRalJqNGkxZTFfbFNCbFlUWVZWM0tPZGtxYlNiUVRuY2t1ZkJqX2ZMS0dISE10dmRoTUU1UTVQWHJ4elpwU3poRDJILTJXa1ppVHRtdw?oc=5",
+      "publisher": "PRONEWS",
+      "summary": "ジンバルカメラの新選択肢「Insta360 Luna Pro」徹底レビュー PRONEWS",
+      "published_at": "2026-11-10T02:02:29Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "6dc61269d768b309019b3e93",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【横須賀市】市立学校で「よこすかAIフレンド AI（あい）ちゃん」を性被害相談窓口として活用 - 湘南人",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVEFvMnA2REctanZwQ1BQWnQyMGJlYUxSc2lNaWw4NXRQQ2ppYVhETDhrNVJpamQ2bkM2WHJIM0Q0amtJaVpweDRkZXFLc01EMHhPUVVtb0VUVVBvdFJ1RUdyNDVMUDd6dzB5QVNoVF9jdjc3T01sWGNwZDRnN01ma0tlMmJ6NHRLUUZzelpQWHZVN2xWdFhJc3A1SHlpUHVpb2c0M2NRVzVGbU5yWHF6cGJYcGlXel9fVDhKQXJB?oc=5",
+      "publisher": "湘南人",
+      "summary": "【横須賀市】市立学校で「よこすかAIフレンド AI（あい）ちゃん」を性被害相談窓口として活用 湘南人",
+      "published_at": "2026-11-10T02:00:42Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-care",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "64903b94eb046d96c6b37895",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "国際興業がAIカメラを活用した「バス乗員安全システム」を導入し運用を開始した!! - bestcarweb.jp",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnNnlfYUdjMUtGdjE0V1NfQU54dkpHZkw2UjdLdTJ6elNiMkF3ZHRTbWVVQ0pZX09iN015TVBIWGxpdjlKcXJ2Vm45c0VxWEE5SzVv?oc=5",
+      "publisher": "bestcarweb.jp",
+      "summary": "国際興業がAIカメラを活用した「バス乗員安全システム」を導入し運用を開始した!! bestcarweb.jp",
+      "published_at": "2026-11-10T02:00:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "3c47d7f093b8a397ff689bc0",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "考える力が失われる？ グーグルの「AIによる概要」、学校向けの無効化設定はなし - WIRED.jp",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1pDV0V1aHFra24waFdRYl9QNkFzcXR6TnZka1pUWVNUbmhUSFBJM2NERXMzZ1l0ZlVWRkpZQTc5ZkRDS0lTUlB5ZWFBQzdSY1YtTUY2MGhVQWlmN25wQ1hGTU5ybWZZU2dkalJJb214SC1UdHU1MDU2QWlFc1I1YTNIRjZGSVNLY2F3b1hCWmZWdmFhMFRzNnFxcnZVNUwxeXRRbW1KaXpCdw?oc=5",
+      "publisher": "WIRED.jp",
+      "summary": "考える力が失われる？ グーグルの「AIによる概要」、学校向けの無効化設定はなし WIRED.jp",
+      "published_at": "2026-11-10T02:00:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "85543b1347b66a1bda09d0ec",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "スクールエージェント、神戸大学と生成AI活用した探究学習支援システムの共同研究開始 - ICT教育ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE04c3RVMlpHZTRjNXF0bEhxM0F1Ylg1S3lRMDBzc2FPUno2eWw4NVU0eDd6R1htUzVvY0xhbDc4UE53ek45SnNIX0xCZ0tURFZBMEtja3Y1dw?oc=5",
+      "publisher": "ICT教育ニュース",
+      "summary": "スクールエージェント、神戸大学と生成AI活用した探究学習支援システムの共同研究開始 ICT教育ニュース",
+      "published_at": "2026-11-10T01:34:40Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-care",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "34d03e6eef15859b8b3597ab",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "1200万画素の超高解像度ドームカメラ「GV-GVD12810」を販売開始 - PR TIMES",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91ZHkyVDR4MWEyMUt3dVpJT3M4MEN1bVVwRHppU09pQlVBOXpBX1cxVDdpOXgyUG5JaXpNek1vQ1RjZmhaTUlwR0JXUTdhQWtxb1ZaREJjMklVd19od2hzaTJkYUZQeGZtaEE?oc=5",
+      "publisher": "PR TIMES",
+      "summary": "1200万画素の超高解像度ドームカメラ「GV-GVD12810」を販売開始 PR TIMES",
+      "published_at": "2026-11-10T01:30:02Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "1fb46402b95dfe0017d1a3ec",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "ChatGPTがAI市場シェアを回復、競合のClaudeやGeminiを抑え「81％超」に - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raEpBVzlsQzhCMzNrTjVZODlvTU4yZGF1NHN6cS1CVC1ycF94Z0tzRVhQRmphSHlMdHg0bk93b3IwOVJ1RzVoZi15RF9rVXM2SDdVY2VtYzRsYlpCNXFOZkVGRFB0SXRManZpWW1VajdoaWhEUTZzVVZPMHVXVWc?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "ChatGPTがAI市場シェアを回復、競合のClaudeやGeminiを抑え「81％超」に Yahoo!ニュース",
+      "published_at": "2026-11-10T00:00:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "68a8de7e09a0772211069348",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に（窓の杜） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iUHBZRERDU3Y3bDB1MWRzMUpXYWNka2NndW5lWlhnR3ZSVVBzLXVVRGl4eTVHZWVOd0JpUXQ4dHlsWFh0UmxBV0M4eDlINlBGV3k4QnQtV2Voa2s3YlhQNFB4S3U1THF6S0pRSFRWU0t3VW44UGQ4MmsyY20yYUU?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Anthropic、「Claude Fable 5.2」「Claude Mythos 5.2」を発表 ～最強モデルがより高速・安価に（窓の杜） Yahoo!ニュース",
+      "published_at": "2026-11-09T23:24:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "8b268262c1f8e9442252fd3f",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "チャレンジ！ デジタル 数独 2026.11.10 - 朝日新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9fWUE5YjBvVjRoVm5Vcjc0bnN2b1lCMkwzX3M2U0hXczNHQ3dQalVUcmZ5SVM2TGJxQ0IybENHYUNlVVRoU256ei1lRVVUZGp3QjR1cDFR?oc=5",
+      "publisher": "朝日新聞",
+      "summary": "チャレンジ！ デジタル 数独 2026.11.10 朝日新聞",
+      "published_at": "2026-11-09T22:41:17Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "28ec87d92bb7fa93a1e259aa",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、最上位の「Claude Fable 5.2」と「Mythos 5.2」を公開——API料金は入力100万トークン8ドルに - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51Smk2X1JaWEhoT3hkS2xYY3hrNjcwSEZGQnJjQVVsUDU0Z2otQXByUnFPanFURzBfU3N3T0ZZVDM5a2V3Zm8xNUZZUXlDajEtWmF0cW9xTk90Y1BGU014TzdFR183QVRUSlVoQkY3ZDZZby16?oc=5",
+      "publisher": "BRIDGE（ブリッジ）",
+      "summary": "Anthropic、最上位の「Claude Fable 5.2」と「Mythos 5.2」を公開——API料金は入力100万トークン8ドルに BRIDGE（ブリッジ）",
+      "published_at": "2026-11-09T22:32:31Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "8fce21e355d635e975574b49",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「AIに意識を持たせるべきか」Google、Microsoft、Anthropicの幹部が見解対立 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45OFpwZG9MWC1QcXhjdjN3b0tQUHJRU0lWYUJndzZvLXRoMXFBZ2tSSmM1LVp0ZkZRVzBwLUhUOFJnTkgwWUZBYUNFZVpHM0lFSmxTVFdHTXYxTUpTYVVNZUJfUnVBQQ?oc=5",
+      "publisher": "株式会社エクサウィザーズ",
+      "summary": "「AIに意識を持たせるべきか」Google、Microsoft、Anthropicの幹部が見解対立 株式会社エクサウィザーズ",
+      "published_at": "2026-11-09T22:29:04Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "84f16d542e649727716f1642",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pRkJwQzU3Q2JNdWNmZmxxaEdYUUgweW8wN0Y3NGFnaWZ0Mm1nN1hiazBBMGdRakh6emdKVXlzXzEydUNiM3UydXBsaEFsY2NrVlZPZXd2VDZPbTdQV0tIamZSN2lSUXMtdGc?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Anthropic、「Claude Fable 5.2」と「Claude Mythos 5.2」発表 API料金2割下げ、出力は最大30％高速化 ITmedia",
+      "published_at": "2026-11-09T22:03:56Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "c4b4dca5ef5a9246e95cd3b8",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "Untangleのライアン・カーソン氏、AIコーディングエージェント25体を同時稼働——「オフィス面接はもはやノイズ」と断言 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nQjZMaHh4empBUTNCVldobVh6TWxleW1PMW1ZSWdyRUNEemhXSGRzSnd1STRid3dBOFR1TU5taHE0MlozMFZsa3lQbE03NkUtMm5HVk1acmtHdw?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "Untangleのライアン・カーソン氏、AIコーディングエージェント25体を同時稼働——「オフィス面接はもはやノイズ」と断言 BigGo ファイナンス",
+      "published_at": "2026-11-09T20:08:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
       "id": "c6a800edf99fd43ad8498cce",
       "category": "parenting",
       "source_id": "parenting",
@@ -834,24 +1155,6 @@
       ]
     },
     {
-      "id": "9750ec635cfe8bc9677749a6",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "ある創業者が20体のAIコーディングエージェントを同時に管理する方法 — Ryan Carson、Untangle｜AI Engineer - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11cUdLaHBRUDBoM1NpczBScllPMzhvbTdXczdxTlZOT0RqNEtPTnFWOWxKN2c0cjlPSUJ1dlFmcHAxR21MNjB3UDhjWDViMDB3UUhkUmV2eHkzZUJVbEE?oc=5",
-      "publisher": "BigGo ファイナンス",
-      "summary": "ある創業者が20体のAIコーディングエージェントを同時に管理する方法 — Ryan Carson、Untangle｜AI Engineer BigGo ファイナンス",
-      "published_at": "2026-11-09T19:13:15Z",
-      "collected_at": "2026-11-09T22:02:38.802157Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "development"
-      ]
-    },
-    {
       "id": "cad5d8ab7a86543c03d6d98f",
       "category": "ai",
       "source_id": "openai",
@@ -863,6 +1166,40 @@
       "collected_at": "2026-11-09T22:02:38.802157Z",
       "provider": "OpenAI",
       "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "9750ec635cfe8bc9677749a6",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "ある創業者が20体のAIコーディングエージェントを同時に管理する方法 — Ryan Carson、Untangle｜AI Engineer - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11cUdLaHBRUDBoM1NpczBScllPMzhvbTdXczdxTlZOT0RqNEtPTnFWOWxKN2c0cjlPSUJ1dlFmcHAxR21MNjB3UDhjWDViMDB3UUhkUmV2eHkzZUJVbEE?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "ある創業者が20体のAIコーディングエージェントを同時に管理する方法 — Ryan Carson、Untangle｜AI Engineer BigGo ファイナンス",
+      "published_at": "2026-11-09T18:13:15Z",
+      "collected_at": "2026-11-09T22:02:38.802157Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "49503fa61a4a76b1725f12e0",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AnthropicがIPO申請、驚異の売上継続率 AI事業の持続性に懐疑の声 - 日経クロストレンド",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hUkpla0ZXVUNtT1RhanhmM1ZfbjlzanVnQUowRlVOTXh0eU5xUi05ZGpBTUpYazhRYklHbE8zUkdzbjJqdHRhc0VsQ3M3ZEtnN1ZTVkpGaWw2Tk5TcFNPQnJzalZxdw?oc=5",
+      "publisher": "日経クロストレンド",
+      "summary": "AnthropicがIPO申請、驚異の売上継続率 AI事業の持続性に懐疑の声 日経クロストレンド",
+      "published_at": "2026-11-09T15:00:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
@@ -936,6 +1273,24 @@
       "theme_ids": []
     },
     {
+      "id": "bf9550f25dfa98cb7f116fea",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "publisher": "OpenAI 公式",
+      "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+      "published_at": "2026-11-09T13:00:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "a08b621513938dc0d6b45ef2",
       "category": "tech",
       "source_id": "tech",
@@ -987,6 +1342,24 @@
       "in_scope": true,
       "theme_ids": [
         "models",
+        "camera"
+      ]
+    },
+    {
+      "id": "6cc7838e4a955c1c9bf04d3d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "津山市、運転手不足の路線バス 運行形態見直しへ ＡＩカメラで乗降データ取得 - 山陽新聞",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tRGdQajBwZWZSUVBrWUZORDdUbWVQX3U5bndOTXNKZ29Qamp1QnNGMkF5MnBuQmJ0TWZPbGhVYzkxX3pPaWVXZzRKNWtxNHVnNVE?oc=5",
+      "publisher": "山陽新聞",
+      "summary": "津山市、運転手不足の路線バス 運行形態見直しへ ＡＩカメラで乗降データ取得 山陽新聞",
+      "published_at": "2026-11-09T10:02:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
         "camera"
       ]
     },
@@ -1086,7 +1459,7 @@
       "title": "NVIDIA Announces New Planned Investments in Korean Startups at the MSIT-NVIDIA AI Startup Partnership Forum",
       "url": "https://blogs.nvidia.com/blog/korean-startup-investments-msit/",
       "publisher": "NVIDIA 公式ブログ",
-      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Ryu Je-myung, vice minister of science and ICT, joined NVIDIA leaders to meet with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with […]",
+      "summary": "Korea’s Ministry of Science and ICT and NVIDIA hosted the MSIT-NVIDIA AI Startup Partnership Forum at COEX. Representatives from the Ministry of Science and ICT and NVIDIA met with over 20 Korean startups across foundation models, physical AI, AI infrastructure and AI semiconductors. NVIDIA also announced an investment in Korean startup Point2, with additional investments […]",
       "published_at": "2026-11-09T08:00:53Z",
       "collected_at": "2026-11-09T22:02:38.802157Z",
       "provider": "NVIDIA",
@@ -1148,6 +1521,24 @@
       ]
     },
     {
+      "id": "2f44797a1630fbabed6b41ef",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「Google フォーム」に集めた回答をGeminiが分析する新機能が追加 - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9qN3d1aVFhYXdvbzFVLWNPSnl5VDEtRm5SdzBCeVNYanZJZGFnMDZwczlMQ1g2b1RNdVFKaU1zVTAwM1UxdGwxM2VtVzVfZ2lnZ2NZeXdNZEpIdmVqUnhVWEZaY2xEdUJ1?oc=5",
+      "publisher": "窓の杜",
+      "summary": "「Google フォーム」に集めた回答をGeminiが分析する新機能が追加 窓の杜",
+      "published_at": "2026-11-09T06:46:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "f0a8f9a8a41b1d21e9e38634",
       "category": "parenting",
       "source_id": "parenting",
@@ -1166,6 +1557,25 @@
       ]
     },
     {
+      "id": "a407414753ccf6f1e6730f71",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "ChatGPT Images 2.6、Gemini Omni 1.2 Flashほか 広報がおさえておきたい生成AIニュース（11月2日〜8日） - 共同通信PRワイヤー",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16SjVQNkpQRTFKMVMxWGVJVDRUbmEzc1FTZklxWE9pNUU4Q2RlbG16TXN1Mk4zMmdfRldXSUtxajJ1ZHdvcGxlTWd3SHpUNC1waHhSeFlIbw?oc=5",
+      "publisher": "共同通信PRワイヤー",
+      "summary": "ChatGPT Images 2.6、Gemini Omni 1.2 Flashほか 広報がおさえておきたい生成AIニュース（11月2日〜8日） 共同通信PRワイヤー",
+      "published_at": "2026-11-09T06:11:05Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "camera"
+      ]
+    },
+    {
       "id": "abfcb7c18f2576c2c681d0e2",
       "category": "tech",
       "source_id": "tech",
@@ -1181,6 +1591,24 @@
       "in_scope": true,
       "theme_ids": [
         "development"
+      ]
+    },
+    {
+      "id": "e39e424c7dbe39ac5b278eb1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIがサイバー特化「GPT-6 Cyber」発表、脆弱性の発見と実証を自動化（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kaVFrQWltakticGt1OUpMX3RQNTF4Z2tHUElNWVh6TWhsYlhGVDltVElDQ1ZhNXp0cU1rNVE2aDUxU3poZlNfeG8xb1NPWlQ2WUFyTXhaQ3FsOHBNT1p1VGlxRWxOcTROWnZfSW1lZ0lyUTQwQmxMWmV4QVo1dkU?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "OpenAIがサイバー特化「GPT-6 Cyber」発表、脆弱性の発見と実証を自動化（ビジネス＋IT） Yahoo!ニュース",
+      "published_at": "2026-11-09T05:30:06Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1266,6 +1694,22 @@
       "theme_ids": [
         "models"
       ]
+    },
+    {
+      "id": "d878b277a9acea0f485b0022",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "どれも同じに見えるAIエージェント、グーグル・OpenAI・Workdayが狙うロックインの正体 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE81bFk3Y2VkdFFOWndPMzRvTF9mSnYyaDRyTHoyZ3hGdzhGdkdVRG8zS1ctM3VLVW9uVktjTkY0MUQ1Q00xTkZza3ZXQnA0TUNfZHZHQlZieVRvZw?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "どれも同じに見えるAIエージェント、グーグル・OpenAI・Workdayが狙うロックインの正体 Forbes JAPAN",
+      "published_at": "2026-11-09T05:00:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "71a61631787214dc5de3176c",
@@ -1847,6 +2291,25 @@
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
+      "id": "2729cbfb2c09f2d3552704a4",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、学校の生徒向けに検索とGeminiを初期設定で無効へ 検索内のAIは切り離せず、米教育現場で懸念 - Ledge.ai",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hR3A4TE9tYkNTZm0yY3JHaUJ3RWQ3Q0R0VENScjRVZ0xNNkNhcllYU2ZaNURVaEhNRlZSY0hGY1JEckFUYTJwTTRnSmFHcHpwU1VpU2N2cG9lUDhOZTlnOW42NkdRSDBW?oc=5",
+      "publisher": "Ledge.ai",
+      "summary": "Google、学校の生徒向けに検索とGeminiを初期設定で無効へ 検索内のAIは切り離せず、米教育現場で懸念 Ledge.ai",
+      "published_at": "2026-11-07T05:04:22Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": [
         "models",
@@ -3498,6 +3961,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "69f7645866fb285035bf67e5",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "GPT‑6 Cyber：アライメントを備えたサイバーセキュリティエージェントの新境地 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kTWREcG00STJ3SEUzRURmR3RUc2xlQjNPQWNRaUY3NC16Y0kxNHVyYXFfYkd6QU53dXZrZzlwWkpqVFZlV0FoZzhyTUpXUjQ1X1g2RWNpVlNJMUdrYmpJbDlxb1VwZw?oc=5",
+      "publisher": "OpenAI",
+      "summary": "GPT‑6 Cyber：アライメントを備えたサイバーセキュリティエージェントの新境地 OpenAI",
+      "published_at": "2026-11-05T08:00:00Z",
+      "collected_at": "2026-11-10T03:21:31.661292Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -42986,23 +43467,23 @@
       "kind": "weekly",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-10T07:04:56.248489+09:00",
+      "generated_at": "2026-11-10T12:21:38.698433+09:00",
       "is_complete": false,
-      "article_count": 36,
+      "article_count": 59,
       "category_counts": {
-        "parenting": 11,
-        "tech": 17,
-        "ai": 8
+        "ai": 21,
+        "parenting": 15,
+        "tech": 23
       },
       "overview": "ChatGPT EnterpriseはAWS Marketplaceで提供を開始し、企業は既存のAWSの購買・請求関係を利用できる。機能は直接契約と同じで、利用コミットメントへの支出充当には適格条件がある。CodeRabbitはCodex導入と承認・リリース工程の見直しを併せて出荷量の増加を報告。空研工業は図番や画像から候補図面を提示するシステムで探索時間を約1時間から4.5分に短縮したと報告したが、候補の確認は技術者が担い、仕様不一致の検出は試作検証段階にある。 NVIDIAはAI設備内の接続技術を開発するPoint2への投資を発表し、モデル開発企業などへの追加投資は計画として示した。Samsungは特定条件の半導体解析高速化を報告し、LGは製造現場でロボット作業を実証、Kakao Mobilityはレベル4自動運転システムの開発を計画している。エージェントの隔離実行・アクセス制御を担うOpenShellと脅威検知技術の統合は進行中で、K-EXAONE-2.5はAPIアクセスを開放している。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+        "attempted_at": "2026-11-10T03:21:38.467023+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -43011,6 +43492,10 @@
         "errors": [
           {
             "article_id": "945880c185f09bf0499e631e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bf9550f25dfa98cb7f116fea",
             "stage": "original_fetch"
           },
           {
@@ -43035,7 +43520,7 @@
           ],
           "last_success_at": "2026-11-09T22:02:45.918342+00:00"
         },
-        "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+        "last_success_at": "2026-11-10T03:21:38.467023+00:00"
       },
       "genre_briefs": [
         {
@@ -43170,19 +43655,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 5,
-          "publisher_count": 3,
+          "count": 16,
+          "publisher_count": 12,
           "summary": "OpenAIはChatGPT EnterpriseをAWS Marketplaceで提供開始した。企業は既存のAWSの購買・請求関係を使って契約・管理でき、対象支出はAWSの利用コミットメントに充当できる。モデルや機能はOpenAIとの直接契約と同じで、新機能も同時に提供する。医療・金融向け製品も適格顧客が購入できる。 空研工業はRecursiveと、OpenAI APIを使って70年分の図面を探すシステムと現場用アプリを開発した。図番・部品番号の入力や画像・PDFの取り込みで候補図面を提示し、探索時間を約1時間から4.5分に短縮したと報告。年間の探索工数90％削減は予測値で、協力会社の図面と仕様の不一致を検出する別機能は試作検証段階にある。",
           "evidence_ids": [
-            "cad5d8ab7a86543c03d6d98f",
-            "aaa1a21ac4559d357d6327a6",
-            "f2ee25289a2d69c5aa089895"
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec"
           ],
           "article_ids": [
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec",
+            "68a8de7e09a0772211069348",
+            "28ec87d92bb7fa93a1e259aa",
+            "8fce21e355d635e975574b49",
+            "84f16d542e649727716f1642",
             "cad5d8ab7a86543c03d6d98f",
+            "49503fa61a4a76b1725f12e0",
             "945880c185f09bf0499e631e",
+            "bf9550f25dfa98cb7f116fea",
             "aaa1a21ac4559d357d6327a6",
             "ca91c951b6ebc17ad06d390c",
+            "2f44797a1630fbabed6b41ef",
+            "a407414753ccf6f1e6730f71",
             "f2ee25289a2d69c5aa089895"
           ]
         },
@@ -43193,19 +43689,25 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 16,
-          "publisher_count": 10,
+          "count": 22,
+          "publisher_count": 13,
           "summary": "NVIDIAは韓国科学技術情報通信部とのフォーラムで、AI設備のチップ・ラック間を無線周波数方式で接続するPoint2への投資を発表した。さらに、AIエージェント向け基盤モデルのMotif Technologies、ロボット基盤モデルのRLWRLD、企業向け言語モデル・文書AIのUpstageへの投資を計画。インフラから業務・ロボット用途までを対象とする。 SamsungはNVIDIAとの半導体開発協業を拡大し、特定の量子化学計算で最大5倍、AIによる材料特性予測・粗い格子・GPUを組み合わせた解析例で約1,600倍の高速化を報告した。LGは実際の製造環境でCLOiDロボットの作業を実証。Kakao MobilityはHyperionやDRIVE AGX Thorなどを用いるレベル4自動運転システムの開発を計画している。 AIM Intelligenceは、悪意ある指示や情報漏えいを検知するStarfortと、隔離実行・ポリシーに基づくアクセス制御を担うNVIDIA OpenShellの統合を進める。Hyundai Motor Groupも関連技術を検討中。LG AI Researchは、韓国の公的統計に基づく700万件の完全合成人物データなどを開発に用いたK-EXAONE-2.5のAPIアクセスを開放している。",
           "evidence_ids": [
-            "9750ec635cfe8bc9677749a6",
-            "7c7a7d34196eaa0137522689",
-            "a08b621513938dc0d6b45ef2"
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895"
           ],
           "article_ids": [
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895",
+            "34d03e6eef15859b8b3597ab",
+            "c4b4dca5ef5a9246e95cd3b8",
             "9750ec635cfe8bc9677749a6",
             "7c7a7d34196eaa0137522689",
             "a08b621513938dc0d6b45ef2",
             "9c3d0894d5a7f84495805673",
+            "6cc7838e4a955c1c9bf04d3d",
             "fc99b333351980f80210d839",
             "a348aaa672e9f989eda593c5",
             "38be0b11dd2af3942acfd5d9",
@@ -43227,15 +43729,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 11,
-          "publisher_count": 10,
+          "count": 13,
+          "publisher_count": 12,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "c6a800edf99fd43ad8498cce",
-            "a27d8c9cf1fb24ff23cd6c4c",
-            "eb595b73034c5616e94e276c"
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
+            "c6a800edf99fd43ad8498cce"
           ],
           "article_ids": [
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
             "c6a800edf99fd43ad8498cce",
             "a27d8c9cf1fb24ff23cd6c4c",
             "eb595b73034c5616e94e276c",
@@ -43264,46 +43768,51 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 3,
-          "publisher_count": 3,
+          "count": 5,
+          "publisher_count": 4,
           "summary": "CodeRabbitは、Codexの利用とリリース工程・人の承認箇所の見直しにより、過去6カ月に同じ開発人数で約20倍のソフトウェアを出荷したと説明した。新製品CodeRabbit SecureはDaybreakとCodexモデルで脆弱性を検出・修正する。直近2週間の無料提供施策では、1万3千回の詳細スキャンで4万3千件超の脆弱性を発見したと報告している。",
           "evidence_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
-            "cb4158793db59866676478cb"
+            "e39e424c7dbe39ac5b278eb1"
           ],
           "article_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
+            "e39e424c7dbe39ac5b278eb1",
+            "d878b277a9acea0f485b0022",
             "cb4158793db59866676478cb"
           ]
         },
         {
-          "id": "tech-security",
-          "category": "tech",
-          "label": "セキュリティ・データの扱い",
+          "id": "parent-care",
+          "category": "parenting",
+          "label": "育児相談・家族のサポート",
           "words": [
-            "漏えい",
-            "セキュリティ",
-            "脆弱",
-            "攻撃",
-            "認証",
-            "個人情報"
+            "相談",
+            "支援",
+            "サポート",
+            "助産",
+            "医師",
+            "メンタル",
+            "悩み"
           ],
-          "insight": "サービスの検討では、便利さと同時に収集するデータの種類や保存先を確認したい。",
-          "question": "育児サービスに応用する場合、家族の情報を必要以上に集めない設計を検討したい。",
-          "count": 1,
-          "publisher_count": 1,
+          "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
+          "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
+          "count": 2,
+          "publisher_count": 2,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "7bb603c9ea93e91f8e3b634a"
+            "6dc61269d768b309019b3e93",
+            "85543b1347b66a1bda09d0ec"
           ],
           "article_ids": [
-            "7bb603c9ea93e91f8e3b634a"
+            "6dc61269d768b309019b3e93",
+            "85543b1347b66a1bda09d0ec"
           ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
@@ -43344,15 +43853,34 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "76d7c0b75336133ddf40b958",
+        "f68b5244e2a6b15f5db122af",
+        "50e6aa6dc60b6b8ea25f3d60",
+        "0a0cb8df6e9a8d3c2297809e",
+        "2d8b26ffcfefb9402fd02282",
+        "6dc61269d768b309019b3e93",
+        "64903b94eb046d96c6b37895",
+        "3c47d7f093b8a397ff689bc0",
+        "85543b1347b66a1bda09d0ec",
+        "34d03e6eef15859b8b3597ab",
+        "1fb46402b95dfe0017d1a3ec",
+        "68a8de7e09a0772211069348",
+        "28ec87d92bb7fa93a1e259aa",
+        "8fce21e355d635e975574b49",
+        "84f16d542e649727716f1642",
+        "c4b4dca5ef5a9246e95cd3b8",
         "c6a800edf99fd43ad8498cce",
-        "9750ec635cfe8bc9677749a6",
         "cad5d8ab7a86543c03d6d98f",
+        "9750ec635cfe8bc9677749a6",
+        "49503fa61a4a76b1725f12e0",
         "7c7a7d34196eaa0137522689",
         "a27d8c9cf1fb24ff23cd6c4c",
         "945880c185f09bf0499e631e",
+        "bf9550f25dfa98cb7f116fea",
         "a08b621513938dc0d6b45ef2",
         "9c3d0894d5a7f84495805673",
         "aaa1a21ac4559d357d6327a6",
+        "6cc7838e4a955c1c9bf04d3d",
         "7bb603c9ea93e91f8e3b634a",
         "fc99b333351980f80210d839",
         "a4a9d7fa604641d11be3517d",
@@ -43361,11 +43889,15 @@
         "532b33c4d0b7bcb267a64ed7",
         "ca91c951b6ebc17ad06d390c",
         "38be0b11dd2af3942acfd5d9",
+        "2f44797a1630fbabed6b41ef",
+        "a407414753ccf6f1e6730f71",
         "abfcb7c18f2576c2c681d0e2",
+        "e39e424c7dbe39ac5b278eb1",
         "b47fea894539e1ed45141422",
         "cdd8e752c0ff7a6a848fb59f",
         "ab26d04cd608f0d7482590c7",
         "c9dd560078a41ae1c464a889",
+        "d878b277a9acea0f485b0022",
         "71a61631787214dc5de3176c",
         "cb4158793db59866676478cb",
         "3655aad2237a0032ea719f10",
@@ -43387,11 +43919,11 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-10T07:04:56.248489+09:00",
+      "generated_at": "2026-11-10T12:21:38.698433+09:00",
       "is_complete": true,
-      "article_count": 278,
+      "article_count": 279,
       "category_counts": {
-        "ai": 142,
+        "ai": 143,
         "parenting": 67,
         "tech": 69
       },
@@ -43400,10 +43932,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+        "attempted_at": "2026-11-10T03:21:38.467023+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -43412,6 +43944,10 @@
         "errors": [
           {
             "article_id": "945880c185f09bf0499e631e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bf9550f25dfa98cb7f116fea",
             "stage": "original_fetch"
           },
           {
@@ -43436,7 +43972,7 @@
           ],
           "last_success_at": "2026-11-09T22:02:45.918342+00:00"
         },
-        "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+        "last_success_at": "2026-11-10T03:21:38.467023+00:00"
       },
       "genre_briefs": [
         {
@@ -43955,7 +44491,7 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 23,
+          "count": 24,
           "publisher_count": 17,
           "summary": "OpenAIは11月6日、酵素設計企業Ligoと開発したBioBasicsBenchを発表した。生物実験の日常業務を扱う100課題で、ゲル画像や顕微鏡像などの生データの解釈、誤りの検出、証拠不足の認識を評価する。共通の推論設定xhighでは、GPT‑6 Astraの平均獲得点は満点比66.7％、GPT‑5.6 Solは43.8％だった。採点は専門家が作成した基準に基づく。 OpenAIが11月5日に公開した導入事例で、インドのフィットネス企業Cult.fitは開発基盤をCodexに統一し、人事など非技術部門も直近数カ月で20超の社内アプリを構築したと報告した。社内ダッシュボードの自作で年間10万ドル超のソフト費用を削減。会員向けAI Trainerの最新版では、GPT RealtimeとのAPI連携により、双方向音声で運動の助言や記録を支援する。",
           "evidence_ids": [
@@ -43973,6 +44509,7 @@
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
+            "69f7645866fb285035bf67e5",
             "c13aabaaff19bb57bccb0eed",
             "2d74012b20661e371118d081",
             "8cd97509142723cd48ed14a4",
@@ -44165,6 +44702,7 @@
         "4c5fcb58f8fe64eaba328efa",
         "c0f69bf69979c9e6b91a4e33",
         "08c92b48f9c124b67e5b1daf",
+        "69f7645866fb285035bf67e5",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -44350,23 +44888,23 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-10T07:04:56.248489+09:00",
+      "generated_at": "2026-11-10T12:21:38.698433+09:00",
       "is_complete": false,
-      "article_count": 334,
+      "article_count": 358,
       "category_counts": {
-        "parenting": 87,
-        "tech": 89,
-        "ai": 158
+        "ai": 172,
+        "parenting": 91,
+        "tech": 95
       },
       "overview": "ChatGPT EnterpriseはAWS Marketplaceで提供を開始し、適格企業は既存のAWS請求や利用コミットメントを活用できる。空研工業は図番や画像から候補図面を提示するシステムで探索時間を約1時間から4.5分に短縮したと報告したが、候補は技術者が確認する。図面の不一致検出は試作検証段階にある。 Samsungは特定の半導体解析で高速化を報告したが、約1,600倍の事例には格子変更も含まれる。LGは製造現場でロボット作業を実証し、Kakao Mobilityはレベル4自動運転の開発を計画している。AIM Intelligenceによる脅威検知とOpenShellの隔離実行・アクセス制御の統合は進行中で、防御性能の検証結果は示されていない。 Google Classroomは、教師が課題を割り当てて学習状況を把握できるGuided Learningの世界展開を開始した。大学生を対象とした半日の統計学試験では利用群の得点上昇が8.1ポイント、比較群が5.3ポイントだった。初等・中等教育用アカウントの管理方針更新も発表されたが、具体的な変更内容は資料にない。初期読解支援などへの助成は開発・試行の支援で、対象年齢や提供時期は不明である。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+        "attempted_at": "2026-11-10T03:21:38.467023+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -44375,6 +44913,10 @@
         "errors": [
           {
             "article_id": "945880c185f09bf0499e631e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bf9550f25dfa98cb7f116fea",
             "stage": "original_fetch"
           },
           {
@@ -44399,7 +44941,7 @@
           ],
           "last_success_at": "2026-11-09T22:02:45.918342+00:00"
         },
-        "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+        "last_success_at": "2026-11-10T03:21:38.467023+00:00"
       },
       "genre_briefs": [
         {
@@ -44598,19 +45140,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 130,
-          "publisher_count": 39,
+          "count": 141,
+          "publisher_count": 40,
           "summary": "OpenAIはChatGPT EnterpriseをAWS Marketplaceで提供開始した。企業は既存のAWSの購買・請求関係を使って契約・管理でき、対象支出はAWSの利用コミットメントに充当できる。モデルや機能はOpenAIとの直接契約と同じで、新機能も同時に提供する。医療・金融向け製品も適格顧客が購入できる。 空研工業はRecursiveと、OpenAI APIを使って70年分の図面を探すシステムと現場用アプリを開発した。図番・部品番号の入力や画像・PDFの取り込みで候補図面を提示し、探索時間を約1時間から4.5分に短縮したと報告。年間の探索工数90％削減は予測値で、協力会社の図面と仕様の不一致を検出する別機能は試作検証段階にある。",
           "evidence_ids": [
-            "cad5d8ab7a86543c03d6d98f",
-            "aaa1a21ac4559d357d6327a6",
-            "f2ee25289a2d69c5aa089895"
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec"
           ],
           "article_ids": [
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec",
+            "68a8de7e09a0772211069348",
+            "28ec87d92bb7fa93a1e259aa",
+            "8fce21e355d635e975574b49",
+            "84f16d542e649727716f1642",
             "cad5d8ab7a86543c03d6d98f",
+            "49503fa61a4a76b1725f12e0",
             "945880c185f09bf0499e631e",
+            "bf9550f25dfa98cb7f116fea",
             "aaa1a21ac4559d357d6327a6",
             "ca91c951b6ebc17ad06d390c",
+            "2f44797a1630fbabed6b41ef",
+            "a407414753ccf6f1e6730f71",
             "f2ee25289a2d69c5aa089895",
             "b62cb6668b68bfc9159ffe1f",
             "ccbdd2d7700309df14ff7981",
@@ -44746,19 +45299,25 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 85,
-          "publisher_count": 48,
+          "count": 91,
+          "publisher_count": 50,
           "summary": "NVIDIAは韓国科学技術情報通信部とのフォーラムで、AI設備のチップ・ラック間を無線周波数方式で接続するPoint2への投資を発表した。さらに、AIエージェント向け基盤モデルのMotif Technologies、ロボット基盤モデルのRLWRLD、企業向け言語モデル・文書AIのUpstageへの投資を計画。インフラから業務・ロボット用途までを対象とする。 SamsungはNVIDIAとの半導体開発協業を拡大し、特定の量子化学計算で最大5倍、AIによる材料特性予測・粗い格子・GPUを組み合わせた解析例で約1,600倍の高速化を報告した。LGは実際の製造環境でCLOiDロボットの作業を実証。Kakao MobilityはHyperionやDRIVE AGX Thorなどを用いるレベル4自動運転システムの開発を計画している。 AIM Intelligenceは、悪意ある指示や情報漏えいを検知するStarfortと、隔離実行・ポリシーに基づくアクセス制御を担うNVIDIA OpenShellの統合を進める。Hyundai Motor Groupも関連技術を検討中。LG AI Researchは、韓国の公的統計に基づく700万件の完全合成人物データなどを開発に用いたK-EXAONE-2.5のAPIアクセスを開放している。",
           "evidence_ids": [
-            "9750ec635cfe8bc9677749a6",
-            "7c7a7d34196eaa0137522689",
-            "a08b621513938dc0d6b45ef2"
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895"
           ],
           "article_ids": [
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895",
+            "34d03e6eef15859b8b3597ab",
+            "c4b4dca5ef5a9246e95cd3b8",
             "9750ec635cfe8bc9677749a6",
             "7c7a7d34196eaa0137522689",
             "a08b621513938dc0d6b45ef2",
             "9c3d0894d5a7f84495805673",
+            "6cc7838e4a955c1c9bf04d3d",
             "fc99b333351980f80210d839",
             "a348aaa672e9f989eda593c5",
             "38be0b11dd2af3942acfd5d9",
@@ -44849,15 +45408,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 87,
-          "publisher_count": 49,
+          "count": 89,
+          "publisher_count": 51,
           "summary": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。 Googleは教育向け製品群の更新として、Guided LearningのGoogle Classroomでの世界展開と、Google検索への同機能の導入を発表した。また、初等・中等教育の児童生徒用アカウントについて、Gemini、Gemini Notebook、Gemini in Classroom、Google検索の管理方法を更新すると説明。教育者向けAI研修の拡大や研究、助成も一連の発表に含めた。",
           "evidence_ids": [
-            "c6a800edf99fd43ad8498cce",
-            "a27d8c9cf1fb24ff23cd6c4c",
-            "eb595b73034c5616e94e276c"
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
+            "c6a800edf99fd43ad8498cce"
           ],
           "article_ids": [
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
             "c6a800edf99fd43ad8498cce",
             "a27d8c9cf1fb24ff23cd6c4c",
             "eb595b73034c5616e94e276c",
@@ -44962,17 +45523,19 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 28,
-          "publisher_count": 20,
+          "count": 31,
+          "publisher_count": 21,
           "summary": "CodeRabbitは、Codexの利用とリリース工程・人の承認箇所の見直しにより、過去6カ月に同じ開発人数で約20倍のソフトウェアを出荷したと説明した。新製品CodeRabbit SecureはDaybreakとCodexモデルで脆弱性を検出・修正する。直近2週間の無料提供施策では、1万3千回の詳細スキャンで4万3千件超の脆弱性を発見したと報告している。",
           "evidence_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
-            "cb4158793db59866676478cb"
+            "e39e424c7dbe39ac5b278eb1"
           ],
           "article_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
+            "e39e424c7dbe39ac5b278eb1",
+            "d878b277a9acea0f485b0022",
             "cb4158793db59866676478cb",
             "75d10ff378865a0ab380f33f",
             "27501dbcf74681cf612656da",
@@ -44983,6 +45546,7 @@
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
+            "69f7645866fb285035bf67e5",
             "c13aabaaff19bb57bccb0eed",
             "2d74012b20661e371118d081",
             "8cd97509142723cd48ed14a4",
@@ -45031,7 +45595,7 @@
           ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
@@ -45086,15 +45650,34 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "76d7c0b75336133ddf40b958",
+        "f68b5244e2a6b15f5db122af",
+        "50e6aa6dc60b6b8ea25f3d60",
+        "0a0cb8df6e9a8d3c2297809e",
+        "2d8b26ffcfefb9402fd02282",
+        "6dc61269d768b309019b3e93",
+        "64903b94eb046d96c6b37895",
+        "3c47d7f093b8a397ff689bc0",
+        "85543b1347b66a1bda09d0ec",
+        "34d03e6eef15859b8b3597ab",
+        "1fb46402b95dfe0017d1a3ec",
+        "68a8de7e09a0772211069348",
+        "28ec87d92bb7fa93a1e259aa",
+        "8fce21e355d635e975574b49",
+        "84f16d542e649727716f1642",
+        "c4b4dca5ef5a9246e95cd3b8",
         "c6a800edf99fd43ad8498cce",
-        "9750ec635cfe8bc9677749a6",
         "cad5d8ab7a86543c03d6d98f",
+        "9750ec635cfe8bc9677749a6",
+        "49503fa61a4a76b1725f12e0",
         "7c7a7d34196eaa0137522689",
         "a27d8c9cf1fb24ff23cd6c4c",
         "945880c185f09bf0499e631e",
+        "bf9550f25dfa98cb7f116fea",
         "a08b621513938dc0d6b45ef2",
         "9c3d0894d5a7f84495805673",
         "aaa1a21ac4559d357d6327a6",
+        "6cc7838e4a955c1c9bf04d3d",
         "7bb603c9ea93e91f8e3b634a",
         "fc99b333351980f80210d839",
         "a4a9d7fa604641d11be3517d",
@@ -45103,11 +45686,15 @@
         "532b33c4d0b7bcb267a64ed7",
         "ca91c951b6ebc17ad06d390c",
         "38be0b11dd2af3942acfd5d9",
+        "2f44797a1630fbabed6b41ef",
+        "a407414753ccf6f1e6730f71",
         "abfcb7c18f2576c2c681d0e2",
+        "e39e424c7dbe39ac5b278eb1",
         "b47fea894539e1ed45141422",
         "cdd8e752c0ff7a6a848fb59f",
         "ab26d04cd608f0d7482590c7",
         "c9dd560078a41ae1c464a889",
+        "d878b277a9acea0f485b0022",
         "71a61631787214dc5de3176c",
         "cb4158793db59866676478cb",
         "3655aad2237a0032ea719f10",
@@ -45222,6 +45809,7 @@
         "4c5fcb58f8fe64eaba328efa",
         "c0f69bf69979c9e6b91a4e33",
         "08c92b48f9c124b67e5b1daf",
+        "69f7645866fb285035bf67e5",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -48967,7 +49555,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-10T07:04:56.248489+09:00",
+      "generated_at": "2026-11-10T12:21:38.698433+09:00",
       "is_complete": true,
       "article_count": 1120,
       "category_counts": {
@@ -48980,10 +49568,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+        "attempted_at": "2026-11-10T03:21:38.467023+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -48992,6 +49580,10 @@
         "errors": [
           {
             "article_id": "945880c185f09bf0499e631e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bf9550f25dfa98cb7f116fea",
             "stage": "original_fetch"
           },
           {
@@ -49016,7 +49608,7 @@
           ],
           "last_success_at": "2026-11-09T22:02:45.918342+00:00"
         },
-        "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+        "last_success_at": "2026-11-10T03:21:38.467023+00:00"
       },
       "genre_briefs": [
         {
@@ -54544,23 +55136,23 @@
       "kind": "overview",
       "period_start": "2026-11-04",
       "period_end": "2026-11-10",
-      "generated_at": "2026-11-10T07:04:56.248489+09:00",
+      "generated_at": "2026-11-10T12:21:38.698433+09:00",
       "is_complete": false,
-      "article_count": 240,
+      "article_count": 264,
       "category_counts": {
-        "parenting": 63,
-        "tech": 68,
-        "ai": 109
+        "ai": 123,
+        "parenting": 67,
+        "tech": 74
       },
       "overview": "ChatGPT EnterpriseはAWS Marketplaceで提供を開始し、企業が既存のAWS購買・請求関係を使えるようになった。空研工業は図番入力や画像・PDFから候補図面を提示する仕組みで探索時間の短縮を報告し、候補の最終確認は技術者が担う。CodeRabbitはCodex導入と承認・リリース工程の見直しを合わせた出荷量拡大を自己申告している。 Samsungは特定条件の半導体解析で高速化を報告し、LGは製造環境でロボット作業を実証した。Kakao Mobilityのレベル4自動運転は開発計画段階にある。AIM Intelligenceは悪意ある指示や情報漏えいの検知と、OpenShellによる隔離実行・アクセス制御の統合を進めているが、防御性能の検証結果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+        "attempted_at": "2026-11-10T03:21:38.467023+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -54569,6 +55161,10 @@
         "errors": [
           {
             "article_id": "945880c185f09bf0499e631e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bf9550f25dfa98cb7f116fea",
             "stage": "original_fetch"
           },
           {
@@ -54593,7 +55189,7 @@
           ],
           "last_success_at": "2026-11-09T22:02:45.918342+00:00"
         },
-        "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+        "last_success_at": "2026-11-10T03:21:38.467023+00:00"
       },
       "genre_briefs": [
         {
@@ -54728,19 +55324,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 91,
-          "publisher_count": 34,
+          "count": 102,
+          "publisher_count": 36,
           "summary": "OpenAIはChatGPT EnterpriseをAWS Marketplaceで提供開始した。企業は既存のAWSの購買・請求関係を使って契約・管理でき、対象支出はAWSの利用コミットメントに充当できる。モデルや機能はOpenAIとの直接契約と同じで、新機能も同時に提供する。医療・金融向け製品も適格顧客が購入できる。 空研工業はRecursiveと、OpenAI APIを使って70年分の図面を探すシステムと現場用アプリを開発した。図番・部品番号の入力や画像・PDFの取り込みで候補図面を提示し、探索時間を約1時間から4.5分に短縮したと報告。年間の探索工数90％削減は予測値で、協力会社の図面と仕様の不一致を検出する別機能は試作検証段階にある。",
           "evidence_ids": [
-            "cad5d8ab7a86543c03d6d98f",
-            "aaa1a21ac4559d357d6327a6",
-            "f2ee25289a2d69c5aa089895"
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec"
           ],
           "article_ids": [
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec",
+            "68a8de7e09a0772211069348",
+            "28ec87d92bb7fa93a1e259aa",
+            "8fce21e355d635e975574b49",
+            "84f16d542e649727716f1642",
             "cad5d8ab7a86543c03d6d98f",
+            "49503fa61a4a76b1725f12e0",
             "945880c185f09bf0499e631e",
+            "bf9550f25dfa98cb7f116fea",
             "aaa1a21ac4559d357d6327a6",
             "ca91c951b6ebc17ad06d390c",
+            "2f44797a1630fbabed6b41ef",
+            "a407414753ccf6f1e6730f71",
             "f2ee25289a2d69c5aa089895",
             "b62cb6668b68bfc9159ffe1f",
             "ccbdd2d7700309df14ff7981",
@@ -54837,19 +55444,25 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 65,
-          "publisher_count": 37,
+          "count": 71,
+          "publisher_count": 39,
           "summary": "NVIDIAは韓国科学技術情報通信部とのフォーラムで、AI設備のチップ・ラック間を無線周波数方式で接続するPoint2への投資を発表した。さらに、AIエージェント向け基盤モデルのMotif Technologies、ロボット基盤モデルのRLWRLD、企業向け言語モデル・文書AIのUpstageへの投資を計画。インフラから業務・ロボット用途までを対象とする。 SamsungはNVIDIAとの半導体開発協業を拡大し、特定の量子化学計算で最大5倍、AIによる材料特性予測・粗い格子・GPUを組み合わせた解析例で約1,600倍の高速化を報告した。LGは実際の製造環境でCLOiDロボットの作業を実証。Kakao MobilityはHyperionやDRIVE AGX Thorなどを用いるレベル4自動運転システムの開発を計画している。 AIM Intelligenceは、悪意ある指示や情報漏えいを検知するStarfortと、隔離実行・ポリシーに基づくアクセス制御を担うNVIDIA OpenShellの統合を進める。Hyundai Motor Groupも関連技術を検討中。LG AI Researchは、韓国の公的統計に基づく700万件の完全合成人物データなどを開発に用いたK-EXAONE-2.5のAPIアクセスを開放している。",
           "evidence_ids": [
-            "9750ec635cfe8bc9677749a6",
-            "7c7a7d34196eaa0137522689",
-            "a08b621513938dc0d6b45ef2"
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895"
           ],
           "article_ids": [
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895",
+            "34d03e6eef15859b8b3597ab",
+            "c4b4dca5ef5a9246e95cd3b8",
             "9750ec635cfe8bc9677749a6",
             "7c7a7d34196eaa0137522689",
             "a08b621513938dc0d6b45ef2",
             "9c3d0894d5a7f84495805673",
+            "6cc7838e4a955c1c9bf04d3d",
             "fc99b333351980f80210d839",
             "a348aaa672e9f989eda593c5",
             "38be0b11dd2af3942acfd5d9",
@@ -54920,15 +55533,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 63,
-          "publisher_count": 40,
+          "count": 65,
+          "publisher_count": 42,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "c6a800edf99fd43ad8498cce",
-            "a27d8c9cf1fb24ff23cd6c4c",
-            "eb595b73034c5616e94e276c"
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
+            "c6a800edf99fd43ad8498cce"
           ],
           "article_ids": [
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
             "c6a800edf99fd43ad8498cce",
             "a27d8c9cf1fb24ff23cd6c4c",
             "eb595b73034c5616e94e276c",
@@ -55009,17 +55624,19 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 18,
-          "publisher_count": 12,
+          "count": 21,
+          "publisher_count": 14,
           "summary": "CodeRabbitは、Codexの利用とリリース工程・人の承認箇所の見直しにより、過去6カ月に同じ開発人数で約20倍のソフトウェアを出荷したと説明した。新製品CodeRabbit SecureはDaybreakとCodexモデルで脆弱性を検出・修正する。直近2週間の無料提供施策では、1万3千回の詳細スキャンで4万3千件超の脆弱性を発見したと報告している。",
           "evidence_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
-            "cb4158793db59866676478cb"
+            "e39e424c7dbe39ac5b278eb1"
           ],
           "article_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
+            "e39e424c7dbe39ac5b278eb1",
+            "d878b277a9acea0f485b0022",
             "cb4158793db59866676478cb",
             "75d10ff378865a0ab380f33f",
             "27501dbcf74681cf612656da",
@@ -55030,6 +55647,7 @@
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
+            "69f7645866fb285035bf67e5",
             "c13aabaaff19bb57bccb0eed",
             "2d74012b20661e371118d081",
             "8cd97509142723cd48ed14a4",
@@ -55067,7 +55685,7 @@
           ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
@@ -55106,15 +55724,34 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "76d7c0b75336133ddf40b958",
+        "f68b5244e2a6b15f5db122af",
+        "50e6aa6dc60b6b8ea25f3d60",
+        "0a0cb8df6e9a8d3c2297809e",
+        "2d8b26ffcfefb9402fd02282",
+        "6dc61269d768b309019b3e93",
+        "64903b94eb046d96c6b37895",
+        "3c47d7f093b8a397ff689bc0",
+        "85543b1347b66a1bda09d0ec",
+        "34d03e6eef15859b8b3597ab",
+        "1fb46402b95dfe0017d1a3ec",
+        "68a8de7e09a0772211069348",
+        "28ec87d92bb7fa93a1e259aa",
+        "8fce21e355d635e975574b49",
+        "84f16d542e649727716f1642",
+        "c4b4dca5ef5a9246e95cd3b8",
         "c6a800edf99fd43ad8498cce",
-        "9750ec635cfe8bc9677749a6",
         "cad5d8ab7a86543c03d6d98f",
+        "9750ec635cfe8bc9677749a6",
+        "49503fa61a4a76b1725f12e0",
         "7c7a7d34196eaa0137522689",
         "a27d8c9cf1fb24ff23cd6c4c",
         "945880c185f09bf0499e631e",
+        "bf9550f25dfa98cb7f116fea",
         "a08b621513938dc0d6b45ef2",
         "9c3d0894d5a7f84495805673",
         "aaa1a21ac4559d357d6327a6",
+        "6cc7838e4a955c1c9bf04d3d",
         "7bb603c9ea93e91f8e3b634a",
         "fc99b333351980f80210d839",
         "a4a9d7fa604641d11be3517d",
@@ -55123,11 +55760,15 @@
         "532b33c4d0b7bcb267a64ed7",
         "ca91c951b6ebc17ad06d390c",
         "38be0b11dd2af3942acfd5d9",
+        "2f44797a1630fbabed6b41ef",
+        "a407414753ccf6f1e6730f71",
         "abfcb7c18f2576c2c681d0e2",
+        "e39e424c7dbe39ac5b278eb1",
         "b47fea894539e1ed45141422",
         "cdd8e752c0ff7a6a848fb59f",
         "ab26d04cd608f0d7482590c7",
         "c9dd560078a41ae1c464a889",
+        "d878b277a9acea0f485b0022",
         "71a61631787214dc5de3176c",
         "cb4158793db59866676478cb",
         "3655aad2237a0032ea719f10",
@@ -55242,6 +55883,7 @@
         "4c5fcb58f8fe64eaba328efa",
         "c0f69bf69979c9e6b91a4e33",
         "08c92b48f9c124b67e5b1daf",
+        "69f7645866fb285035bf67e5",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -55353,23 +55995,23 @@
       "kind": "weekly",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-10T07:04:56.248489+09:00",
+      "generated_at": "2026-11-10T12:21:38.698433+09:00",
       "is_complete": false,
-      "article_count": 36,
+      "article_count": 59,
       "category_counts": {
-        "parenting": 11,
-        "tech": 17,
-        "ai": 8
+        "ai": 21,
+        "parenting": 15,
+        "tech": 23
       },
       "overview": "ChatGPT EnterpriseはAWS Marketplaceで提供を開始し、企業は既存のAWSの購買・請求関係を利用できる。機能は直接契約と同じで、利用コミットメントへの支出充当には適格条件がある。CodeRabbitはCodex導入と承認・リリース工程の見直しを併せて出荷量の増加を報告。空研工業は図番や画像から候補図面を提示するシステムで探索時間を約1時間から4.5分に短縮したと報告したが、候補の確認は技術者が担い、仕様不一致の検出は試作検証段階にある。 NVIDIAはAI設備内の接続技術を開発するPoint2への投資を発表し、モデル開発企業などへの追加投資は計画として示した。Samsungは特定条件の半導体解析高速化を報告し、LGは製造現場でロボット作業を実証、Kakao Mobilityはレベル4自動運転システムの開発を計画している。エージェントの隔離実行・アクセス制御を担うOpenShellと脅威検知技術の統合は進行中で、K-EXAONE-2.5はAPIアクセスを開放している。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+        "attempted_at": "2026-11-10T03:21:38.467023+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -55378,6 +56020,10 @@
         "errors": [
           {
             "article_id": "945880c185f09bf0499e631e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bf9550f25dfa98cb7f116fea",
             "stage": "original_fetch"
           },
           {
@@ -55402,7 +56048,7 @@
           ],
           "last_success_at": "2026-11-09T22:02:45.918342+00:00"
         },
-        "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+        "last_success_at": "2026-11-10T03:21:38.467023+00:00"
       },
       "genre_briefs": [
         {
@@ -55537,19 +56183,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 5,
-          "publisher_count": 3,
+          "count": 16,
+          "publisher_count": 12,
           "summary": "OpenAIはChatGPT EnterpriseをAWS Marketplaceで提供開始した。企業は既存のAWSの購買・請求関係を使って契約・管理でき、対象支出はAWSの利用コミットメントに充当できる。モデルや機能はOpenAIとの直接契約と同じで、新機能も同時に提供する。医療・金融向け製品も適格顧客が購入できる。 空研工業はRecursiveと、OpenAI APIを使って70年分の図面を探すシステムと現場用アプリを開発した。図番・部品番号の入力や画像・PDFの取り込みで候補図面を提示し、探索時間を約1時間から4.5分に短縮したと報告。年間の探索工数90％削減は予測値で、協力会社の図面と仕様の不一致を検出する別機能は試作検証段階にある。",
           "evidence_ids": [
-            "cad5d8ab7a86543c03d6d98f",
-            "aaa1a21ac4559d357d6327a6",
-            "f2ee25289a2d69c5aa089895"
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec"
           ],
           "article_ids": [
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec",
+            "68a8de7e09a0772211069348",
+            "28ec87d92bb7fa93a1e259aa",
+            "8fce21e355d635e975574b49",
+            "84f16d542e649727716f1642",
             "cad5d8ab7a86543c03d6d98f",
+            "49503fa61a4a76b1725f12e0",
             "945880c185f09bf0499e631e",
+            "bf9550f25dfa98cb7f116fea",
             "aaa1a21ac4559d357d6327a6",
             "ca91c951b6ebc17ad06d390c",
+            "2f44797a1630fbabed6b41ef",
+            "a407414753ccf6f1e6730f71",
             "f2ee25289a2d69c5aa089895"
           ]
         },
@@ -55560,19 +56217,25 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 16,
-          "publisher_count": 10,
+          "count": 22,
+          "publisher_count": 13,
           "summary": "NVIDIAは韓国科学技術情報通信部とのフォーラムで、AI設備のチップ・ラック間を無線周波数方式で接続するPoint2への投資を発表した。さらに、AIエージェント向け基盤モデルのMotif Technologies、ロボット基盤モデルのRLWRLD、企業向け言語モデル・文書AIのUpstageへの投資を計画。インフラから業務・ロボット用途までを対象とする。 SamsungはNVIDIAとの半導体開発協業を拡大し、特定の量子化学計算で最大5倍、AIによる材料特性予測・粗い格子・GPUを組み合わせた解析例で約1,600倍の高速化を報告した。LGは実際の製造環境でCLOiDロボットの作業を実証。Kakao MobilityはHyperionやDRIVE AGX Thorなどを用いるレベル4自動運転システムの開発を計画している。 AIM Intelligenceは、悪意ある指示や情報漏えいを検知するStarfortと、隔離実行・ポリシーに基づくアクセス制御を担うNVIDIA OpenShellの統合を進める。Hyundai Motor Groupも関連技術を検討中。LG AI Researchは、韓国の公的統計に基づく700万件の完全合成人物データなどを開発に用いたK-EXAONE-2.5のAPIアクセスを開放している。",
           "evidence_ids": [
-            "9750ec635cfe8bc9677749a6",
-            "7c7a7d34196eaa0137522689",
-            "a08b621513938dc0d6b45ef2"
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895"
           ],
           "article_ids": [
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895",
+            "34d03e6eef15859b8b3597ab",
+            "c4b4dca5ef5a9246e95cd3b8",
             "9750ec635cfe8bc9677749a6",
             "7c7a7d34196eaa0137522689",
             "a08b621513938dc0d6b45ef2",
             "9c3d0894d5a7f84495805673",
+            "6cc7838e4a955c1c9bf04d3d",
             "fc99b333351980f80210d839",
             "a348aaa672e9f989eda593c5",
             "38be0b11dd2af3942acfd5d9",
@@ -55594,15 +56257,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 11,
-          "publisher_count": 10,
+          "count": 13,
+          "publisher_count": 12,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "c6a800edf99fd43ad8498cce",
-            "a27d8c9cf1fb24ff23cd6c4c",
-            "eb595b73034c5616e94e276c"
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
+            "c6a800edf99fd43ad8498cce"
           ],
           "article_ids": [
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
             "c6a800edf99fd43ad8498cce",
             "a27d8c9cf1fb24ff23cd6c4c",
             "eb595b73034c5616e94e276c",
@@ -55631,46 +56296,51 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 3,
-          "publisher_count": 3,
+          "count": 5,
+          "publisher_count": 4,
           "summary": "CodeRabbitは、Codexの利用とリリース工程・人の承認箇所の見直しにより、過去6カ月に同じ開発人数で約20倍のソフトウェアを出荷したと説明した。新製品CodeRabbit SecureはDaybreakとCodexモデルで脆弱性を検出・修正する。直近2週間の無料提供施策では、1万3千回の詳細スキャンで4万3千件超の脆弱性を発見したと報告している。",
           "evidence_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
-            "cb4158793db59866676478cb"
+            "e39e424c7dbe39ac5b278eb1"
           ],
           "article_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
+            "e39e424c7dbe39ac5b278eb1",
+            "d878b277a9acea0f485b0022",
             "cb4158793db59866676478cb"
           ]
         },
         {
-          "id": "tech-security",
-          "category": "tech",
-          "label": "セキュリティ・データの扱い",
+          "id": "parent-care",
+          "category": "parenting",
+          "label": "育児相談・家族のサポート",
           "words": [
-            "漏えい",
-            "セキュリティ",
-            "脆弱",
-            "攻撃",
-            "認証",
-            "個人情報"
+            "相談",
+            "支援",
+            "サポート",
+            "助産",
+            "医師",
+            "メンタル",
+            "悩み"
           ],
-          "insight": "サービスの検討では、便利さと同時に収集するデータの種類や保存先を確認したい。",
-          "question": "育児サービスに応用する場合、家族の情報を必要以上に集めない設計を検討したい。",
-          "count": 1,
-          "publisher_count": 1,
+          "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
+          "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
+          "count": 2,
+          "publisher_count": 2,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "7bb603c9ea93e91f8e3b634a"
+            "6dc61269d768b309019b3e93",
+            "85543b1347b66a1bda09d0ec"
           ],
           "article_ids": [
-            "7bb603c9ea93e91f8e3b634a"
+            "6dc61269d768b309019b3e93",
+            "85543b1347b66a1bda09d0ec"
           ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
@@ -55711,15 +56381,34 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "76d7c0b75336133ddf40b958",
+        "f68b5244e2a6b15f5db122af",
+        "50e6aa6dc60b6b8ea25f3d60",
+        "0a0cb8df6e9a8d3c2297809e",
+        "2d8b26ffcfefb9402fd02282",
+        "6dc61269d768b309019b3e93",
+        "64903b94eb046d96c6b37895",
+        "3c47d7f093b8a397ff689bc0",
+        "85543b1347b66a1bda09d0ec",
+        "34d03e6eef15859b8b3597ab",
+        "1fb46402b95dfe0017d1a3ec",
+        "68a8de7e09a0772211069348",
+        "28ec87d92bb7fa93a1e259aa",
+        "8fce21e355d635e975574b49",
+        "84f16d542e649727716f1642",
+        "c4b4dca5ef5a9246e95cd3b8",
         "c6a800edf99fd43ad8498cce",
-        "9750ec635cfe8bc9677749a6",
         "cad5d8ab7a86543c03d6d98f",
+        "9750ec635cfe8bc9677749a6",
+        "49503fa61a4a76b1725f12e0",
         "7c7a7d34196eaa0137522689",
         "a27d8c9cf1fb24ff23cd6c4c",
         "945880c185f09bf0499e631e",
+        "bf9550f25dfa98cb7f116fea",
         "a08b621513938dc0d6b45ef2",
         "9c3d0894d5a7f84495805673",
         "aaa1a21ac4559d357d6327a6",
+        "6cc7838e4a955c1c9bf04d3d",
         "7bb603c9ea93e91f8e3b634a",
         "fc99b333351980f80210d839",
         "a4a9d7fa604641d11be3517d",
@@ -55728,11 +56417,15 @@
         "532b33c4d0b7bcb267a64ed7",
         "ca91c951b6ebc17ad06d390c",
         "38be0b11dd2af3942acfd5d9",
+        "2f44797a1630fbabed6b41ef",
+        "a407414753ccf6f1e6730f71",
         "abfcb7c18f2576c2c681d0e2",
+        "e39e424c7dbe39ac5b278eb1",
         "b47fea894539e1ed45141422",
         "cdd8e752c0ff7a6a848fb59f",
         "ab26d04cd608f0d7482590c7",
         "c9dd560078a41ae1c464a889",
+        "d878b277a9acea0f485b0022",
         "71a61631787214dc5de3176c",
         "cb4158793db59866676478cb",
         "3655aad2237a0032ea719f10",
@@ -55754,23 +56447,23 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-10T07:04:56.248489+09:00",
+      "generated_at": "2026-11-10T12:21:38.698433+09:00",
       "is_complete": false,
-      "article_count": 334,
+      "article_count": 358,
       "category_counts": {
-        "parenting": 87,
-        "tech": 89,
-        "ai": 158
+        "ai": 172,
+        "parenting": 91,
+        "tech": 95
       },
       "overview": "ChatGPT EnterpriseはAWS Marketplaceで提供を開始し、適格企業は既存のAWS請求や利用コミットメントを活用できる。空研工業は図番や画像から候補図面を提示するシステムで探索時間を約1時間から4.5分に短縮したと報告したが、候補は技術者が確認する。図面の不一致検出は試作検証段階にある。 Samsungは特定の半導体解析で高速化を報告したが、約1,600倍の事例には格子変更も含まれる。LGは製造現場でロボット作業を実証し、Kakao Mobilityはレベル4自動運転の開発を計画している。AIM Intelligenceによる脅威検知とOpenShellの隔離実行・アクセス制御の統合は進行中で、防御性能の検証結果は示されていない。 Google Classroomは、教師が課題を割り当てて学習状況を把握できるGuided Learningの世界展開を開始した。大学生を対象とした半日の統計学試験では利用群の得点上昇が8.1ポイント、比較群が5.3ポイントだった。初等・中等教育用アカウントの管理方針更新も発表されたが、具体的な変更内容は資料にない。初期読解支援などへの助成は開発・試行の支援で、対象年齢や提供時期は不明である。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+        "attempted_at": "2026-11-10T03:21:38.467023+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 0,
         "updated_periods": [
           "overview",
           "weekly",
@@ -55779,6 +56472,10 @@
         "errors": [
           {
             "article_id": "945880c185f09bf0499e631e",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "bf9550f25dfa98cb7f116fea",
             "stage": "original_fetch"
           },
           {
@@ -55803,7 +56500,7 @@
           ],
           "last_success_at": "2026-11-09T22:02:45.918342+00:00"
         },
-        "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+        "last_success_at": "2026-11-10T03:21:38.467023+00:00"
       },
       "genre_briefs": [
         {
@@ -56002,19 +56699,30 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 130,
-          "publisher_count": 39,
+          "count": 141,
+          "publisher_count": 40,
           "summary": "OpenAIはChatGPT EnterpriseをAWS Marketplaceで提供開始した。企業は既存のAWSの購買・請求関係を使って契約・管理でき、対象支出はAWSの利用コミットメントに充当できる。モデルや機能はOpenAIとの直接契約と同じで、新機能も同時に提供する。医療・金融向け製品も適格顧客が購入できる。 空研工業はRecursiveと、OpenAI APIを使って70年分の図面を探すシステムと現場用アプリを開発した。図番・部品番号の入力や画像・PDFの取り込みで候補図面を提示し、探索時間を約1時間から4.5分に短縮したと報告。年間の探索工数90％削減は予測値で、協力会社の図面と仕様の不一致を検出する別機能は試作検証段階にある。",
           "evidence_ids": [
-            "cad5d8ab7a86543c03d6d98f",
-            "aaa1a21ac4559d357d6327a6",
-            "f2ee25289a2d69c5aa089895"
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec"
           ],
           "article_ids": [
+            "76d7c0b75336133ddf40b958",
+            "f68b5244e2a6b15f5db122af",
+            "1fb46402b95dfe0017d1a3ec",
+            "68a8de7e09a0772211069348",
+            "28ec87d92bb7fa93a1e259aa",
+            "8fce21e355d635e975574b49",
+            "84f16d542e649727716f1642",
             "cad5d8ab7a86543c03d6d98f",
+            "49503fa61a4a76b1725f12e0",
             "945880c185f09bf0499e631e",
+            "bf9550f25dfa98cb7f116fea",
             "aaa1a21ac4559d357d6327a6",
             "ca91c951b6ebc17ad06d390c",
+            "2f44797a1630fbabed6b41ef",
+            "a407414753ccf6f1e6730f71",
             "f2ee25289a2d69c5aa089895",
             "b62cb6668b68bfc9159ffe1f",
             "ccbdd2d7700309df14ff7981",
@@ -56150,19 +56858,25 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 85,
-          "publisher_count": 48,
+          "count": 91,
+          "publisher_count": 50,
           "summary": "NVIDIAは韓国科学技術情報通信部とのフォーラムで、AI設備のチップ・ラック間を無線周波数方式で接続するPoint2への投資を発表した。さらに、AIエージェント向け基盤モデルのMotif Technologies、ロボット基盤モデルのRLWRLD、企業向け言語モデル・文書AIのUpstageへの投資を計画。インフラから業務・ロボット用途までを対象とする。 SamsungはNVIDIAとの半導体開発協業を拡大し、特定の量子化学計算で最大5倍、AIによる材料特性予測・粗い格子・GPUを組み合わせた解析例で約1,600倍の高速化を報告した。LGは実際の製造環境でCLOiDロボットの作業を実証。Kakao MobilityはHyperionやDRIVE AGX Thorなどを用いるレベル4自動運転システムの開発を計画している。 AIM Intelligenceは、悪意ある指示や情報漏えいを検知するStarfortと、隔離実行・ポリシーに基づくアクセス制御を担うNVIDIA OpenShellの統合を進める。Hyundai Motor Groupも関連技術を検討中。LG AI Researchは、韓国の公的統計に基づく700万件の完全合成人物データなどを開発に用いたK-EXAONE-2.5のAPIアクセスを開放している。",
           "evidence_ids": [
-            "9750ec635cfe8bc9677749a6",
-            "7c7a7d34196eaa0137522689",
-            "a08b621513938dc0d6b45ef2"
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895"
           ],
           "article_ids": [
+            "0a0cb8df6e9a8d3c2297809e",
+            "2d8b26ffcfefb9402fd02282",
+            "64903b94eb046d96c6b37895",
+            "34d03e6eef15859b8b3597ab",
+            "c4b4dca5ef5a9246e95cd3b8",
             "9750ec635cfe8bc9677749a6",
             "7c7a7d34196eaa0137522689",
             "a08b621513938dc0d6b45ef2",
             "9c3d0894d5a7f84495805673",
+            "6cc7838e4a955c1c9bf04d3d",
             "fc99b333351980f80210d839",
             "a348aaa672e9f989eda593c5",
             "38be0b11dd2af3942acfd5d9",
@@ -56253,15 +56967,17 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 87,
-          "publisher_count": 49,
+          "count": 89,
+          "publisher_count": 51,
           "summary": "Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。 Googleは教育向け製品群の更新として、Guided LearningのGoogle Classroomでの世界展開と、Google検索への同機能の導入を発表した。また、初等・中等教育の児童生徒用アカウントについて、Gemini、Gemini Notebook、Gemini in Classroom、Google検索の管理方法を更新すると説明。教育者向けAI研修の拡大や研究、助成も一連の発表に含めた。",
           "evidence_ids": [
-            "c6a800edf99fd43ad8498cce",
-            "a27d8c9cf1fb24ff23cd6c4c",
-            "eb595b73034c5616e94e276c"
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
+            "c6a800edf99fd43ad8498cce"
           ],
           "article_ids": [
+            "50e6aa6dc60b6b8ea25f3d60",
+            "3c47d7f093b8a397ff689bc0",
             "c6a800edf99fd43ad8498cce",
             "a27d8c9cf1fb24ff23cd6c4c",
             "eb595b73034c5616e94e276c",
@@ -56366,17 +57082,19 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 28,
-          "publisher_count": 20,
+          "count": 31,
+          "publisher_count": 21,
           "summary": "CodeRabbitは、Codexの利用とリリース工程・人の承認箇所の見直しにより、過去6カ月に同じ開発人数で約20倍のソフトウェアを出荷したと説明した。新製品CodeRabbit SecureはDaybreakとCodexモデルで脆弱性を検出・修正する。直近2週間の無料提供施策では、1万3千回の詳細スキャンで4万3千件超の脆弱性を発見したと報告している。",
           "evidence_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
-            "cb4158793db59866676478cb"
+            "e39e424c7dbe39ac5b278eb1"
           ],
           "article_ids": [
             "a4a9d7fa604641d11be3517d",
             "532b33c4d0b7bcb267a64ed7",
+            "e39e424c7dbe39ac5b278eb1",
+            "d878b277a9acea0f485b0022",
             "cb4158793db59866676478cb",
             "75d10ff378865a0ab380f33f",
             "27501dbcf74681cf612656da",
@@ -56387,6 +57105,7 @@
             "716dbc2817426bfca0266458",
             "55796f5d33eea9e47f5a7706",
             "becc23512e6adc0a640ab61b",
+            "69f7645866fb285035bf67e5",
             "c13aabaaff19bb57bccb0eed",
             "2d74012b20661e371118d081",
             "8cd97509142723cd48ed14a4",
@@ -56435,7 +57154,7 @@
           ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
@@ -56490,15 +57209,34 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "76d7c0b75336133ddf40b958",
+        "f68b5244e2a6b15f5db122af",
+        "50e6aa6dc60b6b8ea25f3d60",
+        "0a0cb8df6e9a8d3c2297809e",
+        "2d8b26ffcfefb9402fd02282",
+        "6dc61269d768b309019b3e93",
+        "64903b94eb046d96c6b37895",
+        "3c47d7f093b8a397ff689bc0",
+        "85543b1347b66a1bda09d0ec",
+        "34d03e6eef15859b8b3597ab",
+        "1fb46402b95dfe0017d1a3ec",
+        "68a8de7e09a0772211069348",
+        "28ec87d92bb7fa93a1e259aa",
+        "8fce21e355d635e975574b49",
+        "84f16d542e649727716f1642",
+        "c4b4dca5ef5a9246e95cd3b8",
         "c6a800edf99fd43ad8498cce",
-        "9750ec635cfe8bc9677749a6",
         "cad5d8ab7a86543c03d6d98f",
+        "9750ec635cfe8bc9677749a6",
+        "49503fa61a4a76b1725f12e0",
         "7c7a7d34196eaa0137522689",
         "a27d8c9cf1fb24ff23cd6c4c",
         "945880c185f09bf0499e631e",
+        "bf9550f25dfa98cb7f116fea",
         "a08b621513938dc0d6b45ef2",
         "9c3d0894d5a7f84495805673",
         "aaa1a21ac4559d357d6327a6",
+        "6cc7838e4a955c1c9bf04d3d",
         "7bb603c9ea93e91f8e3b634a",
         "fc99b333351980f80210d839",
         "a4a9d7fa604641d11be3517d",
@@ -56507,11 +57245,15 @@
         "532b33c4d0b7bcb267a64ed7",
         "ca91c951b6ebc17ad06d390c",
         "38be0b11dd2af3942acfd5d9",
+        "2f44797a1630fbabed6b41ef",
+        "a407414753ccf6f1e6730f71",
         "abfcb7c18f2576c2c681d0e2",
+        "e39e424c7dbe39ac5b278eb1",
         "b47fea894539e1ed45141422",
         "cdd8e752c0ff7a6a848fb59f",
         "ab26d04cd608f0d7482590c7",
         "c9dd560078a41ae1c464a889",
+        "d878b277a9acea0f485b0022",
         "71a61631787214dc5de3176c",
         "cb4158793db59866676478cb",
         "3655aad2237a0032ea719f10",
@@ -56626,6 +57368,7 @@
         "4c5fcb58f8fe64eaba328efa",
         "c0f69bf69979c9e6b91a4e33",
         "08c92b48f9c124b67e5b1daf",
+        "69f7645866fb285035bf67e5",
         "1547c694ff5ed82dc3dd601b",
         "1b9990852d66382e4c0516b9",
         "49de63f8152317ab30e22300",
@@ -56827,13 +57570,13 @@
       ]
     }
   },
-  "report_updated_at": "2026-11-10T07:04:56.248489+09:00",
+  "report_updated_at": "2026-11-10T12:21:38.698433+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-09T22:04:55.945898+00:00",
+    "attempted_at": "2026-11-10T03:21:38.467023+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 2,
+    "new_reviews": 0,
     "updated_periods": [
       "overview",
       "weekly",
@@ -56842,6 +57585,10 @@
     "errors": [
       {
         "article_id": "945880c185f09bf0499e631e",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "bf9550f25dfa98cb7f116fea",
         "stage": "original_fetch"
       },
       {
@@ -56866,7 +57613,7 @@
       ],
       "last_success_at": "2026-11-09T22:02:45.918342+00:00"
     },
-    "last_success_at": "2026-11-09T22:04:55.945898+00:00"
+    "last_success_at": "2026-11-10T03:21:38.467023+00:00"
   },
   "topic_definitions": [
     {
@@ -57382,11 +58129,11 @@
     ]
   },
   "picks": [
-    "cad5d8ab7a86543c03d6d98f",
-    "945880c185f09bf0499e631e",
-    "9750ec635cfe8bc9677749a6",
-    "7c7a7d34196eaa0137522689",
-    "c6a800edf99fd43ad8498cce",
-    "a27d8c9cf1fb24ff23cd6c4c"
+    "76d7c0b75336133ddf40b958",
+    "f68b5244e2a6b15f5db122af",
+    "0a0cb8df6e9a8d3c2297809e",
+    "2d8b26ffcfefb9402fd02282",
+    "50e6aa6dc60b6b8ea25f3d60",
+    "6dc61269d768b309019b3e93"
   ]
 }
