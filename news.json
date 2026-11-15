@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-14T21:01:38.673387Z",
-  "last_attempt_at": "2026-11-14T21:01:38.673387Z",
+  "updated_at": "2026-11-15T00:55:19.415214Z",
+  "last_attempt_at": "2026-11-15T00:55:19.415214Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 46,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-14T21:01:38.673387Z",
+      "checked_at": "2026-11-15T00:55:19.415214Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-15T00:55:19.415214Z",
+      "new_count": 6,
+      "status": "partial"
+    },
     {
       "at": "2026-11-14T21:01:38.673387Z",
       "new_count": 0,
@@ -863,6 +868,24 @@
   ],
   "articles": [
     {
+      "id": "32002f9fd2875a739db16df6",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini×勉強術：毎日20時に問題をつくって送ってもらおう（ライフハッカー・ジャパン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tMlN1dkdDaHN1bjhqSm5yNF9XS2d1Tm1qVUtvc19fZDNJMmpIc3NicFk3RmdXT1REcGd1cG9LZXQ2bnRLcVNNX0I5S1hSS0Z2Y0hxN0FVZnJ5bDRkbXkyMHI4NTBFU3p4U0IwaUp5ZV9Qb3IwUVVkT25rYjhCLWs?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Gemini×勉強術：毎日20時に問題をつくって送ってもらおう（ライフハッカー・ジャパン） Yahoo!ニュース",
+      "published_at": "2026-11-14T22:09:25Z",
+      "collected_at": "2026-11-15T00:55:19.415214Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "ed75f327eab0c377ad35416f",
       "category": "parenting",
       "source_id": "parenting",
@@ -888,31 +911,13 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zRTdXRnVKT1JsNzV4c2lpOEt1WDJMQUp4VXdlbW00VVluM0kzZWpDWHdJV3dkeUEwWTRha3NQcW84R0pIcVZFRjJkaF9KWFZxeVdrZkJzaWxwYnZybWRRZ1VJbmZxeTBmbVdrVHBPd2ktQlJw?oc=5",
       "publisher": "BigGo ファイナンス",
       "summary": "エヌビディア決算とAnthropic上場、AI株の試金石となる11月18日 BigGo ファイナンス",
-      "published_at": "2026-11-14T10:27:57Z",
+      "published_at": "2026-11-14T10:25:00Z",
       "collected_at": "2026-11-14T21:00:06.902440Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
-    },
-    {
-      "id": "3e95505f3f8c368a05732fdc",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "AI時代の新人教育 18社の試行錯誤 - 日経クロステック",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5",
-      "publisher": "日経クロステック",
-      "summary": "AI時代の新人教育 18社の試行錯誤 日経クロステック",
-      "published_at": "2026-11-14T09:35:35Z",
-      "collected_at": "2026-11-02T21:00:07.032860Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
     },
     {
       "id": "e3212194093855c2ee87362d",
@@ -994,6 +999,24 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "3e95505f3f8c368a05732fdc",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI時代の新人教育 18社の試行錯誤 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMmFDY3NnRVpfTTNuYXlzYmNOOWM0THhuVWpmeDZFV3BDVFU2OXVDTlNVYUNnMDZzYzdTTjlYZWJXNldMUzdqc0EtckFjMzhVOEFOUHctS29XRWVvZkdR?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "AI時代の新人教育 18社の試行錯誤 日経クロステック",
+      "published_at": "2026-11-13T22:12:46Z",
+      "collected_at": "2026-11-02T21:00:07.032860Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -1331,6 +1354,24 @@
       "theme_ids": []
     },
     {
+      "id": "11cb13dd4168b9a6e9fee1e8",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "【ChatGPT/Gemini/Claudeほか】主要なLLMの違いは？性能・料金・日本語で比較する選び方と使い分け【2026年版】 - AI新聞 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PR1E5SF9BYnFlTnlFbFZUTV9KWFlGRXZmVXBkTkxnMkF0bUUwbXNzT3VlVDZIN2VyUmdXZ2J5Rl93dkxVeUdhUmx2cm5LYzZ0UE0yMWN1TDR3dWZidTF5djVCNzBURDVNOFdRREpuTm1weUNlYko3dmdaSnFneEE?oc=5",
+      "publisher": "株式会社エクサウィザーズ",
+      "summary": "【ChatGPT/Gemini/Claudeほか】主要なLLMの違いは？性能・料金・日本語で比較する選び方と使い分け【2026年版】 - AI新聞 株式会社エクサウィザーズ",
+      "published_at": "2026-11-13T08:00:00Z",
+      "collected_at": "2026-11-15T00:55:19.415214Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "4423923cebd417cf2df2e9ef",
       "category": "tech",
       "source_id": "tech",
@@ -1542,6 +1583,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "031027036399adf80ace8e68",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "グーグル「Gemini 4 Hydrogen」公開、3.8 Flash比でタスク完了速度2.5倍に（あたらしい経済） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjM1dyOUx4cS1LaGFpNjU4Q2hpZk5ocWV3cW9DZUZRUVVjbUt0cE5OUUgzd0hySGFUcnc2QmZDTFkybl9rZi1ySXh4NUdudm9YWHlsSlltekQtaFBiMUJwbFhadTlET2J2cUp2UGVOQ05wdWNLSXdzV3czcVptOGc?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "グーグル「Gemini 4 Hydrogen」公開、3.8 Flash比でタスク完了速度2.5倍に（あたらしい経済） Yahoo!ニュース",
+      "published_at": "2026-11-13T02:44:16Z",
+      "collected_at": "2026-11-15T00:55:19.415214Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1892,7 +1951,7 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE80eVVZTzluS0RtdUpKSWF4ZjdXZ1djZl9FZldFWGREVkRLdGlwNnpOdXhLTzJuZW1JcVczbFlKOUE2ZmZ1LVV2Zi1iNk9iSno2cHFfRTh5SldmcHgxdU5KckFIbXpSZThfUkkyM0JsRWt3YWhf?oc=5",
       "publisher": "BigGo ファイナンス",
       "summary": "グーグル、「Flash」ブランドを廃止し「Gemini 4 Hydrogen」を投入－検索とエージェント向けの高速・低コストモデル BigGo ファイナンス",
-      "published_at": "2026-11-12T22:25:00Z",
+      "published_at": "2026-11-12T22:27:15Z",
       "collected_at": "2026-11-13T21:00:07.161463Z",
       "provider": null,
       "origin_kind": "media",
@@ -1940,6 +1999,24 @@
       ]
     },
     {
+      "id": "4f8ae060a2f2c39af1fe97e2",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "再学習なしで正答率6倍 マサチューセッツ工科大学が実証した「AIがAIを直接直す」新手法（1/4 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZdlJaUElmM3pCVmJEa1Q2T19tSk9TaWtjR1R0WkNNME5vM2tLN1l1OTJnR3pHTHlGdmdBQ3phZTRYLV9JRmFWc3F5TGdhbC1QdlJaMEo0anlZWWhiTzBGUEpvSFNTNkxzYTAzdTc2VHlaZw?oc=5",
+      "publisher": "ITmedia",
+      "summary": "再学習なしで正答率6倍 マサチューセッツ工科大学が実証した「AIがAIを直接直す」新手法（1/4 ページ） ITmedia",
+      "published_at": "2026-11-12T22:00:00Z",
+      "collected_at": "2026-11-15T00:55:19.415214Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "972008a528e79fd43fead645",
       "category": "parenting",
       "source_id": "parenting",
@@ -1967,6 +2044,24 @@
       "summary": "AIは子どもの学力を伸ばすのか？「デジタル国家」エストニアで検証！答えを教えないAI先生が導く未来の教育のカタチ【news23】 TBS NEWS DIG",
       "published_at": "2026-11-12T21:00:00Z",
       "collected_at": "2026-11-13T01:44:05.288392Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "8ed51f62d6caf095fa7194cd",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "デジタル vs 紙の教科書 学習効率に違いは？脳波と視線を測定して見えた“意外な”結果とは【THE TIME,】【追っかけTIME】 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5INlRPUHdQaWkwZDVTa25kNWJLTm92dnlfWkRpV21RU2F2MzRUYnBoSWRJeC03RXpoMjF4dWVFY2JyRXJ2YlRPVV90RWRFdGtncWFuTEFlaw?oc=5",
+      "publisher": "TBS NEWS DIG",
+      "summary": "デジタル vs 紙の教科書 学習効率に違いは？脳波と視線を測定して見えた“意外な”結果とは【THE TIME,】【追っかけTIME】 TBS NEWS DIG",
+      "published_at": "2026-11-12T21:00:00Z",
+      "collected_at": "2026-11-15T00:55:19.415214Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -3131,24 +3226,6 @@
       ]
     },
     {
-      "id": "0c77e5f5b314129fc6174fa4",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "桜美林大学、近畿大学、NTTグループの4者共同でAIカメラ等による実証実験 学生の行動把握による施設評価と学修行動を検証 - Digital PR Platform",
-      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9KN3lySmxITkZrNTVYM25yamxtb09XckJsN3ZYeXZkeVlWX2daWjlSbU9odEkyb2x5clNtU2Z5d3ZpT0k?oc=5",
-      "publisher": "Digital PR Platform",
-      "summary": "桜美林大学、近畿大学、NTTグループの4者共同でAIカメラ等による実証実験 学生の行動把握による施設評価と学修行動を検証 Digital PR Platform",
-      "published_at": "2026-11-11T11:32:32Z",
-      "collected_at": "2026-11-11T22:53:43.055044Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
       "id": "59f1ac508c329b8e1f95e1be",
       "category": "tech",
       "source_id": "tech",
@@ -3182,6 +3259,24 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "0c77e5f5b314129fc6174fa4",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "桜美林大学、近畿大学、NTTグループの4者共同でAIカメラ等による実証実験 学生の行動把握による施設評価と学修行動を検証 - Digital PR Platform",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9KN3lySmxITkZrNTVYM25yamxtb09XckJsN3ZYeXZkeVlWX2daWjlSbU9odEkyb2x5clNtU2Z5d3ZpT0k?oc=5",
+      "publisher": "Digital PR Platform",
+      "summary": "桜美林大学、近畿大学、NTTグループの4者共同でAIカメラ等による実証実験 学生の行動把握による施設評価と学修行動を検証 Digital PR Platform",
+      "published_at": "2026-11-11T11:20:00Z",
+      "collected_at": "2026-11-11T22:53:43.055044Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
       ]
     },
     {
@@ -7202,6 +7297,22 @@
       "theme_ids": [
         "models"
       ]
+    },
+    {
+      "id": "58fa7dea902d27b763f8da2f",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "教員採用試験デジタルコンテンツ - 川崎市",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wN1RlQkN6QmxNS29NOFNzd1hybXJtM2dveVRyczZtRmZNRnRySUQxTFR2S2xEQ1JmNlFBbjBxb2x1VGpOVHBoUWdIOHdMX0REV1RDM2xoa3VhSTAtTzVCQjZEOA?oc=5",
+      "publisher": "川崎市",
+      "summary": "教員採用試験デジタルコンテンツ 川崎市",
+      "published_at": "2026-11-06T08:00:00Z",
+      "collected_at": "2026-11-15T00:55:19.415214Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
     },
     {
       "id": "d848a9e177e65454865dc217",
@@ -47931,12 +48042,12 @@
       "kind": "weekly",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-15T06:01:44.993054+09:00",
+      "generated_at": "2026-11-15T09:55:25.697921+09:00",
       "is_complete": false,
-      "article_count": 292,
+      "article_count": 297,
       "category_counts": {
-        "parenting": 64,
-        "ai": 162,
+        "ai": 165,
+        "parenting": 66,
         "tech": 66
       },
       "overview": "DeepSeekはdeepseek-flashのAPIで、引用付き検索、PDF・Office文書・画像入力、URL読取を提供開始した。ツール呼出しと文脈構築をサービス側が担い、開発者は思考モードやツール設定で動作を指定する。料金、実運用の精度・遅延は資料に示されていない。 NVIDIAが紹介したDyania HealthのSynapsis AIは、病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録解析を通じ、術後の弁劣化・再介入リスクの予測モデル構築を支援した。医療者が出力を確認する運用で、予測精度や一般提供条件は示されていない。 Khan Academyは中学・高校相当およびAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量やばねの振動などの変数を操作し、データ収集・分析と設問への回答を進められる。幼児・小学生向け提供、日本語対応、今回の統合による学習効果は確認できない。",
@@ -47944,7 +48055,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+        "attempted_at": "2026-11-15T00:55:25.459791+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -48008,7 +48119,7 @@
           ],
           "last_success_at": "2026-11-14T21:00:13.214848+00:00"
         },
-        "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+        "last_success_at": "2026-11-15T00:55:25.459791+00:00"
       },
       "genre_briefs": [
         {
@@ -48167,15 +48278,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 139,
+          "count": 142,
           "publisher_count": 43,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
-            "e93e7f3df0a4af37a12082dd",
             "f7fccc4f674876b69a984187"
           ],
           "article_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
             "e93e7f3df0a4af37a12082dd",
             "efe9ad1d964b7f922ed66e78",
@@ -48189,12 +48301,14 @@
             "309d3e1e9f6ac79f5ce38f32",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
+            "11cb13dd4168b9a6e9fee1e8",
             "b1cfe45b0b30b2ec242b68fe",
             "2db3ec566dc3001cc656f38b",
             "da0b1f9e71f8e8233bc36021",
             "1ba00f71b1d35cfc9a193157",
             "51b3cc7eb10d8b3f8144446a",
             "d5ec6891d897d9b544c0f495",
+            "031027036399adf80ace8e68",
             "38367d6e404e1a6fe503f339",
             "d37892ee01467d780581077e",
             "155c360886f6757f1e5cd5c1",
@@ -48406,19 +48520,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 60,
-          "publisher_count": 34,
+          "count": 62,
+          "publisher_count": 35,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。",
           "evidence_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
-            "e3212194093855c2ee87362d"
+            "e3212194093855c2ee87362d",
+            "212c3fe412517e11793f323b"
           ],
           "article_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
             "b759b56c51a00bd8fb24accb",
@@ -48431,8 +48545,10 @@
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
+            "4f8ae060a2f2c39af1fe97e2",
             "972008a528e79fd43fead645",
             "7e667be10707332eb628804f",
+            "8ed51f62d6caf095fa7194cd",
             "bea6adc24d7e5267652bd2d7",
             "d381d1011da1641c3ff0fe9a",
             "7b70cadec6bf2978282caa87",
@@ -48603,14 +48719,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
         "6b2afd69a8e3374ab63633c7",
-        "3e95505f3f8c368a05732fdc",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "e93e7f3df0a4af37a12082dd",
         "efe9ad1d964b7f922ed66e78",
         "f7fccc4f674876b69a984187",
+        "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
         "f7375c2582bf6e508b1b0975",
         "59075938f92bb3284b94bd71",
@@ -48630,6 +48747,7 @@
         "f8f2053e9d2ba43851cc027e",
         "e8724bc06d2a5c4dea01ab61",
         "073fafc6c951900c5286099b",
+        "11cb13dd4168b9a6e9fee1e8",
         "4423923cebd417cf2df2e9ef",
         "6e47809f63baab72a33ceb18",
         "1512f588f99be86241bb9996",
@@ -48641,6 +48759,7 @@
         "51b3cc7eb10d8b3f8144446a",
         "d5ec6891d897d9b544c0f495",
         "a7929ec3b08edd21ed5d9ad7",
+        "031027036399adf80ace8e68",
         "38367d6e404e1a6fe503f339",
         "d37892ee01467d780581077e",
         "155c360886f6757f1e5cd5c1",
@@ -48660,8 +48779,10 @@
         "3f632a7fafc9b93f2d2d09f7",
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
+        "4f8ae060a2f2c39af1fe97e2",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
+        "8ed51f62d6caf095fa7194cd",
         "4b07a0abf6b177a3423358a4",
         "fa4b7bdf01fbcfe0b00a0649",
         "09db6b273b5a454177b31138",
@@ -48721,9 +48842,9 @@
         "6c4386da0e47b7ad25aac48d",
         "733ef6b23ceee5a21c1e4dc4",
         "8801d0af4aa94b4d8a03e49e",
-        "0c77e5f5b314129fc6174fa4",
         "59f1ac508c329b8e1f95e1be",
         "c3aa7028f2b757c90fee7969",
+        "0c77e5f5b314129fc6174fa4",
         "60aab9595c0b15aa199ac1d8",
         "1b993b95356c310b0068e799",
         "12b855c6e49edecaf8650b72",
@@ -48902,7 +49023,7 @@
       "kind": "weekly",
       "period_start": "2026-11-02",
       "period_end": "2026-11-08",
-      "generated_at": "2026-11-15T06:01:44.993054+09:00",
+      "generated_at": "2026-11-15T09:55:25.697921+09:00",
       "is_complete": true,
       "article_count": 280,
       "category_counts": {
@@ -48915,7 +49036,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+        "attempted_at": "2026-11-15T00:55:25.459791+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -48979,7 +49100,7 @@
           ],
           "last_success_at": "2026-11-14T21:00:13.214848+00:00"
         },
-        "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+        "last_success_at": "2026-11-15T00:55:25.459791+00:00"
       },
       "genre_briefs": [
         {
@@ -49897,12 +50018,12 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-15T06:01:44.993054+09:00",
+      "generated_at": "2026-11-15T09:55:25.697921+09:00",
       "is_complete": false,
-      "article_count": 592,
+      "article_count": 597,
       "category_counts": {
-        "parenting": 140,
-        "ai": 313,
+        "ai": 316,
+        "parenting": 142,
         "tech": 139
       },
       "overview": "DeepSeekは11月13日、deepseek-flashのAPIで引用付き検索、PDF・Office文書・画像入力、URL読取を利用可能にした。ツール呼出しと文脈構築はサービス側が担い、開発者は設定を通じて利用する。検索の動作は思考モードとツール設定に依存し、料金や実運用の精度・遅延は資料に示されていない。 Dyania HealthのSynapsis AIは病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録解析を通じ、術後3・5・10年の弁劣化と再介入リスクを予測するモデル構築を支援した。医療者が出力を確認する活用事例であり、予測精度や一般提供条件は示されていない。 Khan Academyは、中学・高校相当とAPの理科記事・演習内で利用できる無料のPhETシミュレーションを提供開始した。学習者は熱容量や遺伝子発現などの変数を操作し、データ収集・分析や設問への回答を進められる。今回の統合による学習効果の測定結果、幼児・小学生向けの提供、日本語対応は資料から確認できない。",
@@ -49910,7 +50031,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+        "attempted_at": "2026-11-15T00:55:25.459791+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -49974,7 +50095,7 @@
           ],
           "last_success_at": "2026-11-14T21:00:13.214848+00:00"
         },
-        "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+        "last_success_at": "2026-11-15T00:55:25.459791+00:00"
       },
       "genre_briefs": [
         {
@@ -50171,15 +50292,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 264,
+          "count": 267,
           "publisher_count": 54,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
-            "e93e7f3df0a4af37a12082dd",
             "f7fccc4f674876b69a984187"
           ],
           "article_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
             "e93e7f3df0a4af37a12082dd",
             "efe9ad1d964b7f922ed66e78",
@@ -50193,12 +50315,14 @@
             "309d3e1e9f6ac79f5ce38f32",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
+            "11cb13dd4168b9a6e9fee1e8",
             "b1cfe45b0b30b2ec242b68fe",
             "2db3ec566dc3001cc656f38b",
             "da0b1f9e71f8e8233bc36021",
             "1ba00f71b1d35cfc9a193157",
             "51b3cc7eb10d8b3f8144446a",
             "d5ec6891d897d9b544c0f495",
+            "031027036399adf80ace8e68",
             "38367d6e404e1a6fe503f339",
             "d37892ee01467d780581077e",
             "155c360886f6757f1e5cd5c1",
@@ -50605,19 +50729,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 136,
+          "count": 138,
           "publisher_count": 67,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。",
           "evidence_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
-            "e3212194093855c2ee87362d"
+            "e3212194093855c2ee87362d",
+            "212c3fe412517e11793f323b"
           ],
           "article_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
             "b759b56c51a00bd8fb24accb",
@@ -50630,8 +50754,10 @@
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
+            "4f8ae060a2f2c39af1fe97e2",
             "972008a528e79fd43fead645",
             "7e667be10707332eb628804f",
+            "8ed51f62d6caf095fa7194cd",
             "bea6adc24d7e5267652bd2d7",
             "d381d1011da1641c3ff0fe9a",
             "7b70cadec6bf2978282caa87",
@@ -50905,14 +51031,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
         "6b2afd69a8e3374ab63633c7",
-        "3e95505f3f8c368a05732fdc",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "e93e7f3df0a4af37a12082dd",
         "efe9ad1d964b7f922ed66e78",
         "f7fccc4f674876b69a984187",
+        "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
         "f7375c2582bf6e508b1b0975",
         "59075938f92bb3284b94bd71",
@@ -50932,6 +51059,7 @@
         "f8f2053e9d2ba43851cc027e",
         "e8724bc06d2a5c4dea01ab61",
         "073fafc6c951900c5286099b",
+        "11cb13dd4168b9a6e9fee1e8",
         "4423923cebd417cf2df2e9ef",
         "6e47809f63baab72a33ceb18",
         "1512f588f99be86241bb9996",
@@ -50943,6 +51071,7 @@
         "51b3cc7eb10d8b3f8144446a",
         "d5ec6891d897d9b544c0f495",
         "a7929ec3b08edd21ed5d9ad7",
+        "031027036399adf80ace8e68",
         "38367d6e404e1a6fe503f339",
         "d37892ee01467d780581077e",
         "155c360886f6757f1e5cd5c1",
@@ -50962,8 +51091,10 @@
         "3f632a7fafc9b93f2d2d09f7",
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
+        "4f8ae060a2f2c39af1fe97e2",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
+        "8ed51f62d6caf095fa7194cd",
         "4b07a0abf6b177a3423358a4",
         "fa4b7bdf01fbcfe0b00a0649",
         "09db6b273b5a454177b31138",
@@ -51023,9 +51154,9 @@
         "6c4386da0e47b7ad25aac48d",
         "733ef6b23ceee5a21c1e4dc4",
         "8801d0af4aa94b4d8a03e49e",
-        "0c77e5f5b314129fc6174fa4",
         "59f1ac508c329b8e1f95e1be",
         "c3aa7028f2b757c90fee7969",
+        "0c77e5f5b314129fc6174fa4",
         "60aab9595c0b15aa199ac1d8",
         "1b993b95356c310b0068e799",
         "12b855c6e49edecaf8650b72",
@@ -55044,7 +55175,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-15T06:01:44.993054+09:00",
+      "generated_at": "2026-11-15T09:55:25.697921+09:00",
       "is_complete": true,
       "article_count": 1121,
       "category_counts": {
@@ -55057,7 +55188,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+        "attempted_at": "2026-11-15T00:55:25.459791+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -55121,7 +55252,7 @@
           ],
           "last_success_at": "2026-11-14T21:00:13.214848+00:00"
         },
-        "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+        "last_success_at": "2026-11-15T00:55:25.459791+00:00"
       },
       "genre_briefs": [
         {
@@ -60651,12 +60782,12 @@
       "kind": "overview",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-15T06:01:44.993054+09:00",
+      "generated_at": "2026-11-15T09:55:25.697921+09:00",
       "is_complete": false,
-      "article_count": 292,
+      "article_count": 297,
       "category_counts": {
-        "parenting": 64,
-        "ai": 162,
+        "ai": 165,
+        "parenting": 66,
         "tech": 66
       },
       "overview": "DeepSeekは開発者向けに、引用付き検索、PDF・Office文書・画像入力、URL読取をAPIで提供開始した。ツール呼出しと文脈構築はサービス側が担い、検索動作は思考モードと設定に依存する。 DyaniaのSynapsis AIは病院内のGPUサーバーで診療記録を横断解析し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録から、術後3・5・10年の弁劣化と再介入リスクを予測するモデル構築を支援した。医療者が出力を確認する活用事例で、一般提供条件や予測精度は示されていない。 Khan Academyは中学・高校相当とAPの理科記事・演習に、無料のPhETシミュレーションを提供開始した。学習者は熱容量や遺伝子発現などの変数を操作し、データ収集・分析と設問回答を進められる。幼児・小学生向け提供や日本語対応は確認されていない。",
@@ -60664,7 +60795,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+        "attempted_at": "2026-11-15T00:55:25.459791+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -60728,7 +60859,7 @@
           ],
           "last_success_at": "2026-11-14T21:00:13.214848+00:00"
         },
-        "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+        "last_success_at": "2026-11-15T00:55:25.459791+00:00"
       },
       "genre_briefs": [
         {
@@ -60887,15 +61018,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 139,
+          "count": 142,
           "publisher_count": 43,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
-            "e93e7f3df0a4af37a12082dd",
             "f7fccc4f674876b69a984187"
           ],
           "article_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
             "e93e7f3df0a4af37a12082dd",
             "efe9ad1d964b7f922ed66e78",
@@ -60909,12 +61041,14 @@
             "309d3e1e9f6ac79f5ce38f32",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
+            "11cb13dd4168b9a6e9fee1e8",
             "b1cfe45b0b30b2ec242b68fe",
             "2db3ec566dc3001cc656f38b",
             "da0b1f9e71f8e8233bc36021",
             "1ba00f71b1d35cfc9a193157",
             "51b3cc7eb10d8b3f8144446a",
             "d5ec6891d897d9b544c0f495",
+            "031027036399adf80ace8e68",
             "38367d6e404e1a6fe503f339",
             "d37892ee01467d780581077e",
             "155c360886f6757f1e5cd5c1",
@@ -61126,19 +61260,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 60,
-          "publisher_count": 34,
+          "count": 62,
+          "publisher_count": 35,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。",
           "evidence_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
-            "e3212194093855c2ee87362d"
+            "e3212194093855c2ee87362d",
+            "212c3fe412517e11793f323b"
           ],
           "article_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
             "b759b56c51a00bd8fb24accb",
@@ -61151,8 +61285,10 @@
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
+            "4f8ae060a2f2c39af1fe97e2",
             "972008a528e79fd43fead645",
             "7e667be10707332eb628804f",
+            "8ed51f62d6caf095fa7194cd",
             "bea6adc24d7e5267652bd2d7",
             "d381d1011da1641c3ff0fe9a",
             "7b70cadec6bf2978282caa87",
@@ -61323,14 +61459,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
         "6b2afd69a8e3374ab63633c7",
-        "3e95505f3f8c368a05732fdc",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "e93e7f3df0a4af37a12082dd",
         "efe9ad1d964b7f922ed66e78",
         "f7fccc4f674876b69a984187",
+        "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
         "f7375c2582bf6e508b1b0975",
         "59075938f92bb3284b94bd71",
@@ -61350,6 +61487,7 @@
         "f8f2053e9d2ba43851cc027e",
         "e8724bc06d2a5c4dea01ab61",
         "073fafc6c951900c5286099b",
+        "11cb13dd4168b9a6e9fee1e8",
         "4423923cebd417cf2df2e9ef",
         "6e47809f63baab72a33ceb18",
         "1512f588f99be86241bb9996",
@@ -61361,6 +61499,7 @@
         "51b3cc7eb10d8b3f8144446a",
         "d5ec6891d897d9b544c0f495",
         "a7929ec3b08edd21ed5d9ad7",
+        "031027036399adf80ace8e68",
         "38367d6e404e1a6fe503f339",
         "d37892ee01467d780581077e",
         "155c360886f6757f1e5cd5c1",
@@ -61380,8 +61519,10 @@
         "3f632a7fafc9b93f2d2d09f7",
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
+        "4f8ae060a2f2c39af1fe97e2",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
+        "8ed51f62d6caf095fa7194cd",
         "4b07a0abf6b177a3423358a4",
         "fa4b7bdf01fbcfe0b00a0649",
         "09db6b273b5a454177b31138",
@@ -61441,9 +61582,9 @@
         "6c4386da0e47b7ad25aac48d",
         "733ef6b23ceee5a21c1e4dc4",
         "8801d0af4aa94b4d8a03e49e",
-        "0c77e5f5b314129fc6174fa4",
         "59f1ac508c329b8e1f95e1be",
         "c3aa7028f2b757c90fee7969",
+        "0c77e5f5b314129fc6174fa4",
         "60aab9595c0b15aa199ac1d8",
         "1b993b95356c310b0068e799",
         "12b855c6e49edecaf8650b72",
@@ -61622,12 +61763,12 @@
       "kind": "weekly",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-15T06:01:44.993054+09:00",
+      "generated_at": "2026-11-15T09:55:25.697921+09:00",
       "is_complete": false,
-      "article_count": 292,
+      "article_count": 297,
       "category_counts": {
-        "parenting": 64,
-        "ai": 162,
+        "ai": 165,
+        "parenting": 66,
         "tech": 66
       },
       "overview": "DeepSeekはdeepseek-flashのAPIで、引用付き検索、PDF・Office文書・画像入力、URL読取を提供開始した。ツール呼出しと文脈構築をサービス側が担い、開発者は思考モードやツール設定で動作を指定する。料金、実運用の精度・遅延は資料に示されていない。 NVIDIAが紹介したDyania HealthのSynapsis AIは、病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録解析を通じ、術後の弁劣化・再介入リスクの予測モデル構築を支援した。医療者が出力を確認する運用で、予測精度や一般提供条件は示されていない。 Khan Academyは中学・高校相当およびAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量やばねの振動などの変数を操作し、データ収集・分析と設問への回答を進められる。幼児・小学生向け提供、日本語対応、今回の統合による学習効果は確認できない。",
@@ -61635,7 +61776,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+        "attempted_at": "2026-11-15T00:55:25.459791+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -61699,7 +61840,7 @@
           ],
           "last_success_at": "2026-11-14T21:00:13.214848+00:00"
         },
-        "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+        "last_success_at": "2026-11-15T00:55:25.459791+00:00"
       },
       "genre_briefs": [
         {
@@ -61858,15 +61999,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 139,
+          "count": 142,
           "publisher_count": 43,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
-            "e93e7f3df0a4af37a12082dd",
             "f7fccc4f674876b69a984187"
           ],
           "article_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
             "e93e7f3df0a4af37a12082dd",
             "efe9ad1d964b7f922ed66e78",
@@ -61880,12 +62022,14 @@
             "309d3e1e9f6ac79f5ce38f32",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
+            "11cb13dd4168b9a6e9fee1e8",
             "b1cfe45b0b30b2ec242b68fe",
             "2db3ec566dc3001cc656f38b",
             "da0b1f9e71f8e8233bc36021",
             "1ba00f71b1d35cfc9a193157",
             "51b3cc7eb10d8b3f8144446a",
             "d5ec6891d897d9b544c0f495",
+            "031027036399adf80ace8e68",
             "38367d6e404e1a6fe503f339",
             "d37892ee01467d780581077e",
             "155c360886f6757f1e5cd5c1",
@@ -62097,19 +62241,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 60,
-          "publisher_count": 34,
+          "count": 62,
+          "publisher_count": 35,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。",
           "evidence_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
-            "e3212194093855c2ee87362d"
+            "e3212194093855c2ee87362d",
+            "212c3fe412517e11793f323b"
           ],
           "article_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
             "b759b56c51a00bd8fb24accb",
@@ -62122,8 +62266,10 @@
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
+            "4f8ae060a2f2c39af1fe97e2",
             "972008a528e79fd43fead645",
             "7e667be10707332eb628804f",
+            "8ed51f62d6caf095fa7194cd",
             "bea6adc24d7e5267652bd2d7",
             "d381d1011da1641c3ff0fe9a",
             "7b70cadec6bf2978282caa87",
@@ -62294,14 +62440,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
         "6b2afd69a8e3374ab63633c7",
-        "3e95505f3f8c368a05732fdc",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "e93e7f3df0a4af37a12082dd",
         "efe9ad1d964b7f922ed66e78",
         "f7fccc4f674876b69a984187",
+        "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
         "f7375c2582bf6e508b1b0975",
         "59075938f92bb3284b94bd71",
@@ -62321,6 +62468,7 @@
         "f8f2053e9d2ba43851cc027e",
         "e8724bc06d2a5c4dea01ab61",
         "073fafc6c951900c5286099b",
+        "11cb13dd4168b9a6e9fee1e8",
         "4423923cebd417cf2df2e9ef",
         "6e47809f63baab72a33ceb18",
         "1512f588f99be86241bb9996",
@@ -62332,6 +62480,7 @@
         "51b3cc7eb10d8b3f8144446a",
         "d5ec6891d897d9b544c0f495",
         "a7929ec3b08edd21ed5d9ad7",
+        "031027036399adf80ace8e68",
         "38367d6e404e1a6fe503f339",
         "d37892ee01467d780581077e",
         "155c360886f6757f1e5cd5c1",
@@ -62351,8 +62500,10 @@
         "3f632a7fafc9b93f2d2d09f7",
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
+        "4f8ae060a2f2c39af1fe97e2",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
+        "8ed51f62d6caf095fa7194cd",
         "4b07a0abf6b177a3423358a4",
         "fa4b7bdf01fbcfe0b00a0649",
         "09db6b273b5a454177b31138",
@@ -62412,9 +62563,9 @@
         "6c4386da0e47b7ad25aac48d",
         "733ef6b23ceee5a21c1e4dc4",
         "8801d0af4aa94b4d8a03e49e",
-        "0c77e5f5b314129fc6174fa4",
         "59f1ac508c329b8e1f95e1be",
         "c3aa7028f2b757c90fee7969",
+        "0c77e5f5b314129fc6174fa4",
         "60aab9595c0b15aa199ac1d8",
         "1b993b95356c310b0068e799",
         "12b855c6e49edecaf8650b72",
@@ -62593,12 +62744,12 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-15T06:01:44.993054+09:00",
+      "generated_at": "2026-11-15T09:55:25.697921+09:00",
       "is_complete": false,
-      "article_count": 592,
+      "article_count": 597,
       "category_counts": {
-        "parenting": 140,
-        "ai": 313,
+        "ai": 316,
+        "parenting": 142,
         "tech": 139
       },
       "overview": "DeepSeekは11月13日、deepseek-flashのAPIで引用付き検索、PDF・Office文書・画像入力、URL読取を利用可能にした。ツール呼出しと文脈構築はサービス側が担い、開発者は設定を通じて利用する。検索の動作は思考モードとツール設定に依存し、料金や実運用の精度・遅延は資料に示されていない。 Dyania HealthのSynapsis AIは病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録解析を通じ、術後3・5・10年の弁劣化と再介入リスクを予測するモデル構築を支援した。医療者が出力を確認する活用事例であり、予測精度や一般提供条件は示されていない。 Khan Academyは、中学・高校相当とAPの理科記事・演習内で利用できる無料のPhETシミュレーションを提供開始した。学習者は熱容量や遺伝子発現などの変数を操作し、データ収集・分析や設問への回答を進められる。今回の統合による学習効果の測定結果、幼児・小学生向けの提供、日本語対応は資料から確認できない。",
@@ -62606,7 +62757,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+        "attempted_at": "2026-11-15T00:55:25.459791+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -62670,7 +62821,7 @@
           ],
           "last_success_at": "2026-11-14T21:00:13.214848+00:00"
         },
-        "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+        "last_success_at": "2026-11-15T00:55:25.459791+00:00"
       },
       "genre_briefs": [
         {
@@ -62867,15 +63018,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 264,
+          "count": 267,
           "publisher_count": 54,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
-            "e93e7f3df0a4af37a12082dd",
             "f7fccc4f674876b69a984187"
           ],
           "article_ids": [
+            "32002f9fd2875a739db16df6",
             "6b2afd69a8e3374ab63633c7",
             "e93e7f3df0a4af37a12082dd",
             "efe9ad1d964b7f922ed66e78",
@@ -62889,12 +63041,14 @@
             "309d3e1e9f6ac79f5ce38f32",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
+            "11cb13dd4168b9a6e9fee1e8",
             "b1cfe45b0b30b2ec242b68fe",
             "2db3ec566dc3001cc656f38b",
             "da0b1f9e71f8e8233bc36021",
             "1ba00f71b1d35cfc9a193157",
             "51b3cc7eb10d8b3f8144446a",
             "d5ec6891d897d9b544c0f495",
+            "031027036399adf80ace8e68",
             "38367d6e404e1a6fe503f339",
             "d37892ee01467d780581077e",
             "155c360886f6757f1e5cd5c1",
@@ -63301,19 +63455,19 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 136,
+          "count": 138,
           "publisher_count": 67,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。",
           "evidence_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
-            "e3212194093855c2ee87362d"
+            "e3212194093855c2ee87362d",
+            "212c3fe412517e11793f323b"
           ],
           "article_ids": [
             "ed75f327eab0c377ad35416f",
-            "3e95505f3f8c368a05732fdc",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
             "b759b56c51a00bd8fb24accb",
@@ -63326,8 +63480,10 @@
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
+            "4f8ae060a2f2c39af1fe97e2",
             "972008a528e79fd43fead645",
             "7e667be10707332eb628804f",
+            "8ed51f62d6caf095fa7194cd",
             "bea6adc24d7e5267652bd2d7",
             "d381d1011da1641c3ff0fe9a",
             "7b70cadec6bf2978282caa87",
@@ -63601,14 +63757,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
         "6b2afd69a8e3374ab63633c7",
-        "3e95505f3f8c368a05732fdc",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "e93e7f3df0a4af37a12082dd",
         "efe9ad1d964b7f922ed66e78",
         "f7fccc4f674876b69a984187",
+        "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
         "f7375c2582bf6e508b1b0975",
         "59075938f92bb3284b94bd71",
@@ -63628,6 +63785,7 @@
         "f8f2053e9d2ba43851cc027e",
         "e8724bc06d2a5c4dea01ab61",
         "073fafc6c951900c5286099b",
+        "11cb13dd4168b9a6e9fee1e8",
         "4423923cebd417cf2df2e9ef",
         "6e47809f63baab72a33ceb18",
         "1512f588f99be86241bb9996",
@@ -63639,6 +63797,7 @@
         "51b3cc7eb10d8b3f8144446a",
         "d5ec6891d897d9b544c0f495",
         "a7929ec3b08edd21ed5d9ad7",
+        "031027036399adf80ace8e68",
         "38367d6e404e1a6fe503f339",
         "d37892ee01467d780581077e",
         "155c360886f6757f1e5cd5c1",
@@ -63658,8 +63817,10 @@
         "3f632a7fafc9b93f2d2d09f7",
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
+        "4f8ae060a2f2c39af1fe97e2",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
+        "8ed51f62d6caf095fa7194cd",
         "4b07a0abf6b177a3423358a4",
         "fa4b7bdf01fbcfe0b00a0649",
         "09db6b273b5a454177b31138",
@@ -63719,9 +63880,9 @@
         "6c4386da0e47b7ad25aac48d",
         "733ef6b23ceee5a21c1e4dc4",
         "8801d0af4aa94b4d8a03e49e",
-        "0c77e5f5b314129fc6174fa4",
         "59f1ac508c329b8e1f95e1be",
         "c3aa7028f2b757c90fee7969",
+        "0c77e5f5b314129fc6174fa4",
         "60aab9595c0b15aa199ac1d8",
         "1b993b95356c310b0068e799",
         "12b855c6e49edecaf8650b72",
@@ -64196,10 +64357,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-11-15T06:01:44.993054+09:00",
+  "report_updated_at": "2026-11-15T09:55:25.697921+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-14T21:01:44.731745+00:00",
+    "attempted_at": "2026-11-15T00:55:25.459791+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -64263,7 +64424,7 @@
       ],
       "last_success_at": "2026-11-14T21:00:13.214848+00:00"
     },
-    "last_success_at": "2026-11-14T21:01:44.731745+00:00"
+    "last_success_at": "2026-11-15T00:55:25.459791+00:00"
   },
   "topic_definitions": [
     {
@@ -64777,11 +64938,11 @@
     ]
   },
   "picks": [
+    "32002f9fd2875a739db16df6",
     "6b2afd69a8e3374ab63633c7",
-    "e93e7f3df0a4af37a12082dd",
     "652f5040799df631ab00df2f",
     "d5654dd04d8c2695e07e29a5",
     "ed75f327eab0c377ad35416f",
-    "3e95505f3f8c368a05732fdc"
+    "e3212194093855c2ee87362d"
   ]
 }
