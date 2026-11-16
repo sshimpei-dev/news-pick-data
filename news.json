@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-15T21:01:20.969254Z",
-  "last_attempt_at": "2026-11-15T21:01:20.969254Z",
+  "updated_at": "2026-11-16T00:53:21.833816Z",
+  "last_attempt_at": "2026-11-16T00:53:21.833816Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 46,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-15T21:01:20.969254Z",
+      "checked_at": "2026-11-16T00:53:21.833816Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-16T00:53:21.833816Z",
+      "new_count": 21,
+      "status": "partial"
+    },
     {
       "at": "2026-11-15T21:01:20.969254Z",
       "new_count": 0,
@@ -878,6 +883,166 @@
   ],
   "articles": [
     {
+      "id": "ef1feda8bf1b887c5755deeb",
+      "category": "tech",
+      "source_id": "nvidia",
+      "title": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+      "url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+      "publisher": "NVIDIA 公式ブログ",
+      "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical AI and AI agents. At the plenary sessions, Deepu Talla, vice president of robotics and edge AI at NVIDIA, said Korea is “punching above its weight,” with Doosan Robotics, Hyundai […]",
+      "published_at": "2026-11-16T00:00:28Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": "NVIDIA",
+      "origin_kind": "official",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "686b8b2ccba1e97e56900464",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "エデュテクノロジー、「評価の視点から考える英語教育でのAI活用～教師にできること・AIにできること～」25日開催 - ICT教育ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xX3F2cVJXT085YUhFcGZUT2ItOTFuMUg2YzBudHI0YTRnbU5jcnk1ZTBweTgxWUExaHBHenc1ZmxKRXRrODhDWGVtMGRHcGZMZUhfLTk1d1ZLakNh?oc=5",
+      "publisher": "ICT教育ニュース",
+      "summary": "エデュテクノロジー、「評価の視点から考える英語教育でのAI活用～教師にできること・AIにできること～」25日開催 ICT教育ニュース",
+      "published_at": "2026-11-15T23:53:39Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "78e8446a8f47e07052fb62a7",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "Morse MicroとCamThinkが提携、カメラなどエッジAIデバイスをWi-Fi HaLow対応に（INTERNET Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VaE9RTXRWRkN4dkdpUGlkWVZPblQ2cjlyWDBzM1BOdThLb3Bycl80STlOdVV2b3NWZlNnak9WMXI0Q0E2dmpGU3JNYWswYlRDWUk1NjZ0ME9PSFcxak1LaGJvRjh4THpSZlFDXzVQSVJUYnR0X0laUEFYVnVfMU0?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Morse MicroとCamThinkが提携、カメラなどエッジAIデバイスをWi-Fi HaLow対応に（INTERNET Watch） Yahoo!ニュース",
+      "published_at": "2026-11-15T23:30:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "82d8202d1269ef0fd585c8d3",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "「ＡＩメガネだけ？超小型カメラへの対策はないのか」…入試控えた受験生の不安＝韓国（ハンギョレ新聞） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51UHp1SVN6dmtjUWN3ZmhrdkZJaDNGZkxaQ0RzOXFxNS1jZ0Z4UDNxaW00VnJYRkU1aWZNWmF3SVZialFGRTFEWTViWGRpUzBFTUNDRkJjeWpqTmZOV2pDWnlIUU9pMzhpZnk3d19SNlVlTjY5QWZVeF9ja3VTYmM?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "「ＡＩメガネだけ？超小型カメラへの対策はないのか」…入試控えた受験生の不安＝韓国（ハンギョレ新聞） Yahoo!ニュース",
+      "published_at": "2026-11-15T23:27:05Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "0d343a54f05f54ed9d42faec",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI教材「キュビナ」、学習eポータル「tomoLinks」と連携へ 名簿管理やログインの手間を削減 - 教育家庭新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WTUp0d2Y3a3haNzllMVZuNmgzbmlaM3VCcWdZU1ZXT0RWRW9WTzBLR1oxZ2dIMC1iNzhlLTdRMVBMdHo5U21TakYtTVpZS09iT3lz?oc=5",
+      "publisher": "教育家庭新聞社",
+      "summary": "AI教材「キュビナ」、学習eポータル「tomoLinks」と連携へ 名簿管理やログインの手間を削減 教育家庭新聞社",
+      "published_at": "2026-11-15T22:37:26Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "68c7418135d4c512512bb690",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "韓国税理士試験の首席合格者が「生成AIで不正」と告白 超小型カメラ×スマホで“ほぼ満点”の衝撃 - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnVYaVFsYkN6TUtRTS0zNjUwWXRlelh1b0FqWEJqSUFfMkg3SURJSHJYTGFYWlFWM0tuSW90V0hjTHctT05UNHJOd1ZTSFNucmNjTjVLNHZfMkdVR0tFSzRoME1naXJISm5TN3RtRHR1VXFUM2ptRDBHMWhzRWV3ZEJHR2F5cDhx?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "韓国税理士試験の首席合格者が「生成AIで不正」と告白 超小型カメラ×スマホで“ほぼ満点”の衝撃 Yahoo!ニュース",
+      "published_at": "2026-11-15T22:31:07Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "7f2aab941aab9f0d5c0d62f0",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "publisher": "OpenAI 公式",
+      "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+      "published_at": "2026-11-15T22:00:01Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "2b181dd4febe87192648dfd6",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "publisher": "OpenAI 公式",
+      "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "published_at": "2026-11-15T22:00:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "92a19f7706e1b0771d0bb644",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI人材「85％不足」の時代 ゾーホーが「自前の学校」で技術者を育てる理由（1/2 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YOVVFazQzZXo3MDQ2emFjQjRJOEV6WlUxSnlqLVhJTEpjWGhnM00zUTNCdWtsb0dReXA0eEMtei11VlNhX2xzeGFIR1RrejA1YllBQmJ5YUlmTS1aOURDc3czZ2dwQUhYWTg0UHM1d0QwUQ?oc=5",
+      "publisher": "ITmedia",
+      "summary": "AI人材「85％不足」の時代 ゾーホーが「自前の学校」で技術者を育てる理由（1/2 ページ） ITmedia",
+      "published_at": "2026-11-15T22:00:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "f9544f2081e72ce9a584243e",
       "category": "parenting",
       "source_id": "parenting",
@@ -1160,6 +1325,24 @@
       ]
     },
     {
+      "id": "4fcfea06e598829f73084e0f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Googleが「Gemini 4 Carbon」一般提供開始／Anthropicが「Claude Fable 5.2」「Claude Mythos 5.2」を発表：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uR1gwS01aWWt6d3Z4UHlTdW1Nc1RYOUhxYnl1QXFWTTJ1MHZzaWZiX3FsTVhxc1haOEdJYUZjZE9QZ2dRVE1KcWVMTHdmMHQ3c3gxSC1taWZJNmhYMklhVXJLMjJkdHBjM3BZaDBVUdIBaEFVX3lxTFBsSGtwdFJjNkJOaGU5amxacVRjRm5zRXNyQXBNLVFOMmFDNU9TeFdoUFVSY2cxajAxVlRYX1dKMVVHdW9RcWJJU25MS2l4NUlGTUtOQW0xSVB3WmlMN2VlU3VpejJwbEVW?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Googleが「Gemini 4 Carbon」一般提供開始／Anthropicが「Claude Fable 5.2」「Claude Mythos 5.2」を発表：週末の「気になるニュース」一気読み！（1/3 ページ） - ITmedia PC USER ITmedia",
+      "published_at": "2026-11-14T21:00:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "850b442244c4b7f4ad88f192",
       "category": "tech",
       "source_id": "tech",
@@ -1243,6 +1426,24 @@
       "theme_ids": []
     },
     {
+      "id": "1be495ce3679c0b3df290e1b",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【参加無料】エストニアの先生に、直接聞ける。エストニア×日本の高校教員・教育委員会が語る「学校は、生成AIとどう向き合っているのか」 - valuepress",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90NjJWWC1PWnVneEdWT2Z1R3VvQXdKX3htdFZSandTcGNxVHRCa2RXSHNUVkFEVm10bi1xNldjUWY2NHpOZFprWnMydkZ1QVZ3YURpUTg5emwxc1E?oc=5",
+      "publisher": "valuepress",
+      "summary": "【参加無料】エストニアの先生に、直接聞ける。エストニア×日本の高校教員・教育委員会が語る「学校は、生成AIとどう向き合っているのか」 valuepress",
+      "published_at": "2026-11-14T03:00:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "e93e7f3df0a4af37a12082dd",
       "category": "ai",
       "source_id": "ai",
@@ -1309,6 +1510,26 @@
       "theme_ids": []
     },
     {
+      "id": "6074871950f1e67e994aa019",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zMXRsSWo4VC05SFFIdHlReFc3R1VyelhZMER5djM3bzhDZVZVMVV3bTJpMm5UWl9GZTR4UWxjcUxKWThvbnkza2hWelJYZ3NuMVY5YUZyUXJFQ0hZalpjbmtSNm9Ba0Z1LTlKTGFxT3FHN3hreVZGdUdLXzlhNUE?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Googleの社内専用コーディングAI「GfG」、その全容 Geminiに社内データ1兆トークン学習させ開発 所要時間半減の業務も Yahoo!ニュース",
+      "published_at": "2026-11-14T00:05:08Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development",
+        "education"
+      ]
+    },
+    {
       "id": "f7fccc4f674876b69a984187",
       "category": "ai",
       "source_id": "ai",
@@ -1359,6 +1580,24 @@
       "topic_id": "ai-products",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "ce02a6dd67cd272d4ccd329a",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "グーグル、Geminiをウォレットや銀行口座と連携 支出管理やサブスク値上げの検知に対応 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82aFo3dkFxWm1wWWhacHpfTGNFdTFBbVVmZm5QOHpjQVBleTVSVDhCSkR0T3AxbFJncEpjVHdOclB5cmI3MF9Ya0FMbG5zNzNIUHNEQUQwbFUwdFRraWpnREQ2ak1uSTRNam8yVFUxVG9MUWU2?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "グーグル、Geminiをウォレットや銀行口座と連携 支出管理やサブスク値上げの検知に対応 BigGo ファイナンス",
+      "published_at": "2026-11-13T22:05:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "f7375c2582bf6e508b1b0975",
@@ -1443,6 +1682,38 @@
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "433dee8f29a183128cc40fde",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AnthropicのIPO、中国・香港の投資家を排除へ…需要は供給量の6倍に - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PZERpaDdyNVd4R2pVT1ZpbGZYVjd3UjRFblRTeGtMOHFqMU9HUS1HLUJYajhScE51VTcxWW1XUFgtRHFRY2k0bExSbzgyMVRTcWJZLXd5WjRISkRNcjNyYkJ5eUVJU3BpR3lNN2MxWmU4Tzhl?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "AnthropicのIPO、中国・香港の投資家を排除へ…需要は供給量の6倍に BigGo ファイナンス",
+      "published_at": "2026-11-13T16:42:24Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "9a8d2a14a2490d187e0107a6",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、「ChatGPT Wallet」を発表 「Dots」エージェントがユーザーの代わりに決済可能に - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UZ2NsMWRlUG01OVdLV3p6a2hiV2NMSzJhb25PY3pWVTRDTFdmdzR5OVlxUzlqWFJpRjIzd3lwVzF4a193WmFiZF9HQTd5YUUzVWROQVhKX29ZckNjWldBYVM0aGFzdEFSVVI1MzhDMGR0dVlm?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "OpenAI、「ChatGPT Wallet」を発表 「Dots」エージェントがユーザーの代わりに決済可能に BigGo ファイナンス",
+      "published_at": "2026-11-13T16:12:25Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
       "in_scope": true,
       "theme_ids": []
     },
@@ -1623,6 +1894,22 @@
       ]
     },
     {
+      "id": "a5e0b51eb696ed6a314263c7",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "県内企業にも広がる「AI」の活用に注目 「みやざきテクノフェア」 - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBfbmwwX29DTWFFQUdSQUs2NkFwTmVRN1BNUEZ5UTlndjFjRFY4VXRKdTF4RlhMSmJxc05uVXhCZUhfTWlIQ2RiUWpzQ0w3Sl9UNXdrVTJtWUNnRXJ5TzlCZzBGaHlaNTA?oc=5",
+      "publisher": "TBS NEWS DIG",
+      "summary": "県内企業にも広がる「AI」の活用に注目 「みやざきテクノフェア」 TBS NEWS DIG",
+      "published_at": "2026-11-13T10:18:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "ef73a99591ea567fa0a226a8",
       "category": "parenting",
       "source_id": "parenting",
@@ -1639,6 +1926,22 @@
       "theme_ids": [
         "education"
       ]
+    },
+    {
+      "id": "0cbcb6a50bd4c265a6748770",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "守れるかは使うAI次第とOpenAI社長、脆弱性の実証から修正までAIが担う新製品2つ（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWaGhNRk9aVHNSbzdMWmwxTllkeVhnUjJWUjJTNDB2RFFUaElFYzhNWVFpektGc3dfTFBqUndlTWxvWjVZWmI5aGxMWXBHWVVSc2lqWmsxZm0zYldFRUM3WE5mY2dqLThRX0N4WmZzSEJUb1ctWkZNMzFkbjBhSjQ?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "守れるかは使うAI次第とOpenAI社長、脆弱性の実証から修正までAIが担う新製品2つ（ビジネス＋IT） Yahoo!ニュース",
+      "published_at": "2026-11-13T09:55:06Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "d5654dd04d8c2695e07e29a5",
@@ -1706,6 +2009,24 @@
       "summary": "生成AI時代を生きる子どもに求められる力 創造力と挑戦を応援する「北海道デジタル学園祭」が開幕 専門家の情報教育講演やロボット競技も 札幌市 TBS NEWS DIG",
       "published_at": "2026-11-13T09:00:00Z",
       "collected_at": "2026-11-15T21:00:07.524198Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "2bc9cb5f182fb67a95463697",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "GKA高等部通信制課程の開設を報告 山本知事「AI教育に期待」 同校関係者らが表敬訪問 - みんなの学校新聞",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KNkdjZFNjR2o3MmZMT29CYUk1ZWpUQXdaZTk3N214b1hHZHhjUzVRb0x0RVd6NHhncDF6QUtCMV9GQ1NkdkcwUTBB?oc=5",
+      "publisher": "みんなの学校新聞",
+      "summary": "GKA高等部通信制課程の開設を報告 山本知事「AI教育に期待」 同校関係者らが表敬訪問 みんなの学校新聞",
+      "published_at": "2026-11-13T08:52:58Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -2251,20 +2572,38 @@
       ]
     },
     {
+      "id": "c56f84f552f39506e6490dfb",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "市場解説 | エヌビディア製チップの規制強化：なぜAnthropicの企業価値がさらに高まる可能性があるのか - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbUp6VGtVOVV1VDJCZ1NZWFZoXzVRZWJTTkVHZUZ4aEdMMUVFbjdKZVRqYUJ2UjdnSHFrR25oemlCeW9KcWpPN0NwZWVsVkFOUTV4TDhlVkF2QmdTQXNkMzA2WWFtMThlN2FMb2Y2NnQxcEpScXIyaFRBS051VXV4dmNJb0VDTURXOXdIQXBOUzNCc19OU243ek1JRW9sS3dudEV0aElpelpWSVdBQnljQnp0SzhVRnJG?oc=5",
+      "publisher": "Moomoo",
+      "summary": "市場解説 | エヌビディア製チップの規制強化：なぜAnthropicの企業価値がさらに高まる可能性があるのか Moomoo",
+      "published_at": "2026-11-13T01:56:47Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-safety",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "41de40b4db22c3b28e4688e5",
       "category": "parenting",
       "source_id": "parenting",
-      "title": "11月25日ウェビナーメイン画像 - Newscast.jp",
+      "title": "【生成AIを使った英語授業、生徒の学習評価はどうしてる？】 学習評価の視点から考える英語教育でのAI活用 メルボルン大学大学院で学習評価を修めた現役教員が紐解く、 「生成AI×英語教育」無料ウェビナーを11/25(水)に開催 - Newscast.jp",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5nTS0tajhFTEpUMDRCdW9OMml1UGRHdlBGckdNR0l4dkpFLXJ6b3JtRHM3OGlCVERjR0N2UndEb0lEZk5QOEM2bWdBTWNkUzA?oc=5",
       "publisher": "Newscast.jp",
-      "summary": "11月25日ウェビナーメイン画像 Newscast.jp",
+      "summary": "【生成AIを使った英語授業、生徒の学習評価はどうしてる？】 学習評価の視点から考える英語教育でのAI活用 メルボルン大学大学院で学習評価を修めた現役教員が紐解く、 「生成AI×英語教育」無料ウェビナーを11/25(水)に開催 Newscast.jp",
       "published_at": "2026-11-13T01:30:00Z",
       "collected_at": "2026-11-13T01:44:05.288392Z",
       "provider": null,
       "origin_kind": "media",
-      "topic_id": null,
-      "in_scope": false,
-      "theme_ids": []
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
     },
     {
       "id": "d118ee9e2b651fd1ed58d7af",
@@ -2572,6 +2911,22 @@
       "theme_ids": [
         "education"
       ]
+    },
+    {
+      "id": "8b00f47e29eb7fe59f2758fb",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "上場控えるAnthropic・OpenAIが強すぎる…新興AIが勝てない「4つの参入障壁」の正体 ｜FinTech Journal - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1pZ2F3V3E3X0xOV2xXcGtfd1ZLV1dSLXhTeExmN191NjNoVU1RRGRPdjByUkJsbXd1eE9OemFJTEttVXQ3S19FMDRNdFc1Mmc?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "上場控えるAnthropic・OpenAIが強すぎる…新興AIが勝てない「4つの参入障壁」の正体 ｜FinTech Journal ビジネス+IT",
+      "published_at": "2026-11-12T21:30:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "972008a528e79fd43fead645",
@@ -4088,6 +4443,24 @@
       "summary": "桜美林大学、近畿大学、NTTグループの４者共同でAIカメラ等による実証実験 学生の行動把握による施設評価と学修行動を検証 沖縄タイムス社",
       "published_at": "2026-11-11T08:20:16Z",
       "collected_at": "2026-11-13T21:02:15.161562Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "b86a5dbb44533d2a2db1904d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "桜美林大学、近畿大学、NTTグループの４者共同でAIカメラ等による実証実験 学生の行動把握による施設評価と学修行動を検証 - Digital PR Platform",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE0taWpJdm5fMTBWM250V2lLVmVoSHZmWk5aWk9wSktHUFlIRmg4bHJZU2tRT09LSkNIZDZWN1ZNOFRocUU?oc=5",
+      "publisher": "Digital PR Platform",
+      "summary": "桜美林大学、近畿大学、NTTグループの４者共同でAIカメラ等による実証実験 学生の行動把握による施設評価と学修行動を検証 Digital PR Platform",
+      "published_at": "2026-11-11T08:20:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -48631,27 +49004,37 @@
       "kind": "weekly",
       "period_start": "2026-11-16",
       "period_end": "2026-11-22",
-      "generated_at": "2026-11-16T06:01:27.852772+09:00",
+      "generated_at": "2026-11-16T09:53:28.789163+09:00",
       "is_complete": false,
-      "article_count": 3,
+      "article_count": 12,
       "category_counts": {
-        "parenting": 2,
-        "tech": 1
+        "tech": 5,
+        "parenting": 5,
+        "ai": 2
       },
-      "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
+      "overview": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+        "attempted_at": "2026-11-16T00:53:28.443684+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "7f2aab941aab9f0d5c0d62f0",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2b181dd4febe87192648dfd6",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "61402a16babb990e75636946",
             "stage": "original_fetch"
@@ -48662,14 +49045,6 @@
           },
           {
             "article_id": "fa4b7bdf01fbcfe0b00a0649",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8f6969bc342a64cbe3dacec",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "0eaab367b69afd9c8208df41",
             "stage": "original_fetch"
           }
         ],
@@ -48705,11 +49080,55 @@
           ],
           "last_success_at": "2026-11-15T21:00:14.028783+00:00"
         },
-        "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+        "last_success_at": "2026-11-16T00:53:28.443684+00:00"
       },
-      "genre_briefs": [],
-      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "genre_briefs": [
+        {
+          "category": "tech",
+          "label": "テック",
+          "stories": [
+            {
+              "article_id": "ef1feda8bf1b887c5755deeb",
+              "category": "tech",
+              "headline": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+              "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-16T00:53:28.443684+00:00",
+              "published_at": "2026-11-16T00:00:28Z"
+            }
+          ]
+        }
+      ],
+      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
+        {
+          "id": "ai-products",
+          "category": "ai",
+          "label": "生成AIサービス・活用の広がり",
+          "words": [],
+          "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
+          "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
+          "count": 2,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
+            "2b181dd4febe87192648dfd6"
+          ],
+          "article_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
+            "2b181dd4febe87192648dfd6"
+          ]
+        },
         {
           "id": "tech-platform",
           "category": "tech",
@@ -48717,13 +49136,19 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 1,
-          "publisher_count": 1,
-          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "count": 5,
+          "publisher_count": 3,
+          "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
           "evidence_ids": [
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
             "a113e5f4d840d66818774a15"
           ],
           "article_ids": [
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "82d8202d1269ef0fd585c8d3",
+            "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15"
           ]
         },
@@ -48734,23 +49159,51 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 5,
+          "publisher_count": 5,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "f9544f2081e72ce9a584243e",
-            "30de0ed03fca03009e1c314e"
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644"
           ],
           "article_ids": [
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
             "30de0ed03fca03009e1c314e"
           ]
         }
       ],
-      "total_topics": 2,
-      "insights": [],
+      "total_topics": 3,
+      "insights": [
+        {
+          "category": "tech",
+          "label": "テック：本文からの簡易まとめ",
+          "required_ids": [
+            "ef1feda8bf1b887c5755deeb"
+          ],
+          "observation": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
+          "evidence_ids": [
+            "ef1feda8bf1b887c5755deeb"
+          ]
+        }
+      ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ef1feda8bf1b887c5755deeb",
+        "686b8b2ccba1e97e56900464",
+        "78e8446a8f47e07052fb62a7",
+        "82d8202d1269ef0fd585c8d3",
+        "0d343a54f05f54ed9d42faec",
+        "68c7418135d4c512512bb690",
+        "7f2aab941aab9f0d5c0d62f0",
+        "2b181dd4febe87192648dfd6",
+        "92a19f7706e1b0771d0bb644",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15"
@@ -48761,28 +49214,37 @@
       "kind": "weekly",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-16T06:01:27.852772+09:00",
+      "generated_at": "2026-11-16T09:53:28.789163+09:00",
       "is_complete": true,
-      "article_count": 324,
+      "article_count": 336,
       "category_counts": {
-        "ai": 173,
-        "tech": 79,
-        "parenting": 72
+        "ai": 180,
+        "tech": 80,
+        "parenting": 76
       },
       "overview": "DeepSeekはdeepseek-flashのAPIで、引用付き検索、PDF・Office文書・画像入力、URL読取を提供開始した。ツール呼出しと文脈構築をサービス側が担い、開発者は思考モードやツール設定で動作を指定する。料金、実運用の精度・遅延は資料に示されていない。 NVIDIAが紹介したDyania HealthのSynapsis AIは、病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録解析を通じ、術後の弁劣化・再介入リスクの予測モデル構築を支援した。医療者が出力を確認する運用で、予測精度や一般提供条件は示されていない。 Khan Academyは中学・高校相当およびAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量やばねの振動などの変数を操作し、データ収集・分析と設問への回答を進められる。幼児・小学生向け提供、日本語対応、今回の統合による学習効果は確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+        "attempted_at": "2026-11-16T00:53:28.443684+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "7f2aab941aab9f0d5c0d62f0",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2b181dd4febe87192648dfd6",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "61402a16babb990e75636946",
             "stage": "original_fetch"
@@ -48793,14 +49255,6 @@
           },
           {
             "article_id": "fa4b7bdf01fbcfe0b00a0649",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8f6969bc342a64cbe3dacec",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "0eaab367b69afd9c8208df41",
             "stage": "original_fetch"
           }
         ],
@@ -48836,7 +49290,7 @@
           ],
           "last_success_at": "2026-11-15T21:00:14.028783+00:00"
         },
-        "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+        "last_success_at": "2026-11-16T00:53:28.443684+00:00"
       },
       "genre_briefs": [
         {
@@ -48995,7 +49449,7 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 150,
+          "count": 155,
           "publisher_count": 43,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
@@ -49008,6 +49462,7 @@
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
             "32002f9fd2875a739db16df6",
+            "4fcfea06e598829f73084e0f",
             "6b2afd69a8e3374ab63633c7",
             "24dd489e462d9ca0af98a41f",
             "e93e7f3df0a4af37a12082dd",
@@ -49015,14 +49470,17 @@
             "efe9ad1d964b7f922ed66e78",
             "f7fccc4f674876b69a984187",
             "eecc43cd3283bc489068d5b3",
+            "ce02a6dd67cd272d4ccd329a",
             "f7375c2582bf6e508b1b0975",
             "43d63a11c34a2f2ed80e4cf6",
+            "433dee8f29a183128cc40fde",
             "c5aecbe65b1d888565f616d7",
             "61402a16babb990e75636946",
             "08e1f0c1c2823173a049922c",
             "82900dfbe725b884eb9318f7",
             "402bf073e106bfb634efb691",
             "309d3e1e9f6ac79f5ce38f32",
+            "0cbcb6a50bd4c265a6748770",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
             "11cb13dd4168b9a6e9fee1e8",
@@ -49045,6 +49503,7 @@
             "24d52fb71827123972ae9111",
             "503efa8440b71de3ba3c7037",
             "65744a015e104b50af7bd0a7",
+            "8b00f47e29eb7fe59f2758fb",
             "fa4b7bdf01fbcfe0b00a0649",
             "09db6b273b5a454177b31138",
             "2fc80f849d9fa51b757578a9",
@@ -49163,7 +49622,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 77,
+          "count": 78,
           "publisher_count": 43,
           "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
           "evidence_ids": [
@@ -49181,6 +49640,7 @@
             "850b442244c4b7f4ad88f192",
             "3a7398d61f4dc329d694e22e",
             "652f5040799df631ab00df2f",
+            "a5e0b51eb696ed6a314263c7",
             "d5654dd04d8c2695e07e29a5",
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
@@ -49258,8 +49718,8 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 68,
-          "publisher_count": 37,
+          "count": 72,
+          "publisher_count": 38,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。",
           "evidence_ids": [
             "0515a9e00f5ccad70c34c791",
@@ -49271,7 +49731,9 @@
             "ed75f327eab0c377ad35416f",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "1be495ce3679c0b3df290e1b",
             "df8e81753f25d1349a648771",
+            "6074871950f1e67e994aa019",
             "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
@@ -49280,11 +49742,13 @@
             "ef73a99591ea567fa0a226a8",
             "f8f2053e9d2ba43851cc027e",
             "3959e2e7c8ec396db3f90bd8",
+            "2bc9cb5f182fb67a95463697",
             "6e47809f63baab72a33ceb18",
             "1512f588f99be86241bb9996",
             "574476129e04215507d17674",
             "a7929ec3b08edd21ed5d9ad7",
             "81a91006fcd4b5d3db2b109d",
+            "41de40b4db22c3b28e4688e5",
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
@@ -49352,16 +49816,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 23,
+          "count": 24,
           "publisher_count": 14,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "a69969a4ece6cf07149b302f",
-            "c715b3eaf04970af540a3581",
-            "3f632a7fafc9b93f2d2d09f7"
+            "9a8d2a14a2490d187e0107a6",
+            "c715b3eaf04970af540a3581"
           ],
           "article_ids": [
             "a69969a4ece6cf07149b302f",
+            "9a8d2a14a2490d187e0107a6",
             "c715b3eaf04970af540a3581",
             "3f632a7fafc9b93f2d2d09f7",
             "f9415c7bb2ee3c18aab7d947",
@@ -49416,7 +49881,7 @@
           ]
         }
       ],
-      "total_topics": 7,
+      "total_topics": 8,
       "insights": [
         {
           "category": "ai",
@@ -49475,23 +49940,29 @@
         "a9fd70812f45e0d3659321c8",
         "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
+        "4fcfea06e598829f73084e0f",
         "850b442244c4b7f4ad88f192",
         "6b2afd69a8e3374ab63633c7",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "24dd489e462d9ca0af98a41f",
+        "1be495ce3679c0b3df290e1b",
         "e93e7f3df0a4af37a12082dd",
         "52220a8a3e3304b1d64089ea",
         "df8e81753f25d1349a648771",
         "efe9ad1d964b7f922ed66e78",
+        "6074871950f1e67e994aa019",
         "f7fccc4f674876b69a984187",
         "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
+        "ce02a6dd67cd272d4ccd329a",
         "f7375c2582bf6e508b1b0975",
         "3a7398d61f4dc329d694e22e",
         "59075938f92bb3284b94bd71",
         "a69969a4ece6cf07149b302f",
         "43d63a11c34a2f2ed80e4cf6",
+        "433dee8f29a183128cc40fde",
+        "9a8d2a14a2490d187e0107a6",
         "c5aecbe65b1d888565f616d7",
         "61402a16babb990e75636946",
         "08e1f0c1c2823173a049922c",
@@ -49502,11 +49973,14 @@
         "b759b56c51a00bd8fb24accb",
         "12e32ecfb3f8bc51e4894bf8",
         "309d3e1e9f6ac79f5ce38f32",
+        "a5e0b51eb696ed6a314263c7",
         "ef73a99591ea567fa0a226a8",
+        "0cbcb6a50bd4c265a6748770",
         "d5654dd04d8c2695e07e29a5",
         "e674b0704178b35bbd78de29",
         "f8f2053e9d2ba43851cc027e",
         "3959e2e7c8ec396db3f90bd8",
+        "2bc9cb5f182fb67a95463697",
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
@@ -49535,6 +50009,8 @@
         "55eb77f322d3c99288b7d5e6",
         "1b83748b845f96f7a8833366",
         "ba88b299ae5527abd4b1e564",
+        "c56f84f552f39506e6490dfb",
+        "41de40b4db22c3b28e4688e5",
         "bb823f150c08e73c9849630c",
         "57962d3055e882b767dc55e5",
         "a86d885907f34b1d9f6881ad",
@@ -49550,6 +50026,7 @@
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
         "4f8ae060a2f2c39af1fe97e2",
+        "8b00f47e29eb7fe59f2758fb",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
         "8ed51f62d6caf095fa7194cd",
@@ -50789,28 +51266,37 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-16T06:01:27.852772+09:00",
+      "generated_at": "2026-11-16T09:53:28.789163+09:00",
       "is_complete": false,
-      "article_count": 627,
+      "article_count": 648,
       "category_counts": {
-        "parenting": 150,
-        "tech": 153,
-        "ai": 324
+        "tech": 158,
+        "parenting": 157,
+        "ai": 333
       },
-      "overview": "DeepSeekは11月13日、引用付き検索、PDF・Office文書・画像入力、URL読取を開発者向けAPIに開放し、ツール呼出しと文脈構築をサービス側で担う仕組みを提供した。JioStarはOpenAI APIで15超の言語に対応する動画・クリケット検索を公開し、回答生成モデルと検証モデルを組み合わせ、専門家が評価設計に参加した。 DyaniaのSynapsis AIは病院内のGPUサーバーで診療記録を解析し、出典を追跡できる所見を医療者に提示する。人工心臓弁研究では長期リスク予測モデルの構築を支援した。NVIDIAはエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellのCNCF寄贈を発表し、GPUクラスタ管理用のNVKE・NVKRは公開プレビューを開始した。 Khan Academyは中学・高校・APの理科教材内に、変数操作やデータ分析ができる無料のPhETシミュレーションを提供開始した。Google ClassroomのGuided Learningは、教師による課題割り当てと学習状況の把握に対応し、世界向けに展開を開始した。後者の得点改善の根拠は大学生の半日の統計学試験で、前者の今回の統合による学習効果は示されていない。",
+      "overview": "DeepSeekは11月13日、引用付き検索、PDF・Office文書・画像入力、URL読取を開発者向けAPIに開放し、ツール呼出しと文脈構築をサービス側で担う仕組みを提供した。JioStarはOpenAI APIで15超の言語に対応する動画・クリケット検索を公開し、回答生成モデルと検証モデルを組み合わせ、専門家が評価設計に参加した。 Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… ／ NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 ／ X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… Khan Academyは中学・高校・APの理科教材内に、変数操作やデータ分析ができる無料のPhETシミュレーションを提供開始した。Google ClassroomのGuided Learningは、教師による課題割り当てと学習状況の把握に対応し、世界向けに展開を開始した。後者の得点改善の根拠は大学生の半日の統計学試験で、前者の今回の統合による学習効果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+        "attempted_at": "2026-11-16T00:53:28.443684+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "7f2aab941aab9f0d5c0d62f0",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2b181dd4febe87192648dfd6",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "61402a16babb990e75636946",
             "stage": "original_fetch"
@@ -50821,14 +51307,6 @@
           },
           {
             "article_id": "fa4b7bdf01fbcfe0b00a0649",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8f6969bc342a64cbe3dacec",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "0eaab367b69afd9c8208df41",
             "stage": "original_fetch"
           }
         ],
@@ -50864,7 +51342,7 @@
           ],
           "last_success_at": "2026-11-15T21:00:14.028783+00:00"
         },
-        "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+        "last_success_at": "2026-11-16T00:53:28.443684+00:00"
       },
       "genre_briefs": [
         {
@@ -50934,6 +51412,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "ef1feda8bf1b887c5755deeb",
+              "category": "tech",
+              "headline": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+              "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-16T00:53:28.443684+00:00",
+              "published_at": "2026-11-16T00:00:28Z"
+            },
+            {
               "article_id": "652f5040799df631ab00df2f",
               "headline": "Dyaniaの診療記録AI、7,800人超の人工心臓弁研究で活用",
               "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。",
@@ -50966,24 +51462,6 @@
               "review_method": "extractive",
               "generated_at": "2026-11-11T22:53:56.500829+00:00",
               "published_at": "2026-11-11T03:00:20Z"
-            },
-            {
-              "article_id": "baed9ec678490a473ab8b0d0",
-              "headline": "NVIDIA、OpenShellのCNCF寄贈とGPU向けKubernetes基盤を発表",
-              "summary": "NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
-              "impact": "考察：エージェントの権限制御とGPU基盤の運用自動化が進めば、企業がAIサービスを管理・拡張する負担の軽減につながる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。NVKE・NVKRは公開プレビュー段階で、他社製品への組み込みは計画。Snapshotの短縮実績は協力企業の特定環境での試験結果であり、一般的な性能保証ではない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-10T21:01:02.543893+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "They automate cluster lifecycle management and provide signed, version-pinned images.",
-              "published_at": "2026-11-10T16:00:03Z"
             }
           ]
         },
@@ -51052,7 +51530,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -51061,19 +51539,22 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 275,
+          "count": 282,
           "publisher_count": 54,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
             "f27cee38438dda294da0bd40",
-            "40b154e296b0d6ebbf2c6ce2",
-            "32002f9fd2875a739db16df6"
+            "40b154e296b0d6ebbf2c6ce2"
           ],
           "article_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
+            "2b181dd4febe87192648dfd6",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
             "32002f9fd2875a739db16df6",
+            "4fcfea06e598829f73084e0f",
             "6b2afd69a8e3374ab63633c7",
             "24dd489e462d9ca0af98a41f",
             "e93e7f3df0a4af37a12082dd",
@@ -51081,14 +51562,17 @@
             "efe9ad1d964b7f922ed66e78",
             "f7fccc4f674876b69a984187",
             "eecc43cd3283bc489068d5b3",
+            "ce02a6dd67cd272d4ccd329a",
             "f7375c2582bf6e508b1b0975",
             "43d63a11c34a2f2ed80e4cf6",
+            "433dee8f29a183128cc40fde",
             "c5aecbe65b1d888565f616d7",
             "61402a16babb990e75636946",
             "08e1f0c1c2823173a049922c",
             "82900dfbe725b884eb9318f7",
             "402bf073e106bfb634efb691",
             "309d3e1e9f6ac79f5ce38f32",
+            "0cbcb6a50bd4c265a6748770",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
             "11cb13dd4168b9a6e9fee1e8",
@@ -51111,6 +51595,7 @@
             "24d52fb71827123972ae9111",
             "503efa8440b71de3ba3c7037",
             "65744a015e104b50af7bd0a7",
+            "8b00f47e29eb7fe59f2758fb",
             "fa4b7bdf01fbcfe0b00a0649",
             "09db6b273b5a454177b31138",
             "2fc80f849d9fa51b757578a9",
@@ -51354,15 +51839,19 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 148,
+          "count": 153,
           "publisher_count": 72,
-          "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
+          "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to…",
           "evidence_ids": [
-            "a113e5f4d840d66818774a15",
-            "1b79ddb528f300d848838366",
-            "3261a48d15aaefa84fc388e3"
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "a113e5f4d840d66818774a15"
           ],
           "article_ids": [
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "82d8202d1269ef0fd585c8d3",
+            "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15",
             "1b79ddb528f300d848838366",
             "3261a48d15aaefa84fc388e3",
@@ -51373,6 +51862,7 @@
             "850b442244c4b7f4ad88f192",
             "3a7398d61f4dc329d694e22e",
             "652f5040799df631ab00df2f",
+            "a5e0b51eb696ed6a314263c7",
             "d5654dd04d8c2695e07e29a5",
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
@@ -51520,22 +52010,27 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 146,
-          "publisher_count": 69,
+          "count": 153,
+          "publisher_count": 70,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。",
           "evidence_ids": [
-            "f9544f2081e72ce9a584243e",
-            "30de0ed03fca03009e1c314e",
-            "0515a9e00f5ccad70c34c791"
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644"
           ],
           "article_ids": [
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
             "30de0ed03fca03009e1c314e",
             "0515a9e00f5ccad70c34c791",
             "ed75f327eab0c377ad35416f",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "1be495ce3679c0b3df290e1b",
             "df8e81753f25d1349a648771",
+            "6074871950f1e67e994aa019",
             "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
@@ -51544,11 +52039,13 @@
             "ef73a99591ea567fa0a226a8",
             "f8f2053e9d2ba43851cc027e",
             "3959e2e7c8ec396db3f90bd8",
+            "2bc9cb5f182fb67a95463697",
             "6e47809f63baab72a33ceb18",
             "1512f588f99be86241bb9996",
             "574476129e04215507d17674",
             "a7929ec3b08edd21ed5d9ad7",
             "81a91006fcd4b5d3db2b109d",
+            "41de40b4db22c3b28e4688e5",
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
@@ -51692,16 +52189,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 49,
+          "count": 50,
           "publisher_count": 26,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "a69969a4ece6cf07149b302f",
-            "c715b3eaf04970af540a3581",
-            "3f632a7fafc9b93f2d2d09f7"
+            "9a8d2a14a2490d187e0107a6",
+            "c715b3eaf04970af540a3581"
           ],
           "article_ids": [
             "a69969a4ece6cf07149b302f",
+            "9a8d2a14a2490d187e0107a6",
             "c715b3eaf04970af540a3581",
             "3f632a7fafc9b93f2d2d09f7",
             "f9415c7bb2ee3c18aab7d947",
@@ -51783,7 +52281,7 @@
           ]
         }
       ],
-      "total_topics": 7,
+      "total_topics": 8,
       "insights": [
         {
           "category": "ai",
@@ -51803,18 +52301,20 @@
         },
         {
           "category": "tech",
-          "label": "AI運用を支える出典追跡とアクセス制御",
-          "observation": "DyaniaのSynapsis AIは病院内のGPUサーバーで診療記録を解析し、出典を追跡できる所見を医療者に提示する。人工心臓弁研究では長期リスク予測モデルの構築を支援した。NVIDIAはエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellのCNCF寄贈を発表し、GPUクラスタ管理用のNVKE・NVKRは公開プレビューを開始した。",
-          "interpretation": "専門業務へのAI導入では、出力の根拠を確認できることと、実行できる操作を制限できることが運用設計の重要な条件になる可能性がある。これらの事例だけでは医療成果や運用安全性の改善は確認できない。",
-          "next_question": "診療記録の所見を原文で確認する作業時間と誤抽出率、エージェントの禁止操作を遮断できる割合は、実運用を想定した試験でどうなるか。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
+            "ef1feda8bf1b887c5755deeb",
             "652f5040799df631ab00df2f",
-            "baed9ec678490a473ab8b0d0"
+            "22b10b5414c3e497f7e32838"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… ／ NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 ／ X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to…",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
+            "ef1feda8bf1b887c5755deeb",
             "652f5040799df631ab00df2f",
-            "baed9ec678490a473ab8b0d0"
+            "22b10b5414c3e497f7e32838"
           ]
         },
         {
@@ -51836,6 +52336,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ef1feda8bf1b887c5755deeb",
+        "686b8b2ccba1e97e56900464",
+        "78e8446a8f47e07052fb62a7",
+        "82d8202d1269ef0fd585c8d3",
+        "0d343a54f05f54ed9d42faec",
+        "68c7418135d4c512512bb690",
+        "7f2aab941aab9f0d5c0d62f0",
+        "2b181dd4febe87192648dfd6",
+        "92a19f7706e1b0771d0bb644",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
@@ -51851,23 +52360,29 @@
         "a9fd70812f45e0d3659321c8",
         "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
+        "4fcfea06e598829f73084e0f",
         "850b442244c4b7f4ad88f192",
         "6b2afd69a8e3374ab63633c7",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "24dd489e462d9ca0af98a41f",
+        "1be495ce3679c0b3df290e1b",
         "e93e7f3df0a4af37a12082dd",
         "52220a8a3e3304b1d64089ea",
         "df8e81753f25d1349a648771",
         "efe9ad1d964b7f922ed66e78",
+        "6074871950f1e67e994aa019",
         "f7fccc4f674876b69a984187",
         "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
+        "ce02a6dd67cd272d4ccd329a",
         "f7375c2582bf6e508b1b0975",
         "3a7398d61f4dc329d694e22e",
         "59075938f92bb3284b94bd71",
         "a69969a4ece6cf07149b302f",
         "43d63a11c34a2f2ed80e4cf6",
+        "433dee8f29a183128cc40fde",
+        "9a8d2a14a2490d187e0107a6",
         "c5aecbe65b1d888565f616d7",
         "61402a16babb990e75636946",
         "08e1f0c1c2823173a049922c",
@@ -51878,11 +52393,14 @@
         "b759b56c51a00bd8fb24accb",
         "12e32ecfb3f8bc51e4894bf8",
         "309d3e1e9f6ac79f5ce38f32",
+        "a5e0b51eb696ed6a314263c7",
         "ef73a99591ea567fa0a226a8",
+        "0cbcb6a50bd4c265a6748770",
         "d5654dd04d8c2695e07e29a5",
         "e674b0704178b35bbd78de29",
         "f8f2053e9d2ba43851cc027e",
         "3959e2e7c8ec396db3f90bd8",
+        "2bc9cb5f182fb67a95463697",
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
@@ -51911,6 +52429,8 @@
         "55eb77f322d3c99288b7d5e6",
         "1b83748b845f96f7a8833366",
         "ba88b299ae5527abd4b1e564",
+        "c56f84f552f39506e6490dfb",
+        "41de40b4db22c3b28e4688e5",
         "bb823f150c08e73c9849630c",
         "57962d3055e882b767dc55e5",
         "a86d885907f34b1d9f6881ad",
@@ -51926,6 +52446,7 @@
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
         "4f8ae060a2f2c39af1fe97e2",
+        "8b00f47e29eb7fe59f2758fb",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
         "8ed51f62d6caf095fa7194cd",
@@ -56010,7 +56531,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-16T06:01:27.852772+09:00",
+      "generated_at": "2026-11-16T09:53:28.789163+09:00",
       "is_complete": true,
       "article_count": 1121,
       "category_counts": {
@@ -56023,15 +56544,24 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+        "attempted_at": "2026-11-16T00:53:28.443684+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "7f2aab941aab9f0d5c0d62f0",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2b181dd4febe87192648dfd6",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "61402a16babb990e75636946",
             "stage": "original_fetch"
@@ -56042,14 +56572,6 @@
           },
           {
             "article_id": "fa4b7bdf01fbcfe0b00a0649",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8f6969bc342a64cbe3dacec",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "0eaab367b69afd9c8208df41",
             "stage": "original_fetch"
           }
         ],
@@ -56085,7 +56607,7 @@
           ],
           "last_success_at": "2026-11-15T21:00:14.028783+00:00"
         },
-        "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+        "last_success_at": "2026-11-16T00:53:28.443684+00:00"
       },
       "genre_briefs": [
         {
@@ -61615,28 +62137,37 @@
       "kind": "overview",
       "period_start": "2026-11-10",
       "period_end": "2026-11-16",
-      "generated_at": "2026-11-16T06:01:27.852772+09:00",
+      "generated_at": "2026-11-16T09:53:28.789163+09:00",
       "is_complete": false,
-      "article_count": 282,
+      "article_count": 303,
       "category_counts": {
-        "parenting": 64,
-        "tech": 59,
-        "ai": 159
+        "tech": 64,
+        "parenting": 71,
+        "ai": 168
       },
-      "overview": "DeepSeekは開発者向けに、引用付き検索、文書・画像入力、URL読取をサービス側のツール呼出しと文脈構築で扱うAPI機能を開放した。JioStarはOpenAI APIを使った15超の言語に対応する動画・クリケット検索を公開し、回答生成と検証のモデルを組み合わせ、専門家が評価設計に参加した。 DyaniaのSynapsis AIは病院内のGPUサーバーで診療記録を横断解析し、出典を追跡できる所見を提示する。Cleveland Clinicでは人工心臓弁の研究モデル構築に活用された。NVIDIAはエージェントのアクセスをポリシーで制御するOpenShellのCNCF寄贈を発表し、GPUクラスタ管理のNVKE・NVKRを公開プレビューにした。 Khan Academyは中学・高校相当とAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量や遺伝子発現などの変数を操作し、データ収集・分析や設問への回答に取り組める。幼児・小学生向け提供や日本語対応は確認できない。",
+      "overview": "DeepSeekは開発者向けに、引用付き検索、文書・画像入力、URL読取をサービス側のツール呼出しと文脈構築で扱うAPI機能を開放した。JioStarはOpenAI APIを使った15超の言語に対応する動画・クリケット検索を公開し、回答生成と検証のモデルを組み合わせ、専門家が評価設計に参加した。 Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… ／ NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 ／ X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… Khan Academyは中学・高校相当とAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量や遺伝子発現などの変数を操作し、データ収集・分析や設問への回答に取り組める。幼児・小学生向け提供や日本語対応は確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+        "attempted_at": "2026-11-16T00:53:28.443684+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "7f2aab941aab9f0d5c0d62f0",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2b181dd4febe87192648dfd6",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "61402a16babb990e75636946",
             "stage": "original_fetch"
@@ -61647,14 +62178,6 @@
           },
           {
             "article_id": "fa4b7bdf01fbcfe0b00a0649",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8f6969bc342a64cbe3dacec",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "0eaab367b69afd9c8208df41",
             "stage": "original_fetch"
           }
         ],
@@ -61690,7 +62213,7 @@
           ],
           "last_success_at": "2026-11-15T21:00:14.028783+00:00"
         },
-        "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+        "last_success_at": "2026-11-16T00:53:28.443684+00:00"
       },
       "genre_briefs": [
         {
@@ -61760,6 +62283,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "ef1feda8bf1b887c5755deeb",
+              "category": "tech",
+              "headline": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+              "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-16T00:53:28.443684+00:00",
+              "published_at": "2026-11-16T00:00:28Z"
+            },
+            {
               "article_id": "652f5040799df631ab00df2f",
               "headline": "Dyaniaの診療記録AI、7,800人超の人工心臓弁研究で活用",
               "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。",
@@ -61792,24 +62333,6 @@
               "review_method": "extractive",
               "generated_at": "2026-11-11T22:53:56.500829+00:00",
               "published_at": "2026-11-11T03:00:20Z"
-            },
-            {
-              "article_id": "baed9ec678490a473ab8b0d0",
-              "headline": "NVIDIA、OpenShellのCNCF寄贈とGPU向けKubernetes基盤を発表",
-              "summary": "NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
-              "impact": "考察：エージェントの権限制御とGPU基盤の運用自動化が進めば、企業がAIサービスを管理・拡張する負担の軽減につながる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。NVKE・NVKRは公開プレビュー段階で、他社製品への組み込みは計画。Snapshotの短縮実績は協力企業の特定環境での試験結果であり、一般的な性能保証ではない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-10T21:01:02.543893+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "They automate cluster lifecycle management and provide signed, version-pinned images.",
-              "published_at": "2026-11-10T16:00:03Z"
             }
           ]
         },
@@ -61840,7 +62363,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -61849,19 +62372,22 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 141,
+          "count": 148,
           "publisher_count": 41,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
             "f27cee38438dda294da0bd40",
-            "40b154e296b0d6ebbf2c6ce2",
-            "32002f9fd2875a739db16df6"
+            "40b154e296b0d6ebbf2c6ce2"
           ],
           "article_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
+            "2b181dd4febe87192648dfd6",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
             "32002f9fd2875a739db16df6",
+            "4fcfea06e598829f73084e0f",
             "6b2afd69a8e3374ab63633c7",
             "24dd489e462d9ca0af98a41f",
             "e93e7f3df0a4af37a12082dd",
@@ -61869,14 +62395,17 @@
             "efe9ad1d964b7f922ed66e78",
             "f7fccc4f674876b69a984187",
             "eecc43cd3283bc489068d5b3",
+            "ce02a6dd67cd272d4ccd329a",
             "f7375c2582bf6e508b1b0975",
             "43d63a11c34a2f2ed80e4cf6",
+            "433dee8f29a183128cc40fde",
             "c5aecbe65b1d888565f616d7",
             "61402a16babb990e75636946",
             "08e1f0c1c2823173a049922c",
             "82900dfbe725b884eb9318f7",
             "402bf073e106bfb634efb691",
             "309d3e1e9f6ac79f5ce38f32",
+            "0cbcb6a50bd4c265a6748770",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
             "11cb13dd4168b9a6e9fee1e8",
@@ -61899,6 +62428,7 @@
             "24d52fb71827123972ae9111",
             "503efa8440b71de3ba3c7037",
             "65744a015e104b50af7bd0a7",
+            "8b00f47e29eb7fe59f2758fb",
             "fa4b7bdf01fbcfe0b00a0649",
             "09db6b273b5a454177b31138",
             "2fc80f849d9fa51b757578a9",
@@ -62008,15 +62538,19 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 58,
+          "count": 63,
           "publisher_count": 39,
-          "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
+          "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to…",
           "evidence_ids": [
-            "a113e5f4d840d66818774a15",
-            "1b79ddb528f300d848838366",
-            "3261a48d15aaefa84fc388e3"
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "a113e5f4d840d66818774a15"
           ],
           "article_ids": [
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "82d8202d1269ef0fd585c8d3",
+            "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15",
             "1b79ddb528f300d848838366",
             "3261a48d15aaefa84fc388e3",
@@ -62027,6 +62561,7 @@
             "850b442244c4b7f4ad88f192",
             "3a7398d61f4dc329d694e22e",
             "652f5040799df631ab00df2f",
+            "a5e0b51eb696ed6a314263c7",
             "d5654dd04d8c2695e07e29a5",
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
@@ -62084,22 +62619,27 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 60,
-          "publisher_count": 32,
+          "count": 67,
+          "publisher_count": 35,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。",
           "evidence_ids": [
-            "f9544f2081e72ce9a584243e",
-            "30de0ed03fca03009e1c314e",
-            "0515a9e00f5ccad70c34c791"
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644"
           ],
           "article_ids": [
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
             "30de0ed03fca03009e1c314e",
             "0515a9e00f5ccad70c34c791",
             "ed75f327eab0c377ad35416f",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "1be495ce3679c0b3df290e1b",
             "df8e81753f25d1349a648771",
+            "6074871950f1e67e994aa019",
             "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
@@ -62108,11 +62648,13 @@
             "ef73a99591ea567fa0a226a8",
             "f8f2053e9d2ba43851cc027e",
             "3959e2e7c8ec396db3f90bd8",
+            "2bc9cb5f182fb67a95463697",
             "6e47809f63baab72a33ceb18",
             "1512f588f99be86241bb9996",
             "574476129e04215507d17674",
             "a7929ec3b08edd21ed5d9ad7",
             "81a91006fcd4b5d3db2b109d",
+            "41de40b4db22c3b28e4688e5",
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
@@ -62170,16 +62712,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 18,
+          "count": 19,
           "publisher_count": 13,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "a69969a4ece6cf07149b302f",
-            "c715b3eaf04970af540a3581",
-            "3f632a7fafc9b93f2d2d09f7"
+            "9a8d2a14a2490d187e0107a6",
+            "c715b3eaf04970af540a3581"
           ],
           "article_ids": [
             "a69969a4ece6cf07149b302f",
+            "9a8d2a14a2490d187e0107a6",
             "c715b3eaf04970af540a3581",
             "3f632a7fafc9b93f2d2d09f7",
             "f9415c7bb2ee3c18aab7d947",
@@ -62229,7 +62772,7 @@
           ]
         }
       ],
-      "total_topics": 7,
+      "total_topics": 8,
       "insights": [
         {
           "category": "ai",
@@ -62249,18 +62792,20 @@
         },
         {
           "category": "tech",
-          "label": "AIの実運用を支える出典追跡とアクセス制御",
-          "observation": "DyaniaのSynapsis AIは病院内のGPUサーバーで診療記録を横断解析し、出典を追跡できる所見を提示する。Cleveland Clinicでは人工心臓弁の研究モデル構築に活用された。NVIDIAはエージェントのアクセスをポリシーで制御するOpenShellのCNCF寄贈を発表し、GPUクラスタ管理のNVKE・NVKRを公開プレビューにした。",
-          "interpretation": "専門業務でAIを使う際には、処理能力に加え、出力の根拠確認と操作権限の管理が導入判断を左右する可能性がある。ただし、医療研究での活用事例と基盤製品のプレビューは提供段階が異なり、広範な有効性や成熟度を示すものではない。",
-          "next_question": "Synapsis AIの出典追跡は医療者の確認時間と誤抽出率にどう影響するか。OpenShellは想定外のツール利用をどの条件で防げるか。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
+            "ef1feda8bf1b887c5755deeb",
             "652f5040799df631ab00df2f",
-            "baed9ec678490a473ab8b0d0"
+            "22b10b5414c3e497f7e32838"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… ／ NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 ／ X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to…",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
+            "ef1feda8bf1b887c5755deeb",
             "652f5040799df631ab00df2f",
-            "baed9ec678490a473ab8b0d0"
+            "22b10b5414c3e497f7e32838"
           ]
         },
         {
@@ -62280,6 +62825,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ef1feda8bf1b887c5755deeb",
+        "686b8b2ccba1e97e56900464",
+        "78e8446a8f47e07052fb62a7",
+        "82d8202d1269ef0fd585c8d3",
+        "0d343a54f05f54ed9d42faec",
+        "68c7418135d4c512512bb690",
+        "7f2aab941aab9f0d5c0d62f0",
+        "2b181dd4febe87192648dfd6",
+        "92a19f7706e1b0771d0bb644",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
@@ -62295,23 +62849,29 @@
         "a9fd70812f45e0d3659321c8",
         "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
+        "4fcfea06e598829f73084e0f",
         "850b442244c4b7f4ad88f192",
         "6b2afd69a8e3374ab63633c7",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "24dd489e462d9ca0af98a41f",
+        "1be495ce3679c0b3df290e1b",
         "e93e7f3df0a4af37a12082dd",
         "52220a8a3e3304b1d64089ea",
         "df8e81753f25d1349a648771",
         "efe9ad1d964b7f922ed66e78",
+        "6074871950f1e67e994aa019",
         "f7fccc4f674876b69a984187",
         "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
+        "ce02a6dd67cd272d4ccd329a",
         "f7375c2582bf6e508b1b0975",
         "3a7398d61f4dc329d694e22e",
         "59075938f92bb3284b94bd71",
         "a69969a4ece6cf07149b302f",
         "43d63a11c34a2f2ed80e4cf6",
+        "433dee8f29a183128cc40fde",
+        "9a8d2a14a2490d187e0107a6",
         "c5aecbe65b1d888565f616d7",
         "61402a16babb990e75636946",
         "08e1f0c1c2823173a049922c",
@@ -62322,11 +62882,14 @@
         "b759b56c51a00bd8fb24accb",
         "12e32ecfb3f8bc51e4894bf8",
         "309d3e1e9f6ac79f5ce38f32",
+        "a5e0b51eb696ed6a314263c7",
         "ef73a99591ea567fa0a226a8",
+        "0cbcb6a50bd4c265a6748770",
         "d5654dd04d8c2695e07e29a5",
         "e674b0704178b35bbd78de29",
         "f8f2053e9d2ba43851cc027e",
         "3959e2e7c8ec396db3f90bd8",
+        "2bc9cb5f182fb67a95463697",
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
@@ -62355,6 +62918,8 @@
         "55eb77f322d3c99288b7d5e6",
         "1b83748b845f96f7a8833366",
         "ba88b299ae5527abd4b1e564",
+        "c56f84f552f39506e6490dfb",
+        "41de40b4db22c3b28e4688e5",
         "bb823f150c08e73c9849630c",
         "57962d3055e882b767dc55e5",
         "a86d885907f34b1d9f6881ad",
@@ -62370,6 +62935,7 @@
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
         "4f8ae060a2f2c39af1fe97e2",
+        "8b00f47e29eb7fe59f2758fb",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
         "8ed51f62d6caf095fa7194cd",
@@ -62569,27 +63135,37 @@
       "kind": "weekly",
       "period_start": "2026-11-16",
       "period_end": "2026-11-22",
-      "generated_at": "2026-11-16T06:01:27.852772+09:00",
+      "generated_at": "2026-11-16T09:53:28.789163+09:00",
       "is_complete": false,
-      "article_count": 3,
+      "article_count": 12,
       "category_counts": {
-        "parenting": 2,
-        "tech": 1
+        "tech": 5,
+        "parenting": 5,
+        "ai": 2
       },
-      "overview": "この期間の内容要約はまだ準備中です。収集した記事は元記事の保管庫から読めます。",
+      "overview": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+        "attempted_at": "2026-11-16T00:53:28.443684+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "7f2aab941aab9f0d5c0d62f0",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2b181dd4febe87192648dfd6",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "61402a16babb990e75636946",
             "stage": "original_fetch"
@@ -62600,14 +63176,6 @@
           },
           {
             "article_id": "fa4b7bdf01fbcfe0b00a0649",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8f6969bc342a64cbe3dacec",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "0eaab367b69afd9c8208df41",
             "stage": "original_fetch"
           }
         ],
@@ -62643,11 +63211,55 @@
           ],
           "last_success_at": "2026-11-15T21:00:14.028783+00:00"
         },
-        "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+        "last_success_at": "2026-11-16T00:53:28.443684+00:00"
       },
-      "genre_briefs": [],
-      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "genre_briefs": [
+        {
+          "category": "tech",
+          "label": "テック",
+          "stories": [
+            {
+              "article_id": "ef1feda8bf1b887c5755deeb",
+              "category": "tech",
+              "headline": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+              "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-16T00:53:28.443684+00:00",
+              "published_at": "2026-11-16T00:00:28Z"
+            }
+          ]
+        }
+      ],
+      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
+        {
+          "id": "ai-products",
+          "category": "ai",
+          "label": "生成AIサービス・活用の広がり",
+          "words": [],
+          "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
+          "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
+          "count": 2,
+          "publisher_count": 1,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "evidence_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
+            "2b181dd4febe87192648dfd6"
+          ],
+          "article_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
+            "2b181dd4febe87192648dfd6"
+          ]
+        },
         {
           "id": "tech-platform",
           "category": "tech",
@@ -62655,13 +63267,19 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 1,
-          "publisher_count": 1,
-          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
+          "count": 5,
+          "publisher_count": 3,
+          "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
           "evidence_ids": [
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
             "a113e5f4d840d66818774a15"
           ],
           "article_ids": [
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "82d8202d1269ef0fd585c8d3",
+            "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15"
           ]
         },
@@ -62672,23 +63290,51 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 5,
+          "publisher_count": 5,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "f9544f2081e72ce9a584243e",
-            "30de0ed03fca03009e1c314e"
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644"
           ],
           "article_ids": [
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
             "30de0ed03fca03009e1c314e"
           ]
         }
       ],
-      "total_topics": 2,
-      "insights": [],
+      "total_topics": 3,
+      "insights": [
+        {
+          "category": "tech",
+          "label": "テック：本文からの簡易まとめ",
+          "required_ids": [
+            "ef1feda8bf1b887c5755deeb"
+          ],
+          "observation": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
+          "evidence_ids": [
+            "ef1feda8bf1b887c5755deeb"
+          ]
+        }
+      ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ef1feda8bf1b887c5755deeb",
+        "686b8b2ccba1e97e56900464",
+        "78e8446a8f47e07052fb62a7",
+        "82d8202d1269ef0fd585c8d3",
+        "0d343a54f05f54ed9d42faec",
+        "68c7418135d4c512512bb690",
+        "7f2aab941aab9f0d5c0d62f0",
+        "2b181dd4febe87192648dfd6",
+        "92a19f7706e1b0771d0bb644",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15"
@@ -62699,28 +63345,37 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-16T06:01:27.852772+09:00",
+      "generated_at": "2026-11-16T09:53:28.789163+09:00",
       "is_complete": false,
-      "article_count": 627,
+      "article_count": 648,
       "category_counts": {
-        "parenting": 150,
-        "tech": 153,
-        "ai": 324
+        "tech": 158,
+        "parenting": 157,
+        "ai": 333
       },
-      "overview": "DeepSeekは11月13日、引用付き検索、PDF・Office文書・画像入力、URL読取を開発者向けAPIに開放し、ツール呼出しと文脈構築をサービス側で担う仕組みを提供した。JioStarはOpenAI APIで15超の言語に対応する動画・クリケット検索を公開し、回答生成モデルと検証モデルを組み合わせ、専門家が評価設計に参加した。 DyaniaのSynapsis AIは病院内のGPUサーバーで診療記録を解析し、出典を追跡できる所見を医療者に提示する。人工心臓弁研究では長期リスク予測モデルの構築を支援した。NVIDIAはエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellのCNCF寄贈を発表し、GPUクラスタ管理用のNVKE・NVKRは公開プレビューを開始した。 Khan Academyは中学・高校・APの理科教材内に、変数操作やデータ分析ができる無料のPhETシミュレーションを提供開始した。Google ClassroomのGuided Learningは、教師による課題割り当てと学習状況の把握に対応し、世界向けに展開を開始した。後者の得点改善の根拠は大学生の半日の統計学試験で、前者の今回の統合による学習効果は示されていない。",
+      "overview": "DeepSeekは11月13日、引用付き検索、PDF・Office文書・画像入力、URL読取を開発者向けAPIに開放し、ツール呼出しと文脈構築をサービス側で担う仕組みを提供した。JioStarはOpenAI APIで15超の言語に対応する動画・クリケット検索を公開し、回答生成モデルと検証モデルを組み合わせ、専門家が評価設計に参加した。 Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… ／ NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 ／ X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… Khan Academyは中学・高校・APの理科教材内に、変数操作やデータ分析ができる無料のPhETシミュレーションを提供開始した。Google ClassroomのGuided Learningは、教師による課題割り当てと学習状況の把握に対応し、世界向けに展開を開始した。後者の得点改善の根拠は大学生の半日の統計学試験で、前者の今回の統合による学習効果は示されていない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+        "attempted_at": "2026-11-16T00:53:28.443684+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
+          "weekly",
           "monthly"
         ],
         "errors": [
+          {
+            "article_id": "7f2aab941aab9f0d5c0d62f0",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "2b181dd4febe87192648dfd6",
+            "stage": "original_fetch"
+          },
           {
             "article_id": "61402a16babb990e75636946",
             "stage": "original_fetch"
@@ -62731,14 +63386,6 @@
           },
           {
             "article_id": "fa4b7bdf01fbcfe0b00a0649",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8f6969bc342a64cbe3dacec",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "0eaab367b69afd9c8208df41",
             "stage": "original_fetch"
           }
         ],
@@ -62774,7 +63421,7 @@
           ],
           "last_success_at": "2026-11-15T21:00:14.028783+00:00"
         },
-        "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+        "last_success_at": "2026-11-16T00:53:28.443684+00:00"
       },
       "genre_briefs": [
         {
@@ -62844,6 +63491,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "ef1feda8bf1b887c5755deeb",
+              "category": "tech",
+              "headline": "AI Day Seoul Brings Together Korea’s Industry Leaders, Startups and Developer Communities",
+              "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-16T00:53:28.443684+00:00",
+              "published_at": "2026-11-16T00:00:28Z"
+            },
+            {
               "article_id": "652f5040799df631ab00df2f",
               "headline": "Dyaniaの診療記録AI、7,800人超の人工心臓弁研究で活用",
               "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。",
@@ -62876,24 +63541,6 @@
               "review_method": "extractive",
               "generated_at": "2026-11-11T22:53:56.500829+00:00",
               "published_at": "2026-11-11T03:00:20Z"
-            },
-            {
-              "article_id": "baed9ec678490a473ab8b0d0",
-              "headline": "NVIDIA、OpenShellのCNCF寄贈とGPU向けKubernetes基盤を発表",
-              "summary": "NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
-              "impact": "考察：エージェントの権限制御とGPU基盤の運用自動化が進めば、企業がAIサービスを管理・拡張する負担の軽減につながる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。NVKE・NVKRは公開プレビュー段階で、他社製品への組み込みは計画。Snapshotの短縮実績は協力企業の特定環境での試験結果であり、一般的な性能保証ではない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-10T21:01:02.543893+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "They automate cluster lifecycle management and provide signed, version-pinned images.",
-              "published_at": "2026-11-10T16:00:03Z"
             }
           ]
         },
@@ -62962,7 +63609,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -62971,19 +63618,22 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 275,
+          "count": 282,
           "publisher_count": 54,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
             "f27cee38438dda294da0bd40",
-            "40b154e296b0d6ebbf2c6ce2",
-            "32002f9fd2875a739db16df6"
+            "40b154e296b0d6ebbf2c6ce2"
           ],
           "article_ids": [
+            "7f2aab941aab9f0d5c0d62f0",
+            "2b181dd4febe87192648dfd6",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
             "32002f9fd2875a739db16df6",
+            "4fcfea06e598829f73084e0f",
             "6b2afd69a8e3374ab63633c7",
             "24dd489e462d9ca0af98a41f",
             "e93e7f3df0a4af37a12082dd",
@@ -62991,14 +63641,17 @@
             "efe9ad1d964b7f922ed66e78",
             "f7fccc4f674876b69a984187",
             "eecc43cd3283bc489068d5b3",
+            "ce02a6dd67cd272d4ccd329a",
             "f7375c2582bf6e508b1b0975",
             "43d63a11c34a2f2ed80e4cf6",
+            "433dee8f29a183128cc40fde",
             "c5aecbe65b1d888565f616d7",
             "61402a16babb990e75636946",
             "08e1f0c1c2823173a049922c",
             "82900dfbe725b884eb9318f7",
             "402bf073e106bfb634efb691",
             "309d3e1e9f6ac79f5ce38f32",
+            "0cbcb6a50bd4c265a6748770",
             "e8724bc06d2a5c4dea01ab61",
             "073fafc6c951900c5286099b",
             "11cb13dd4168b9a6e9fee1e8",
@@ -63021,6 +63674,7 @@
             "24d52fb71827123972ae9111",
             "503efa8440b71de3ba3c7037",
             "65744a015e104b50af7bd0a7",
+            "8b00f47e29eb7fe59f2758fb",
             "fa4b7bdf01fbcfe0b00a0649",
             "09db6b273b5a454177b31138",
             "2fc80f849d9fa51b757578a9",
@@ -63264,15 +63918,19 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 148,
+          "count": 153,
           "publisher_count": 72,
-          "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
+          "summary": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to…",
           "evidence_ids": [
-            "a113e5f4d840d66818774a15",
-            "1b79ddb528f300d848838366",
-            "3261a48d15aaefa84fc388e3"
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "a113e5f4d840d66818774a15"
           ],
           "article_ids": [
+            "ef1feda8bf1b887c5755deeb",
+            "78e8446a8f47e07052fb62a7",
+            "82d8202d1269ef0fd585c8d3",
+            "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15",
             "1b79ddb528f300d848838366",
             "3261a48d15aaefa84fc388e3",
@@ -63283,6 +63941,7 @@
             "850b442244c4b7f4ad88f192",
             "3a7398d61f4dc329d694e22e",
             "652f5040799df631ab00df2f",
+            "a5e0b51eb696ed6a314263c7",
             "d5654dd04d8c2695e07e29a5",
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
@@ -63430,22 +64089,27 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 146,
-          "publisher_count": 69,
+          "count": 153,
+          "publisher_count": 70,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。",
           "evidence_ids": [
-            "f9544f2081e72ce9a584243e",
-            "30de0ed03fca03009e1c314e",
-            "0515a9e00f5ccad70c34c791"
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644"
           ],
           "article_ids": [
+            "686b8b2ccba1e97e56900464",
+            "0d343a54f05f54ed9d42faec",
+            "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
             "30de0ed03fca03009e1c314e",
             "0515a9e00f5ccad70c34c791",
             "ed75f327eab0c377ad35416f",
             "e3212194093855c2ee87362d",
             "212c3fe412517e11793f323b",
+            "1be495ce3679c0b3df290e1b",
             "df8e81753f25d1349a648771",
+            "6074871950f1e67e994aa019",
             "3e95505f3f8c368a05732fdc",
             "59075938f92bb3284b94bd71",
             "e7828858b91045629cc4149e",
@@ -63454,11 +64118,13 @@
             "ef73a99591ea567fa0a226a8",
             "f8f2053e9d2ba43851cc027e",
             "3959e2e7c8ec396db3f90bd8",
+            "2bc9cb5f182fb67a95463697",
             "6e47809f63baab72a33ceb18",
             "1512f588f99be86241bb9996",
             "574476129e04215507d17674",
             "a7929ec3b08edd21ed5d9ad7",
             "81a91006fcd4b5d3db2b109d",
+            "41de40b4db22c3b28e4688e5",
             "57962d3055e882b767dc55e5",
             "753ccb865d1082f39812c1d6",
             "ba621955ee25c069259e1df8",
@@ -63602,16 +64268,17 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 49,
+          "count": 50,
           "publisher_count": 26,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "a69969a4ece6cf07149b302f",
-            "c715b3eaf04970af540a3581",
-            "3f632a7fafc9b93f2d2d09f7"
+            "9a8d2a14a2490d187e0107a6",
+            "c715b3eaf04970af540a3581"
           ],
           "article_ids": [
             "a69969a4ece6cf07149b302f",
+            "9a8d2a14a2490d187e0107a6",
             "c715b3eaf04970af540a3581",
             "3f632a7fafc9b93f2d2d09f7",
             "f9415c7bb2ee3c18aab7d947",
@@ -63693,7 +64360,7 @@
           ]
         }
       ],
-      "total_topics": 7,
+      "total_topics": 8,
       "insights": [
         {
           "category": "ai",
@@ -63713,18 +64380,20 @@
         },
         {
           "category": "tech",
-          "label": "AI運用を支える出典追跡とアクセス制御",
-          "observation": "DyaniaのSynapsis AIは病院内のGPUサーバーで診療記録を解析し、出典を追跡できる所見を医療者に提示する。人工心臓弁研究では長期リスク予測モデルの構築を支援した。NVIDIAはエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellのCNCF寄贈を発表し、GPUクラスタ管理用のNVKE・NVKRは公開プレビューを開始した。",
-          "interpretation": "専門業務へのAI導入では、出力の根拠を確認できることと、実行できる操作を制限できることが運用設計の重要な条件になる可能性がある。これらの事例だけでは医療成果や運用安全性の改善は確認できない。",
-          "next_question": "診療記録の所見を原文で確認する作業時間と誤抽出率、エージェントの禁止操作を遮断できる割合は、実運用を想定した試験でどうなるか。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
+            "ef1feda8bf1b887c5755deeb",
             "652f5040799df631ab00df2f",
-            "baed9ec678490a473ab8b0d0"
+            "22b10b5414c3e497f7e32838"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "Over two days at COEX, more than 2,000 attendees converged for AI Day Seoul, bringing together Korea’s industry leaders, startups and developer communities advancing physical… ／ NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 ／ X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to…",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
+            "ef1feda8bf1b887c5755deeb",
             "652f5040799df631ab00df2f",
-            "baed9ec678490a473ab8b0d0"
+            "22b10b5414c3e497f7e32838"
           ]
         },
         {
@@ -63746,6 +64415,15 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "ef1feda8bf1b887c5755deeb",
+        "686b8b2ccba1e97e56900464",
+        "78e8446a8f47e07052fb62a7",
+        "82d8202d1269ef0fd585c8d3",
+        "0d343a54f05f54ed9d42faec",
+        "68c7418135d4c512512bb690",
+        "7f2aab941aab9f0d5c0d62f0",
+        "2b181dd4febe87192648dfd6",
+        "92a19f7706e1b0771d0bb644",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
@@ -63761,23 +64439,29 @@
         "a9fd70812f45e0d3659321c8",
         "32002f9fd2875a739db16df6",
         "ed75f327eab0c377ad35416f",
+        "4fcfea06e598829f73084e0f",
         "850b442244c4b7f4ad88f192",
         "6b2afd69a8e3374ab63633c7",
         "e3212194093855c2ee87362d",
         "212c3fe412517e11793f323b",
         "24dd489e462d9ca0af98a41f",
+        "1be495ce3679c0b3df290e1b",
         "e93e7f3df0a4af37a12082dd",
         "52220a8a3e3304b1d64089ea",
         "df8e81753f25d1349a648771",
         "efe9ad1d964b7f922ed66e78",
+        "6074871950f1e67e994aa019",
         "f7fccc4f674876b69a984187",
         "3e95505f3f8c368a05732fdc",
         "eecc43cd3283bc489068d5b3",
+        "ce02a6dd67cd272d4ccd329a",
         "f7375c2582bf6e508b1b0975",
         "3a7398d61f4dc329d694e22e",
         "59075938f92bb3284b94bd71",
         "a69969a4ece6cf07149b302f",
         "43d63a11c34a2f2ed80e4cf6",
+        "433dee8f29a183128cc40fde",
+        "9a8d2a14a2490d187e0107a6",
         "c5aecbe65b1d888565f616d7",
         "61402a16babb990e75636946",
         "08e1f0c1c2823173a049922c",
@@ -63788,11 +64472,14 @@
         "b759b56c51a00bd8fb24accb",
         "12e32ecfb3f8bc51e4894bf8",
         "309d3e1e9f6ac79f5ce38f32",
+        "a5e0b51eb696ed6a314263c7",
         "ef73a99591ea567fa0a226a8",
+        "0cbcb6a50bd4c265a6748770",
         "d5654dd04d8c2695e07e29a5",
         "e674b0704178b35bbd78de29",
         "f8f2053e9d2ba43851cc027e",
         "3959e2e7c8ec396db3f90bd8",
+        "2bc9cb5f182fb67a95463697",
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
@@ -63821,6 +64508,8 @@
         "55eb77f322d3c99288b7d5e6",
         "1b83748b845f96f7a8833366",
         "ba88b299ae5527abd4b1e564",
+        "c56f84f552f39506e6490dfb",
+        "41de40b4db22c3b28e4688e5",
         "bb823f150c08e73c9849630c",
         "57962d3055e882b767dc55e5",
         "a86d885907f34b1d9f6881ad",
@@ -63836,6 +64525,7 @@
         "f9415c7bb2ee3c18aab7d947",
         "9618da74ab1b0f372e5d2247",
         "4f8ae060a2f2c39af1fe97e2",
+        "8b00f47e29eb7fe59f2758fb",
         "972008a528e79fd43fead645",
         "7e667be10707332eb628804f",
         "8ed51f62d6caf095fa7194cd",
@@ -64376,18 +65066,27 @@
       ]
     }
   },
-  "report_updated_at": "2026-11-16T06:01:27.852772+09:00",
+  "report_updated_at": "2026-11-16T09:53:28.789163+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-15T21:01:27.583451+00:00",
+    "attempted_at": "2026-11-16T00:53:28.443684+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 0,
+    "new_reviews": 1,
     "updated_periods": [
       "overview",
+      "weekly",
       "monthly"
     ],
     "errors": [
+      {
+        "article_id": "7f2aab941aab9f0d5c0d62f0",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "2b181dd4febe87192648dfd6",
+        "stage": "original_fetch"
+      },
       {
         "article_id": "61402a16babb990e75636946",
         "stage": "original_fetch"
@@ -64398,14 +65097,6 @@
       },
       {
         "article_id": "fa4b7bdf01fbcfe0b00a0649",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "e8f6969bc342a64cbe3dacec",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "0eaab367b69afd9c8208df41",
         "stage": "original_fetch"
       }
     ],
@@ -64441,7 +65132,7 @@
       ],
       "last_success_at": "2026-11-15T21:00:14.028783+00:00"
     },
-    "last_success_at": "2026-11-15T21:01:27.583451+00:00"
+    "last_success_at": "2026-11-16T00:53:28.443684+00:00"
   },
   "topic_definitions": [
     {
@@ -64955,11 +65646,11 @@
     ]
   },
   "picks": [
-    "f27cee38438dda294da0bd40",
-    "40b154e296b0d6ebbf2c6ce2",
-    "a113e5f4d840d66818774a15",
-    "1b79ddb528f300d848838366",
-    "f9544f2081e72ce9a584243e",
-    "30de0ed03fca03009e1c314e"
+    "7f2aab941aab9f0d5c0d62f0",
+    "2b181dd4febe87192648dfd6",
+    "ef1feda8bf1b887c5755deeb",
+    "78e8446a8f47e07052fb62a7",
+    "686b8b2ccba1e97e56900464",
+    "0d343a54f05f54ed9d42faec"
   ]
 }
