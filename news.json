@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-16T21:01:53.925113Z",
-  "last_attempt_at": "2026-11-16T21:01:53.925113Z",
+  "updated_at": "2026-11-17T03:36:39.137816Z",
+  "last_attempt_at": "2026-11-17T03:36:39.137816Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 46,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-16T21:01:53.925113Z",
+      "checked_at": "2026-11-17T03:36:39.137816Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-17T03:36:39.137816Z",
+      "new_count": 23,
+      "status": "partial"
+    },
     {
       "at": "2026-11-16T21:01:53.925113Z",
       "new_count": 0,
@@ -893,6 +898,213 @@
   ],
   "articles": [
     {
+      "id": "145285eac41be95818d9053f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic上場カウントダウン、パッシブ買い最大190億ドル規模も指数採用はSpaceXより後手に - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ONFI3UkxXVFYzbzhGWm1RNkpkSXV1NUd3Q051WHhUdEJXaUdkanRlUmpudGFDcFBZNk5PUTVLQTN0UVF0dThUWWJhR2h3eGdYNTd1U0haN3FEbHF5ZDRYTFZsOUozZHM1RWtmd2NXOXIxYUFt?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "Anthropic上場カウントダウン、パッシブ買い最大190億ドル規模も指数採用はSpaceXより後手に BigGo ファイナンス",
+      "published_at": "2026-11-17T03:05:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "59834f8059b1a28ba367562b",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "韓国Samsung Electronics、教室に「Galaxy XR」導入…AI教育の修了者20万人突破 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93NnQwSUM3cUlxYUNxcURXTFgxTFR6bDNZMjBBWjczbUJPVnZLaktiNXRWb05vZnRpREU5cllqNEVnTWVOMFpnd3dVNkEzOG1GWG1ZYnY3X2NnQUJLOU9xUFdnMnh3alZ0dTd4YmR1M3NtOU11?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "韓国Samsung Electronics、教室に「Galaxy XR」導入…AI教育の修了者20万人突破 BigGo ファイナンス",
+      "published_at": "2026-11-17T03:05:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "349743d543fcc661f25667ca",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "韓国で超小型カメラ・AIイヤホン「カンニングセット」拡散…韓国放送メディア通信委員会が流通遮断に着手 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91WktUaVRuczN1dnE0U0puX0ctX3dLVlNZYy1pR0Y4emhaaVRKQ05XcXJidk51djczQzlNRGdNNmN2VVhPMmlxOUtNcDhBWEpqYzNYeV8tTlUxeFFQclkzZUx0SHEtd2M1ck1rMkhsbE5EaUtN?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "韓国で超小型カメラ・AIイヤホン「カンニングセット」拡散…韓国放送メディア通信委員会が流通遮断に着手 BigGo ファイナンス",
+      "published_at": "2026-11-17T02:35:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "3642fee21ae067d962366d1c",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI時代に子どもが身につけたい力とは？ 教育の専門家が語る「夢中」を止めない親のかかわり方（AERA with Kids＋） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBKODlPVlM5RWxKUENFdnFBSmJleUNmTHZ0bmhvbEpzZGxOQmFTUnMwQUR3ZDRHcjZQNFJYTlh2aVhhV0JxR19ENWk4N3h1enYzbExKWER5bldEYWJhRWREWkluUjN1amZWUjdRWloxUFN4RG50ckliTjRKRTRCQVE?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AI時代に子どもが身につけたい力とは？ 教育の専門家が語る「夢中」を止めない親のかかわり方（AERA with Kids＋） Yahoo!ニュース",
+      "published_at": "2026-11-17T02:30:37Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "cab2e13e41553bb3d6bf1403",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AnthropicのIPOに応募6倍、OpenAIは資金調達に苦戦 AI投資市場に異変 - 株式会社エクサウィザーズ",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5WeTA0VWRMZU9HT0NTWmp2RTFyUTJDM1dyVkU5Z1czMWE4bnJwTTBRQmZSejVoRGh4YVp5eTQzZnlRWEV1WEJxLW9naWNTSVNDX2syNWtjTnVYQTNPVGh6MXhYOXNYQXB0?oc=5",
+      "publisher": "株式会社エクサウィザーズ",
+      "summary": "AnthropicのIPOに応募6倍、OpenAIは資金調達に苦戦 AI投資市場に異変 株式会社エクサウィザーズ",
+      "published_at": "2026-11-17T01:51:05Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "43bf57ce7fed540fcfed4df2",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、深刻な脆弱性の公開スケジュールを短縮へ ―AIを活用した脆弱性発見に対応 - gihyo.jp",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0V6XzdnS1FIYkswSnpGejdXeG9BVDAtRUJHaGg2dTB5T3FfZk5pWWdVb25oV0hWeE9DMDc2Nk5TRk02Q05XaFg4SlV3ZkFGbzByQnBJVVdTRGYyNWRWWXZxX2VoVUY2XzNPaDkzYlVDT01iSm9uMzhBVXpWRExReUI4VjBBSG55ajlsVg?oc=5",
+      "publisher": "gihyo.jp",
+      "summary": "Anthropic、深刻な脆弱性の公開スケジュールを短縮へ ―AIを活用した脆弱性発見に対応 gihyo.jp",
+      "published_at": "2026-11-17T01:49:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "ffc9c04f0c98c6b890a67ad8",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "Webメディア「ICT教育ニュース」にて「保育博2026－保育・教育ビジネス＆サービスフェア－」への出展に関して掲載されました - 千株式会社",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBHZEgwS3VaN3ZnZkdPSnEwblI3RVprZHlGbm9RSWNId0lFUVh6VHROdXJQa1J6UlN0SVFYUUZ2eDNsQQ?oc=5",
+      "publisher": "千株式会社",
+      "summary": "Webメディア「ICT教育ニュース」にて「保育博2026－保育・教育ビジネス＆サービスフェア－」への出展に関して掲載されました 千株式会社",
+      "published_at": "2026-11-17T01:43:32Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "parenting",
+        "education"
+      ]
+    },
+    {
+      "id": "e09757121a31968a7d799223",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "退職から2カ月で前言撤回、Anthropic元研究員「もしかしたら戻るかも」 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YUjZMRzBPQjhacW42VXhldmdDSDB4OFpzLVF2am5WU01BcXlfVjNOSXg2VzljeVZTTnBQaHpNZEVNN2xmbS1wVHplcmg3bENZUVBvZVRHblQ0eTMzRUlyOWdJUE85c0RqMkVzTHNCdXZ4dE5y?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "退職から2カ月で前言撤回、Anthropic元研究員「もしかしたら戻るかも」 BigGo ファイナンス",
+      "published_at": "2026-11-17T01:35:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "03f0b0bfd3f26d8d1dc5d45c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pZlNSVDBFREg4RHFhbngzMlNDZUg1TnA3UDRCWUliNjJ6WjB2WHdqdGNkWktVZVRJNnJ4UmlwTUlKMmxnaFc4dUNPMjFraUpFcVllbEdYMTd4WFA0MC1ULXFQMktuRlN0UHc?oc=5",
+      "publisher": "ITmedia",
+      "summary": "OpenAIをカリフォルニア州が提訴 「AIエージェントの制御を80回以上失った」 ITmedia",
+      "published_at": "2026-11-16T23:04:43Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "de56bb3870ea939c0baf1d77",
+      "category": "tech",
+      "source_id": "nvidia",
+      "title": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+      "url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+      "publisher": "NVIDIA 公式ブログ",
+      "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and developers. The kit is a four-node cluster of NVIDIA DGX Spark systems, each connected directly to its two neighbors in a ring, with an NVIDIA HPC SDK installation playbook coming […]",
+      "published_at": "2026-11-16T23:00:05Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": "NVIDIA",
+      "origin_kind": "official",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "4ee1ac09f9b5bffcf45dd3d8",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "スタディポケット、教育向け生成AIの新製品を12月1日に発表（こどもとIT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4bUZBVUJYcS1panJLSkZXd0ltZmRMRWt6RlFOZUJrT3lpYmZ4Y2xDR0IxX3B1Y3ZqQTlCZlNjNTJZVmRFS3lORjZqTi02RXdrSEoyMjV6ZkdUTzA4TVlUWU5NVjUxdVhzVXNZR1lyTjRXaTJhMTBIaFRYaFQtcWc?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "スタディポケット、教育向け生成AIの新製品を12月1日に発表（こどもとIT） Yahoo!ニュース",
+      "published_at": "2026-11-16T22:11:19Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "0b5bd8df1ef01c7f51349d4e",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AIの“使い方”で広がる子どもの「学力格差」……OECD調査が示した家庭学習での「要注意な利用法」とは（デイリー新潮） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWEpLcjFnNTdzRVJtdElzazl4T3ZpZi1WSXV4MVBzZjhBdEJkVWdCd0l6dlZPZ09fV2VVaDkwaHVlYTBBa1E2dERWWHNtNGZJaXpBMzJ5ZFpaa2VSa2lGdmFoc0V1V25QVEVGTnpFMFc2OHdLSXI4VkF0WnZhQ0s5aUUxUFRlai14?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AIの“使い方”で広がる子どもの「学力格差」……OECD調査が示した家庭学習での「要注意な利用法」とは（デイリー新潮） Yahoo!ニュース",
+      "published_at": "2026-11-16T21:00:11Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "4bdd97e8c7ad448ecb2458c4",
       "category": "tech",
       "source_id": "nvidia",
@@ -1160,6 +1372,40 @@
       ]
     },
     {
+      "id": "39394d50c72e3724729a2117",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic、Claudeにホワイトボード・スプレッドシート・データ機能を追加…オフィス生産性ツール市場を狙い撃ち - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85eGwxZVg5N2dVZFR1bzJPTXd5clpxYVo1UEZjdkZYaTZfV1lEZ1VleURMdmVTYU53WktWQ1phVUVnZEd2SU14dVgxQ0RSU2NBN2ltYl9ULW5wZDFIZHNydE1FYy1zRlRHWjlCOWtGSlpldVNk?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "Anthropic、Claudeにホワイトボード・スプレッドシート・データ機能を追加…オフィス生産性ツール市場を狙い撃ち BigGo ファイナンス",
+      "published_at": "2026-11-16T09:45:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "b575069a0eb90b6c85bd5cf1",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、企業向け新機能「Businesses in ChatGPT」ベータ版を提供開始。ChatGPT上で自社情報を管理 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zMHFXOW1jQjF6Z1FJalJJMkM2ZVNxOUJ5Mkx6OEpMeUUxOHNsVF85ajFpbmdIUlpBbUtDc1phdGFHWDU2M3k0V1M4Smd0TUVXMnZSVDlGMzFHbXlydFo2dHFlVmdEU2FneDg2NQ?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "OpenAI、企業向け新機能「Businesses in ChatGPT」ベータ版を提供開始。ChatGPT上で自社情報を管理 AIsmiley",
+      "published_at": "2026-11-16T09:19:06Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "c0cb7df2949367191cbdeafd",
       "category": "tech",
       "source_id": "tech",
@@ -1175,6 +1421,42 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
+      ]
+    },
+    {
+      "id": "2c583aae6e9d99666b3213d5",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "マツダ、新型「MAZDA CX-5」のGoogle Gemini対応を開始。ハンズフリーで一部の車両操作や情報取得が可能に - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81Yy0tVFl6S3FKNWZiUVg3cktEMWNoNjlWYmh1aUhGM01yMjhoSW1XaF9aSGNERjdpbExvcWZHc1hQbU96ZWk2b1JUcmZoREQyMnlvQnpsM0NBZVhGdzlkR2xINFVPQQ?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "マツダ、新型「MAZDA CX-5」のGoogle Gemini対応を開始。ハンズフリーで一部の車両操作や情報取得が可能に AIsmiley",
+      "published_at": "2026-11-16T09:14:05Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "42ebf0e0d9a3772e64ae0e81",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、エージェントワークフロー向け新AIモデル「Gemini 4 Hydrogen」提供開始 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZVUZlT2FvWGR5Y01FWTdEajQ4bjVnZkJlSVk4dWVFTWE2My01dFRBQ1gwQ1ZrVFdFNWVZSWl5QWNIbVdWM3A0WERHekZIMVM4NlhUNU5TTWRScFpiY2xRb19KcUNKcFZxT3FYaHVuRHhjdw?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "Google、エージェントワークフロー向け新AIモデル「Gemini 4 Hydrogen」提供開始 AIsmiley",
+      "published_at": "2026-11-16T09:09:03Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1229,6 +1511,24 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "98c776e7f9b26c508f5d99d2",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "グーグル、「医療機関向けGemini」を先行提供──電子カルテ確認や保険申請を支援 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWazg5YU5aYXVwWmlaenJZaW5NbzFMaUg1Sm04clJhNUdqSU45cXRDcXVobHRSZmZZQzRHN0NaUnVSSzBpUkJkVkk0ajdVcG9pejNPa18tbUNMdw?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "グーグル、「医療機関向けGemini」を先行提供──電子カルテ確認や保険申請を支援 Forbes JAPAN",
+      "published_at": "2026-11-16T08:30:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1542,6 +1842,24 @@
       ]
     },
     {
+      "id": "a9b34b6e86a1b3642f35f617",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も（PC Watch） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oeW93ckNFRnNIR29TMjNZZ0RRVTNOWjZoRDNidkRVV2FRV3RYUWZZVUF0WDdGRVdpS29KX0dpUnJPWFFZX0Y4NnlGZFRQQjNLV2dONDNsd09PdVVSX3pSeUE0RnBYaFlGc3RFdWwyN1dFMVk2X3JiRFZrZlZkN3c?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も（PC Watch） Yahoo!ニュース",
+      "published_at": "2026-11-16T04:25:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
       "id": "10081c875af351504c74557f",
       "category": "tech",
       "source_id": "tech",
@@ -1558,6 +1876,24 @@
       "theme_ids": [
         "models",
         "development"
+      ]
+    },
+    {
+      "id": "3643157a98a3d7716c54af24",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini 4 Hydrogenとは？性能・料金・使い方と3.8 Flashとの違いを解説 - AIsmiley",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0takEyYlczSkxDWWYwdXlLTU00MUNtcEtBYmpuQUVaa2Rxb2pJWi00aHdHdWFkclZDdVFnYTI2QTdhbHJ1QlZQN3B1RHVYUmE5WUs1eTR0T1JWR1ZjT3c?oc=5",
+      "publisher": "AIsmiley",
+      "summary": "Gemini 4 Hydrogenとは？性能・料金・使い方と3.8 Flashとの違いを解説 AIsmiley",
+      "published_at": "2026-11-16T03:02:27Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1767,6 +2103,22 @@
       "theme_ids": []
     },
     {
+      "id": "9b119bed88cfceda25364ad9",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "At Holiday Extras, dots get to work before anyone asks",
+      "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
+      "publisher": "OpenAI 公式",
+      "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "published_at": "2026-11-16T00:00:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "686b8b2ccba1e97e56900464",
       "category": "parenting",
       "source_id": "parenting",
@@ -1873,6 +2225,22 @@
       "theme_ids": [
         "camera"
       ]
+    },
+    {
+      "id": "dac80800bcb7f90f04418453",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、エージェントが利用者の承認を得て支払う「ChatGPT Wallet」を開始 - BRIDGE（ブリッジ）",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rX1c1VjV4aFV0MXlTQmZxZENMakk0ZlZ3cGpDcDFJTG5iNHJ4Q1A2TklsT2NmcW9YUVBCcXdEc3BiQ0tZQXpGSkRMS3ZGbGJwdjEzR21HODdLR0wyalVYcTdnanhjSDBQYUtSRUk0U1o5Mzg?oc=5",
+      "publisher": "BRIDGE（ブリッジ）",
+      "summary": "OpenAI、エージェントが利用者の承認を得て支払う「ChatGPT Wallet」を開始 BRIDGE（ブリッジ）",
+      "published_at": "2026-11-15T23:12:30Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "47892b94600bf2e289c33bf7",
@@ -2101,6 +2469,24 @@
       "topic_id": "ai-agents",
       "in_scope": true,
       "theme_ids": []
+    },
+    {
+      "id": "1404a60dd7508ceca1be371a",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Geminiが「あなたの家計」を読み始めた、銀行・カード口座も連携し米国の全ユーザーへ（ビジネス＋IT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LTVF3SzFlTjFQSS16Z1I5cEoxZWpqTFp5WU8zTnpJUUxla1lHb25Fa3lFSENsT19IMmFXdW1rNlN5eGctdFdTZ05TRS15SFZUSjVFbWlhZ282czcyd2Fjc21sSWtPckphUEd1OFpfTXV5SENQVWtPZjRYWi1FMlk?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Geminiが「あなたの家計」を読み始めた、銀行・カード口座も連携し米国の全ユーザーへ（ビジネス＋IT） Yahoo!ニュース",
+      "published_at": "2026-11-15T11:55:06Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
     },
     {
       "id": "f27cee38438dda294da0bd40",
@@ -2853,7 +3239,7 @@
       "id": "652f5040799df631ab00df2f",
       "category": "tech",
       "source_id": "nvidia",
-      "title": "How AI Is Helping Care Teams Get Patients the Right Care, Sooner",
+      "title": "AI Is Helping Care Teams Get Patients the Right Care, Sooner",
       "url": "https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/",
       "publisher": "NVIDIA 公式ブログ",
       "summary": "From pediatric research to smart hospitals, AI is helping care teams spend less time on routine tasks and more time with patients. Health systems and startups are putting it to work across healthcare, from matching patients to clinical trials to supporting radiologists, hospital teams and patients at home. Clinicians stay at the center, reviewing AI […]",
@@ -3144,6 +3530,25 @@
       "summary": "これは勝ち組AIグラスの予感！ AI快適、カメラ便利、のRokid製モデルの最新版はさらに良くなってた Infoseek",
       "published_at": "2026-11-13T08:30:00Z",
       "collected_at": "2026-11-15T21:00:07.524198Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "camera"
+      ]
+    },
+    {
+      "id": "ae8ac45194e114e6d47c3178",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "これは勝ち組AIグラスの予感！ AI快適、カメラ便利、のRokid製モデルの最新版はさらに良くなってた（アスキー） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqTS1IekpUSmtxY1lOZjIxQjdHNkdjZ1ZLRGZxanpRUGdUM0pUcUxpN3NHbmktdGNlUUd4TDJmWkQ4aHRGVlZUM2xsN09JeW1lUUk5c1BVSml5dTM1OF9sVGxwM0NXVWtCRVhWOEpiS01nc1RtMW5DZG90eDdXNGM?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "これは勝ち組AIグラスの予感！ AI快適、カメラ便利、のRokid製モデルの最新版はさらに良くなってた（アスキー） Yahoo!ニュース",
+      "published_at": "2026-11-13T08:30:00Z",
+      "collected_at": "2026-11-17T03:36:39.137816Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -5947,7 +6352,7 @@
       "id": "22b10b5414c3e497f7e32838",
       "category": "tech",
       "source_id": "nvidia",
-      "title": "How AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
+      "title": "AI Helps Recyclers Turn Mixed Waste Into Reusable Material",
       "url": "https://blogs.nvidia.com/blog/ai-recycling-startups/",
       "publisher": "NVIDIA 公式ブログ",
       "summary": "Vision AI and robotics pick what’s worth recovering out of conveyor belts of used clothing, bottles and mixed recyclables, diverting thousands of tons of materials from landfills.",
@@ -50277,23 +50682,23 @@
       "kind": "weekly",
       "period_start": "2026-11-16",
       "period_end": "2026-11-22",
-      "generated_at": "2026-11-17T06:02:01.380475+09:00",
+      "generated_at": "2026-11-17T12:36:46.880495+09:00",
       "is_complete": false,
-      "article_count": 60,
+      "article_count": 81,
       "category_counts": {
-        "tech": 19,
-        "ai": 23,
-        "parenting": 18
+        "ai": 37,
+        "parenting": 23,
+        "tech": 21
       },
-      "overview": "NVIDIAの供給網責任者は、歩留まり・処理期間の週次確認とチップから顧客請求までの追跡を通じ、必要時にチップ完成からシステム完成までを5週間から2週間へ短縮したと説明した。Lambdaは1万基超のGPU接続に光学エンジンを一体化したスイッチを導入し、同社試験で従来と同じスループットを維持しつつ通信遅延をラック規模で約4％、ポッド規模で最大約10％低減した。一方、科学・工学・分析向けのRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。",
+      "overview": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+        "attempted_at": "2026-11-17T03:36:46.542227+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -50354,13 +50759,31 @@
           ],
           "last_success_at": "2026-11-16T21:00:14.729396+00:00"
         },
-        "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+        "last_success_at": "2026-11-17T03:36:46.542227+00:00"
       },
       "genre_briefs": [
         {
           "category": "tech",
           "label": "テック",
           "stories": [
+            {
+              "article_id": "de56bb3870ea939c0baf1d77",
+              "category": "tech",
+              "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+              "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-17T03:36:46.542227+00:00",
+              "published_at": "2026-11-16T23:00:05Z"
+            },
             {
               "article_id": "4bdd97e8c7ad448ecb2458c4",
               "headline": "NVIDIA、AIシステム量産を支える供給網と製造期間短縮の実績を紹介",
@@ -50396,29 +50819,11 @@
               "model": "codex-cli",
               "evidence_quote": "Each switch has 18 removable external light sources, which supply light to the optical engines.",
               "published_at": "2026-11-16T16:00:51Z"
-            },
-            {
-              "article_id": "b506ae39931d1477fcf76b53",
-              "headline": "NVIDIA、科学計算向けGPU「Rubin HPC」を発表、2028年提供予定",
-              "summary": "NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
-              "impact": "考察：データ待ちが支配的な科学計算でも性能が向上すれば、仮説の検証と修正を繰り返す研究・設計工程を短縮できる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表段階の製品であり、本文に実測性能、価格、具体的な出荷時期はない。研究成果や開発期間の改善は実証されていない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-16T21:00:14.729396+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Rubin HPC is expected to be available in 2028.",
-              "published_at": "2026-11-16T16:00:01Z"
             }
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -50427,29 +50832,40 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 20,
-          "publisher_count": 10,
+          "count": 31,
+          "publisher_count": 15,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "c083b3c8f2f647fafbc88caa",
-            "6ef7cbbaf4c4b812e0610dce",
-            "4b4bdccdaeb5b84f77421f0f"
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2"
           ],
           "article_ids": [
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2",
+            "e09757121a31968a7d799223",
             "c083b3c8f2f647fafbc88caa",
             "022840cf37b3ce1b30fff5d9",
             "6566bbb1316dc6b1464a6017",
+            "39394d50c72e3724729a2117",
+            "b575069a0eb90b6c85bd5cf1",
+            "2c583aae6e9d99666b3213d5",
             "82c05437d6834e345ccd386b",
+            "98c776e7f9b26c508f5d99d2",
             "25c24270298c9da6ab60b3a0",
             "6ef7cbbaf4c4b812e0610dce",
             "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "9b336b2fbbbe147d1433cb77",
+            "a9b34b6e86a1b3642f35f617",
+            "3643157a98a3d7716c54af24",
             "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "9ad9575aa75b8262412431ee",
             "c4f6264ca727f7fec1d28424",
             "44e514c6aa416aaab4578fd9",
+            "9b119bed88cfceda25364ad9",
             "977fd0d11108b02e5e5e0116",
             "47892b94600bf2e289c33bf7",
             "7f2aab941aab9f0d5c0d62f0",
@@ -50465,15 +50881,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 19,
+          "count": 21,
           "publisher_count": 11,
-          "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
+          "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "4bdd97e8c7ad448ecb2458c4",
-            "5085f93ed0f8f4ae0e16f1dd",
-            "c0cb7df2949367191cbdeafd"
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
+            "5085f93ed0f8f4ae0e16f1dd"
           ],
           "article_ids": [
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
             "e2c156bd20c00200f4816543",
             "b506ae39931d1477fcf76b53",
@@ -50502,15 +50920,20 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 17,
-          "publisher_count": 14,
+          "count": 22,
+          "publisher_count": 16,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "0b3caf27747b3e37f4690b35",
-            "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052"
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8"
           ],
           "article_ids": [
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8",
+            "4ee1ac09f9b5bffcf45dd3d8",
+            "0b5bd8df1ef01c7f51349d4e",
             "0b3caf27747b3e37f4690b35",
             "54dd758e0e2b8ca39511085c",
             "296541a5636ad0e706181052",
@@ -50545,16 +50968,20 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 5,
+          "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "ebb0b6198f1240e8afcbddf4",
-            "0a2e7fd30bf0190d3301e857"
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
+            "ebb0b6198f1240e8afcbddf4"
           ],
           "article_ids": [
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
             "ebb0b6198f1240e8afcbddf4",
-            "0a2e7fd30bf0190d3301e857"
+            "0a2e7fd30bf0190d3301e857",
+            "dac80800bcb7f90f04418453"
           ]
         },
         {
@@ -50588,25 +51015,37 @@
       "insights": [
         {
           "category": "tech",
-          "label": "AI・科学計算基盤を支える製造と通信の改善",
-          "observation": "NVIDIAの供給網責任者は、歩留まり・処理期間の週次確認とチップから顧客請求までの追跡を通じ、必要時にチップ完成からシステム完成までを5週間から2週間へ短縮したと説明した。Lambdaは1万基超のGPU接続に光学エンジンを一体化したスイッチを導入し、同社試験で従来と同じスループットを維持しつつ通信遅延をラック規模で約4％、ポッド規模で最大約10％低減した。一方、科学・工学・分析向けのRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。",
-          "interpretation": "これらは、大規模AI運用や科学計算の処理能力を実際に引き出すうえで、GPU自体の性能に加え、製造工程とGPU間通信の制約を減らすことが重要になる可能性を示す。ただし、製造期間短縮の常時達成や、通信遅延低減による処理全体の高速化、将来製品による研究成果の改善は確認できない。",
-          "next_question": "製造期間を2週間に短縮できた対象製品・条件と継続性は何か。Lambdaの通信遅延低減は、実運用の学習・推論時間や消費電力にどの程度反映されるか。Rubin HPCの提供時に、既存GPUと同条件で比較した科学計算の実測結果が公開されるか。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "e2c156bd20c00200f4816543",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "e2c156bd20c00200f4816543",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "145285eac41be95818d9053f",
+        "59834f8059b1a28ba367562b",
+        "349743d543fcc661f25667ca",
+        "3642fee21ae067d962366d1c",
+        "cab2e13e41553bb3d6bf1403",
+        "43bf57ce7fed540fcfed4df2",
+        "ffc9c04f0c98c6b890a67ad8",
+        "e09757121a31968a7d799223",
+        "03f0b0bfd3f26d8d1dc5d45c",
+        "de56bb3870ea939c0baf1d77",
+        "4ee1ac09f9b5bffcf45dd3d8",
+        "0b5bd8df1ef01c7f51349d4e",
         "4bdd97e8c7ad448ecb2458c4",
         "c083b3c8f2f647fafbc88caa",
         "022840cf37b3ce1b30fff5d9",
@@ -50619,10 +51058,15 @@
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "8c800e86c4e7021d83114b7b",
+        "39394d50c72e3724729a2117",
+        "b575069a0eb90b6c85bd5cf1",
         "c0cb7df2949367191cbdeafd",
+        "2c583aae6e9d99666b3213d5",
+        "42ebf0e0d9a3772e64ae0e81",
         "82c05437d6834e345ccd386b",
         "fd1930b979bb0d07b2bd9e39",
         "3e95505f3f8c368a05732fdc",
+        "98c776e7f9b26c508f5d99d2",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
         "25c24270298c9da6ab60b3a0",
@@ -50639,7 +51083,9 @@
         "baeefac806421ac5f306db83",
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
+        "a9b34b6e86a1b3642f35f617",
         "10081c875af351504c74557f",
+        "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
@@ -50651,11 +51097,13 @@
         "c4f6264ca727f7fec1d28424",
         "ef1feda8bf1b887c5755deeb",
         "44e514c6aa416aaab4578fd9",
+        "9b119bed88cfceda25364ad9",
         "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
         "82d8202d1269ef0fd585c8d3",
+        "dac80800bcb7f90f04418453",
         "47892b94600bf2e289c33bf7",
         "0d343a54f05f54ed9d42faec",
         "68c7418135d4c512512bb690",
@@ -50674,12 +51122,12 @@
       "kind": "weekly",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-17T06:02:01.380475+09:00",
+      "generated_at": "2026-11-17T12:36:46.880495+09:00",
       "is_complete": true,
-      "article_count": 348,
+      "article_count": 350,
       "category_counts": {
-        "ai": 192,
-        "tech": 80,
+        "ai": 193,
+        "tech": 81,
         "parenting": 76
       },
       "overview": "DeepSeekはdeepseek-flashのAPIで、引用付き検索、PDF・Office文書・画像入力、URL読取を提供開始した。ツール呼出しと文脈構築をサービス側が担い、開発者は思考モードやツール設定で動作を指定する。料金、実運用の精度・遅延は資料に示されていない。 NVIDIAが紹介したDyania HealthのSynapsis AIは、病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録解析を通じ、術後の弁劣化・再介入リスクの予測モデル構築を支援した。医療者が出力を確認する運用で、予測精度や一般提供条件は示されていない。 Khan Academyは中学・高校相当およびAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量やばねの振動などの変数を操作し、データ収集・分析と設問への回答を進められる。幼児・小学生向け提供、日本語対応、今回の統合による学習効果は確認できない。",
@@ -50687,10 +51135,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+        "attempted_at": "2026-11-17T03:36:46.542227+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -50751,7 +51199,7 @@
           ],
           "last_success_at": "2026-11-16T21:00:14.729396+00:00"
         },
-        "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+        "last_success_at": "2026-11-17T03:36:46.542227+00:00"
       },
       "genre_briefs": [
         {
@@ -50910,15 +51358,16 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 165,
+          "count": 166,
           "publisher_count": 43,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
+            "1404a60dd7508ceca1be371a",
             "f27cee38438dda294da0bd40",
-            "40b154e296b0d6ebbf2c6ce2",
-            "32002f9fd2875a739db16df6"
+            "40b154e296b0d6ebbf2c6ce2"
           ],
           "article_ids": [
+            "1404a60dd7508ceca1be371a",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
@@ -51093,7 +51542,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 78,
+          "count": 79,
           "publisher_count": 43,
           "summary": "NVIDIAは、Dyania HealthのSynapsis AIによる診療記録解析の活用事例を紹介した。病院内のGPUサーバーで診療メモや検査結果を横断し、出典を追跡できる所見を提示する。Cleveland Clinicでは大動脈弁置換患者7,800人超の記録を解析し、術後3・5・10年時点の弁劣化と再介入リスクを予測するモデル構築を支援した。 X Facebook LinkedIn As world leaders gather for COP31 in Türkiye, the event’s emphasis on zero waste puts a practical challenge in focus: how to… NVIDIAは、自律型AIエージェントのツール利用や推論サービスへのアクセスをポリシーで制御するOpenShellをCNCFへ寄贈すると発表した。GPU基盤のクラスタ管理を自動化するNVKE・NVKRは公開プレビューを開始。推論環境を保存状態から復元するSnapshotでは、協力企業の試験で起動時間の短縮を報告した。",
           "evidence_ids": [
@@ -51116,6 +51565,7 @@
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
             "dc003b51c1ebec5746e333c9",
+            "ae8ac45194e114e6d47c3178",
             "6bb2b1bf4d7511f46cbdc909",
             "4423923cebd417cf2df2e9ef",
             "0771145fa4f263f1b09f6c2b",
@@ -51402,6 +51852,7 @@
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
         "3bf4cdfd8a4820b2199ec056",
+        "1404a60dd7508ceca1be371a",
         "f27cee38438dda294da0bd40",
         "1b79ddb528f300d848838366",
         "3261a48d15aaefa84fc388e3",
@@ -51459,6 +51910,7 @@
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
+        "ae8ac45194e114e6d47c3178",
         "073fafc6c951900c5286099b",
         "11cb13dd4168b9a6e9fee1e8",
         "6bb2b1bf4d7511f46cbdc909",
@@ -52751,23 +53203,23 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-17T06:02:01.380475+09:00",
+      "generated_at": "2026-11-17T12:36:46.880495+09:00",
       "is_complete": false,
-      "article_count": 709,
+      "article_count": 732,
       "category_counts": {
-        "tech": 172,
-        "ai": 367,
-        "parenting": 170
+        "ai": 382,
+        "parenting": 175,
+        "tech": 175
       },
-      "overview": "DeepSeekは開発者向けAPIで引用付き検索、文書・画像入力、URL読取を開放し、ツール呼出しと文脈構築をサービス側で担う。JioStarは15超の言語で動画やクリケット情報を探すアシスタントを公開し、回答生成と検証に別のモデルを使い、専門家も評価設計に参加した。両記事とも精度や費用の定量的成果は示していない。 Lambdaは1万基超のGPUを接続する設備に光学一体型スイッチを導入し、同社試験で同じスループットを維持しながらポッド規模の通信遅延が最大約10％低下したと報告した。NVIDIAは、需給上必要な際にチップ完成からシステム完成までを5週間から2週間に短縮した実績を紹介。一方、科学計算向けRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。 Khan Academyは中学・高校・AP理科の記事や演習内に、変数操作とデータ分析ができる無料のPhETシミュレーションを提供開始した。Google Classroomは教師が課題を割り当て、学習状況を把握できるGuided Learningの世界展開を開始。紹介された得点改善の比較試験は大学生の半日の統計学授業であり、中等教育や幼児・小学生の効果を示すものではない。",
+      "overview": "DeepSeekは開発者向けAPIで引用付き検索、文書・画像入力、URL読取を開放し、ツール呼出しと文脈構築をサービス側で担う。JioStarは15超の言語で動画やクリケット情報を探すアシスタントを公開し、回答生成と検証に別のモデルを使い、専門家も評価設計に参加した。両記事とも精度や費用の定量的成果は示していない。 At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyは中学・高校・AP理科の記事や演習内に、変数操作とデータ分析ができる無料のPhETシミュレーションを提供開始した。Google Classroomは教師が課題を割り当て、学習状況を把握できるGuided Learningの世界展開を開始。紹介された得点改善の比較試験は大学生の半日の統計学授業であり、中等教育や幼児・小学生の効果を示すものではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+        "attempted_at": "2026-11-17T03:36:46.542227+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -52828,7 +53280,7 @@
           ],
           "last_success_at": "2026-11-16T21:00:14.729396+00:00"
         },
-        "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+        "last_success_at": "2026-11-17T03:36:46.542227+00:00"
       },
       "genre_briefs": [
         {
@@ -52898,6 +53350,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "de56bb3870ea939c0baf1d77",
+              "category": "tech",
+              "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+              "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-17T03:36:46.542227+00:00",
+              "published_at": "2026-11-16T23:00:05Z"
+            },
+            {
               "article_id": "4bdd97e8c7ad448ecb2458c4",
               "headline": "NVIDIA、AIシステム量産を支える供給網と製造期間短縮の実績を紹介",
               "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。",
@@ -52932,24 +53402,6 @@
               "model": "codex-cli",
               "evidence_quote": "Each switch has 18 removable external light sources, which supply light to the optical engines.",
               "published_at": "2026-11-16T16:00:51Z"
-            },
-            {
-              "article_id": "b506ae39931d1477fcf76b53",
-              "headline": "NVIDIA、科学計算向けGPU「Rubin HPC」を発表、2028年提供予定",
-              "summary": "NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
-              "impact": "考察：データ待ちが支配的な科学計算でも性能が向上すれば、仮説の検証と修正を繰り返す研究・設計工程を短縮できる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表段階の製品であり、本文に実測性能、価格、具体的な出荷時期はない。研究成果や開発期間の改善は実証されていない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-16T21:00:14.729396+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Rubin HPC is expected to be available in 2028.",
-              "published_at": "2026-11-16T16:00:01Z"
             }
           ]
         },
@@ -53018,7 +53470,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -53027,35 +53479,47 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 310,
+          "count": 322,
           "publisher_count": 55,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
-            "c083b3c8f2f647fafbc88caa",
-            "6ef7cbbaf4c4b812e0610dce",
-            "4b4bdccdaeb5b84f77421f0f"
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2"
           ],
           "article_ids": [
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2",
+            "e09757121a31968a7d799223",
             "c083b3c8f2f647fafbc88caa",
             "022840cf37b3ce1b30fff5d9",
             "6566bbb1316dc6b1464a6017",
+            "39394d50c72e3724729a2117",
+            "b575069a0eb90b6c85bd5cf1",
+            "2c583aae6e9d99666b3213d5",
             "82c05437d6834e345ccd386b",
+            "98c776e7f9b26c508f5d99d2",
             "25c24270298c9da6ab60b3a0",
             "6ef7cbbaf4c4b812e0610dce",
             "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "9b336b2fbbbe147d1433cb77",
+            "a9b34b6e86a1b3642f35f617",
+            "3643157a98a3d7716c54af24",
             "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "9ad9575aa75b8262412431ee",
             "c4f6264ca727f7fec1d28424",
             "44e514c6aa416aaab4578fd9",
+            "9b119bed88cfceda25364ad9",
             "977fd0d11108b02e5e5e0116",
             "47892b94600bf2e289c33bf7",
             "7f2aab941aab9f0d5c0d62f0",
             "2b181dd4febe87192648dfd6",
             "146fda32ecad20374233e8ce",
             "46fb361c19cc7fdff7d41622",
+            "1404a60dd7508ceca1be371a",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
@@ -53355,15 +53819,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 167,
+          "count": 170,
           "publisher_count": 74,
-          "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
+          "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "4bdd97e8c7ad448ecb2458c4",
-            "5085f93ed0f8f4ae0e16f1dd",
-            "c0cb7df2949367191cbdeafd"
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
+            "5085f93ed0f8f4ae0e16f1dd"
           ],
           "article_ids": [
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
             "e2c156bd20c00200f4816543",
             "b506ae39931d1477fcf76b53",
@@ -53397,6 +53863,7 @@
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
             "dc003b51c1ebec5746e333c9",
+            "ae8ac45194e114e6d47c3178",
             "6bb2b1bf4d7511f46cbdc909",
             "4423923cebd417cf2df2e9ef",
             "0771145fa4f263f1b09f6c2b",
@@ -53540,15 +54007,20 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 165,
-          "publisher_count": 74,
+          "count": 170,
+          "publisher_count": 75,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。",
           "evidence_ids": [
-            "0b3caf27747b3e37f4690b35",
-            "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052"
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8"
           ],
           "article_ids": [
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8",
+            "4ee1ac09f9b5bffcf45dd3d8",
+            "0b5bd8df1ef01c7f51349d4e",
             "0b3caf27747b3e37f4690b35",
             "54dd758e0e2b8ca39511085c",
             "296541a5636ad0e706181052",
@@ -53731,17 +54203,20 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 55,
+          "count": 58,
           "publisher_count": 26,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "ebb0b6198f1240e8afcbddf4",
-            "0a2e7fd30bf0190d3301e857",
-            "3bf4cdfd8a4820b2199ec056"
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
+            "ebb0b6198f1240e8afcbddf4"
           ],
           "article_ids": [
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
             "ebb0b6198f1240e8afcbddf4",
             "0a2e7fd30bf0190d3301e857",
+            "dac80800bcb7f90f04418453",
             "3bf4cdfd8a4820b2199ec056",
             "a69969a4ece6cf07149b302f",
             "9a8d2a14a2490d187e0107a6",
@@ -53848,20 +54323,20 @@
         },
         {
           "category": "tech",
-          "label": "GPU基盤は通信と製造工程も検証対象に",
-          "observation": "Lambdaは1万基超のGPUを接続する設備に光学一体型スイッチを導入し、同社試験で同じスループットを維持しながらポッド規模の通信遅延が最大約10％低下したと報告した。NVIDIAは、需給上必要な際にチップ完成からシステム完成までを5週間から2週間に短縮した実績を紹介。一方、科学計算向けRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。",
-          "interpretation": "大規模計算基盤の利用可能性は、GPU単体の性能に加え、通信設計と製造工程にも左右される可能性がある。ただし、個別試験や特定条件での期間短縮から、設備全体の処理性能や納期を一般化することはできない。",
-          "next_question": "光学一体型スイッチの導入で実際の学習・科学計算の完了時間と消費電力はどう変わるか。また、製造期間を2週間に短縮できる製品・供給条件は何か。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
-            "e2c156bd20c00200f4816543",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
-            "e2c156bd20c00200f4816543",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ]
         },
         {
@@ -53883,6 +54358,18 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "145285eac41be95818d9053f",
+        "59834f8059b1a28ba367562b",
+        "349743d543fcc661f25667ca",
+        "3642fee21ae067d962366d1c",
+        "cab2e13e41553bb3d6bf1403",
+        "43bf57ce7fed540fcfed4df2",
+        "ffc9c04f0c98c6b890a67ad8",
+        "e09757121a31968a7d799223",
+        "03f0b0bfd3f26d8d1dc5d45c",
+        "de56bb3870ea939c0baf1d77",
+        "4ee1ac09f9b5bffcf45dd3d8",
+        "0b5bd8df1ef01c7f51349d4e",
         "4bdd97e8c7ad448ecb2458c4",
         "c083b3c8f2f647fafbc88caa",
         "022840cf37b3ce1b30fff5d9",
@@ -53895,10 +54382,15 @@
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "8c800e86c4e7021d83114b7b",
+        "39394d50c72e3724729a2117",
+        "b575069a0eb90b6c85bd5cf1",
         "c0cb7df2949367191cbdeafd",
+        "2c583aae6e9d99666b3213d5",
+        "42ebf0e0d9a3772e64ae0e81",
         "82c05437d6834e345ccd386b",
         "fd1930b979bb0d07b2bd9e39",
         "3e95505f3f8c368a05732fdc",
+        "98c776e7f9b26c508f5d99d2",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
         "25c24270298c9da6ab60b3a0",
@@ -53915,7 +54407,9 @@
         "baeefac806421ac5f306db83",
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
+        "a9b34b6e86a1b3642f35f617",
         "10081c875af351504c74557f",
+        "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
@@ -53927,11 +54421,13 @@
         "c4f6264ca727f7fec1d28424",
         "ef1feda8bf1b887c5755deeb",
         "44e514c6aa416aaab4578fd9",
+        "9b119bed88cfceda25364ad9",
         "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
         "82d8202d1269ef0fd585c8d3",
+        "dac80800bcb7f90f04418453",
         "47892b94600bf2e289c33bf7",
         "0d343a54f05f54ed9d42faec",
         "68c7418135d4c512512bb690",
@@ -53944,6 +54440,7 @@
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
         "3bf4cdfd8a4820b2199ec056",
+        "1404a60dd7508ceca1be371a",
         "f27cee38438dda294da0bd40",
         "1b79ddb528f300d848838366",
         "3261a48d15aaefa84fc388e3",
@@ -54001,6 +54498,7 @@
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
+        "ae8ac45194e114e6d47c3178",
         "073fafc6c951900c5286099b",
         "11cb13dd4168b9a6e9fee1e8",
         "6bb2b1bf4d7511f46cbdc909",
@@ -58139,7 +58637,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-17T06:02:01.380475+09:00",
+      "generated_at": "2026-11-17T12:36:46.880495+09:00",
       "is_complete": true,
       "article_count": 1121,
       "category_counts": {
@@ -58152,10 +58650,10 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+        "attempted_at": "2026-11-17T03:36:46.542227+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -58216,7 +58714,7 @@
           ],
           "last_success_at": "2026-11-16T21:00:14.729396+00:00"
         },
-        "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+        "last_success_at": "2026-11-17T03:36:46.542227+00:00"
       },
       "genre_briefs": [
         {
@@ -63746,23 +64244,23 @@
       "kind": "overview",
       "period_start": "2026-11-11",
       "period_end": "2026-11-17",
-      "generated_at": "2026-11-17T06:02:01.380475+09:00",
+      "generated_at": "2026-11-17T12:36:46.880495+09:00",
       "is_complete": false,
-      "article_count": 303,
+      "article_count": 326,
       "category_counts": {
-        "tech": 65,
-        "ai": 163,
-        "parenting": 75
+        "ai": 178,
+        "parenting": 80,
+        "tech": 68
       },
-      "overview": "DeepSeekは開発者向けに引用付き検索、文書・画像入力、URL読取をAPIで開放し、ツール呼出しと文脈構築をサービス側で担う。JioStarはOpenAI APIで15超の言語に対応する検索アシスタントを公開し、回答生成と検証に別のモデルを用い、競技専門家も評価設計に参加した。いずれも精度・費用の定量的成果は資料にない。 Lambdaは1万基超のGPU接続に光学エンジン一体型スイッチを導入し、同社試験で従来方式と同じスループットを保ちながらラック規模で約4％、ポッド規模で最大約10％の通信遅延低下を報告した。NVIDIAは条件に応じてシステム製造期間を5週間から2週間に短縮した実績を紹介した。一方、科学計算向けRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。 Khan Academyは中学・高校相当とAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量やばねの振動などの変数を操作し、データ収集・分析と設問への回答を進められる。今回の統合による学習効果、幼児・小学生向け提供、日本語対応は資料から確認できない。",
+      "overview": "DeepSeekは開発者向けに引用付き検索、文書・画像入力、URL読取をAPIで開放し、ツール呼出しと文脈構築をサービス側で担う。JioStarはOpenAI APIで15超の言語に対応する検索アシスタントを公開し、回答生成と検証に別のモデルを用い、競技専門家も評価設計に参加した。いずれも精度・費用の定量的成果は資料にない。 At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyは中学・高校相当とAPの理科記事・演習に、無料のPhETシミュレーションを統合して提供開始した。学習者は熱容量やばねの振動などの変数を操作し、データ収集・分析と設問への回答を進められる。今回の統合による学習効果、幼児・小学生向け提供、日本語対応は資料から確認できない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+        "attempted_at": "2026-11-17T03:36:46.542227+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -63823,7 +64321,7 @@
           ],
           "last_success_at": "2026-11-16T21:00:14.729396+00:00"
         },
-        "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+        "last_success_at": "2026-11-17T03:36:46.542227+00:00"
       },
       "genre_briefs": [
         {
@@ -63893,6 +64391,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "de56bb3870ea939c0baf1d77",
+              "category": "tech",
+              "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+              "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-17T03:36:46.542227+00:00",
+              "published_at": "2026-11-16T23:00:05Z"
+            },
+            {
               "article_id": "4bdd97e8c7ad448ecb2458c4",
               "headline": "NVIDIA、AIシステム量産を支える供給網と製造期間短縮の実績を紹介",
               "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。",
@@ -63927,24 +64443,6 @@
               "model": "codex-cli",
               "evidence_quote": "Each switch has 18 removable external light sources, which supply light to the optical engines.",
               "published_at": "2026-11-16T16:00:51Z"
-            },
-            {
-              "article_id": "b506ae39931d1477fcf76b53",
-              "headline": "NVIDIA、科学計算向けGPU「Rubin HPC」を発表、2028年提供予定",
-              "summary": "NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
-              "impact": "考察：データ待ちが支配的な科学計算でも性能が向上すれば、仮説の検証と修正を繰り返す研究・設計工程を短縮できる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表段階の製品であり、本文に実測性能、価格、具体的な出荷時期はない。研究成果や開発期間の改善は実証されていない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-16T21:00:14.729396+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Rubin HPC is expected to be available in 2028.",
-              "published_at": "2026-11-16T16:00:01Z"
             }
           ]
         },
@@ -63975,7 +64473,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -63984,35 +64482,47 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 140,
-          "publisher_count": 37,
+          "count": 152,
+          "publisher_count": 38,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
-            "c083b3c8f2f647fafbc88caa",
-            "6ef7cbbaf4c4b812e0610dce",
-            "4b4bdccdaeb5b84f77421f0f"
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2"
           ],
           "article_ids": [
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2",
+            "e09757121a31968a7d799223",
             "c083b3c8f2f647fafbc88caa",
             "022840cf37b3ce1b30fff5d9",
             "6566bbb1316dc6b1464a6017",
+            "39394d50c72e3724729a2117",
+            "b575069a0eb90b6c85bd5cf1",
+            "2c583aae6e9d99666b3213d5",
             "82c05437d6834e345ccd386b",
+            "98c776e7f9b26c508f5d99d2",
             "25c24270298c9da6ab60b3a0",
             "6ef7cbbaf4c4b812e0610dce",
             "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "9b336b2fbbbe147d1433cb77",
+            "a9b34b6e86a1b3642f35f617",
+            "3643157a98a3d7716c54af24",
             "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "9ad9575aa75b8262412431ee",
             "c4f6264ca727f7fec1d28424",
             "44e514c6aa416aaab4578fd9",
+            "9b119bed88cfceda25364ad9",
             "977fd0d11108b02e5e5e0116",
             "47892b94600bf2e289c33bf7",
             "7f2aab941aab9f0d5c0d62f0",
             "2b181dd4febe87192648dfd6",
             "146fda32ecad20374233e8ce",
             "46fb361c19cc7fdff7d41622",
+            "1404a60dd7508ceca1be371a",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
@@ -64142,15 +64652,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 64,
+          "count": 67,
           "publisher_count": 37,
-          "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
+          "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "4bdd97e8c7ad448ecb2458c4",
-            "5085f93ed0f8f4ae0e16f1dd",
-            "c0cb7df2949367191cbdeafd"
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
+            "5085f93ed0f8f4ae0e16f1dd"
           ],
           "article_ids": [
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
             "e2c156bd20c00200f4816543",
             "b506ae39931d1477fcf76b53",
@@ -64184,6 +64696,7 @@
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
             "dc003b51c1ebec5746e333c9",
+            "ae8ac45194e114e6d47c3178",
             "6bb2b1bf4d7511f46cbdc909",
             "4423923cebd417cf2df2e9ef",
             "0771145fa4f263f1b09f6c2b",
@@ -64224,15 +64737,20 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 72,
-          "publisher_count": 39,
+          "count": 77,
+          "publisher_count": 40,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。",
           "evidence_ids": [
-            "0b3caf27747b3e37f4690b35",
-            "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052"
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8"
           ],
           "article_ids": [
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8",
+            "4ee1ac09f9b5bffcf45dd3d8",
+            "0b5bd8df1ef01c7f51349d4e",
             "0b3caf27747b3e37f4690b35",
             "54dd758e0e2b8ca39511085c",
             "296541a5636ad0e706181052",
@@ -64322,17 +64840,20 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 21,
+          "count": 24,
           "publisher_count": 11,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "ebb0b6198f1240e8afcbddf4",
-            "0a2e7fd30bf0190d3301e857",
-            "3bf4cdfd8a4820b2199ec056"
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
+            "ebb0b6198f1240e8afcbddf4"
           ],
           "article_ids": [
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
             "ebb0b6198f1240e8afcbddf4",
             "0a2e7fd30bf0190d3301e857",
+            "dac80800bcb7f90f04418453",
             "3bf4cdfd8a4820b2199ec056",
             "a69969a4ece6cf07149b302f",
             "9a8d2a14a2490d187e0107a6",
@@ -64403,20 +64924,20 @@
         },
         {
           "category": "tech",
-          "label": "GPU基盤の通信・製造改善と将来計画",
-          "observation": "Lambdaは1万基超のGPU接続に光学エンジン一体型スイッチを導入し、同社試験で従来方式と同じスループットを保ちながらラック規模で約4％、ポッド規模で最大約10％の通信遅延低下を報告した。NVIDIAは条件に応じてシステム製造期間を5週間から2週間に短縮した実績を紹介した。一方、科学計算向けRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。",
-          "interpretation": "大規模GPU基盤の実用性は、演算能力だけでなく通信と製造工程にも左右される可能性がある。ただし、個別試験や条件付きの短縮実績から、全体の処理性能や供給能力の改善までは判断できない。",
-          "next_question": "Lambdaの実運用で処理完了時間・消費電力・障害率はどう変化したか。また、製造期間を2週間に短縮できた製品と条件、その維持期間は何か。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
-            "e2c156bd20c00200f4816543",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
-            "e2c156bd20c00200f4816543",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ]
         },
         {
@@ -64436,6 +64957,18 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "145285eac41be95818d9053f",
+        "59834f8059b1a28ba367562b",
+        "349743d543fcc661f25667ca",
+        "3642fee21ae067d962366d1c",
+        "cab2e13e41553bb3d6bf1403",
+        "43bf57ce7fed540fcfed4df2",
+        "ffc9c04f0c98c6b890a67ad8",
+        "e09757121a31968a7d799223",
+        "03f0b0bfd3f26d8d1dc5d45c",
+        "de56bb3870ea939c0baf1d77",
+        "4ee1ac09f9b5bffcf45dd3d8",
+        "0b5bd8df1ef01c7f51349d4e",
         "4bdd97e8c7ad448ecb2458c4",
         "c083b3c8f2f647fafbc88caa",
         "022840cf37b3ce1b30fff5d9",
@@ -64448,10 +64981,15 @@
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "8c800e86c4e7021d83114b7b",
+        "39394d50c72e3724729a2117",
+        "b575069a0eb90b6c85bd5cf1",
         "c0cb7df2949367191cbdeafd",
+        "2c583aae6e9d99666b3213d5",
+        "42ebf0e0d9a3772e64ae0e81",
         "82c05437d6834e345ccd386b",
         "fd1930b979bb0d07b2bd9e39",
         "3e95505f3f8c368a05732fdc",
+        "98c776e7f9b26c508f5d99d2",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
         "25c24270298c9da6ab60b3a0",
@@ -64468,7 +65006,9 @@
         "baeefac806421ac5f306db83",
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
+        "a9b34b6e86a1b3642f35f617",
         "10081c875af351504c74557f",
+        "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
@@ -64480,11 +65020,13 @@
         "c4f6264ca727f7fec1d28424",
         "ef1feda8bf1b887c5755deeb",
         "44e514c6aa416aaab4578fd9",
+        "9b119bed88cfceda25364ad9",
         "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
         "82d8202d1269ef0fd585c8d3",
+        "dac80800bcb7f90f04418453",
         "47892b94600bf2e289c33bf7",
         "0d343a54f05f54ed9d42faec",
         "68c7418135d4c512512bb690",
@@ -64497,6 +65039,7 @@
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
         "3bf4cdfd8a4820b2199ec056",
+        "1404a60dd7508ceca1be371a",
         "f27cee38438dda294da0bd40",
         "1b79ddb528f300d848838366",
         "3261a48d15aaefa84fc388e3",
@@ -64554,6 +65097,7 @@
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
+        "ae8ac45194e114e6d47c3178",
         "073fafc6c951900c5286099b",
         "11cb13dd4168b9a6e9fee1e8",
         "6bb2b1bf4d7511f46cbdc909",
@@ -64746,23 +65290,23 @@
       "kind": "weekly",
       "period_start": "2026-11-16",
       "period_end": "2026-11-22",
-      "generated_at": "2026-11-17T06:02:01.380475+09:00",
+      "generated_at": "2026-11-17T12:36:46.880495+09:00",
       "is_complete": false,
-      "article_count": 60,
+      "article_count": 81,
       "category_counts": {
-        "tech": 19,
-        "ai": 23,
-        "parenting": 18
+        "ai": 37,
+        "parenting": 23,
+        "tech": 21
       },
-      "overview": "NVIDIAの供給網責任者は、歩留まり・処理期間の週次確認とチップから顧客請求までの追跡を通じ、必要時にチップ完成からシステム完成までを5週間から2週間へ短縮したと説明した。Lambdaは1万基超のGPU接続に光学エンジンを一体化したスイッチを導入し、同社試験で従来と同じスループットを維持しつつ通信遅延をラック規模で約4％、ポッド規模で最大約10％低減した。一方、科学・工学・分析向けのRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。",
+      "overview": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+        "attempted_at": "2026-11-17T03:36:46.542227+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -64823,13 +65367,31 @@
           ],
           "last_success_at": "2026-11-16T21:00:14.729396+00:00"
         },
-        "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+        "last_success_at": "2026-11-17T03:36:46.542227+00:00"
       },
       "genre_briefs": [
         {
           "category": "tech",
           "label": "テック",
           "stories": [
+            {
+              "article_id": "de56bb3870ea939c0baf1d77",
+              "category": "tech",
+              "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+              "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-17T03:36:46.542227+00:00",
+              "published_at": "2026-11-16T23:00:05Z"
+            },
             {
               "article_id": "4bdd97e8c7ad448ecb2458c4",
               "headline": "NVIDIA、AIシステム量産を支える供給網と製造期間短縮の実績を紹介",
@@ -64865,29 +65427,11 @@
               "model": "codex-cli",
               "evidence_quote": "Each switch has 18 removable external light sources, which supply light to the optical engines.",
               "published_at": "2026-11-16T16:00:51Z"
-            },
-            {
-              "article_id": "b506ae39931d1477fcf76b53",
-              "headline": "NVIDIA、科学計算向けGPU「Rubin HPC」を発表、2028年提供予定",
-              "summary": "NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
-              "impact": "考察：データ待ちが支配的な科学計算でも性能が向上すれば、仮説の検証と修正を繰り返す研究・設計工程を短縮できる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表段階の製品であり、本文に実測性能、価格、具体的な出荷時期はない。研究成果や開発期間の改善は実証されていない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-16T21:00:14.729396+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Rubin HPC is expected to be available in 2028.",
-              "published_at": "2026-11-16T16:00:01Z"
             }
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -64896,29 +65440,40 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 20,
-          "publisher_count": 10,
+          "count": 31,
+          "publisher_count": 15,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "c083b3c8f2f647fafbc88caa",
-            "6ef7cbbaf4c4b812e0610dce",
-            "4b4bdccdaeb5b84f77421f0f"
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2"
           ],
           "article_ids": [
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2",
+            "e09757121a31968a7d799223",
             "c083b3c8f2f647fafbc88caa",
             "022840cf37b3ce1b30fff5d9",
             "6566bbb1316dc6b1464a6017",
+            "39394d50c72e3724729a2117",
+            "b575069a0eb90b6c85bd5cf1",
+            "2c583aae6e9d99666b3213d5",
             "82c05437d6834e345ccd386b",
+            "98c776e7f9b26c508f5d99d2",
             "25c24270298c9da6ab60b3a0",
             "6ef7cbbaf4c4b812e0610dce",
             "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "9b336b2fbbbe147d1433cb77",
+            "a9b34b6e86a1b3642f35f617",
+            "3643157a98a3d7716c54af24",
             "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "9ad9575aa75b8262412431ee",
             "c4f6264ca727f7fec1d28424",
             "44e514c6aa416aaab4578fd9",
+            "9b119bed88cfceda25364ad9",
             "977fd0d11108b02e5e5e0116",
             "47892b94600bf2e289c33bf7",
             "7f2aab941aab9f0d5c0d62f0",
@@ -64934,15 +65489,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 19,
+          "count": 21,
           "publisher_count": 11,
-          "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
+          "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "4bdd97e8c7ad448ecb2458c4",
-            "5085f93ed0f8f4ae0e16f1dd",
-            "c0cb7df2949367191cbdeafd"
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
+            "5085f93ed0f8f4ae0e16f1dd"
           ],
           "article_ids": [
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
             "e2c156bd20c00200f4816543",
             "b506ae39931d1477fcf76b53",
@@ -64971,15 +65528,20 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 17,
-          "publisher_count": 14,
+          "count": 22,
+          "publisher_count": 16,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "0b3caf27747b3e37f4690b35",
-            "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052"
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8"
           ],
           "article_ids": [
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8",
+            "4ee1ac09f9b5bffcf45dd3d8",
+            "0b5bd8df1ef01c7f51349d4e",
             "0b3caf27747b3e37f4690b35",
             "54dd758e0e2b8ca39511085c",
             "296541a5636ad0e706181052",
@@ -65014,16 +65576,20 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 5,
+          "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "ebb0b6198f1240e8afcbddf4",
-            "0a2e7fd30bf0190d3301e857"
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
+            "ebb0b6198f1240e8afcbddf4"
           ],
           "article_ids": [
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
             "ebb0b6198f1240e8afcbddf4",
-            "0a2e7fd30bf0190d3301e857"
+            "0a2e7fd30bf0190d3301e857",
+            "dac80800bcb7f90f04418453"
           ]
         },
         {
@@ -65057,25 +65623,37 @@
       "insights": [
         {
           "category": "tech",
-          "label": "AI・科学計算基盤を支える製造と通信の改善",
-          "observation": "NVIDIAの供給網責任者は、歩留まり・処理期間の週次確認とチップから顧客請求までの追跡を通じ、必要時にチップ完成からシステム完成までを5週間から2週間へ短縮したと説明した。Lambdaは1万基超のGPU接続に光学エンジンを一体化したスイッチを導入し、同社試験で従来と同じスループットを維持しつつ通信遅延をラック規模で約4％、ポッド規模で最大約10％低減した。一方、科学・工学・分析向けのRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。",
-          "interpretation": "これらは、大規模AI運用や科学計算の処理能力を実際に引き出すうえで、GPU自体の性能に加え、製造工程とGPU間通信の制約を減らすことが重要になる可能性を示す。ただし、製造期間短縮の常時達成や、通信遅延低減による処理全体の高速化、将来製品による研究成果の改善は確認できない。",
-          "next_question": "製造期間を2週間に短縮できた対象製品・条件と継続性は何か。Lambdaの通信遅延低減は、実運用の学習・推論時間や消費電力にどの程度反映されるか。Rubin HPCの提供時に、既存GPUと同条件で比較した科学計算の実測結果が公開されるか。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "e2c156bd20c00200f4816543",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "e2c156bd20c00200f4816543",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "145285eac41be95818d9053f",
+        "59834f8059b1a28ba367562b",
+        "349743d543fcc661f25667ca",
+        "3642fee21ae067d962366d1c",
+        "cab2e13e41553bb3d6bf1403",
+        "43bf57ce7fed540fcfed4df2",
+        "ffc9c04f0c98c6b890a67ad8",
+        "e09757121a31968a7d799223",
+        "03f0b0bfd3f26d8d1dc5d45c",
+        "de56bb3870ea939c0baf1d77",
+        "4ee1ac09f9b5bffcf45dd3d8",
+        "0b5bd8df1ef01c7f51349d4e",
         "4bdd97e8c7ad448ecb2458c4",
         "c083b3c8f2f647fafbc88caa",
         "022840cf37b3ce1b30fff5d9",
@@ -65088,10 +65666,15 @@
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "8c800e86c4e7021d83114b7b",
+        "39394d50c72e3724729a2117",
+        "b575069a0eb90b6c85bd5cf1",
         "c0cb7df2949367191cbdeafd",
+        "2c583aae6e9d99666b3213d5",
+        "42ebf0e0d9a3772e64ae0e81",
         "82c05437d6834e345ccd386b",
         "fd1930b979bb0d07b2bd9e39",
         "3e95505f3f8c368a05732fdc",
+        "98c776e7f9b26c508f5d99d2",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
         "25c24270298c9da6ab60b3a0",
@@ -65108,7 +65691,9 @@
         "baeefac806421ac5f306db83",
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
+        "a9b34b6e86a1b3642f35f617",
         "10081c875af351504c74557f",
+        "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
@@ -65120,11 +65705,13 @@
         "c4f6264ca727f7fec1d28424",
         "ef1feda8bf1b887c5755deeb",
         "44e514c6aa416aaab4578fd9",
+        "9b119bed88cfceda25364ad9",
         "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
         "82d8202d1269ef0fd585c8d3",
+        "dac80800bcb7f90f04418453",
         "47892b94600bf2e289c33bf7",
         "0d343a54f05f54ed9d42faec",
         "68c7418135d4c512512bb690",
@@ -65143,23 +65730,23 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-17T06:02:01.380475+09:00",
+      "generated_at": "2026-11-17T12:36:46.880495+09:00",
       "is_complete": false,
-      "article_count": 709,
+      "article_count": 732,
       "category_counts": {
-        "tech": 172,
-        "ai": 367,
-        "parenting": 170
+        "ai": 382,
+        "parenting": 175,
+        "tech": 175
       },
-      "overview": "DeepSeekは開発者向けAPIで引用付き検索、文書・画像入力、URL読取を開放し、ツール呼出しと文脈構築をサービス側で担う。JioStarは15超の言語で動画やクリケット情報を探すアシスタントを公開し、回答生成と検証に別のモデルを使い、専門家も評価設計に参加した。両記事とも精度や費用の定量的成果は示していない。 Lambdaは1万基超のGPUを接続する設備に光学一体型スイッチを導入し、同社試験で同じスループットを維持しながらポッド規模の通信遅延が最大約10％低下したと報告した。NVIDIAは、需給上必要な際にチップ完成からシステム完成までを5週間から2週間に短縮した実績を紹介。一方、科学計算向けRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。 Khan Academyは中学・高校・AP理科の記事や演習内に、変数操作とデータ分析ができる無料のPhETシミュレーションを提供開始した。Google Classroomは教師が課題を割り当て、学習状況を把握できるGuided Learningの世界展開を開始。紹介された得点改善の比較試験は大学生の半日の統計学授業であり、中等教育や幼児・小学生の効果を示すものではない。",
+      "overview": "DeepSeekは開発者向けAPIで引用付き検索、文書・画像入力、URL読取を開放し、ツール呼出しと文脈構築をサービス側で担う。JioStarは15超の言語で動画やクリケット情報を探すアシスタントを公開し、回答生成と検証に別のモデルを使い、専門家も評価設計に参加した。両記事とも精度や費用の定量的成果は示していない。 At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyは中学・高校・AP理科の記事や演習内に、変数操作とデータ分析ができる無料のPhETシミュレーションを提供開始した。Google Classroomは教師が課題を割り当て、学習状況を把握できるGuided Learningの世界展開を開始。紹介された得点改善の比較試験は大学生の半日の統計学授業であり、中等教育や幼児・小学生の効果を示すものではない。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+        "attempted_at": "2026-11-17T03:36:46.542227+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 0,
+        "new_reviews": 1,
         "updated_periods": [
           "overview",
           "weekly",
@@ -65220,7 +65807,7 @@
           ],
           "last_success_at": "2026-11-16T21:00:14.729396+00:00"
         },
-        "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+        "last_success_at": "2026-11-17T03:36:46.542227+00:00"
       },
       "genre_briefs": [
         {
@@ -65290,6 +65877,24 @@
           "label": "テック",
           "stories": [
             {
+              "article_id": "de56bb3870ea939c0baf1d77",
+              "category": "tech",
+              "headline": "NVIDIA DGX Spark Developer Kit Turns a Desk Into a Supercomputing Lab",
+              "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/",
+              "source_label": "NVIDIA 公式ブログ（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "NVIDIA",
+              "origin_kind": "official",
+              "tags": [
+                "development"
+              ],
+              "review_method": "extractive",
+              "generated_at": "2026-11-17T03:36:46.542227+00:00",
+              "published_at": "2026-11-16T23:00:05Z"
+            },
+            {
               "article_id": "4bdd97e8c7ad448ecb2458c4",
               "headline": "NVIDIA、AIシステム量産を支える供給網と製造期間短縮の実績を紹介",
               "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。",
@@ -65324,24 +65929,6 @@
               "model": "codex-cli",
               "evidence_quote": "Each switch has 18 removable external light sources, which supply light to the optical engines.",
               "published_at": "2026-11-16T16:00:51Z"
-            },
-            {
-              "article_id": "b506ae39931d1477fcf76b53",
-              "headline": "NVIDIA、科学計算向けGPU「Rubin HPC」を発表、2028年提供予定",
-              "summary": "NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
-              "impact": "考察：データ待ちが支配的な科学計算でも性能が向上すれば、仮説の検証と修正を繰り返す研究・設計工程を短縮できる可能性がある。",
-              "category": "tech",
-              "source_url": "https://blogs.nvidia.com/blog/rubin-hpc/",
-              "source_label": "NVIDIA 公式ブログ（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。発表段階の製品であり、本文に実測性能、価格、具体的な出荷時期はない。研究成果や開発期間の改善は実証されていない。",
-              "provider": "NVIDIA",
-              "origin_kind": "official",
-              "tags": [],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-16T21:00:14.729396+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Rubin HPC is expected to be available in 2028.",
-              "published_at": "2026-11-16T16:00:01Z"
             }
           ]
         },
@@ -65410,7 +65997,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
       "topics": [
         {
           "id": "ai-products",
@@ -65419,35 +66006,47 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 310,
+          "count": 322,
           "publisher_count": 55,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
-            "c083b3c8f2f647fafbc88caa",
-            "6ef7cbbaf4c4b812e0610dce",
-            "4b4bdccdaeb5b84f77421f0f"
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2"
           ],
           "article_ids": [
+            "145285eac41be95818d9053f",
+            "cab2e13e41553bb3d6bf1403",
+            "43bf57ce7fed540fcfed4df2",
+            "e09757121a31968a7d799223",
             "c083b3c8f2f647fafbc88caa",
             "022840cf37b3ce1b30fff5d9",
             "6566bbb1316dc6b1464a6017",
+            "39394d50c72e3724729a2117",
+            "b575069a0eb90b6c85bd5cf1",
+            "2c583aae6e9d99666b3213d5",
             "82c05437d6834e345ccd386b",
+            "98c776e7f9b26c508f5d99d2",
             "25c24270298c9da6ab60b3a0",
             "6ef7cbbaf4c4b812e0610dce",
             "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "9b336b2fbbbe147d1433cb77",
+            "a9b34b6e86a1b3642f35f617",
+            "3643157a98a3d7716c54af24",
             "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "9ad9575aa75b8262412431ee",
             "c4f6264ca727f7fec1d28424",
             "44e514c6aa416aaab4578fd9",
+            "9b119bed88cfceda25364ad9",
             "977fd0d11108b02e5e5e0116",
             "47892b94600bf2e289c33bf7",
             "7f2aab941aab9f0d5c0d62f0",
             "2b181dd4febe87192648dfd6",
             "146fda32ecad20374233e8ce",
             "46fb361c19cc7fdff7d41622",
+            "1404a60dd7508ceca1be371a",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
             "a9fd70812f45e0d3659321c8",
@@ -65747,15 +66346,17 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 167,
+          "count": 170,
           "publisher_count": 74,
-          "summary": "NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 NVIDIAはSC26で、科学・工学・分析向けの新GPU「Rubin HPC」を発表した。単一GPUに5万超のCUDAコアを搭載し、疎なデータの処理を支える機能と第7世代NVLinkを採用する計画。計算能力とデータ移動をともに強化し、エージェントが候補材料や分子、設計を評価するシミュレーションを支援する。提供は2028年の予定。",
+          "summary": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "4bdd97e8c7ad448ecb2458c4",
-            "5085f93ed0f8f4ae0e16f1dd",
-            "c0cb7df2949367191cbdeafd"
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
+            "5085f93ed0f8f4ae0e16f1dd"
           ],
           "article_ids": [
+            "349743d543fcc661f25667ca",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
             "e2c156bd20c00200f4816543",
             "b506ae39931d1477fcf76b53",
@@ -65789,6 +66390,7 @@
             "e674b0704178b35bbd78de29",
             "e00e1e2516ea5eb3080a04d6",
             "dc003b51c1ebec5746e333c9",
+            "ae8ac45194e114e6d47c3178",
             "6bb2b1bf4d7511f46cbdc909",
             "4423923cebd417cf2df2e9ef",
             "0771145fa4f263f1b09f6c2b",
@@ -65932,15 +66534,20 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 165,
-          "publisher_count": 74,
+          "count": 170,
+          "publisher_count": 75,
           "summary": "Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。 Google.orgは、教育者とともに教師向けAIなどを開発する5団体に計950万ドル超の資金提供を発表した。対象には、CUNYの教員向けデジタル・計算リテラシー育成、Fab AIの授業計画・初期読解支援用オープンモデル開発、Teaching LabのCoherence OS試行などが含まれる。責任あるAI教育の導入や学習標準の公共基盤整備も支援する。",
           "evidence_ids": [
-            "0b3caf27747b3e37f4690b35",
-            "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052"
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8"
           ],
           "article_ids": [
+            "59834f8059b1a28ba367562b",
+            "3642fee21ae067d962366d1c",
+            "ffc9c04f0c98c6b890a67ad8",
+            "4ee1ac09f9b5bffcf45dd3d8",
+            "0b5bd8df1ef01c7f51349d4e",
             "0b3caf27747b3e37f4690b35",
             "54dd758e0e2b8ca39511085c",
             "296541a5636ad0e706181052",
@@ -66123,17 +66730,20 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 55,
+          "count": 58,
           "publisher_count": 26,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "ebb0b6198f1240e8afcbddf4",
-            "0a2e7fd30bf0190d3301e857",
-            "3bf4cdfd8a4820b2199ec056"
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
+            "ebb0b6198f1240e8afcbddf4"
           ],
           "article_ids": [
+            "03f0b0bfd3f26d8d1dc5d45c",
+            "42ebf0e0d9a3772e64ae0e81",
             "ebb0b6198f1240e8afcbddf4",
             "0a2e7fd30bf0190d3301e857",
+            "dac80800bcb7f90f04418453",
             "3bf4cdfd8a4820b2199ec056",
             "a69969a4ece6cf07149b302f",
             "9a8d2a14a2490d187e0107a6",
@@ -66240,20 +66850,20 @@
         },
         {
           "category": "tech",
-          "label": "GPU基盤は通信と製造工程も検証対象に",
-          "observation": "Lambdaは1万基超のGPUを接続する設備に光学一体型スイッチを導入し、同社試験で同じスループットを維持しながらポッド規模の通信遅延が最大約10％低下したと報告した。NVIDIAは、需給上必要な際にチップ完成からシステム完成までを5週間から2週間に短縮した実績を紹介。一方、科学計算向けRubin HPCは2028年提供予定の発表段階で、実測性能は示されていない。",
-          "interpretation": "大規模計算基盤の利用可能性は、GPU単体の性能に加え、通信設計と製造工程にも左右される可能性がある。ただし、個別試験や特定条件での期間短縮から、設備全体の処理性能や納期を一般化することはできない。",
-          "next_question": "光学一体型スイッチの導入で実際の学習・科学計算の完了時間と消費電力はどう変わるか。また、製造期間を2週間に短縮できる製品・供給条件は何か。",
+          "label": "テック：本文からの簡易まとめ",
           "required_ids": [
-            "e2c156bd20c00200f4816543",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ],
-          "review_method": "ai_source_grounded",
+          "observation": "At SC26, an annual supercomputing conference taking place this week in Chicago, NVIDIA is introducing the DGX Spark HPC Developer Kit for researchers, academics and… ／ NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 ／ Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
+          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
+          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
+          "review_method": "extractive",
           "evidence_ids": [
-            "e2c156bd20c00200f4816543",
+            "de56bb3870ea939c0baf1d77",
             "4bdd97e8c7ad448ecb2458c4",
-            "b506ae39931d1477fcf76b53"
+            "e2c156bd20c00200f4816543"
           ]
         },
         {
@@ -66275,6 +66885,18 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "145285eac41be95818d9053f",
+        "59834f8059b1a28ba367562b",
+        "349743d543fcc661f25667ca",
+        "3642fee21ae067d962366d1c",
+        "cab2e13e41553bb3d6bf1403",
+        "43bf57ce7fed540fcfed4df2",
+        "ffc9c04f0c98c6b890a67ad8",
+        "e09757121a31968a7d799223",
+        "03f0b0bfd3f26d8d1dc5d45c",
+        "de56bb3870ea939c0baf1d77",
+        "4ee1ac09f9b5bffcf45dd3d8",
+        "0b5bd8df1ef01c7f51349d4e",
         "4bdd97e8c7ad448ecb2458c4",
         "c083b3c8f2f647fafbc88caa",
         "022840cf37b3ce1b30fff5d9",
@@ -66287,10 +66909,15 @@
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "8c800e86c4e7021d83114b7b",
+        "39394d50c72e3724729a2117",
+        "b575069a0eb90b6c85bd5cf1",
         "c0cb7df2949367191cbdeafd",
+        "2c583aae6e9d99666b3213d5",
+        "42ebf0e0d9a3772e64ae0e81",
         "82c05437d6834e345ccd386b",
         "fd1930b979bb0d07b2bd9e39",
         "3e95505f3f8c368a05732fdc",
+        "98c776e7f9b26c508f5d99d2",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
         "25c24270298c9da6ab60b3a0",
@@ -66307,7 +66934,9 @@
         "baeefac806421ac5f306db83",
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
+        "a9b34b6e86a1b3642f35f617",
         "10081c875af351504c74557f",
+        "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
@@ -66319,11 +66948,13 @@
         "c4f6264ca727f7fec1d28424",
         "ef1feda8bf1b887c5755deeb",
         "44e514c6aa416aaab4578fd9",
+        "9b119bed88cfceda25364ad9",
         "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
         "82d8202d1269ef0fd585c8d3",
+        "dac80800bcb7f90f04418453",
         "47892b94600bf2e289c33bf7",
         "0d343a54f05f54ed9d42faec",
         "68c7418135d4c512512bb690",
@@ -66336,6 +66967,7 @@
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
         "3bf4cdfd8a4820b2199ec056",
+        "1404a60dd7508ceca1be371a",
         "f27cee38438dda294da0bd40",
         "1b79ddb528f300d848838366",
         "3261a48d15aaefa84fc388e3",
@@ -66393,6 +67025,7 @@
         "e8724bc06d2a5c4dea01ab61",
         "e00e1e2516ea5eb3080a04d6",
         "dc003b51c1ebec5746e333c9",
+        "ae8ac45194e114e6d47c3178",
         "073fafc6c951900c5286099b",
         "11cb13dd4168b9a6e9fee1e8",
         "6bb2b1bf4d7511f46cbdc909",
@@ -66987,13 +67620,13 @@
       ]
     }
   },
-  "report_updated_at": "2026-11-17T06:02:01.380475+09:00",
+  "report_updated_at": "2026-11-17T12:36:46.880495+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-16T21:02:01.064736+00:00",
+    "attempted_at": "2026-11-17T03:36:46.542227+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 0,
+    "new_reviews": 1,
     "updated_periods": [
       "overview",
       "weekly",
@@ -67054,7 +67687,7 @@
       ],
       "last_success_at": "2026-11-16T21:00:14.729396+00:00"
     },
-    "last_success_at": "2026-11-16T21:02:01.064736+00:00"
+    "last_success_at": "2026-11-17T03:36:46.542227+00:00"
   },
   "topic_definitions": [
     {
@@ -67568,11 +68201,11 @@
     ]
   },
   "picks": [
-    "c083b3c8f2f647fafbc88caa",
-    "022840cf37b3ce1b30fff5d9",
-    "4bdd97e8c7ad448ecb2458c4",
-    "e2c156bd20c00200f4816543",
-    "0b3caf27747b3e37f4690b35",
-    "54dd758e0e2b8ca39511085c"
+    "145285eac41be95818d9053f",
+    "cab2e13e41553bb3d6bf1403",
+    "349743d543fcc661f25667ca",
+    "de56bb3870ea939c0baf1d77",
+    "59834f8059b1a28ba367562b",
+    "3642fee21ae067d962366d1c"
   ]
 }
