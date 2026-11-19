@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-18T21:01:46.512540Z",
-  "last_attempt_at": "2026-11-18T21:01:46.512540Z",
+  "updated_at": "2026-11-19T02:26:10.758127Z",
+  "last_attempt_at": "2026-11-19T02:26:10.758127Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 46,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-18T21:01:46.512540Z",
+      "checked_at": "2026-11-19T02:26:10.758127Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-19T02:26:10.758127Z",
+      "new_count": 32,
+      "status": "partial"
+    },
     {
       "at": "2026-11-18T21:01:46.512540Z",
       "new_count": 1,
@@ -923,6 +928,308 @@
   ],
   "articles": [
     {
+      "id": "be366d111c34b1ab60216f6e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AnthropicがIPO価格を1株83ドルに決定、9億8000万株を売り出し NASDAQに「ANT」で上場へ（テクノエッジ） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8za25DYzVmNW50bWZ4LXc1bnFmc3BIRm91RkMtQUZ5cUd5akliV0NDSEJ2UF9Ebk43OXBsT0ZHNkl1eDRYRzROaEpJS0NrQjhick5wOWgyejFsMUVmRnE2MFMwMFhrUWdGZU91Snp4THllRm5zRnVCNTdvVWJEVzQ?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "AnthropicがIPO価格を1株83ドルに決定、9億8000万株を売り出し NASDAQに「ANT」で上場へ（テクノエッジ） Yahoo!ニュース",
+      "published_at": "2026-11-19T02:04:37Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "d8d53f7ac616e8403b7f8b73",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル（窓の杜） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FNW1Pa0NVeGw2N2xKX3l4UXNvV0lld0ZNZzBYVFpPNW5OQklUTDYwb1BjZThzaHlvOGFGVURTVVRkZzFRNDcwZkNaa28wRWRGWVRmQXVwcE12RTJjbW16bWRJUEZWOTFncXRWQzlzdGdzYndESWdxUE9Wa2otdlE?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル（窓の杜） Yahoo!ニュース",
+      "published_at": "2026-11-19T01:25:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "ca34af0613928b91b08f8935",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "HOUSEIグループのアイード、学校向けAI英会話サービス「AIed English」を強化 - ICT教育ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE45N3dnWURud2lveWNXTWFETGpWNm9vRzJzZGtkaU5zWEZybjQzQUZEYzJUaHJXZ05teVN0Q1FVbUhHa3ZzTzJWSERlNVkyZw?oc=5",
+      "publisher": "ICT教育ニュース",
+      "summary": "HOUSEIグループのアイード、学校向けAI英会話サービス「AIed English」を強化 ICT教育ニュース",
+      "published_at": "2026-11-19T01:21:55Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "6187d8431077e3d8e17a30c0",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MUWZzaFdLVU93RHU4VmpFU1VNdDNnRlBrS29CQWY5UjBfR1dEWmVaaUg1QnJuaEN3cUhTM0ZBVk1QdGNHcWplanpqRXMwZEJHeTBtQVFpRXlYcTdnTUNqMmlLeGJNQXhw?oc=5",
+      "publisher": "窓の杜",
+      "summary": "Google、「Gemini 4 Neon」を発表 ～「Claude Opus 5.5」「GPT-6.2 Sol」のライバル 窓の杜",
+      "published_at": "2026-11-19T01:05:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "f8973edf06599b4efaa18ac6",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "AMDのGPU設計をOpenAIのAIが書き換え、最大14％向上 約1年分の進歩を5カ月未満で達成 ｜Seizo Trend - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5BakhvRTBpWFpqTEk0R0wxRmZ1UzMtR1dYTFk0UnNEc0JpVk9hVWF6ZkJuTVlmVllVeGJaZk1wcVVzUXRWeVpEejNENE43Szg?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "AMDのGPU設計をOpenAIのAIが書き換え、最大14％向上 約1年分の進歩を5カ月未満で達成 ｜Seizo Trend ビジネス+IT",
+      "published_at": "2026-11-19T00:44:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "123741ed8f50d7ae03b6ad49",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Anthropic IPO公開価格は83ドル - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXMFZEM3BRcU50N3ZGX1ZLaWRPcFBhWk9jelZ2YTJjSFBqNDVWdi1GckQ0QUlKUndDRXVvemhaRWgyZDQ1Yk04VHpwUTJKUzJ3?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "Anthropic IPO公開価格は83ドル Yahoo!ニュース",
+      "published_at": "2026-11-19T00:34:59Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "0aa950c0087c10dfeb7766ce",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築：EdgeTech+ 2026 - MONOist",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDcnRGQXJiR2tQNDF1RjRxbEdZLVhfYm1HNERJUW9fRjMtak1hWU84bmhaTGJvRGdUb0F2LW5QbmtlVVhHN0IwRlpFUC1qbk1qRmVnXzAtWk1VcnlITl9vQ0xCS25ROUpwNFhaV3o5Yw?oc=5",
+      "publisher": "MONOist",
+      "summary": "PFUがファンレスエッジAIデバイスを開発、自然言語入力でAI解析機能を簡単構築：EdgeTech+ 2026 MONOist",
+      "published_at": "2026-11-18T23:30:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "b333a2aec5fc5fcd611b01b8",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "生成AI全盛のファッション教育で問われるのは「対人力と生命力」 次世代育成の条件 - Fashionsnap.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOdThOeElPUGZIb0tyNDhHeVhXZ2kzaHRSRkdXVHhrT2t4V1N5RVZBUXJXRkk4YlBrWG9hV3ZwSkpDYVI4WVYyQ2xmQlJLUTdfcnczR0J2Y1F0a2FXU0g1MktRSEttNXBXWFpMUlNwRXpTZXM?oc=5",
+      "publisher": "Fashionsnap.com",
+      "summary": "生成AI全盛のファッション教育で問われるのは「対人力と生命力」 次世代育成の条件 Fashionsnap.com",
+      "published_at": "2026-11-18T23:00:51Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "18e1dca7f9cdf08e63fa062d",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "AIコーディングエージェントの登場でコード作成量が30％増もコードレビュー時間は49％長くなりボトルネックが移り変わったことをハーバード大学の研究者が発見 - GIGAZINE",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWQ0MXBqNUt0TUR5Rmp3YkJwT0UwWF9TWnJ2ZWh6SHlfdTNIb3dubGMwYWZ4NFlubEdhMnFVRTRQZl82T0sxcjdnY184VXVjSmpmcHpuQjNGLTU2a1d5RFZXMWVGZGNLWUMyZ291aVFkTUpoUXVKSnZHQ0M3V1k0ZDVWMVJOWDhySWI0?oc=5",
+      "publisher": "GIGAZINE",
+      "summary": "AIコーディングエージェントの登場でコード作成量が30％増もコードレビュー時間は49％長くなりボトルネックが移り変わったことをハーバード大学の研究者が発見 GIGAZINE",
+      "published_at": "2026-11-18T23:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "aae1a09eafc98dd60bbe0759",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、「Gemini 4 Neon」発表 「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2RlM5V09LXzRTQlZnelRSZTdmQ05qSzc3b09NbDdCLTc2ZmlueE1NUmZoZWxaM1JQNFBhbHBNMERUaXhSZFlDUkxkX3V5WWxvTEZDMFdZWTNGLWlDcE9EV2hPRjg5bEFFblE?oc=5",
+      "publisher": "ITmedia",
+      "summary": "Google、「Gemini 4 Neon」発表 「Carbon」と「Hydrogen」の中間を担うモデル、「Pro」プランでも利用可能 ITmedia",
+      "published_at": "2026-11-18T22:58:41Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "76034cd9bb1a95bd22e26462",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "グーグル、より安価なフロンティアモデル「Gemini 4 Neon」を発表 コーディングと企業向けワークロードに照準 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HQjlVMWdjUm1hOWdUckpaekx0SFl2ekdBTzdIa2JQeGpZSEplX1JmaVpiQ0FhNWdOSWlHZjluOURSNWFQNUxWaVBtd0xXV3kxc28zS3EzUUZSc0hSc0dtSTVfRWJhUEZnSlQ5RDBoV29LaFBJ?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "グーグル、より安価なフロンティアモデル「Gemini 4 Neon」を発表 コーディングと企業向けワークロードに照準 BigGo ファイナンス",
+      "published_at": "2026-11-18T22:25:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
+      ]
+    },
+    {
+      "id": "e46c8283f1372287952a3410",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Carbon/Hydrogenの中間。「Gemini 4 Neon」提供開始 - Jetstream",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5vV1FKalhJTnctbTVrcXk5VWQ0aXdVUklTQ0hnQzVjN05RWFFIYkttVVVqZWZEdnpCSVpPLTJQR25JT0ZsT3dueWRNeXF1QXFJZTNZb2FvdXJodUoz?oc=5",
+      "publisher": "Jetstream",
+      "summary": "Carbon/Hydrogenの中間。「Gemini 4 Neon」提供開始 Jetstream",
+      "published_at": "2026-11-18T22:01:51Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "eb0e26afa761a8fba4b7c519",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Geminiの進化で浮上する課題 自律型AIから機密を守るGoogle新機能が登場 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KOVdrWmI4SmpHMWNJQ0ZQZTdERWpmc2NId0MyclhDc2hfUW9rdEY4TWxTa29pdDlsaXBuRnFDOGRjSlBYM1F6d3p5OUdNRWUtaGZoY19kQmFaeUhZNXRMUjNfLVVWdw?oc=5",
+      "publisher": "キーマンズネット",
+      "summary": "Geminiの進化で浮上する課題 自律型AIから機密を守るGoogle新機能が登場 キーマンズネット",
+      "published_at": "2026-11-18T22:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "b2f7b12485ecfe88fa8f90cf",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "ついに“AIっぽさ”を脱却か？ OpenAIが新モデルGPT-6.2 AstraとSolを発表 - キーマンズネット",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tN3U0VjBPd0hDWnk4NzRmS0N1b2RRVUdEdkY2MHBBUXB0bWZ2S0U0VXdnc04wVkVKaU83V0loQ09jRkRnMVBKSjdqV3NFeG5DMlNsZ0ZxOTRmanZEVVZTVUxVZ3F0UQ?oc=5",
+      "publisher": "キーマンズネット",
+      "summary": "ついに“AIっぽさ”を脱却か？ OpenAIが新モデルGPT-6.2 AstraとSolを発表 キーマンズネット",
+      "published_at": "2026-11-18T22:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "91f423563a24bb86411728a4",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Google、コーディング・知識労働・科学向けのGemini 4 Neonを発表 - Unite.AI",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFlzVHlDOVI4ZlpqVUhmV1ZURDB0TmRTcUg0RHEzV2U0YlZyNWxNd3k2bXA1aWhmeHNwV0d3anZXVE52ZlE4OG9kUWozRXBoOHJCQXRPUUpDY3B0TUM5UjRGRzljb2h2SXVtZ2NfdVEyZWN4eFQzNjVyNF9qOVFVQ3lrdlg5aVNmR3ZkQm9icGhrdUJzQW5B?oc=5",
+      "publisher": "Unite.AI",
+      "summary": "Google、コーディング・知識労働・科学向けのGemini 4 Neonを発表 Unite.AI",
+      "published_at": "2026-11-18T21:36:02Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
+      ]
+    },
+    {
+      "id": "bdcd264317973078125d53f5",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "デジタル教科書からアナログ回帰？学校現場から見る「紙中心」の大臣指針素案の意図、「しっとりした授業」に見える本質的な問題（Wedge（ウェッジ）） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNSXB4RW15X0ttUzNrY3RqUVduUU1jUFpHWEI1YkRqLV9sdV9qUXlSRC1SOFdyUmZOZktiZEJ5bEVlQ1NRZWZSRzhudW50ckhPbVkxRnNiWXlXNWJ3RmxFU2lIdndYaG1tMmJ3Y3ZJV0t3eVd6V2R5MTY2TWtYdTQ?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "デジタル教科書からアナログ回帰？学校現場から見る「紙中心」の大臣指針素案の意図、「しっとりした授業」に見える本質的な問題（Wedge（ウェッジ）） Yahoo!ニュース",
+      "published_at": "2026-11-18T20:07:12Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "9503ffd0e7453fa351125d0b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "ソニーG、車載カメラモジュール売却は「競争厳しい」 センサーに集中 - 日経クロステック",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ReTBpX0VORm9DZTRreXlBUVRkbnUtdHN1Yml5TTYzT3hMNmVoSUdrOUZORnN3TUttM3Z2VTVJbmFHdDVLQ193OFFITkdTZ3VlTEU5SzRMa1VfUEw3dTRmZ1lIOE4wZ3M?oc=5",
+      "publisher": "日経クロステック",
+      "summary": "ソニーG、車載カメラモジュール売却は「競争厳しい」 センサーに集中 日経クロステック",
+      "published_at": "2026-11-18T20:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "4027c3209ed6f867dc28f248",
       "category": "ai",
       "source_id": "ai",
@@ -1007,6 +1314,40 @@
       "theme_ids": []
     },
     {
+      "id": "f07f018de2e71746899a1578",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini対Chat GPT、最新版の対決。2大AIを比較して見えた意外な軍配 - ライフハッカー・ジャパン",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zN3VLWnR3SEhZZkdMQ1FwYVJTblpjMnVQWkZaZjMtZEdGSWJpZUtBd2xQa0FRVGppN0QtZ1hxY3hqZktCMFB5S215RkJTOW1Fa1A5TzBYbEVKTEVyNXRpbnN4V3p5VElaT1dIclZUcm9HR2hqN3VibDVSUFI?oc=5",
+      "publisher": "ライフハッカー・ジャパン",
+      "summary": "Gemini対Chat GPT、最新版の対決。2大AIを比較して見えた意外な軍配 ライフハッカー・ジャパン",
+      "published_at": "2026-11-18T12:45:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "ee9360225277be934efdb969",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI時代は「感じる・問う・向かう」が重要に 都教委、有識者と議論 - 教育新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFSnM2RUU1eDI3NXMzZ3BuU2RWV0JRVnlrNUN6cS1NR2ZyMXpPSWQySHhlRlhPWkxJYUxTOGRkemh0WWtpeHBpYThDWDZtMnpjOEZ2bERB?oc=5",
+      "publisher": "教育新聞",
+      "summary": "AI時代は「感じる・問う・向かう」が重要に 都教委、有識者と議論 教育新聞",
+      "published_at": "2026-11-18T11:55:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
       "id": "3e95505f3f8c368a05732fdc",
       "category": "parenting",
       "source_id": "parenting",
@@ -1022,6 +1363,77 @@
       "in_scope": true,
       "theme_ids": [
         "education"
+      ]
+    },
+    {
+      "id": "c18f91e4000e285ec5a94039",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "publisher": "OpenAI 公式",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "published_at": "2026-11-18T10:00:00Z",
+      "collected_at": "2026-11-18T21:00:07.450350Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "c246b59841f89bdee45bf35c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に - 窓の杜",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ueFJWcTNzZlM1YWhXRF9pdHZLQjluNGdPQTRIeGJLbHVuVWJNWDR2SXBjQlY2MTVPQ0lJVzlsVnpzSUg3RUlzQ2pReFZFTk9fSzUzdXBGd3o0bm5qajNtbDhtNmRiMkJX?oc=5",
+      "publisher": "窓の杜",
+      "summary": "「Google Apps Script」のコードをGeminiで開発する機能が一般提供開始／専門知識なしで業務自動化が可能に 窓の杜",
+      "published_at": "2026-11-18T09:45:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
+      ]
+    },
+    {
+      "id": "22f746dfddcaef2e071272f6",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini 4 NeonがGoogle Cloudに登場、価格はHydrogenの2倍 - Pasquale Pillitteri",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG80cU1odmNZWmpMcFFnYW9LS2Uxc3FCT0x5cTk4aWk1WlhsemU3V2k2a0tkRnR6MnZCdEdsbktyblJ5c2NfdVZSVHk3ZHZfLTJJeHRESkR4VEFneUYzY1QxeWNpeWNfUTFRdF9MVlFtWEVTWjdGWU5XTEp4UDJFaHFGSTRTSmZ2SHg5Vi1UUXVtUQ?oc=5",
+      "publisher": "Pasquale Pillitteri",
+      "summary": "Gemini 4 NeonがGoogle Cloudに登場、価格はHydrogenの2倍 Pasquale Pillitteri",
+      "published_at": "2026-11-18T09:29:21Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "7c6f5067cca2e3a89003f75d",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "コスプレイヤー伊織もえ、Anthropic社の新規公開株購入を申し込み「Claudeをたくさん使ってるので」 - KAI-YOU",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFByYTlWZWk3bm10QzVaVExWVW8tc0FVU0lRYmpneHpJNVEzMFBOd2U0Mm1JcWJxX0JhY21MQXYwS1JfLXRVb08wTA?oc=5",
+      "publisher": "KAI-YOU",
+      "summary": "コスプレイヤー伊織もえ、Anthropic社の新規公開株購入を申し込み「Claudeをたくさん使ってるので」 KAI-YOU",
+      "published_at": "2026-11-18T08:59:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
       ]
     },
     {
@@ -1113,6 +1525,38 @@
       ]
     },
     {
+      "id": "5636520cd08527e3de7d1836",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "publisher": "OpenAI 公式",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "published_at": "2026-11-18T08:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "567b610aea7468d7e14bf715",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "publisher": "OpenAI 公式",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+      "published_at": "2026-11-18T08:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "8dc908c7bba62aa57cdd386f",
       "category": "ai",
       "source_id": "ai",
@@ -1122,6 +1566,24 @@
       "summary": "OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表--品質向上とコスト効率を両立 ZDNET Japan",
       "published_at": "2026-11-18T07:53:00Z",
       "collected_at": "2026-11-18T21:00:07.450350Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "9a7b4880f2d0ae19d7c34cb4",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAI、「GPT-6.2 Astra」と「GPT-6.2 Sol」公開。ChatGPT Workなどで提供（あたらしい経済） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhdHdsbmZJcWpPemZxZTFTUzFkeWlBZVp1MVNybUwzSi1NeFViZXVjWGlrSnlHSkFiX1VHcjdtYlpCTS1XTUdNeTVTME00d3lHWWNvaVlvSmg1dWY1OG80UWZFNi0tQVVSWnl1bEZfbkFsQlk2a3Q0ZktRSE9VVWs?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "OpenAI、「GPT-6.2 Astra」と「GPT-6.2 Sol」公開。ChatGPT Workなどで提供（あたらしい経済） Yahoo!ニュース",
+      "published_at": "2026-11-18T07:39:24Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -1219,6 +1681,42 @@
       ]
     },
     {
+      "id": "d0abce80f19c8ac5c37b4b02",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "アンソロピックIPOで判明した約143兆円の契約、Claude利用企業が抱える料金と供給のリスク - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MWjdOUldIbW9OMHBqWWRHR2ZhdFU5TGtUNnd4TzNXcmVjNEM2NmtxdEZOZmN1cnIwUWJlT0FvWFdlWU04cVd0X2dVV3VyMG5UWndQbmVWU1c1c3lET0N1bWg1aEFnREc5UmFyT1FNN1dQZ2E2QTBhd282ZUo2SU0?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "アンソロピックIPOで判明した約143兆円の契約、Claude利用企業が抱える料金と供給のリスク Yahoo!ニュース",
+      "published_at": "2026-11-18T05:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "9ef62822e03f7ccbbbad17ff",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "総合型・学校推薦型選抜AI「アオマル」が利用者数3,000人を突破、自己分析から面接まで伴走（こどもとIT） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3UGdhVkhieU5LMllHOWxDTmN4S0lFTkxfYjJqc2tNZDdfZGFGSU9pbnY4YUpnODBuZVhhU0k5XzRrZ1FuVnQ1SGc1WEs1S2JnNm9wZ1ZLNnFENS1wUHdmTko2aEtGY0FmT19NNjZ3NXZQWklzTXpPRVozU3Zvc00?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "総合型・学校推薦型選抜AI「アオマル」が利用者数3,000人を突破、自己分析から面接まで伴走（こどもとIT） Yahoo!ニュース",
+      "published_at": "2026-11-18T05:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "17a4aeb9b09c131fb1fd5103",
       "category": "parenting",
       "source_id": "parenting",
@@ -1246,6 +1744,24 @@
       "summary": "Gemini、予約や買い物を代行する「タスク」機能。日本でも無料で利用可能（PC Watch） Yahoo!ニュース",
       "published_at": "2026-11-18T04:31:00Z",
       "collected_at": "2026-11-18T21:00:07.450350Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "9946747fc40cfd6a2ffb462c",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini、タスクの依頼・遂行が可能に 電話や買い物代行も - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5HWHVnOFpISUtESFktS2dFQXZhNDYwTlBHMHRDM0JWR3FTWjdILUYzNGtCWjBZNmI4bzVUVmF1U1dVcUd4UHl1NFozeVV4STB4eWdmNXpTUE9FTk5ieWVHU3RYbkE?oc=5",
+      "publisher": "Impress Watch",
+      "summary": "Gemini、タスクの依頼・遂行が可能に 電話や買い物代行も Impress Watch",
+      "published_at": "2026-11-18T04:06:17Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -1375,24 +1891,6 @@
       ]
     },
     {
-      "id": "7dcaab88483218551e820c8b",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "「Geminiの神機能」眠らせてない？Gmail・スプシ・新スキルまで使い倒す完全ガイド 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOdlpwR0U4WkFpLTZ1S1dVa3FQNndpeW9PWlJRUGFhN0lpVE5QUm55NjhOc0VDazgzd1BMVF9CT0RDT2MwbkkyNG1PVjN1SFIwdHI4?oc=5",
-      "publisher": "ビジネス+IT",
-      "summary": "「Geminiの神機能」眠らせてない？Gmail・スプシ・新スキルまで使い倒す完全ガイド 連載：きょうから使える生成AI仕事術 ビジネス+IT",
-      "published_at": "2026-11-18T02:07:17Z",
-      "collected_at": "2026-11-18T02:49:07.555363Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
-      ]
-    },
-    {
       "id": "daf42bf091e951d7c3b82751",
       "category": "tech",
       "source_id": "tech",
@@ -1518,6 +2016,25 @@
       ]
     },
     {
+      "id": "5a97d7da8a9d187e5d3e3337",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "「Gemini」、会話履歴を保持しながら学習への利用を拒否できるように - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5SmJtM19RdjJhcm9FWGtNYTNjc0pEaVJpaDdKb3FhSjU3al9feTloV1FNeFZkd0I4MXJTZ2FpRk5KX1Z3Qm52WC1CN3VjdHhDTlFwN2tfX0p1UW1PQ0RiLVpRWGs5RlJzQVJnVEtBOF83emFGanZvRTdQeTZBeVE?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "「Gemini」、会話履歴を保持しながら学習への利用を拒否できるように Yahoo!ニュース",
+      "published_at": "2026-11-18T00:47:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "education"
+      ]
+    },
+    {
       "id": "a0ffc1cad30f4bc7e984368a",
       "category": "tech",
       "source_id": "tech",
@@ -1625,16 +2142,16 @@
       ]
     },
     {
-      "id": "c18f91e4000e285ec5a94039",
+      "id": "7485c6ef03f3bb679b92c027",
       "category": "ai",
-      "source_id": "openai",
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "publisher": "OpenAI 公式",
-      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "source_id": "anthropic",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "publisher": "Anthropic 公式",
+      "summary": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
       "published_at": "2026-11-18T00:00:00Z",
-      "collected_at": "2026-11-18T21:00:07.450350Z",
-      "provider": "OpenAI",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": "Anthropic",
       "origin_kind": "official",
       "topic_id": "ai-products",
       "in_scope": true,
@@ -1754,6 +2271,24 @@
       "summary": "Googleドライブの最新ファイルをGeminiが常時参照 「スキル」に新機能追加 キーマンズネット",
       "published_at": "2026-11-17T22:00:00Z",
       "collected_at": "2026-11-18T21:00:07.450350Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "7dcaab88483218551e820c8b",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「Geminiの神機能」眠らせてない？Gmail・スプシ・新スキルまで使い倒す完全ガイド 連載：きょうから使える生成AI仕事術 - ビジネス+IT",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOdlpwR0U4WkFpLTZ1S1dVa3FQNndpeW9PWlJRUGFhN0lpVE5QUm55NjhOc0VDazgzd1BMVF9CT0RDT2MwbkkyNG1PVjN1SFIwdHI4?oc=5",
+      "publisher": "ビジネス+IT",
+      "summary": "「Geminiの神機能」眠らせてない？Gmail・スプシ・新スキルまで使い倒す完全ガイド 連載：きょうから使える生成AI仕事術 ビジネス+IT",
+      "published_at": "2026-11-17T21:40:00Z",
+      "collected_at": "2026-11-18T02:49:07.555363Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -2185,6 +2720,24 @@
       ]
     },
     {
+      "id": "5b11f1a0ef794f465e5d47b1",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "【クマ対策】加茂市はAIカメラで撃退！長岡市は高校生がエサになる柿でジャム作り【新潟】（UX新潟テレビ21） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsdWFwdEtxWDZVSnhGZnAzVGh2eHNZNWZNdW5sN0dzSEVSTDRZLVNYdHBpRTJNTlZWMU1EZW1SeE50dUQySUR6YVNjeHJ0M1k2OW44YVAwUG9GVTlGYUZXSWFrbGpjLU5udDV3azBYUC1BOER0OGFaT1dDMDJNUEU?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "【クマ対策】加茂市はAIカメラで撃退！長岡市は高校生がエサになる柿でジャム作り【新潟】（UX新潟テレビ21） Yahoo!ニュース",
+      "published_at": "2026-11-17T09:44:17Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
       "id": "a74652b7a9457dcb2c004e51",
       "category": "ai",
       "source_id": "ai",
@@ -2266,6 +2819,22 @@
       "provider": "OpenAI",
       "origin_kind": "official",
       "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "a622c63c4baea26bbdc2b19e",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "練馬まつりとねりおと 参加者の声とAI活用を委員会で質問 - 岩瀬たけし",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcEltSm1jMEQyWFVEQ0NENEJmQnFORTdpeTJkWndkMW9IdWM4YzdUd3FTMDRtSWxGTHNxUks1VkM5VjVTamFvN0hLTEVTVmQ3a3VjLVBIN3QxR0lGQ3VQTEhURWNWU2xDc05oOGQ1eldxbDhkTUVubExTc1AzUzFTbE00QUs?oc=5",
+      "publisher": "岩瀬たけし",
+      "summary": "練馬まつりとねりおと 参加者の声とAI活用を委員会で質問 岩瀬たけし",
+      "published_at": "2026-11-17T08:00:00Z",
+      "collected_at": "2026-11-19T02:26:10.758127Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
       "in_scope": true,
       "theme_ids": []
     },
@@ -23759,22 +24328,6 @@
       ]
     },
     {
-      "id": "a4e1ea26ceb33f8aac971d7b",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "トヨクモ - 日本経済新聞",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QV0pPSUZqdG5IemhLb3U2SjhuQXh1a0RzbHBHY2ZXTVlwdXNqTmxGdHZRVEZvcmp4ZmVibkhXXzVfRXA3WmNQOFNUTFdYZHFGRVRTLXVtNFdEc3NTVjF4T1NPVzk2b1dMd3c?oc=5",
-      "publisher": "日本経済新聞",
-      "summary": "トヨクモ 日本経済新聞",
-      "published_at": "2026-10-23T09:00:00Z",
-      "collected_at": "2026-10-23T21:00:06.381165Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": null,
-      "in_scope": false,
-      "theme_ids": []
-    },
-    {
       "id": "284daae1aeb49281cd2e339d",
       "category": "ai",
       "source_id": "ai",
@@ -23827,6 +24380,22 @@
       "theme_ids": [
         "camera"
       ]
+    },
+    {
+      "id": "a4e1ea26ceb33f8aac971d7b",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "トヨクモ - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5QV0pPSUZqdG5IemhLb3U2SjhuQXh1a0RzbHBHY2ZXTVlwdXNqTmxGdHZRVEZvcmp4ZmVibkhXXzVfRXA3WmNQOFNUTFdYZHFGRVRTLXVtNFdEc3NTVjF4T1NPVzk2b1dMd3c?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "トヨクモ 日本経済新聞",
+      "published_at": "2026-10-23T07:00:00Z",
+      "collected_at": "2026-10-23T21:00:06.381165Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
     },
     {
       "id": "8eb874c9bf39f98f2827fb51",
@@ -52739,20 +53308,20 @@
       "kind": "weekly",
       "period_start": "2026-11-16",
       "period_end": "2026-11-22",
-      "generated_at": "2026-11-19T06:01:54.352887+09:00",
+      "generated_at": "2026-11-19T11:26:18.216828+09:00",
       "is_complete": false,
-      "article_count": 185,
+      "article_count": 216,
       "category_counts": {
-        "ai": 102,
-        "parenting": 42,
-        "tech": 41
+        "ai": 123,
+        "parenting": 47,
+        "tech": 46
       },
       "overview": "NVIDIAは研究者・開発者向けに、DGX Spark 4台をConnectX-7でリング状に直結するキットの販売を開始した。ネットワークスイッチを使わず、4台合計で512GBのメモリと20TBのNVMeストレージを備える。材料シミュレーションのLAMMPSを実演し、HPC SDKの手順書は公開予定としている。一方、Lambdaは1万基超のGPUを備えるラック群に、光学エンジンをスイッチと同じパッケージに載せたNVIDIA Photonicsを導入した。同社の試験では着脱式光学部品と同等のスループットを維持し、通信遅延がラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyの中間評価機能「Explain Your Thinking」は、一部の設問で児童・生徒が解答した後、AIがヒントを出さずに理由を尋ね、理解や誤解を教員向けに要約する。代数・幾何の各1問を対象とした初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に表れなかった理解が対話で確認された。対象学年と導入範囲は資料に明記されていない。評価に基づく推奨学習経路を教員が確認してから児童・生徒に提示する仕組みは、2027〜28年に計画されている。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+        "attempted_at": "2026-11-19T02:26:17.969332+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -52763,23 +53332,23 @@
         ],
         "errors": [
           {
+            "article_id": "c18f91e4000e285ec5a94039",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "01ad89a03fac0a516de5c538",
             "stage": "original_fetch"
           },
           {
+            "article_id": "5636520cd08527e3de7d1836",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "567b610aea7468d7e14bf715",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "02a4e4638b3a5008da396fb9",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "5557275e69e86b656a44304c",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "09d7a687e79b686fd63474f4",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "c18f91e4000e285ec5a94039",
             "stage": "original_fetch"
           }
         ],
@@ -52816,7 +53385,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+        "last_success_at": "2026-11-19T02:26:17.969332+00:00"
       },
       "genre_briefs": [
         {
@@ -52917,24 +53486,43 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 88,
-          "publisher_count": 27,
+          "count": 108,
+          "publisher_count": 32,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "4027c3209ed6f867dc28f248",
-            "3bb68b8fa2992221740a3a39",
-            "8dc908c7bba62aa57cdd386f"
+            "be366d111c34b1ab60216f6e",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6"
           ],
           "article_ids": [
+            "be366d111c34b1ab60216f6e",
+            "d8d53f7ac616e8403b7f8b73",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6",
+            "123741ed8f50d7ae03b6ad49",
+            "aae1a09eafc98dd60bbe0759",
+            "76034cd9bb1a95bd22e26462",
+            "e46c8283f1372287952a3410",
+            "eb0e26afa761a8fba4b7c519",
+            "b2f7b12485ecfe88fa8f90cf",
+            "91f423563a24bb86411728a4",
             "4027c3209ed6f867dc28f248",
             "3bb68b8fa2992221740a3a39",
             "2fded7259f844e6891c85547",
+            "f07f018de2e71746899a1578",
+            "c18f91e4000e285ec5a94039",
+            "22f746dfddcaef2e071272f6",
+            "7c6f5067cca2e3a89003f75d",
             "56efb4af758587dddd4c1f52",
+            "5636520cd08527e3de7d1836",
+            "567b610aea7468d7e14bf715",
             "8dc908c7bba62aa57cdd386f",
+            "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
+            "d0abce80f19c8ac5c37b4b02",
             "b4168bface4dc178bdfacc6c",
+            "9946747fc40cfd6a2ffb462c",
             "bb6b5e3179282ad01e3cbee3",
-            "7dcaab88483218551e820c8b",
             "80a05365702ea7df1f5e4a83",
             "5ab0e3e139ee54d92e3d686c",
             "8d605a774f5a4f1923121b0f",
@@ -52943,12 +53531,13 @@
             "c691aa4efcdb1d18e312c6b1",
             "5557275e69e86b656a44304c",
             "09d7a687e79b686fd63474f4",
-            "c18f91e4000e285ec5a94039",
+            "7485c6ef03f3bb679b92c027",
             "fb515f4c928d71d26aa76550",
             "5cc37fadd94f0f575d5b328a",
             "78fba878022e3062ec0a7a43",
             "d31892a2fd6916c21abc5519",
             "78f96530513cf026c1d713b1",
+            "7dcaab88483218551e820c8b",
             "cfe73e466d5dc57a3dc738ec",
             "1d148ca6999c57314f2796e0",
             "b5e40fae3571b438ca969dcd",
@@ -53023,15 +53612,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 41,
-          "publisher_count": 19,
+          "count": 46,
+          "publisher_count": 23,
           "summary": "NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "415b4f6f63aa2c69c9244ca2",
-            "44006d154b329636124dee34",
-            "9b911dd0625e2308cc9f083f"
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b"
           ],
           "article_ids": [
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b",
             "415b4f6f63aa2c69c9244ca2",
             "44006d154b329636124dee34",
             "9b911dd0625e2308cc9f083f",
@@ -53048,6 +53640,8 @@
             "a04d1fc4ba7df0b55ed1fb7f",
             "0135a4c1fdb7199ad75c0b09",
             "7bd3e184fb57410ec2671aca",
+            "5b11f1a0ef794f465e5d47b1",
+            "a622c63c4baea26bbdc2b19e",
             "220b0fe1b8e02f8b09089d9b",
             "e5a11db3337eff33e263791c",
             "cbeb3049265f8b41d7a16c70",
@@ -53082,23 +53676,28 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 39,
-          "publisher_count": 26,
+          "count": 44,
+          "publisher_count": 27,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
           "evidence_ids": [
-            "7cab00c831e084dbb411dc10",
-            "3e95505f3f8c368a05732fdc",
-            "ca4966a3b3fa88245a42700a"
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5"
           ],
           "article_ids": [
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5",
             "7cab00c831e084dbb411dc10",
             "3e95505f3f8c368a05732fdc",
             "ca4966a3b3fa88245a42700a",
             "aea4a76389e7f67d64b408df",
+            "9ef62822e03f7ccbbbad17ff",
             "17a4aeb9b09c131fb1fd5103",
             "fa6175ead78e76cffa44196b",
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
+            "5a97d7da8a9d187e5d3e3337",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
             "4d3492d9ba38bb74b2711eed",
@@ -53147,15 +53746,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 10,
-          "publisher_count": 8,
+          "count": 11,
+          "publisher_count": 9,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
-            "e9ccf56c21bfed30c70ad28a",
-            "e86a34d8bfc3301c696f848b"
+            "e9ccf56c21bfed30c70ad28a"
           ],
           "article_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
             "e9ccf56c21bfed30c70ad28a",
             "e86a34d8bfc3301c696f848b",
@@ -53235,29 +53835,56 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "be366d111c34b1ab60216f6e",
+        "d8d53f7ac616e8403b7f8b73",
+        "ca34af0613928b91b08f8935",
+        "6187d8431077e3d8e17a30c0",
+        "f8973edf06599b4efaa18ac6",
+        "123741ed8f50d7ae03b6ad49",
+        "0aa950c0087c10dfeb7766ce",
+        "b333a2aec5fc5fcd611b01b8",
+        "18e1dca7f9cdf08e63fa062d",
+        "aae1a09eafc98dd60bbe0759",
+        "76034cd9bb1a95bd22e26462",
+        "e46c8283f1372287952a3410",
+        "eb0e26afa761a8fba4b7c519",
+        "b2f7b12485ecfe88fa8f90cf",
+        "91f423563a24bb86411728a4",
+        "bdcd264317973078125d53f5",
+        "9503ffd0e7453fa351125d0b",
         "4027c3209ed6f867dc28f248",
         "7cab00c831e084dbb411dc10",
         "3bb68b8fa2992221740a3a39",
         "2fded7259f844e6891c85547",
+        "f07f018de2e71746899a1578",
         "3e95505f3f8c368a05732fdc",
+        "c18f91e4000e285ec5a94039",
+        "c246b59841f89bdee45bf35c",
+        "22f746dfddcaef2e071272f6",
+        "7c6f5067cca2e3a89003f75d",
         "56efb4af758587dddd4c1f52",
         "415b4f6f63aa2c69c9244ca2",
         "ca4966a3b3fa88245a42700a",
         "44006d154b329636124dee34",
         "01ad89a03fac0a516de5c538",
+        "5636520cd08527e3de7d1836",
+        "567b610aea7468d7e14bf715",
         "8dc908c7bba62aa57cdd386f",
+        "9a7b4880f2d0ae19d7c34cb4",
         "9b911dd0625e2308cc9f083f",
         "27406fe6c196ba4f9f9b3c6a",
         "02a4e4638b3a5008da396fb9",
         "900f5e5271373dd58111fff3",
         "aea4a76389e7f67d64b408df",
+        "d0abce80f19c8ac5c37b4b02",
+        "9ef62822e03f7ccbbbad17ff",
         "17a4aeb9b09c131fb1fd5103",
         "b4168bface4dc178bdfacc6c",
+        "9946747fc40cfd6a2ffb462c",
         "dd70783217ff6dc7b447c5d7",
         "bb6b5e3179282ad01e3cbee3",
         "fa6175ead78e76cffa44196b",
         "2b1204c3fc258e9a383209d3",
-        "7dcaab88483218551e820c8b",
         "daf42bf091e951d7c3b82751",
         "80a05365702ea7df1f5e4a83",
         "567ef115f9d94db4a31806a9",
@@ -53265,12 +53892,13 @@
         "5ab0e3e139ee54d92e3d686c",
         "8d605a774f5a4f1923121b0f",
         "b308a5f2f62e6f045731a205",
+        "5a97d7da8a9d187e5d3e3337",
         "a0ffc1cad30f4bc7e984368a",
         "847eb4cdb730f529fd5db63d",
         "c691aa4efcdb1d18e312c6b1",
         "5557275e69e86b656a44304c",
         "09d7a687e79b686fd63474f4",
-        "c18f91e4000e285ec5a94039",
+        "7485c6ef03f3bb679b92c027",
         "e9ccf56c21bfed30c70ad28a",
         "fb515f4c928d71d26aa76550",
         "5cc37fadd94f0f575d5b328a",
@@ -53278,6 +53906,7 @@
         "1092dcf154631148a29bc76c",
         "d31892a2fd6916c21abc5519",
         "78f96530513cf026c1d713b1",
+        "7dcaab88483218551e820c8b",
         "cfe73e466d5dc57a3dc738ec",
         "bfe60d35a235c0c93de4708c",
         "1d148ca6999c57314f2796e0",
@@ -53300,11 +53929,13 @@
         "0135a4c1fdb7199ad75c0b09",
         "4c875154cc676ea694b8e4af",
         "7bd3e184fb57410ec2671aca",
+        "5b11f1a0ef794f465e5d47b1",
         "a74652b7a9457dcb2c004e51",
         "cf6b6933c9e7c5048dc04c74",
         "187baf64d3b6bc654b894ac5",
         "e86a34d8bfc3301c696f848b",
         "54b33665271eece34812a1f1",
+        "a622c63c4baea26bbdc2b19e",
         "ee39a6af947eec0535bd6326",
         "220b0fe1b8e02f8b09089d9b",
         "e5a11db3337eff33e263791c",
@@ -53427,7 +54058,7 @@
       "kind": "weekly",
       "period_start": "2026-11-09",
       "period_end": "2026-11-15",
-      "generated_at": "2026-11-19T06:01:54.352887+09:00",
+      "generated_at": "2026-11-19T11:26:18.216828+09:00",
       "is_complete": true,
       "article_count": 354,
       "category_counts": {
@@ -53440,7 +54071,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+        "attempted_at": "2026-11-19T02:26:17.969332+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -53451,23 +54082,23 @@
         ],
         "errors": [
           {
+            "article_id": "c18f91e4000e285ec5a94039",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "01ad89a03fac0a516de5c538",
             "stage": "original_fetch"
           },
           {
+            "article_id": "5636520cd08527e3de7d1836",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "567b610aea7468d7e14bf715",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "02a4e4638b3a5008da396fb9",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "5557275e69e86b656a44304c",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "09d7a687e79b686fd63474f4",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "c18f91e4000e285ec5a94039",
             "stage": "original_fetch"
           }
         ],
@@ -53504,7 +54135,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+        "last_success_at": "2026-11-19T02:26:17.969332+00:00"
       },
       "genre_briefs": [
         {
@@ -55516,20 +56147,20 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-19T06:01:54.352887+09:00",
+      "generated_at": "2026-11-19T11:26:18.216828+09:00",
       "is_complete": false,
-      "article_count": 839,
+      "article_count": 870,
       "category_counts": {
-        "ai": 450,
-        "parenting": 194,
-        "tech": 195
+        "ai": 471,
+        "parenting": 199,
+        "tech": 200
       },
       "overview": "DeepSeekは開発者向けに、引用付き検索やPDF・Office文書・画像の入力、URL読み取りを既存APIの設定で使えるようにし、ツールの呼び出しと文脈の組み立てをサービス側で担う。JioStarはOpenAI APIを使い、動画の場面やクリケット統計を自然な発話で探せる15超の言語対応の機能を約8週間で構築・公開した。回答生成用と検証用のモデルを組み合わせ、競技の専門家も評価設計に参加した。 NVIDIAは研究者・開発者向けに、DGX Spark 4台をリング状に直結し、スイッチを介さずに使える開発キットの販売を開始した。材料シミュレーションを実演し、HPC SDKの手順書は近日公開予定とした。Lambdaは1万基超のGPUを備えるラック群に光学エンジン一体型スイッチを導入した。同社試験では着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyの中間評価機能は、一部の設問で児童・生徒にヒントを出さずに考え方を尋ね、理解と誤解を教員向けに要約する。代数と幾何の各1問を対象にした初期調査では、最初の説明に現れなかった理解が対話で確認された割合は、代数で約20％、幾何で約36％だった。対象学年と導入範囲は資料に明記されておらず、教員が評価結果に基づく推奨学習経路を確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+        "attempted_at": "2026-11-19T02:26:17.969332+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -55540,23 +56171,23 @@
         ],
         "errors": [
           {
+            "article_id": "c18f91e4000e285ec5a94039",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "01ad89a03fac0a516de5c538",
             "stage": "original_fetch"
           },
           {
+            "article_id": "5636520cd08527e3de7d1836",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "567b610aea7468d7e14bf715",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "02a4e4638b3a5008da396fb9",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "5557275e69e86b656a44304c",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "09d7a687e79b686fd63474f4",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "c18f91e4000e285ec5a94039",
             "stage": "original_fetch"
           }
         ],
@@ -55593,7 +56224,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+        "last_success_at": "2026-11-19T02:26:17.969332+00:00"
       },
       "genre_briefs": [
         {
@@ -55796,24 +56427,43 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 382,
-          "publisher_count": 57,
+          "count": 402,
+          "publisher_count": 59,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
-            "4027c3209ed6f867dc28f248",
-            "3bb68b8fa2992221740a3a39",
-            "8dc908c7bba62aa57cdd386f"
+            "be366d111c34b1ab60216f6e",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6"
           ],
           "article_ids": [
+            "be366d111c34b1ab60216f6e",
+            "d8d53f7ac616e8403b7f8b73",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6",
+            "123741ed8f50d7ae03b6ad49",
+            "aae1a09eafc98dd60bbe0759",
+            "76034cd9bb1a95bd22e26462",
+            "e46c8283f1372287952a3410",
+            "eb0e26afa761a8fba4b7c519",
+            "b2f7b12485ecfe88fa8f90cf",
+            "91f423563a24bb86411728a4",
             "4027c3209ed6f867dc28f248",
             "3bb68b8fa2992221740a3a39",
             "2fded7259f844e6891c85547",
+            "f07f018de2e71746899a1578",
+            "c18f91e4000e285ec5a94039",
+            "22f746dfddcaef2e071272f6",
+            "7c6f5067cca2e3a89003f75d",
             "56efb4af758587dddd4c1f52",
+            "5636520cd08527e3de7d1836",
+            "567b610aea7468d7e14bf715",
             "8dc908c7bba62aa57cdd386f",
+            "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
+            "d0abce80f19c8ac5c37b4b02",
             "b4168bface4dc178bdfacc6c",
+            "9946747fc40cfd6a2ffb462c",
             "bb6b5e3179282ad01e3cbee3",
-            "7dcaab88483218551e820c8b",
             "80a05365702ea7df1f5e4a83",
             "5ab0e3e139ee54d92e3d686c",
             "8d605a774f5a4f1923121b0f",
@@ -55822,12 +56472,13 @@
             "c691aa4efcdb1d18e312c6b1",
             "5557275e69e86b656a44304c",
             "09d7a687e79b686fd63474f4",
-            "c18f91e4000e285ec5a94039",
+            "7485c6ef03f3bb679b92c027",
             "fb515f4c928d71d26aa76550",
             "5cc37fadd94f0f575d5b328a",
             "78fba878022e3062ec0a7a43",
             "d31892a2fd6916c21abc5519",
             "78f96530513cf026c1d713b1",
+            "7dcaab88483218551e820c8b",
             "cfe73e466d5dc57a3dc738ec",
             "1d148ca6999c57314f2796e0",
             "b5e40fae3571b438ca969dcd",
@@ -56196,15 +56847,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 190,
-          "publisher_count": 79,
+          "count": 195,
+          "publisher_count": 81,
           "summary": "NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "415b4f6f63aa2c69c9244ca2",
-            "44006d154b329636124dee34",
-            "9b911dd0625e2308cc9f083f"
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b"
           ],
           "article_ids": [
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b",
             "415b4f6f63aa2c69c9244ca2",
             "44006d154b329636124dee34",
             "9b911dd0625e2308cc9f083f",
@@ -56221,6 +56875,8 @@
             "a04d1fc4ba7df0b55ed1fb7f",
             "0135a4c1fdb7199ad75c0b09",
             "7bd3e184fb57410ec2671aca",
+            "5b11f1a0ef794f465e5d47b1",
+            "a622c63c4baea26bbdc2b19e",
             "220b0fe1b8e02f8b09089d9b",
             "e5a11db3337eff33e263791c",
             "cbeb3049265f8b41d7a16c70",
@@ -56404,23 +57060,28 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 187,
-          "publisher_count": 81,
+          "count": 192,
+          "publisher_count": 82,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。 Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。",
           "evidence_ids": [
-            "7cab00c831e084dbb411dc10",
-            "3e95505f3f8c368a05732fdc",
-            "ca4966a3b3fa88245a42700a"
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5"
           ],
           "article_ids": [
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5",
             "7cab00c831e084dbb411dc10",
             "3e95505f3f8c368a05732fdc",
             "ca4966a3b3fa88245a42700a",
             "aea4a76389e7f67d64b408df",
+            "9ef62822e03f7ccbbbad17ff",
             "17a4aeb9b09c131fb1fd5103",
             "fa6175ead78e76cffa44196b",
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
+            "5a97d7da8a9d187e5d3e3337",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
             "4d3492d9ba38bb74b2711eed",
@@ -56617,15 +57278,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 63,
+          "count": 64,
           "publisher_count": 28,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
-            "e9ccf56c21bfed30c70ad28a",
-            "e86a34d8bfc3301c696f848b"
+            "e9ccf56c21bfed30c70ad28a"
           ],
           "article_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
             "e9ccf56c21bfed30c70ad28a",
             "e86a34d8bfc3301c696f848b",
@@ -56775,29 +57437,56 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "be366d111c34b1ab60216f6e",
+        "d8d53f7ac616e8403b7f8b73",
+        "ca34af0613928b91b08f8935",
+        "6187d8431077e3d8e17a30c0",
+        "f8973edf06599b4efaa18ac6",
+        "123741ed8f50d7ae03b6ad49",
+        "0aa950c0087c10dfeb7766ce",
+        "b333a2aec5fc5fcd611b01b8",
+        "18e1dca7f9cdf08e63fa062d",
+        "aae1a09eafc98dd60bbe0759",
+        "76034cd9bb1a95bd22e26462",
+        "e46c8283f1372287952a3410",
+        "eb0e26afa761a8fba4b7c519",
+        "b2f7b12485ecfe88fa8f90cf",
+        "91f423563a24bb86411728a4",
+        "bdcd264317973078125d53f5",
+        "9503ffd0e7453fa351125d0b",
         "4027c3209ed6f867dc28f248",
         "7cab00c831e084dbb411dc10",
         "3bb68b8fa2992221740a3a39",
         "2fded7259f844e6891c85547",
+        "f07f018de2e71746899a1578",
         "3e95505f3f8c368a05732fdc",
+        "c18f91e4000e285ec5a94039",
+        "c246b59841f89bdee45bf35c",
+        "22f746dfddcaef2e071272f6",
+        "7c6f5067cca2e3a89003f75d",
         "56efb4af758587dddd4c1f52",
         "415b4f6f63aa2c69c9244ca2",
         "ca4966a3b3fa88245a42700a",
         "44006d154b329636124dee34",
         "01ad89a03fac0a516de5c538",
+        "5636520cd08527e3de7d1836",
+        "567b610aea7468d7e14bf715",
         "8dc908c7bba62aa57cdd386f",
+        "9a7b4880f2d0ae19d7c34cb4",
         "9b911dd0625e2308cc9f083f",
         "27406fe6c196ba4f9f9b3c6a",
         "02a4e4638b3a5008da396fb9",
         "900f5e5271373dd58111fff3",
         "aea4a76389e7f67d64b408df",
+        "d0abce80f19c8ac5c37b4b02",
+        "9ef62822e03f7ccbbbad17ff",
         "17a4aeb9b09c131fb1fd5103",
         "b4168bface4dc178bdfacc6c",
+        "9946747fc40cfd6a2ffb462c",
         "dd70783217ff6dc7b447c5d7",
         "bb6b5e3179282ad01e3cbee3",
         "fa6175ead78e76cffa44196b",
         "2b1204c3fc258e9a383209d3",
-        "7dcaab88483218551e820c8b",
         "daf42bf091e951d7c3b82751",
         "80a05365702ea7df1f5e4a83",
         "567ef115f9d94db4a31806a9",
@@ -56805,12 +57494,13 @@
         "5ab0e3e139ee54d92e3d686c",
         "8d605a774f5a4f1923121b0f",
         "b308a5f2f62e6f045731a205",
+        "5a97d7da8a9d187e5d3e3337",
         "a0ffc1cad30f4bc7e984368a",
         "847eb4cdb730f529fd5db63d",
         "c691aa4efcdb1d18e312c6b1",
         "5557275e69e86b656a44304c",
         "09d7a687e79b686fd63474f4",
-        "c18f91e4000e285ec5a94039",
+        "7485c6ef03f3bb679b92c027",
         "e9ccf56c21bfed30c70ad28a",
         "fb515f4c928d71d26aa76550",
         "5cc37fadd94f0f575d5b328a",
@@ -56818,6 +57508,7 @@
         "1092dcf154631148a29bc76c",
         "d31892a2fd6916c21abc5519",
         "78f96530513cf026c1d713b1",
+        "7dcaab88483218551e820c8b",
         "cfe73e466d5dc57a3dc738ec",
         "bfe60d35a235c0c93de4708c",
         "1d148ca6999c57314f2796e0",
@@ -56840,11 +57531,13 @@
         "0135a4c1fdb7199ad75c0b09",
         "4c875154cc676ea694b8e4af",
         "7bd3e184fb57410ec2671aca",
+        "5b11f1a0ef794f465e5d47b1",
         "a74652b7a9457dcb2c004e51",
         "cf6b6933c9e7c5048dc04c74",
         "187baf64d3b6bc654b894ac5",
         "e86a34d8bfc3301c696f848b",
         "54b33665271eece34812a1f1",
+        "a622c63c4baea26bbdc2b19e",
         "ee39a6af947eec0535bd6326",
         "220b0fe1b8e02f8b09089d9b",
         "e5a11db3337eff33e263791c",
@@ -61161,7 +61854,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-19T06:01:54.352887+09:00",
+      "generated_at": "2026-11-19T11:26:18.216828+09:00",
       "is_complete": true,
       "article_count": 1121,
       "category_counts": {
@@ -61174,7 +61867,7 @@
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+        "attempted_at": "2026-11-19T02:26:17.969332+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -61185,23 +61878,23 @@
         ],
         "errors": [
           {
+            "article_id": "c18f91e4000e285ec5a94039",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "01ad89a03fac0a516de5c538",
             "stage": "original_fetch"
           },
           {
+            "article_id": "5636520cd08527e3de7d1836",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "567b610aea7468d7e14bf715",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "02a4e4638b3a5008da396fb9",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "5557275e69e86b656a44304c",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "09d7a687e79b686fd63474f4",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "c18f91e4000e285ec5a94039",
             "stage": "original_fetch"
           }
         ],
@@ -61238,7 +61931,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+        "last_success_at": "2026-11-19T02:26:17.969332+00:00"
       },
       "genre_briefs": [
         {
@@ -66768,20 +67461,20 @@
       "kind": "overview",
       "period_start": "2026-11-13",
       "period_end": "2026-11-19",
-      "generated_at": "2026-11-19T06:01:54.352887+09:00",
+      "generated_at": "2026-11-19T11:26:18.216828+09:00",
       "is_complete": false,
-      "article_count": 308,
+      "article_count": 339,
       "category_counts": {
-        "ai": 172,
-        "parenting": 74,
-        "tech": 62
+        "ai": 193,
+        "parenting": 79,
+        "tech": 67
       },
       "overview": "DeepSeekは11月13日、開発者向けの既存APIで、deepseek-flashから引用付き検索、PDF・Office文書・画像の入力、URL読み取りを利用できるようにした。ツールの呼び出しと、取得した情報を会話の文脈に組み込む処理はDeepSeek側が担う。検索の動作は思考モードとツール設定に依存する。 NVIDIAは研究者・開発者向けに、DGX Spark 4台をConnectX-7でリング状に直結するキットを発売し、材料シミュレーションのLAMMPSを実演した。HPC SDKの設定・実行手順書は公開予定とされた。一方、Lambdaは1万基超のGPUを備えるラック群の接続に光学一体型スイッチを導入済みで、同社試験では従来の着脱式光学部品と同等のスループットを維持し、通信遅延がラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyの中間評価機能では、一部の設問への解答後にAIがヒントを出さずに考え方を尋ね、理解や誤解を要約して教員に示す。代数と幾何の各1問を使った初期調査では、代数で約20％、幾何で約36％の回答について、最初の説明に現れなかった理解が対話で確認された。対象学年と導入範囲は資料から確認できず、教員が確認した推奨学習経路を児童・生徒に提示する仕組みは2027〜28年の計画段階にある。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+        "attempted_at": "2026-11-19T02:26:17.969332+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -66792,23 +67485,23 @@
         ],
         "errors": [
           {
+            "article_id": "c18f91e4000e285ec5a94039",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "01ad89a03fac0a516de5c538",
             "stage": "original_fetch"
           },
           {
+            "article_id": "5636520cd08527e3de7d1836",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "567b610aea7468d7e14bf715",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "02a4e4638b3a5008da396fb9",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "5557275e69e86b656a44304c",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "09d7a687e79b686fd63474f4",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "c18f91e4000e285ec5a94039",
             "stage": "original_fetch"
           }
         ],
@@ -66845,7 +67538,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+        "last_success_at": "2026-11-19T02:26:17.969332+00:00"
       },
       "genre_briefs": [
         {
@@ -66992,24 +67685,43 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 149,
-          "publisher_count": 33,
+          "count": 169,
+          "publisher_count": 36,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。",
           "evidence_ids": [
-            "4027c3209ed6f867dc28f248",
-            "3bb68b8fa2992221740a3a39",
-            "8dc908c7bba62aa57cdd386f"
+            "be366d111c34b1ab60216f6e",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6"
           ],
           "article_ids": [
+            "be366d111c34b1ab60216f6e",
+            "d8d53f7ac616e8403b7f8b73",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6",
+            "123741ed8f50d7ae03b6ad49",
+            "aae1a09eafc98dd60bbe0759",
+            "76034cd9bb1a95bd22e26462",
+            "e46c8283f1372287952a3410",
+            "eb0e26afa761a8fba4b7c519",
+            "b2f7b12485ecfe88fa8f90cf",
+            "91f423563a24bb86411728a4",
             "4027c3209ed6f867dc28f248",
             "3bb68b8fa2992221740a3a39",
             "2fded7259f844e6891c85547",
+            "f07f018de2e71746899a1578",
+            "c18f91e4000e285ec5a94039",
+            "22f746dfddcaef2e071272f6",
+            "7c6f5067cca2e3a89003f75d",
             "56efb4af758587dddd4c1f52",
+            "5636520cd08527e3de7d1836",
+            "567b610aea7468d7e14bf715",
             "8dc908c7bba62aa57cdd386f",
+            "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
+            "d0abce80f19c8ac5c37b4b02",
             "b4168bface4dc178bdfacc6c",
+            "9946747fc40cfd6a2ffb462c",
             "bb6b5e3179282ad01e3cbee3",
-            "7dcaab88483218551e820c8b",
             "80a05365702ea7df1f5e4a83",
             "5ab0e3e139ee54d92e3d686c",
             "8d605a774f5a4f1923121b0f",
@@ -67018,12 +67730,13 @@
             "c691aa4efcdb1d18e312c6b1",
             "5557275e69e86b656a44304c",
             "09d7a687e79b686fd63474f4",
-            "c18f91e4000e285ec5a94039",
+            "7485c6ef03f3bb679b92c027",
             "fb515f4c928d71d26aa76550",
             "5cc37fadd94f0f575d5b328a",
             "78fba878022e3062ec0a7a43",
             "d31892a2fd6916c21abc5519",
             "78f96530513cf026c1d713b1",
+            "7dcaab88483218551e820c8b",
             "cfe73e466d5dc57a3dc738ec",
             "1d148ca6999c57314f2796e0",
             "b5e40fae3571b438ca969dcd",
@@ -67159,15 +67872,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 62,
-          "publisher_count": 31,
+          "count": 67,
+          "publisher_count": 35,
           "summary": "NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "415b4f6f63aa2c69c9244ca2",
-            "44006d154b329636124dee34",
-            "9b911dd0625e2308cc9f083f"
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b"
           ],
           "article_ids": [
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b",
             "415b4f6f63aa2c69c9244ca2",
             "44006d154b329636124dee34",
             "9b911dd0625e2308cc9f083f",
@@ -67184,6 +67900,8 @@
             "a04d1fc4ba7df0b55ed1fb7f",
             "0135a4c1fdb7199ad75c0b09",
             "7bd3e184fb57410ec2671aca",
+            "5b11f1a0ef794f465e5d47b1",
+            "a622c63c4baea26bbdc2b19e",
             "220b0fe1b8e02f8b09089d9b",
             "e5a11db3337eff33e263791c",
             "cbeb3049265f8b41d7a16c70",
@@ -67239,23 +67957,28 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 71,
-          "publisher_count": 39,
+          "count": 76,
+          "publisher_count": 40,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。 Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。",
           "evidence_ids": [
-            "7cab00c831e084dbb411dc10",
-            "3e95505f3f8c368a05732fdc",
-            "ca4966a3b3fa88245a42700a"
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5"
           ],
           "article_ids": [
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5",
             "7cab00c831e084dbb411dc10",
             "3e95505f3f8c368a05732fdc",
             "ca4966a3b3fa88245a42700a",
             "aea4a76389e7f67d64b408df",
+            "9ef62822e03f7ccbbbad17ff",
             "17a4aeb9b09c131fb1fd5103",
             "fa6175ead78e76cffa44196b",
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
+            "5a97d7da8a9d187e5d3e3337",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
             "4d3492d9ba38bb74b2711eed",
@@ -67336,15 +68059,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 18,
-          "publisher_count": 11,
+          "count": 19,
+          "publisher_count": 12,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
-            "e9ccf56c21bfed30c70ad28a",
-            "e86a34d8bfc3301c696f848b"
+            "e9ccf56c21bfed30c70ad28a"
           ],
           "article_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
             "e9ccf56c21bfed30c70ad28a",
             "e86a34d8bfc3301c696f848b",
@@ -67447,29 +68171,56 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "be366d111c34b1ab60216f6e",
+        "d8d53f7ac616e8403b7f8b73",
+        "ca34af0613928b91b08f8935",
+        "6187d8431077e3d8e17a30c0",
+        "f8973edf06599b4efaa18ac6",
+        "123741ed8f50d7ae03b6ad49",
+        "0aa950c0087c10dfeb7766ce",
+        "b333a2aec5fc5fcd611b01b8",
+        "18e1dca7f9cdf08e63fa062d",
+        "aae1a09eafc98dd60bbe0759",
+        "76034cd9bb1a95bd22e26462",
+        "e46c8283f1372287952a3410",
+        "eb0e26afa761a8fba4b7c519",
+        "b2f7b12485ecfe88fa8f90cf",
+        "91f423563a24bb86411728a4",
+        "bdcd264317973078125d53f5",
+        "9503ffd0e7453fa351125d0b",
         "4027c3209ed6f867dc28f248",
         "7cab00c831e084dbb411dc10",
         "3bb68b8fa2992221740a3a39",
         "2fded7259f844e6891c85547",
+        "f07f018de2e71746899a1578",
         "3e95505f3f8c368a05732fdc",
+        "c18f91e4000e285ec5a94039",
+        "c246b59841f89bdee45bf35c",
+        "22f746dfddcaef2e071272f6",
+        "7c6f5067cca2e3a89003f75d",
         "56efb4af758587dddd4c1f52",
         "415b4f6f63aa2c69c9244ca2",
         "ca4966a3b3fa88245a42700a",
         "44006d154b329636124dee34",
         "01ad89a03fac0a516de5c538",
+        "5636520cd08527e3de7d1836",
+        "567b610aea7468d7e14bf715",
         "8dc908c7bba62aa57cdd386f",
+        "9a7b4880f2d0ae19d7c34cb4",
         "9b911dd0625e2308cc9f083f",
         "27406fe6c196ba4f9f9b3c6a",
         "02a4e4638b3a5008da396fb9",
         "900f5e5271373dd58111fff3",
         "aea4a76389e7f67d64b408df",
+        "d0abce80f19c8ac5c37b4b02",
+        "9ef62822e03f7ccbbbad17ff",
         "17a4aeb9b09c131fb1fd5103",
         "b4168bface4dc178bdfacc6c",
+        "9946747fc40cfd6a2ffb462c",
         "dd70783217ff6dc7b447c5d7",
         "bb6b5e3179282ad01e3cbee3",
         "fa6175ead78e76cffa44196b",
         "2b1204c3fc258e9a383209d3",
-        "7dcaab88483218551e820c8b",
         "daf42bf091e951d7c3b82751",
         "80a05365702ea7df1f5e4a83",
         "567ef115f9d94db4a31806a9",
@@ -67477,12 +68228,13 @@
         "5ab0e3e139ee54d92e3d686c",
         "8d605a774f5a4f1923121b0f",
         "b308a5f2f62e6f045731a205",
+        "5a97d7da8a9d187e5d3e3337",
         "a0ffc1cad30f4bc7e984368a",
         "847eb4cdb730f529fd5db63d",
         "c691aa4efcdb1d18e312c6b1",
         "5557275e69e86b656a44304c",
         "09d7a687e79b686fd63474f4",
-        "c18f91e4000e285ec5a94039",
+        "7485c6ef03f3bb679b92c027",
         "e9ccf56c21bfed30c70ad28a",
         "fb515f4c928d71d26aa76550",
         "5cc37fadd94f0f575d5b328a",
@@ -67490,6 +68242,7 @@
         "1092dcf154631148a29bc76c",
         "d31892a2fd6916c21abc5519",
         "78f96530513cf026c1d713b1",
+        "7dcaab88483218551e820c8b",
         "cfe73e466d5dc57a3dc738ec",
         "bfe60d35a235c0c93de4708c",
         "1d148ca6999c57314f2796e0",
@@ -67512,11 +68265,13 @@
         "0135a4c1fdb7199ad75c0b09",
         "4c875154cc676ea694b8e4af",
         "7bd3e184fb57410ec2671aca",
+        "5b11f1a0ef794f465e5d47b1",
         "a74652b7a9457dcb2c004e51",
         "cf6b6933c9e7c5048dc04c74",
         "187baf64d3b6bc654b894ac5",
         "e86a34d8bfc3301c696f848b",
         "54b33665271eece34812a1f1",
+        "a622c63c4baea26bbdc2b19e",
         "ee39a6af947eec0535bd6326",
         "220b0fe1b8e02f8b09089d9b",
         "e5a11db3337eff33e263791c",
@@ -67762,20 +68517,20 @@
       "kind": "weekly",
       "period_start": "2026-11-16",
       "period_end": "2026-11-22",
-      "generated_at": "2026-11-19T06:01:54.352887+09:00",
+      "generated_at": "2026-11-19T11:26:18.216828+09:00",
       "is_complete": false,
-      "article_count": 185,
+      "article_count": 216,
       "category_counts": {
-        "ai": 102,
-        "parenting": 42,
-        "tech": 41
+        "ai": 123,
+        "parenting": 47,
+        "tech": 46
       },
       "overview": "NVIDIAは研究者・開発者向けに、DGX Spark 4台をConnectX-7でリング状に直結するキットの販売を開始した。ネットワークスイッチを使わず、4台合計で512GBのメモリと20TBのNVMeストレージを備える。材料シミュレーションのLAMMPSを実演し、HPC SDKの手順書は公開予定としている。一方、Lambdaは1万基超のGPUを備えるラック群に、光学エンジンをスイッチと同じパッケージに載せたNVIDIA Photonicsを導入した。同社の試験では着脱式光学部品と同等のスループットを維持し、通信遅延がラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyの中間評価機能「Explain Your Thinking」は、一部の設問で児童・生徒が解答した後、AIがヒントを出さずに理由を尋ね、理解や誤解を教員向けに要約する。代数・幾何の各1問を対象とした初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に表れなかった理解が対話で確認された。対象学年と導入範囲は資料に明記されていない。評価に基づく推奨学習経路を教員が確認してから児童・生徒に提示する仕組みは、2027〜28年に計画されている。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+        "attempted_at": "2026-11-19T02:26:17.969332+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -67786,23 +68541,23 @@
         ],
         "errors": [
           {
+            "article_id": "c18f91e4000e285ec5a94039",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "01ad89a03fac0a516de5c538",
             "stage": "original_fetch"
           },
           {
+            "article_id": "5636520cd08527e3de7d1836",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "567b610aea7468d7e14bf715",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "02a4e4638b3a5008da396fb9",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "5557275e69e86b656a44304c",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "09d7a687e79b686fd63474f4",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "c18f91e4000e285ec5a94039",
             "stage": "original_fetch"
           }
         ],
@@ -67839,7 +68594,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+        "last_success_at": "2026-11-19T02:26:17.969332+00:00"
       },
       "genre_briefs": [
         {
@@ -67940,24 +68695,43 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 88,
-          "publisher_count": 27,
+          "count": 108,
+          "publisher_count": 32,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "4027c3209ed6f867dc28f248",
-            "3bb68b8fa2992221740a3a39",
-            "8dc908c7bba62aa57cdd386f"
+            "be366d111c34b1ab60216f6e",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6"
           ],
           "article_ids": [
+            "be366d111c34b1ab60216f6e",
+            "d8d53f7ac616e8403b7f8b73",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6",
+            "123741ed8f50d7ae03b6ad49",
+            "aae1a09eafc98dd60bbe0759",
+            "76034cd9bb1a95bd22e26462",
+            "e46c8283f1372287952a3410",
+            "eb0e26afa761a8fba4b7c519",
+            "b2f7b12485ecfe88fa8f90cf",
+            "91f423563a24bb86411728a4",
             "4027c3209ed6f867dc28f248",
             "3bb68b8fa2992221740a3a39",
             "2fded7259f844e6891c85547",
+            "f07f018de2e71746899a1578",
+            "c18f91e4000e285ec5a94039",
+            "22f746dfddcaef2e071272f6",
+            "7c6f5067cca2e3a89003f75d",
             "56efb4af758587dddd4c1f52",
+            "5636520cd08527e3de7d1836",
+            "567b610aea7468d7e14bf715",
             "8dc908c7bba62aa57cdd386f",
+            "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
+            "d0abce80f19c8ac5c37b4b02",
             "b4168bface4dc178bdfacc6c",
+            "9946747fc40cfd6a2ffb462c",
             "bb6b5e3179282ad01e3cbee3",
-            "7dcaab88483218551e820c8b",
             "80a05365702ea7df1f5e4a83",
             "5ab0e3e139ee54d92e3d686c",
             "8d605a774f5a4f1923121b0f",
@@ -67966,12 +68740,13 @@
             "c691aa4efcdb1d18e312c6b1",
             "5557275e69e86b656a44304c",
             "09d7a687e79b686fd63474f4",
-            "c18f91e4000e285ec5a94039",
+            "7485c6ef03f3bb679b92c027",
             "fb515f4c928d71d26aa76550",
             "5cc37fadd94f0f575d5b328a",
             "78fba878022e3062ec0a7a43",
             "d31892a2fd6916c21abc5519",
             "78f96530513cf026c1d713b1",
+            "7dcaab88483218551e820c8b",
             "cfe73e466d5dc57a3dc738ec",
             "1d148ca6999c57314f2796e0",
             "b5e40fae3571b438ca969dcd",
@@ -68046,15 +68821,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 41,
-          "publisher_count": 19,
+          "count": 46,
+          "publisher_count": 23,
           "summary": "NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "415b4f6f63aa2c69c9244ca2",
-            "44006d154b329636124dee34",
-            "9b911dd0625e2308cc9f083f"
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b"
           ],
           "article_ids": [
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b",
             "415b4f6f63aa2c69c9244ca2",
             "44006d154b329636124dee34",
             "9b911dd0625e2308cc9f083f",
@@ -68071,6 +68849,8 @@
             "a04d1fc4ba7df0b55ed1fb7f",
             "0135a4c1fdb7199ad75c0b09",
             "7bd3e184fb57410ec2671aca",
+            "5b11f1a0ef794f465e5d47b1",
+            "a622c63c4baea26bbdc2b19e",
             "220b0fe1b8e02f8b09089d9b",
             "e5a11db3337eff33e263791c",
             "cbeb3049265f8b41d7a16c70",
@@ -68105,23 +68885,28 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 39,
-          "publisher_count": 26,
+          "count": 44,
+          "publisher_count": 27,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
           "evidence_ids": [
-            "7cab00c831e084dbb411dc10",
-            "3e95505f3f8c368a05732fdc",
-            "ca4966a3b3fa88245a42700a"
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5"
           ],
           "article_ids": [
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5",
             "7cab00c831e084dbb411dc10",
             "3e95505f3f8c368a05732fdc",
             "ca4966a3b3fa88245a42700a",
             "aea4a76389e7f67d64b408df",
+            "9ef62822e03f7ccbbbad17ff",
             "17a4aeb9b09c131fb1fd5103",
             "fa6175ead78e76cffa44196b",
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
+            "5a97d7da8a9d187e5d3e3337",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
             "4d3492d9ba38bb74b2711eed",
@@ -68170,15 +68955,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 10,
-          "publisher_count": 8,
+          "count": 11,
+          "publisher_count": 9,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
-            "e9ccf56c21bfed30c70ad28a",
-            "e86a34d8bfc3301c696f848b"
+            "e9ccf56c21bfed30c70ad28a"
           ],
           "article_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
             "e9ccf56c21bfed30c70ad28a",
             "e86a34d8bfc3301c696f848b",
@@ -68258,29 +69044,56 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "be366d111c34b1ab60216f6e",
+        "d8d53f7ac616e8403b7f8b73",
+        "ca34af0613928b91b08f8935",
+        "6187d8431077e3d8e17a30c0",
+        "f8973edf06599b4efaa18ac6",
+        "123741ed8f50d7ae03b6ad49",
+        "0aa950c0087c10dfeb7766ce",
+        "b333a2aec5fc5fcd611b01b8",
+        "18e1dca7f9cdf08e63fa062d",
+        "aae1a09eafc98dd60bbe0759",
+        "76034cd9bb1a95bd22e26462",
+        "e46c8283f1372287952a3410",
+        "eb0e26afa761a8fba4b7c519",
+        "b2f7b12485ecfe88fa8f90cf",
+        "91f423563a24bb86411728a4",
+        "bdcd264317973078125d53f5",
+        "9503ffd0e7453fa351125d0b",
         "4027c3209ed6f867dc28f248",
         "7cab00c831e084dbb411dc10",
         "3bb68b8fa2992221740a3a39",
         "2fded7259f844e6891c85547",
+        "f07f018de2e71746899a1578",
         "3e95505f3f8c368a05732fdc",
+        "c18f91e4000e285ec5a94039",
+        "c246b59841f89bdee45bf35c",
+        "22f746dfddcaef2e071272f6",
+        "7c6f5067cca2e3a89003f75d",
         "56efb4af758587dddd4c1f52",
         "415b4f6f63aa2c69c9244ca2",
         "ca4966a3b3fa88245a42700a",
         "44006d154b329636124dee34",
         "01ad89a03fac0a516de5c538",
+        "5636520cd08527e3de7d1836",
+        "567b610aea7468d7e14bf715",
         "8dc908c7bba62aa57cdd386f",
+        "9a7b4880f2d0ae19d7c34cb4",
         "9b911dd0625e2308cc9f083f",
         "27406fe6c196ba4f9f9b3c6a",
         "02a4e4638b3a5008da396fb9",
         "900f5e5271373dd58111fff3",
         "aea4a76389e7f67d64b408df",
+        "d0abce80f19c8ac5c37b4b02",
+        "9ef62822e03f7ccbbbad17ff",
         "17a4aeb9b09c131fb1fd5103",
         "b4168bface4dc178bdfacc6c",
+        "9946747fc40cfd6a2ffb462c",
         "dd70783217ff6dc7b447c5d7",
         "bb6b5e3179282ad01e3cbee3",
         "fa6175ead78e76cffa44196b",
         "2b1204c3fc258e9a383209d3",
-        "7dcaab88483218551e820c8b",
         "daf42bf091e951d7c3b82751",
         "80a05365702ea7df1f5e4a83",
         "567ef115f9d94db4a31806a9",
@@ -68288,12 +69101,13 @@
         "5ab0e3e139ee54d92e3d686c",
         "8d605a774f5a4f1923121b0f",
         "b308a5f2f62e6f045731a205",
+        "5a97d7da8a9d187e5d3e3337",
         "a0ffc1cad30f4bc7e984368a",
         "847eb4cdb730f529fd5db63d",
         "c691aa4efcdb1d18e312c6b1",
         "5557275e69e86b656a44304c",
         "09d7a687e79b686fd63474f4",
-        "c18f91e4000e285ec5a94039",
+        "7485c6ef03f3bb679b92c027",
         "e9ccf56c21bfed30c70ad28a",
         "fb515f4c928d71d26aa76550",
         "5cc37fadd94f0f575d5b328a",
@@ -68301,6 +69115,7 @@
         "1092dcf154631148a29bc76c",
         "d31892a2fd6916c21abc5519",
         "78f96530513cf026c1d713b1",
+        "7dcaab88483218551e820c8b",
         "cfe73e466d5dc57a3dc738ec",
         "bfe60d35a235c0c93de4708c",
         "1d148ca6999c57314f2796e0",
@@ -68323,11 +69138,13 @@
         "0135a4c1fdb7199ad75c0b09",
         "4c875154cc676ea694b8e4af",
         "7bd3e184fb57410ec2671aca",
+        "5b11f1a0ef794f465e5d47b1",
         "a74652b7a9457dcb2c004e51",
         "cf6b6933c9e7c5048dc04c74",
         "187baf64d3b6bc654b894ac5",
         "e86a34d8bfc3301c696f848b",
         "54b33665271eece34812a1f1",
+        "a622c63c4baea26bbdc2b19e",
         "ee39a6af947eec0535bd6326",
         "220b0fe1b8e02f8b09089d9b",
         "e5a11db3337eff33e263791c",
@@ -68450,20 +69267,20 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-19T06:01:54.352887+09:00",
+      "generated_at": "2026-11-19T11:26:18.216828+09:00",
       "is_complete": false,
-      "article_count": 839,
+      "article_count": 870,
       "category_counts": {
-        "ai": 450,
-        "parenting": 194,
-        "tech": 195
+        "ai": 471,
+        "parenting": 199,
+        "tech": 200
       },
       "overview": "DeepSeekは開発者向けに、引用付き検索やPDF・Office文書・画像の入力、URL読み取りを既存APIの設定で使えるようにし、ツールの呼び出しと文脈の組み立てをサービス側で担う。JioStarはOpenAI APIを使い、動画の場面やクリケット統計を自然な発話で探せる15超の言語対応の機能を約8週間で構築・公開した。回答生成用と検証用のモデルを組み合わせ、競技の専門家も評価設計に参加した。 NVIDIAは研究者・開発者向けに、DGX Spark 4台をリング状に直結し、スイッチを介さずに使える開発キットの販売を開始した。材料シミュレーションを実演し、HPC SDKの手順書は近日公開予定とした。Lambdaは1万基超のGPUを備えるラック群に光学エンジン一体型スイッチを導入した。同社試験では着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。 Khan Academyの中間評価機能は、一部の設問で児童・生徒にヒントを出さずに考え方を尋ね、理解と誤解を教員向けに要約する。代数と幾何の各1問を対象にした初期調査では、最初の説明に現れなかった理解が対話で確認された割合は、代数で約20％、幾何で約36％だった。対象学年と導入範囲は資料に明記されておらず、教員が評価結果に基づく推奨学習経路を確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
         "status": "partial",
-        "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+        "attempted_at": "2026-11-19T02:26:17.969332+00:00",
         "model": null,
         "mode": "extractive",
         "new_reviews": 0,
@@ -68474,23 +69291,23 @@
         ],
         "errors": [
           {
+            "article_id": "c18f91e4000e285ec5a94039",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "01ad89a03fac0a516de5c538",
             "stage": "original_fetch"
           },
           {
+            "article_id": "5636520cd08527e3de7d1836",
+            "stage": "original_fetch"
+          },
+          {
+            "article_id": "567b610aea7468d7e14bf715",
+            "stage": "original_fetch"
+          },
+          {
             "article_id": "02a4e4638b3a5008da396fb9",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "5557275e69e86b656a44304c",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "09d7a687e79b686fd63474f4",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "c18f91e4000e285ec5a94039",
             "stage": "original_fetch"
           }
         ],
@@ -68527,7 +69344,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+        "last_success_at": "2026-11-19T02:26:17.969332+00:00"
       },
       "genre_briefs": [
         {
@@ -68730,24 +69547,43 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 382,
-          "publisher_count": 57,
+          "count": 402,
+          "publisher_count": 59,
           "summary": "DeepSeekは11月13日、アプリの会話機能を開発者向けAPIに開放した。deepseek-flashでは既存APIの設定により、引用付き検索、複数の推論段階を伴う検索、PDF・Office文書・画像の入力、URL読取を利用でき、ツール呼出しと文脈構築はサービス側が担う。検索・取得、OCR、音声認識・音声合成の単独APIも提供し、会話履歴を取り込めるデモクライアントを公開・オープンソース化した。 OpenAIは、過去1年間に軍から民間への移行期にある軍人と退役軍人の2万人超が、ChatGPT Plusの1年間無償提供を利用したと発表した。履歴書作成や音声での面接練習などの事例を紹介。提携団体と十数回の研修を開き、軍関係者約1,000人が参加した。年末までにさらに7回を予定している。 JioStarはOpenAI APIを使い、JioHotstarに自然な発話で映画や番組、試合の場面、クリケット統計を探せる対話型アシスタントを組み込んだ。15超の言語に対応する体験を約8週間で構築・公開したという。回答を作るモデルと検証するモデルを組み合わせ、競技の専門家が評価設計に参加。Codexも評価例の生成やシステム更新を支援した。",
           "evidence_ids": [
-            "4027c3209ed6f867dc28f248",
-            "3bb68b8fa2992221740a3a39",
-            "8dc908c7bba62aa57cdd386f"
+            "be366d111c34b1ab60216f6e",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6"
           ],
           "article_ids": [
+            "be366d111c34b1ab60216f6e",
+            "d8d53f7ac616e8403b7f8b73",
+            "6187d8431077e3d8e17a30c0",
+            "f8973edf06599b4efaa18ac6",
+            "123741ed8f50d7ae03b6ad49",
+            "aae1a09eafc98dd60bbe0759",
+            "76034cd9bb1a95bd22e26462",
+            "e46c8283f1372287952a3410",
+            "eb0e26afa761a8fba4b7c519",
+            "b2f7b12485ecfe88fa8f90cf",
+            "91f423563a24bb86411728a4",
             "4027c3209ed6f867dc28f248",
             "3bb68b8fa2992221740a3a39",
             "2fded7259f844e6891c85547",
+            "f07f018de2e71746899a1578",
+            "c18f91e4000e285ec5a94039",
+            "22f746dfddcaef2e071272f6",
+            "7c6f5067cca2e3a89003f75d",
             "56efb4af758587dddd4c1f52",
+            "5636520cd08527e3de7d1836",
+            "567b610aea7468d7e14bf715",
             "8dc908c7bba62aa57cdd386f",
+            "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
+            "d0abce80f19c8ac5c37b4b02",
             "b4168bface4dc178bdfacc6c",
+            "9946747fc40cfd6a2ffb462c",
             "bb6b5e3179282ad01e3cbee3",
-            "7dcaab88483218551e820c8b",
             "80a05365702ea7df1f5e4a83",
             "5ab0e3e139ee54d92e3d686c",
             "8d605a774f5a4f1923121b0f",
@@ -68756,12 +69592,13 @@
             "c691aa4efcdb1d18e312c6b1",
             "5557275e69e86b656a44304c",
             "09d7a687e79b686fd63474f4",
-            "c18f91e4000e285ec5a94039",
+            "7485c6ef03f3bb679b92c027",
             "fb515f4c928d71d26aa76550",
             "5cc37fadd94f0f575d5b328a",
             "78fba878022e3062ec0a7a43",
             "d31892a2fd6916c21abc5519",
             "78f96530513cf026c1d713b1",
+            "7dcaab88483218551e820c8b",
             "cfe73e466d5dc57a3dc738ec",
             "1d148ca6999c57314f2796e0",
             "b5e40fae3571b438ca969dcd",
@@ -69130,15 +69967,18 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 190,
-          "publisher_count": 79,
+          "count": 195,
+          "publisher_count": 81,
           "summary": "NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 NVIDIAの製造・供給網責任者が、工場の歩留まりや処理期間を毎週確認し、重要なチップの配分を決める運用を説明した。チップから顧客請求までの追跡を取引先にも求め、需給上必要な際にはTSMCのチップ完成からFoxconn・Wistronのシステム完成までを5週間から2週間に短縮したという。 Lambdaは、1万基超のGPUを備えるGB300 NVL72ラック群の接続に、光学エンジンをスイッチと同じパッケージに載せるNVIDIA Photonicsを使用している。同社の試験では従来の着脱式光学部品と同じスループットを維持し、通信遅延はラック規模で約4％、ポッド規模で最大約10％低下した。",
           "evidence_ids": [
-            "415b4f6f63aa2c69c9244ca2",
-            "44006d154b329636124dee34",
-            "9b911dd0625e2308cc9f083f"
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b"
           ],
           "article_ids": [
+            "0aa950c0087c10dfeb7766ce",
+            "18e1dca7f9cdf08e63fa062d",
+            "9503ffd0e7453fa351125d0b",
             "415b4f6f63aa2c69c9244ca2",
             "44006d154b329636124dee34",
             "9b911dd0625e2308cc9f083f",
@@ -69155,6 +69995,8 @@
             "a04d1fc4ba7df0b55ed1fb7f",
             "0135a4c1fdb7199ad75c0b09",
             "7bd3e184fb57410ec2671aca",
+            "5b11f1a0ef794f465e5d47b1",
+            "a622c63c4baea26bbdc2b19e",
             "220b0fe1b8e02f8b09089d9b",
             "e5a11db3337eff33e263791c",
             "cbeb3049265f8b41d7a16c70",
@@ -69338,23 +70180,28 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 187,
-          "publisher_count": 81,
+          "count": 192,
+          "publisher_count": 82,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。 Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。",
           "evidence_ids": [
-            "7cab00c831e084dbb411dc10",
-            "3e95505f3f8c368a05732fdc",
-            "ca4966a3b3fa88245a42700a"
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5"
           ],
           "article_ids": [
+            "ca34af0613928b91b08f8935",
+            "b333a2aec5fc5fcd611b01b8",
+            "bdcd264317973078125d53f5",
             "7cab00c831e084dbb411dc10",
             "3e95505f3f8c368a05732fdc",
             "ca4966a3b3fa88245a42700a",
             "aea4a76389e7f67d64b408df",
+            "9ef62822e03f7ccbbbad17ff",
             "17a4aeb9b09c131fb1fd5103",
             "fa6175ead78e76cffa44196b",
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
+            "5a97d7da8a9d187e5d3e3337",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
             "4d3492d9ba38bb74b2711eed",
@@ -69551,15 +70398,16 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 63,
+          "count": 64,
           "publisher_count": 28,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
-            "e9ccf56c21bfed30c70ad28a",
-            "e86a34d8bfc3301c696f848b"
+            "e9ccf56c21bfed30c70ad28a"
           ],
           "article_ids": [
+            "c246b59841f89bdee45bf35c",
             "01ad89a03fac0a516de5c538",
             "e9ccf56c21bfed30c70ad28a",
             "e86a34d8bfc3301c696f848b",
@@ -69709,29 +70557,56 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "be366d111c34b1ab60216f6e",
+        "d8d53f7ac616e8403b7f8b73",
+        "ca34af0613928b91b08f8935",
+        "6187d8431077e3d8e17a30c0",
+        "f8973edf06599b4efaa18ac6",
+        "123741ed8f50d7ae03b6ad49",
+        "0aa950c0087c10dfeb7766ce",
+        "b333a2aec5fc5fcd611b01b8",
+        "18e1dca7f9cdf08e63fa062d",
+        "aae1a09eafc98dd60bbe0759",
+        "76034cd9bb1a95bd22e26462",
+        "e46c8283f1372287952a3410",
+        "eb0e26afa761a8fba4b7c519",
+        "b2f7b12485ecfe88fa8f90cf",
+        "91f423563a24bb86411728a4",
+        "bdcd264317973078125d53f5",
+        "9503ffd0e7453fa351125d0b",
         "4027c3209ed6f867dc28f248",
         "7cab00c831e084dbb411dc10",
         "3bb68b8fa2992221740a3a39",
         "2fded7259f844e6891c85547",
+        "f07f018de2e71746899a1578",
         "3e95505f3f8c368a05732fdc",
+        "c18f91e4000e285ec5a94039",
+        "c246b59841f89bdee45bf35c",
+        "22f746dfddcaef2e071272f6",
+        "7c6f5067cca2e3a89003f75d",
         "56efb4af758587dddd4c1f52",
         "415b4f6f63aa2c69c9244ca2",
         "ca4966a3b3fa88245a42700a",
         "44006d154b329636124dee34",
         "01ad89a03fac0a516de5c538",
+        "5636520cd08527e3de7d1836",
+        "567b610aea7468d7e14bf715",
         "8dc908c7bba62aa57cdd386f",
+        "9a7b4880f2d0ae19d7c34cb4",
         "9b911dd0625e2308cc9f083f",
         "27406fe6c196ba4f9f9b3c6a",
         "02a4e4638b3a5008da396fb9",
         "900f5e5271373dd58111fff3",
         "aea4a76389e7f67d64b408df",
+        "d0abce80f19c8ac5c37b4b02",
+        "9ef62822e03f7ccbbbad17ff",
         "17a4aeb9b09c131fb1fd5103",
         "b4168bface4dc178bdfacc6c",
+        "9946747fc40cfd6a2ffb462c",
         "dd70783217ff6dc7b447c5d7",
         "bb6b5e3179282ad01e3cbee3",
         "fa6175ead78e76cffa44196b",
         "2b1204c3fc258e9a383209d3",
-        "7dcaab88483218551e820c8b",
         "daf42bf091e951d7c3b82751",
         "80a05365702ea7df1f5e4a83",
         "567ef115f9d94db4a31806a9",
@@ -69739,12 +70614,13 @@
         "5ab0e3e139ee54d92e3d686c",
         "8d605a774f5a4f1923121b0f",
         "b308a5f2f62e6f045731a205",
+        "5a97d7da8a9d187e5d3e3337",
         "a0ffc1cad30f4bc7e984368a",
         "847eb4cdb730f529fd5db63d",
         "c691aa4efcdb1d18e312c6b1",
         "5557275e69e86b656a44304c",
         "09d7a687e79b686fd63474f4",
-        "c18f91e4000e285ec5a94039",
+        "7485c6ef03f3bb679b92c027",
         "e9ccf56c21bfed30c70ad28a",
         "fb515f4c928d71d26aa76550",
         "5cc37fadd94f0f575d5b328a",
@@ -69752,6 +70628,7 @@
         "1092dcf154631148a29bc76c",
         "d31892a2fd6916c21abc5519",
         "78f96530513cf026c1d713b1",
+        "7dcaab88483218551e820c8b",
         "cfe73e466d5dc57a3dc738ec",
         "bfe60d35a235c0c93de4708c",
         "1d148ca6999c57314f2796e0",
@@ -69774,11 +70651,13 @@
         "0135a4c1fdb7199ad75c0b09",
         "4c875154cc676ea694b8e4af",
         "7bd3e184fb57410ec2671aca",
+        "5b11f1a0ef794f465e5d47b1",
         "a74652b7a9457dcb2c004e51",
         "cf6b6933c9e7c5048dc04c74",
         "187baf64d3b6bc654b894ac5",
         "e86a34d8bfc3301c696f848b",
         "54b33665271eece34812a1f1",
+        "a622c63c4baea26bbdc2b19e",
         "ee39a6af947eec0535bd6326",
         "220b0fe1b8e02f8b09089d9b",
         "e5a11db3337eff33e263791c",
@@ -70551,10 +71430,10 @@
       ]
     }
   },
-  "report_updated_at": "2026-11-19T06:01:54.352887+09:00",
+  "report_updated_at": "2026-11-19T11:26:18.216828+09:00",
   "editorial_generation": {
     "status": "partial",
-    "attempted_at": "2026-11-18T21:01:54.072571+00:00",
+    "attempted_at": "2026-11-19T02:26:17.969332+00:00",
     "model": null,
     "mode": "extractive",
     "new_reviews": 0,
@@ -70565,23 +71444,23 @@
     ],
     "errors": [
       {
+        "article_id": "c18f91e4000e285ec5a94039",
+        "stage": "original_fetch"
+      },
+      {
         "article_id": "01ad89a03fac0a516de5c538",
         "stage": "original_fetch"
       },
       {
+        "article_id": "5636520cd08527e3de7d1836",
+        "stage": "original_fetch"
+      },
+      {
+        "article_id": "567b610aea7468d7e14bf715",
+        "stage": "original_fetch"
+      },
+      {
         "article_id": "02a4e4638b3a5008da396fb9",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "5557275e69e86b656a44304c",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "09d7a687e79b686fd63474f4",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "c18f91e4000e285ec5a94039",
         "stage": "original_fetch"
       }
     ],
@@ -70618,7 +71497,7 @@
       ],
       "last_success_at": "2026-11-18T21:00:15.021788+00:00"
     },
-    "last_success_at": "2026-11-18T21:01:54.072571+00:00"
+    "last_success_at": "2026-11-19T02:26:17.969332+00:00"
   },
   "topic_definitions": [
     {
@@ -71132,11 +72011,11 @@
     ]
   },
   "picks": [
-    "4027c3209ed6f867dc28f248",
-    "3bb68b8fa2992221740a3a39",
-    "415b4f6f63aa2c69c9244ca2",
-    "44006d154b329636124dee34",
-    "7cab00c831e084dbb411dc10",
-    "3e95505f3f8c368a05732fdc"
+    "be366d111c34b1ab60216f6e",
+    "d8d53f7ac616e8403b7f8b73",
+    "0aa950c0087c10dfeb7766ce",
+    "18e1dca7f9cdf08e63fa062d",
+    "ca34af0613928b91b08f8935",
+    "b333a2aec5fc5fcd611b01b8"
   ]
 }
