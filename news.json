@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-24T05:12:29.950570Z",
-  "last_attempt_at": "2026-11-24T05:12:29.950570Z",
+  "updated_at": "2026-11-25T04:02:24.390411Z",
+  "last_attempt_at": "2026-11-25T04:02:24.390411Z",
   "schedule": {
     "timezone": "Asia/Tokyo",
     "time": "06:00"
@@ -14,7 +14,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "OpenAI",
       "origin_kind": "official",
       "url": "https://openai.com/news/rss.xml"
@@ -25,7 +25,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Anthropic",
       "origin_kind": "official",
       "url": "https://www.anthropic.com/news"
@@ -36,7 +36,7 @@
       "category": "ai",
       "status": "error",
       "error": "Official index contains no matching article links",
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Google / Gemini",
       "origin_kind": "official",
       "url": "https://blog.google/innovation-and-ai/"
@@ -47,7 +47,7 @@
       "category": "ai",
       "status": "ok",
       "count": 46,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "DeepSeek",
       "origin_kind": "official",
       "url": "https://api-docs.deepseek.com/updates/"
@@ -58,7 +58,7 @@
       "category": "ai",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Kimi / Moonshot",
       "origin_kind": "official",
       "url": "https://forum.moonshot.ai/c/announcement/5.rss"
@@ -69,7 +69,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "xAI / Grok",
       "origin_kind": "official",
       "url": "https://x.ai/news"
@@ -80,7 +80,7 @@
       "category": "ai",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Mistral",
       "origin_kind": "official",
       "url": "https://mistral.ai/news/"
@@ -91,7 +91,7 @@
       "category": "tech",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Microsoft",
       "origin_kind": "official",
       "url": "https://devblogs.microsoft.com/commandline/feed/"
@@ -102,7 +102,7 @@
       "category": "tech",
       "status": "ok",
       "count": 18,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "NVIDIA",
       "origin_kind": "official",
       "url": "https://blogs.nvidia.com/feed/"
@@ -113,7 +113,7 @@
       "category": "tech",
       "status": "ok",
       "count": 12,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Sony",
       "origin_kind": "official",
       "url": "https://www.sony-semicon.com/ja/news/index.html"
@@ -124,7 +124,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 20,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Google for Education",
       "origin_kind": "official",
       "url": "https://blog.google/products-and-platforms/products/education/rss/"
@@ -135,7 +135,7 @@
       "category": "parenting",
       "status": "ok",
       "count": 10,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": "Khan Academy",
       "origin_kind": "official",
       "url": "https://blog.khanacademy.org/feed/"
@@ -146,7 +146,7 @@
       "category": "ai",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=OpenAI+OR+Anthropic+OR+Gemini+OR+DeepSeek+OR+Kimi+OR+Qwen+OR+Mistral+when%3A14d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -157,7 +157,7 @@
       "category": "tech",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E3%82%AB%E3%83%A1%E3%83%A9+OR+%E7%94%BB%E5%83%8F%E8%AA%8D%E8%AD%98+OR+computer-use+OR+%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B9+OR+%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+OR+%E9%96%8B%E7%99%BA%E8%87%AA%E5%8B%95%E5%8C%96%29+%28AI+OR+%E3%82%BB%E3%83%B3%E3%82%B5%E3%83%BC+OR+%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
@@ -168,13 +168,18 @@
       "category": "parenting",
       "status": "ok",
       "count": 60,
-      "checked_at": "2026-11-24T05:12:29.950570Z",
+      "checked_at": "2026-11-25T04:02:24.390411Z",
       "provider": null,
       "origin_kind": "media",
       "url": "https://news.google.com/rss/search?q=%28%E8%82%B2%E5%85%90+OR+%E5%AD%90%E8%82%B2%E3%81%A6+OR+%E5%B9%BC%E7%A8%9A%E5%9C%92+OR+%E5%B0%8F%E5%AD%A6%E7%94%9F+OR+%E5%AD%A6%E6%A0%A1+OR+%E6%95%99%E8%82%B2+OR+%E5%AD%A6%E7%BF%92%29+%28%E3%82%A2%E3%83%97%E3%83%AA+OR+AI+OR+ICT+OR+%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB+OR+EdTech+OR+%E8%A6%8B%E5%AE%88%E3%82%8A%29+when%3A30d&hl=ja&gl=JP&ceid=JP%3Aja"
     }
   ],
   "runs": [
+    {
+      "at": "2026-11-25T04:02:24.390411Z",
+      "new_count": 32,
+      "status": "partial"
+    },
     {
       "at": "2026-11-24T05:12:29.950570Z",
       "new_count": 39,
@@ -953,6 +958,353 @@
   ],
   "articles": [
     {
+      "id": "14462d09f6a3c8e06cdea22f",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "天橋立駅でAIカメラを活用した観光人流データの実証を実施 - 宮津市ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BdWxHZG5Tc1NIRXN5S2tTLUozdTUtSjc4a250ZE0yTW9FYWZXS2d4WU5FNzVyeTBhVl9qdlVVMUh6MHVESER0eHEwdDZjWGhYcHV5MVVVQWtNeVFlNmNIN0MzWkE?oc=5",
+      "publisher": "宮津市ホームページ",
+      "summary": "天橋立駅でAIカメラを活用した観光人流データの実証を実施 宮津市ホームページ",
+      "published_at": "2026-11-25T02:19:47Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "e24bf720e9b304be75efb2f1",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "熊被害防止へ“新兵器”！「カメラ×ＡＩ」即時通知や撃退音、加茂市が2027年度導入へ試験運用 - 新潟日報",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGQndlVFZaR0s1T2NQUUV4TTlJZWRGaWppZjBCSHZqT25JZUw1dnNwN0tGOUxLUlJUazZQeGo3cVNRZ3BQS0lURTFmeHNRQTA3bEMzTk10d0JIZkQyWFE?oc=5",
+      "publisher": "新潟日報",
+      "summary": "熊被害防止へ“新兵器”！「カメラ×ＡＩ」即時通知や撃退音、加茂市が2027年度導入へ試験運用 新潟日報",
+      "published_at": "2026-11-25T02:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "075eaa4ebd3f1e06ea9cb67c",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "GPT-6 AstraはロボットAIを変えるか NVIDIA「GR00T、Cosmos、Isaac」への影響を考える（2026年9月9日）【編集長のロボトピ！】 - ロボスタ",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB5TFVBQVo0R1J4cDNuazdhSWFKNWdXRFFjbDBYSTA3QWlYQWJkR0dvMGNiN1gtcUJmc2ZDRGdIMXV5OXB4VUVZOE1rWWNUemRFVjNpdFFKU1VJcWRTQy1UU1hNUnE?oc=5",
+      "publisher": "ロボスタ",
+      "summary": "GPT-6 AstraはロボットAIを変えるか NVIDIA「GR00T、Cosmos、Isaac」への影響を考える（2026年9月9日）【編集長のロボトピ！】 ロボスタ",
+      "published_at": "2026-11-25T01:00:03Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "37dfdbbe6ec310f93996b829",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AI時代の授業、見直しを 次期教育振興計画へ有識者が提案 - 日本教育新聞電子版 NIKKYOWEB",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5dThjLWk0aFNaNkdRYndaZ3hmUWV1STI4UWhkem4yWV82bW9CMnBqVmVhOUFfWFl5ZXVRN2hDYXRuajQtemhJckRIeGhRUWhtbnFZ?oc=5",
+      "publisher": "日本教育新聞電子版 NIKKYOWEB",
+      "summary": "AI時代の授業、見直しを 次期教育振興計画へ有識者が提案 日本教育新聞電子版 NIKKYOWEB",
+      "published_at": "2026-11-25T00:36:31Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "1ca63d3c9d578b94c4fb6b29",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qX0pUWFZGcWgtTWcxWWxIdTV4dWpoTG82SF9SOXRhV2pyM0NCNkUtYVdZSkh6N2M5YmpxbGlENGRqcVM2alYyczZUUk5kOExWaTlGYmpSRGQ3WGdad2hfZjlJQWVobTAyMlFoaExqdFJXS2NydEc1bGswcw?oc=5",
+      "publisher": "OpenAI",
+      "summary": "Clay helps sales teams win with Codex and ChatGPT OpenAI",
+      "published_at": "2026-11-24T23:24:41Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "1950eb7bcf80ebab0503db81",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "音声と手でPC操作すれば仕事が2倍速くなる説、ローカルAIでComputer Useしてみよう - 株式会社インプレス",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE53S1BSNjgtS05KdzkxcjFHR0hwdU9WVDVRWDFwY2hzc01WNEt3RVN3clp0UXFvb2lfNjZRbnloSnpSdU5za3FhUTZ1ZU1nX19wUklVbVByeC1mdk9NMjR1Nnp3Qm5RVHp3cTBSbVpZdlZGZw?oc=5",
+      "publisher": "株式会社インプレス",
+      "summary": "音声と手でPC操作すれば仕事が2倍速くなる説、ローカルAIでComputer Useしてみよう 株式会社インプレス",
+      "published_at": "2026-11-24T22:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "computer-use"
+      ]
+    },
+    {
+      "id": "d3f35ec093666d38606888ee",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由 - ニュースイッチ by 日刊工業新聞社",
+      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01aEttcFFMMXVQZkZ6Vzk0cXZONExVTENacjFGa0hXR2pQLThGZUlHaXVzVHhkMnBpelc1dC1iQlpDdw?oc=5",
+      "publisher": "ニュースイッチ by 日刊工業新聞社",
+      "summary": "フィジカルAIの主戦場に!?…ロボと環境の情報統合、工作機械が突破口になる理由 ニュースイッチ by 日刊工業新聞社",
+      "published_at": "2026-11-24T21:01:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "c2387c496352fb6daf556bf1",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "メタレンズで注目買収 米新興が狙う「AI時代のカメラ」 - 日本経済新聞",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWXRRd1E2dkk1OG15QjVrS25vVHh3Q21QOTdraHJveTBhNWFXZXZ0b1NjX2F6RmV1c0o2dkwyMTktMXZ3MnBHX0xna3FvLVhMOUNJaUVvY1Z4MG9QOUpaNElsTkNobFNCYVRIS2M2SEZLR05aMzVxVW84SkdsSHFXdTIwcndVMzA?oc=5",
+      "publisher": "日本経済新聞",
+      "summary": "メタレンズで注目買収 米新興が狙う「AI時代のカメラ」 日本経済新聞",
+      "published_at": "2026-11-24T20:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "d9df7c78964a27d5a0461bc5",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "How Intentful uses dots to make more time for growth - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpdDYxMTg5cElIdTBhNjg1d0NNRUNmLU5ZWFFrMVl2MFVEdE1Qa1ZvMGV5dUFWUkVqQ2dmemRTTWg5VFUtem1JYXFjUTRaOUNSWVhESkRONzZCSTREOG1zb1FHb2kxWDV6WU01clRpYjBtckUy?oc=5",
+      "publisher": "OpenAI",
+      "summary": "How Intentful uses dots to make more time for growth OpenAI",
+      "published_at": "2026-11-24T19:46:41Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "33bda59875d4bf1137292ee6",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "トラックの左前方死角もAI監視、巻き込み防止 - LOGISTICS TODAY",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9PSDczb1pWNWp1R2J3ZEZfZ0VTdkwxcFBEMG9TXzhQdFdkZzh3TEdvU3hRd3hHYkR1dzBMNTE0YldtakZtdFZWaUp3?oc=5",
+      "publisher": "LOGISTICS TODAY",
+      "summary": "トラックの左前方死角もAI監視、巻き込み防止 LOGISTICS TODAY",
+      "published_at": "2026-11-24T13:34:31Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "c5d44da96717351baad9d9a8",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "publisher": "OpenAI 公式",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "published_at": "2026-11-24T13:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "712bb7b609bdce48626b6d99",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "教育分野特化型AI整備へ予算確保を 自民党文科部会が緊急決議 - 教育新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PcHNXV182bXVLMzZ5aGpsbXp1NXFfMmFMRGNicjh3ejB5eTRreG4yem1wQU9sU3luOW1JMW1RM1pPUXQzTHhTNWNjT19NZHlqYTBpd1RR?oc=5",
+      "publisher": "教育新聞",
+      "summary": "教育分野特化型AI整備へ予算確保を 自民党文科部会が緊急決議 教育新聞",
+      "published_at": "2026-11-24T11:55:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "aafeddcb8f6f0d02f876f7e2",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "publisher": "OpenAI 公式",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "published_at": "2026-11-24T11:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "181a0f500482c89c594f68b9",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "生成AIと学校図書館をどう使う？ 探究学習の実践書が登場 - こどもとIT",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeU0zenRVZXd0Y0prTUZKXzhRZHREWXlQeWpDN0ZVYUNySndLR2xrUV9VLUw0LVVkZ0xLUTF1ZVcyYnhIakRZN0x4Qk93RDkxSE5kM3U1MXktM2FSYUMzbUlndFlGaXFKNjVIQmtEUHdzdVJDd05VZ0xhQnphd3h5OU5n?oc=5",
+      "publisher": "こどもとIT",
+      "summary": "生成AIと学校図書館をどう使う？ 探究学習の実践書が登場 こどもとIT",
+      "published_at": "2026-11-24T08:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "d909e6f47119c0155c867704",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "INBYTE／左前方・側方の死角をAIでカバーする安全カメラ新モデル「i7CV」発売 - トラックニュース",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vdURnQTZOWW9EUjJUVy1aWjg1cFFvNEpJNDdLUHpybGM5VFRiZ2RUdkRwRkJrTURDYkQwck9MMVhoaFo5LWhybFA0aTNLczdfV1g4Zg?oc=5",
+      "publisher": "トラックニュース",
+      "summary": "INBYTE／左前方・側方の死角をAIでカバーする安全カメラ新モデル「i7CV」発売 トラックニュース",
+      "published_at": "2026-11-24T06:46:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "camera"
+      ]
+    },
+    {
+      "id": "c6213047f1e268d6a43ee260",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "アイスマイリー、12/2（水）から3日間、第4回 ものづくり ワールド [福岡]内、「製造業DX展」にブース出展 - Newscast.jp",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1UT283TjVycURXOVc5ZVd6OGZqUDF3ejdMM080d3AtbGNpb1NiVzhIT2h3Wk1CdXdNSlMtazRJYkd6LTJHSXFrZDBBZHFGV2s?oc=5",
+      "publisher": "Newscast.jp",
+      "summary": "アイスマイリー、12/2（水）から3日間、第4回 ものづくり ワールド [福岡]内、「製造業DX展」にブース出展 Newscast.jp",
+      "published_at": "2026-11-24T06:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
+      "theme_ids": []
+    },
+    {
+      "id": "eb7c6049d3bdf750e887ca65",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発 - Impress Watch",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0dDlQZkh0eGhZSWdsQm5BcFZodmhVamlMdVhOX0NwMFlkTWt3OVJoYnh0SERLOGJiYXFTc1M4OWdCSHhXNHlFODNkeVNibGdidXVsUGtXQjR0MjlWczNFQWZfcm4?oc=5",
+      "publisher": "Impress Watch",
+      "summary": "パッチ適用前にLinuxシステムを一時保護する「Shirudo」 OpenAIとCiscoが開発 Impress Watch",
+      "published_at": "2026-11-24T04:30:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-safety",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "6021e5c335bee121da1a2597",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "Gemini でパートナー マーケティングをよりスマートに - Google Cloud",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeEsyekxkZlBCZ2k0VHVQUi1YYzdvbW5Da0RTOE9PMi1pbVE2YjdoSDhrZmwtOVQtd05ST3hxMGVjTGRnWWhwLTZqOGpoWjlJblZyUHVTYi01ZHJfT3lsamEwOFJ2YkJUeXBTdm9TZ2lKeUtyYVo1ZHZSVFFXdWgyT2Ixel8wWXV2Y0lGbXozNm4xaXQ3WTd2RjVHTmRSbFBjSjZlNlR0YUE?oc=5",
+      "publisher": "Google Cloud",
+      "summary": "Gemini でパートナー マーケティングをよりスマートに Google Cloud",
+      "published_at": "2026-11-24T04:26:55Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "1b630d07b3c62e32874f2ee5",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIのアルトマンが「非常にまずい」と警告、AIエージェント時代に職場が整えるべき「6つの備え」 - Forbes JAPAN",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LeDkxNHdGNm1ZR3RtZU16RVdpampYdkRBUnBEa3dVYnNack5kdnBrN20wRXhtR29PdGlJYjZKVGxQcFNXSGpFTlp2UXNsVEpBN2dBTzdxVFJ1UQ?oc=5",
+      "publisher": "Forbes JAPAN",
+      "summary": "OpenAIのアルトマンが「非常にまずい」と警告、AIエージェント時代に職場が整えるべき「6つの備え」 Forbes JAPAN",
+      "published_at": "2026-11-24T03:30:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "e3dd8051c54af0f55fe79193",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "米Anthropicが上場 株価は下がったが、会社の手取りは最大約1,170億ドル（いけとも） - エキスパート - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGtCNFdJS3U4MEN6RzdmcWtFWlVWR2ZacHpMR1FIQVloaVE5QjB5WUo1VDNycktKVG4zWld2YkVmNmZTZXY2dUo2THZyeWo5ZUczRktzVXNIYUpXR0d3cVByeGdvdWlkMXlzRnIzV1ZsRl9ZMldJOE5icmhuY1UyQlRva1p5eGVz?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "米Anthropicが上場 株価は下がったが、会社の手取りは最大約1,170億ドル（いけとも） - エキスパート Yahoo!ニュース",
+      "published_at": "2026-11-24T03:01:20Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "7049f81dd30689d56394bf9f",
       "category": "parenting",
       "source_id": "parenting",
@@ -962,6 +1314,24 @@
       "summary": "建設業のイメージはICTでどう変わる？企業と教育現場が取り組む、土木・測量の最前線 www.topcon.co.jp",
       "published_at": "2026-11-24T02:45:52Z",
       "collected_at": "2026-11-24T05:12:29.950570Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "1fefbc63f94edba4fd156ba0",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "【オーストラリア】豪ＡＩ学習に許可制案、音楽は個別契約義務へ（NNA） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1fdjdiSzdDNWZEamN1Mm5XNl9hM0hSbml5UGJETVlORDFzQjFZUUZRS1h2d3A3VjYyZDhNX01kX1FnTnp6TS1ZUmJ2V2E0ay1raS1zS1gwbzZuOHhXLVRmaUtIT0RSUWV6Q3pDenRZTDhwZXNtTXQ0RWZvZ0k1ZDA?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "【オーストラリア】豪ＡＩ学習に許可制案、音楽は個別契約義務へ（NNA） Yahoo!ニュース",
+      "published_at": "2026-11-24T02:30:44Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "parent-ict",
@@ -1062,6 +1432,76 @@
       ]
     },
     {
+      "id": "4d9521ed0a9ecee96a95b465",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "publisher": "OpenAI 公式",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "published_at": "2026-11-24T00:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "bdf0da0edec68e5a8463f25a",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "publisher": "OpenAI 公式",
+      "summary": "",
+      "published_at": "2026-11-24T00:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "4d2783c84d1582b32da448a4",
+      "category": "ai",
+      "source_id": "openai",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "publisher": "OpenAI 公式",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "published_at": "2026-11-24T00:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": "OpenAI",
+      "origin_kind": "official",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
+      "id": "b65e32d2365c71807ee3ca66",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "1年以内に他社も「もうGitは限界」 1日3万マージに激増のAnthropicが明かす「AIエージェント規模」開発インフラ構築の裏側 - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YdDZ1WXlaM054YWxSZ2xrUnpZSjRBZDN3c3dUcVo3RTN3OEY0bGNlbTZOcDdSVnR3OWl1SDNnREF1TUo5NEU5emVzRDlqS0FzejJYdzkxYlQ3c3hYTHhBWDd3VWwtV1pTdmVja1Fhd3pmQQ?oc=5",
+      "publisher": "ITmedia",
+      "summary": "1年以内に他社も「もうGitは限界」 1日3万マージに激増のAnthropicが明かす「AIエージェント規模」開発インフラ構築の裏側 ITmedia",
+      "published_at": "2026-11-23T22:45:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
+      ]
+    },
+    {
       "id": "d40dedc824550357006cdb6c",
       "category": "parenting",
       "source_id": "parenting",
@@ -1095,6 +1535,24 @@
       "in_scope": true,
       "theme_ids": [
         "development"
+      ]
+    },
+    {
+      "id": "40bcea1befc79a4117f7f59b",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "教科書仲間もAIも学習資源～香美市立鏡野中学校（第52回日本教育工学研究協議会全国大会公開授業より） - 教育家庭新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBXdkJ6Z08zYW5NWndScXVDWm12clQ5VU04emdDbjZSRVREX1pTYUpuQ3pXYlFXczlSaE9fc2U2UTRvYnZMLTYzaEdRdGJvM0pPaXdlREZB?oc=5",
+      "publisher": "教育家庭新聞",
+      "summary": "教科書仲間もAIも学習資源～香美市立鏡野中学校（第52回日本教育工学研究協議会全国大会公開授業より） 教育家庭新聞",
+      "published_at": "2026-11-23T22:18:53Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
       ]
     },
     {
@@ -1164,6 +1622,40 @@
       ]
     },
     {
+      "id": "e9e620ce4f9b165d64e4af15",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "韓国警察、大学入試での不正行為者を捜査へ AIメガネや小型カメラ使用か - TBS NEWS DIG",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WdUNGRGNyTFJSQV9jcFZHS01rTzZnV0UzdWVqLUZpSFl3YnMwMS1GV2NPb184MkpDTFVzTDJyOWt6VGNodk1QWDBIXzdwQnlqV2tfUGE1dVphSmNiWEVkZFo4a2p6QnlqNmJkUHAydEVhMGJU?oc=5",
+      "publisher": "TBS NEWS DIG",
+      "summary": "韓国警察、大学入試での不正行為者を捜査へ AIメガネや小型カメラ使用か TBS NEWS DIG",
+      "published_at": "2026-11-23T11:17:21Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "7bd88224efd73de2bb6f032f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "孫正義氏「アンソロピックは僕の失敗」 OpenAI一本槍の代償、ソフトバンク株は高値から3分の2消失 - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VUVB3em5Eb05UZzdCV3d2VlltckhxWjBqVnFZb0xfSUZOTGRiSDkxWGhxdWVWby1sNkU5VFBJejY0di1zTGRFWDBuTjFBdG42Qlk4dnZvVWhlNGVidzdsRkdSUnAzOElnTkE5ak0yUHNRLXVf?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "孫正義氏「アンソロピックは僕の失敗」 OpenAI一本槍の代償、ソフトバンク株は高値から3分の2消失 BigGo ファイナンス",
+      "published_at": "2026-11-23T10:25:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
       "id": "87c677c3ff2f6baed6f69def",
       "category": "tech",
       "source_id": "tech",
@@ -1211,6 +1703,24 @@
       "in_scope": true,
       "theme_ids": [
         "models"
+      ]
+    },
+    {
+      "id": "f9d10f0721842bb07809eb3e",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIがロボット専任チームを解散 ロボ開発の競争軸は「頭脳」から「現場データ」へ（ITmedia ビジネスオンライン） - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04a1BYRmhsNHNuWTRsRHJNSFQ2ZVNSUFJxTWxoM1p6eDRaaVJFb29xRkFDdGJfS3JibG1TdU1CajdyRkxYT0lLeUdUajZ0YURvOXR3cTZVbVpQa29BS05EcmJacDhvZ0RfaFBCblRBLTlnMWp4OUIzdlZoZHZ5VUE?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "OpenAIがロボット専任チームを解散 ロボ開発の競争軸は「頭脳」から「現場データ」へ（ITmedia ビジネスオンライン） Yahoo!ニュース",
+      "published_at": "2026-11-23T09:48:45Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-agents",
+      "in_scope": true,
+      "theme_ids": [
+        "development"
       ]
     },
     {
@@ -1732,7 +2242,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMVnVEWGpITExqQ3pWOFhmWVlPc29SSXdsQm45ZEQxY3ppd0RCS2hsWU1JZl9fZ09tUWltYkNkSHFNMk14Z1FVc09IUC1DV25JZm5YblFTaF9uQQ?oc=5",
       "publisher": "Ledge.ai",
       "summary": "Google、新AI「Gemini 4 Neon」公開 性能評価で総合3位、タスクコストはCarbon比32％削減 Ledge.ai",
-      "published_at": "2026-11-21T05:08:47Z",
+      "published_at": "2026-11-21T05:10:09Z",
       "collected_at": "2026-11-24T05:12:29.950570Z",
       "provider": null,
       "origin_kind": "media",
@@ -1938,10 +2448,10 @@
       "id": "43c76041e3b3c010d6059757",
       "category": "ai",
       "source_id": "ai",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra - OpenAI",
+      "title": "GPT-6 Astra による Hebbia の金融リサーチの改善 - OpenAI",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByXzdTdzFMQzBhUm1wdUh4d1ZmU3ZFVHlmRmRTcjZIdF9RcnBJVThEcHVsS2dJQVh6aEYyUUdGWjNETUZOWHlKN1dkUFlETHdGZkdoWEpxNXJUbVNMMFpCT2dDZFFWVWpjUFE?oc=5",
       "publisher": "OpenAI",
-      "summary": "Hebbia sees improvements in financial research with GPT-6 Astra OpenAI",
+      "summary": "GPT-6 Astra による Hebbia の金融リサーチの改善 OpenAI",
       "published_at": "2026-11-20T21:00:02Z",
       "collected_at": "2026-11-21T02:03:29.236160Z",
       "provider": null,
@@ -2136,6 +2646,22 @@
       "origin_kind": "media",
       "topic_id": "ai-products",
       "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "94382d0d4eb141bac3104408",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "鎌ケ谷市住居用防犯対策費用助成事業 - 鎌ケ谷市ホームページ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVW9TSWZBRXQ5NHRTNUR0MzBoWmJxVmtaNzQyY04xOW1KanhMa2t6aEYxd3ZTa211QzlGMHJOV1dlM3dKWVhXZDE3LW5CSEJEcU9QeUlyVFFnS1VJQkR6QXVMeloxNEZQNW41VnVZa01qd3Ezek1TRERnWFpNSGxFdHA5WERnUjJzX2c?oc=5",
+      "publisher": "鎌ケ谷市ホームページ",
+      "summary": "鎌ケ谷市住居用防犯対策費用助成事業 鎌ケ谷市ホームページ",
+      "published_at": "2026-11-20T08:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": null,
+      "in_scope": false,
       "theme_ids": []
     },
     {
@@ -4158,10 +4684,10 @@
       "id": "d53ab3e900bf1331a3c9f539",
       "category": "ai",
       "source_id": "ai",
-      "title": "Geminiを見限っていた私が、最新モデルを使って心変わりした理由 - ライフハッカー・ジャパン",
+      "title": "Geminiを見限っていた私が、最新モデルを使って心変わりした理由 - ライフハッカー",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMnFfWVdWVmg3aFFDRnZEUUhQX0trT1dXSWpjQy1sOENrX2UxNTk0VVhWM2R6R05iYVNWY00zdjhfWERVRkZxdkJUT0JtbGZxZEgySzE3LVNQSUZDem1XSjhrODg3VnRyWUdxTEJRRVFseDdLZUVuSXZQOVhaUUcxaE90ZFJOWlVUd3Zz?oc=5",
-      "publisher": "ライフハッカー・ジャパン",
-      "summary": "Geminiを見限っていた私が、最新モデルを使って心変わりした理由 ライフハッカー・ジャパン",
+      "publisher": "ライフハッカー",
+      "summary": "Geminiを見限っていた私が、最新モデルを使って心変わりした理由 ライフハッカー",
       "published_at": "2026-11-19T00:00:00Z",
       "collected_at": "2026-11-21T02:03:29.236160Z",
       "provider": null,
@@ -4823,6 +5349,22 @@
       "theme_ids": [
         "models"
       ]
+    },
+    {
+      "id": "826529e89477c640b71bee8d",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "暗黙の合意 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ac3NRQU15eXZrMzByOUQ1bDQ5LTRBNWduaXRTRjRPa0c5ZEVJZnpKYng2MVg0Q2JMMUZXcXJRd3hoSGZsaElDS2lObXI5SUwxRkhPVGZMbmdIU2pUOV9KSmR3?oc=5",
+      "publisher": "OpenAI",
+      "summary": "暗黙の合意 OpenAI",
+      "published_at": "2026-11-18T08:00:00Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
     },
     {
       "id": "8dc908c7bba62aa57cdd386f",
@@ -5921,6 +6463,24 @@
       ]
     },
     {
+      "id": "3e7f8e9e4a872ebdb066b18d",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "AIが問う学びの本質【1】 生成AIを授業で使うと思考力が育たないのか：教育とICT Online - 日経BP",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaRUhHUjhhM3pmSWViU2lNQ2d1bkpRT1ZHdU5Xdm1LVWh2YVlPY1dvVXdjbVZBNU1GUTdFdnhxaUd0Znl2WGpORjJvUWlDNGgwTWZGdEJXYnYyYUZCY0dMUnNDR2FMam5ZX1Vxcks3LVlMZw?oc=5",
+      "publisher": "日経BP",
+      "summary": "AIが問う学びの本質【1】 生成AIを授業で使うと思考力が育たないのか：教育とICT Online 日経BP",
+      "published_at": "2026-11-17T17:11:40Z",
+      "collected_at": "2026-11-25T04:02:24.390411Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
       "id": "3d0c9daea55fb8c6618fe4d3",
       "category": "parenting",
       "source_id": "parenting",
@@ -6830,22 +7390,6 @@
       "theme_ids": []
     },
     {
-      "id": "282efa4663f5079e50b23e99",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "科学者への AI 利用機会の拡大 - OpenAI",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VjlZelJEcU9rOUNLWVJ2aE01d2xsZU1ydVlNV1hUTzJJZ3pTX2RLS3VFUDhBMVZDQlFsYmNhWGJHaW4tQ1k1ME51cFdrNE45QWZjX2UxWVpLZHlTVDFDdTc4aXBlR1U4aGl6NGVJTndualhYMmxuN2U4c3FSdGM?oc=5",
-      "publisher": "OpenAI",
-      "summary": "科学者への AI 利用機会の拡大 OpenAI",
-      "published_at": "2026-11-17T01:33:38Z",
-      "collected_at": "2026-11-17T21:00:07.257542Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": []
-    },
-    {
       "id": "e3b1331623a1cf69a650ddce",
       "category": "ai",
       "source_id": "ai",
@@ -7364,25 +7908,6 @@
       "theme_ids": []
     },
     {
-      "id": "296541a5636ad0e706181052",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 - 教育新聞",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5",
-      "publisher": "教育新聞",
-      "summary": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 教育新聞",
-      "published_at": "2026-11-16T11:55:00Z",
-      "collected_at": "2026-11-16T21:00:06.867307Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "development",
-        "education"
-      ]
-    },
-    {
       "id": "715ae1ff0eae2af2bece87b7",
       "category": "parenting",
       "source_id": "parenting",
@@ -7683,6 +8208,41 @@
       ]
     },
     {
+      "id": "282efa4663f5079e50b23e99",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "科学者への AI 利用機会の拡大 - OpenAI",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB5VjlZelJEcU9rOUNLWVJ2aE01d2xsZU1ydVlNV1hUTzJJZ3pTX2RLS3VFUDhBMVZDQlFsYmNhWGJHaW4tQ1k1ME51cFdrNE45QWZjX2UxWVpLZHlTVDFDdTc4aXBlR1U4aGl6NGVJTndualhYMmxuN2U4c3FSdGM?oc=5",
+      "publisher": "OpenAI",
+      "summary": "科学者への AI 利用機会の拡大 OpenAI",
+      "published_at": "2026-11-16T08:00:00Z",
+      "collected_at": "2026-11-17T21:00:07.257542Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "296541a5636ad0e706181052",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 - 教育新聞",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrMUxIZ3hlZnFBYmRDMWZKNGhFTEpNaHMxSzdmSEtKNVNnZEFycWtSU01pekJUdzhxbzVQanhONWI0NjZ4c0lBNV9MZnlUQ0pTak5NQU53?oc=5",
+      "publisher": "教育新聞",
+      "summary": "教員が生成AIで教育用アプリ開発 公開・利用の指針作成 教育新聞",
+      "published_at": "2026-11-16T08:00:00Z",
+      "collected_at": "2026-11-16T21:00:06.867307Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "development",
+        "education"
+      ]
+    },
+    {
       "id": "25c24270298c9da6ab60b3a0",
       "category": "ai",
       "source_id": "openai",
@@ -7724,6 +8284,94 @@
       "summary": "GeminiとNotebookLM（Gemini Notebook）の違いとは？使い分け方から連携でできることまで解説 AIsmiley",
       "published_at": "2026-11-16T08:00:00Z",
       "collected_at": "2026-11-23T01:29:08.987702Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "4b4bdccdaeb5b84f77421f0f",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル（1/2 ページ） - ITmedia",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GakpiZVE1MkY2MDFmOXJnWEloNHhRNHhHYXlXOFd6NXlmT3puZE42Wk11VWpLbTh6a3JRSkppYTdFLTV1UTdiRGdrX09HcW5vSUNweGtZU2VUOEpBT2pJU2dwemk4c2tRdnRzeg?oc=5",
+      "publisher": "ITmedia",
+      "summary": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル（1/2 ページ） ITmedia",
+      "published_at": "2026-11-16T08:00:00Z",
+      "collected_at": "2026-11-16T21:00:06.867307Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": [
+        "models"
+      ]
+    },
+    {
+      "id": "51bebf2ecb1ede1f79fb9c42",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテック",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jenRnNk5WOE9wRVhtRFRvbjA0VGdXSHFHRGFQZm52Y29FamRXNmluV01QZGNYTlM5TVBtZktvdTFUM0c4Q0pUOEdSeG0?oc=5",
+      "publisher": "レバテック",
+      "summary": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 レバテック",
+      "published_at": "2026-11-16T08:00:00Z",
+      "collected_at": "2026-11-16T21:00:06.867307Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "ai-products",
+      "in_scope": true,
+      "theme_ids": []
+    },
+    {
+      "id": "686b8b2ccba1e97e56900464",
+      "category": "parenting",
+      "source_id": "parenting",
+      "title": "エデュテクノロジー、「評価の視点から考える英語教育でのAI活用～教師にできること・AIにできること～」25日開催 - ICT教育ニュース",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xX3F2cVJXT085YUhFcGZUT2ItOTFuMUg2YzBudHI0YTRnbU5jcnk1ZTBweTgxWUExaHBHenc1ZmxKRXRrODhDWGVtMGRHcGZMZUhfLTk1d1ZLakNh?oc=5",
+      "publisher": "ICT教育ニュース",
+      "summary": "エデュテクノロジー、「評価の視点から考える英語教育でのAI活用～教師にできること・AIにできること～」25日開催 ICT教育ニュース",
+      "published_at": "2026-11-16T08:00:00Z",
+      "collected_at": "2026-11-16T00:53:21.833816Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "parent-ict",
+      "in_scope": true,
+      "theme_ids": [
+        "education"
+      ]
+    },
+    {
+      "id": "955634a9f2879da18227eb62",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "「ＡＩメガネだけ？超小型カメラへの対策はないのか」…入試控えた受験生の不安＝韓国 (ハンギョレ新聞) - Yahoo!ニュース",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGtvUEFON2l3dzJERWNoZmFPWV9HVi1PWVZfOGc5RjhYeDhwcml6YlNkcFhScHlzU2ZyTmpWTldoZjdSV1dfMXQtelMwWVh3V2w1WWdWSjhPal9Qa25BMGRoaThJenRDWF96dkYtdUhsWFhwbS1yOHFpOGN0NWIwUkdaYWt5dUlLekc2cDhR?oc=5",
+      "publisher": "Yahoo!ニュース",
+      "summary": "「ＡＩメガネだけ？超小型カメラへの対策はないのか」…入試控えた受験生の不安＝韓国 (ハンギョレ新聞) Yahoo!ニュース",
+      "published_at": "2026-11-16T08:00:00Z",
+      "collected_at": "2026-11-16T21:00:06.867307Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "camera"
+      ]
+    },
+    {
+      "id": "46fb361c19cc7fdff7d41622",
+      "category": "ai",
+      "source_id": "ai",
+      "title": "【西川和久の不定期コラム】GPUモリモリVRAM 112GBで「DeepSeek-V4.1-Flash」を動かしてみた - PC Watch",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53TWZwWDdZNHl5RDBWRlhnbUFuWDVjTVUtTFQyUGRfV1NvYWs3Nks5cUJRcXZTM3hTM1NQbXZoYk1LX1BpY1hRVnQxSndBOFJuQVNaZ2RJWGtSakxmTWdZOFRWQXdrN3YtaHlEcnZnX0t2N1k?oc=5",
+      "publisher": "PC Watch",
+      "summary": "【西川和久の不定期コラム】GPUモリモリVRAM 112GBで「DeepSeek-V4.1-Flash」を動かしてみた PC Watch",
+      "published_at": "2026-11-16T08:00:00Z",
+      "collected_at": "2026-11-16T21:00:06.867307Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -7776,24 +8424,6 @@
       "summary": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル（ITmedia NEWS） Yahoo!ニュース",
       "published_at": "2026-11-16T07:20:04Z",
       "collected_at": "2026-11-18T21:01:46.512540Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
-      ]
-    },
-    {
-      "id": "4b4bdccdaeb5b84f77421f0f",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル（1/2 ページ） - ITmedia",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5GakpiZVE1MkY2MDFmOXJnWEloNHhRNHhHYXlXOFd6NXlmT3puZE42Wk11VWpLbTh6a3JRSkppYTdFLTV1UTdiRGdrX09HcW5vSUNweGtZU2VUOEpBT2pJU2dwemk4c2tRdnRzeg?oc=5",
-      "publisher": "ITmedia",
-      "summary": "「Gemini 4 Hydrogen」とは 性能とユースケースまとめ Googleの「誰でも使える」最新モデル（1/2 ページ） ITmedia",
-      "published_at": "2026-11-16T07:17:48Z",
-      "collected_at": "2026-11-16T21:00:06.867307Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "ai-products",
@@ -8009,25 +8639,6 @@
       ]
     },
     {
-      "id": "10081c875af351504c74557f",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "韓国UiPath、AIコーディングエージェントを正式リリース…Claude Code・Codex連携で開発自動化を狙う - BigGo ファイナンス",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfdmFJZldLd0g3dWJFck4xcW9KS1l0WW9JWlY3NGIzTXFKRkNTYlhSZkNvbWI1cDhjVXZrRExKT1l5RmJEZldWVVpXTjFuRkN0N1lfTHZZTDYzaWl3UXE1NnRQSGhDMlg3YmZ4NlFWUUw4WTcw?oc=5",
-      "publisher": "BigGo ファイナンス",
-      "summary": "韓国UiPath、AIコーディングエージェントを正式リリース…Claude Code・Codex連携で開発自動化を狙う BigGo ファイナンス",
-      "published_at": "2026-11-16T03:05:00Z",
-      "collected_at": "2026-11-16T21:00:06.867307Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "models",
-        "development"
-      ]
-    },
-    {
       "id": "3643157a98a3d7716c54af24",
       "category": "ai",
       "source_id": "ai",
@@ -8117,22 +8728,6 @@
         "camera",
         "development"
       ]
-    },
-    {
-      "id": "51bebf2ecb1ede1f79fb9c42",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 - レバテック",
-      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1jenRnNk5WOE9wRVhtRFRvbjA0VGdXSHFHRGFQZm52Y29FamRXNmluV01QZGNYTlM5TVBtZktvdTFUM0c4Q0pUOEdSeG0?oc=5",
-      "publisher": "レバテック",
-      "summary": "OpenAIもAnthropicも勧めるのになぜ流行らない？「AIへの指示は99%音声入力」のPdMに聞く活用術 レバテック",
-      "published_at": "2026-11-16T01:30:00Z",
-      "collected_at": "2026-11-16T21:00:06.867307Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": []
     },
     {
       "id": "49c630d7c27533aa948a9918",
@@ -8341,24 +8936,6 @@
       ]
     },
     {
-      "id": "686b8b2ccba1e97e56900464",
-      "category": "parenting",
-      "source_id": "parenting",
-      "title": "エデュテクノロジー、「評価の視点から考える英語教育でのAI活用～教師にできること・AIにできること～」25日開催 - ICT教育ニュース",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xX3F2cVJXT085YUhFcGZUT2ItOTFuMUg2YzBudHI0YTRnbU5jcnk1ZTBweTgxWUExaHBHenc1ZmxKRXRrODhDWGVtMGRHcGZMZUhfLTk1d1ZLakNh?oc=5",
-      "publisher": "ICT教育ニュース",
-      "summary": "エデュテクノロジー、「評価の視点から考える英語教育でのAI活用～教師にできること・AIにできること～」25日開催 ICT教育ニュース",
-      "published_at": "2026-11-15T23:53:39Z",
-      "collected_at": "2026-11-16T00:53:21.833816Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "parent-ict",
-      "in_scope": true,
-      "theme_ids": [
-        "education"
-      ]
-    },
-    {
       "id": "78e8446a8f47e07052fb62a7",
       "category": "tech",
       "source_id": "tech",
@@ -8422,24 +8999,6 @@
       "summary": "「ＡＩメガネだけ？超小型カメラへの対策はないのか」…入試控えた受験生の不安＝韓国（ハンギョレ新聞） Yahoo!ニュース",
       "published_at": "2026-11-15T23:14:33Z",
       "collected_at": "2026-11-16T00:53:21.833816Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "tech-platform",
-      "in_scope": true,
-      "theme_ids": [
-        "camera"
-      ]
-    },
-    {
-      "id": "955634a9f2879da18227eb62",
-      "category": "tech",
-      "source_id": "tech",
-      "title": "「ＡＩメガネだけ？超小型カメラへの対策はないのか」…入試控えた受験生の不安＝韓国 (ハンギョレ新聞) - Yahoo!ニュース",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOGtvUEFON2l3dzJERWNoZmFPWV9HVi1PWVZfOGc5RjhYeDhwcml6YlNkcFhScHlzU2ZyTmpWTldoZjdSV1dfMXQtelMwWVh3V2w1WWdWSjhPal9Qa25BMGRoaThJenRDWF96dkYtdUhsWFhwbS1yOHFpOGN0NWIwUkdaYWt5dUlLekc2cDhR?oc=5",
-      "publisher": "Yahoo!ニュース",
-      "summary": "「ＡＩメガネだけ？超小型カメラへの対策はないのか」…入試控えた受験生の不安＝韓国 (ハンギョレ新聞) Yahoo!ニュース",
-      "published_at": "2026-11-15T23:14:33Z",
-      "collected_at": "2026-11-16T21:00:06.867307Z",
       "provider": null,
       "origin_kind": "media",
       "topic_id": "tech-platform",
@@ -8597,24 +9156,6 @@
       "publisher": "キーマンズネット",
       "summary": "ライセンス更新を機に「脱マクロ」 オートバックスセブンがGeminiで目指す売上高5000億円 キーマンズネット",
       "published_at": "2026-11-15T22:00:00Z",
-      "collected_at": "2026-11-16T21:00:06.867307Z",
-      "provider": null,
-      "origin_kind": "media",
-      "topic_id": "ai-products",
-      "in_scope": true,
-      "theme_ids": [
-        "models"
-      ]
-    },
-    {
-      "id": "46fb361c19cc7fdff7d41622",
-      "category": "ai",
-      "source_id": "ai",
-      "title": "【西川和久の不定期コラム】GPUモリモリVRAM 112GBで「DeepSeek-V4.1-Flash」を動かしてみた - PC Watch",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53TWZwWDdZNHl5RDBWRlhnbUFuWDVjTVUtTFQyUGRfV1NvYWs3Nks5cUJRcXZTM3hTM1NQbXZoYk1LX1BpY1hRVnQxSndBOFJuQVNaZ2RJWGtSakxmTWdZOFRWQXdrN3YtaHlEcnZnX0t2N1k?oc=5",
-      "publisher": "PC Watch",
-      "summary": "【西川和久の不定期コラム】GPUモリモリVRAM 112GBで「DeepSeek-V4.1-Flash」を動かしてみた PC Watch",
-      "published_at": "2026-11-15T21:12:00Z",
       "collected_at": "2026-11-16T21:00:06.867307Z",
       "provider": null,
       "origin_kind": "media",
@@ -8818,6 +9359,25 @@
       "in_scope": true,
       "theme_ids": [
         "camera"
+      ]
+    },
+    {
+      "id": "10081c875af351504c74557f",
+      "category": "tech",
+      "source_id": "tech",
+      "title": "韓国UiPath、AIコーディングエージェントを正式リリース…Claude Code・Codex連携で開発自動化を狙う - BigGo ファイナンス",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfdmFJZldLd0g3dWJFck4xcW9KS1l0WW9JWlY3NGIzTXFKRkNTYlhSZkNvbWI1cDhjVXZrRExKT1l5RmJEZldWVVpXTjFuRkN0N1lfTHZZTDYzaWl3UXE1NnRQSGhDMlg3YmZ4NlFWUUw4WTcw?oc=5",
+      "publisher": "BigGo ファイナンス",
+      "summary": "韓国UiPath、AIコーディングエージェントを正式リリース…Claude Code・Codex連携で開発自動化を狙う BigGo ファイナンス",
+      "published_at": "2026-11-15T08:00:00Z",
+      "collected_at": "2026-11-16T21:00:06.867307Z",
+      "provider": null,
+      "origin_kind": "media",
+      "topic_id": "tech-platform",
+      "in_scope": true,
+      "theme_ids": [
+        "models",
+        "development"
       ]
     },
     {
@@ -57097,42 +57657,29 @@
       "kind": "weekly",
       "period_start": "2026-11-23",
       "period_end": "2026-11-29",
-      "generated_at": "2026-11-24T14:12:36.878169+09:00",
+      "generated_at": "2026-11-25T13:02:31.372646+09:00",
       "is_complete": false,
-      "article_count": 26,
+      "article_count": 53,
       "category_counts": {
-        "parenting": 9,
-        "tech": 9,
-        "ai": 8
+        "tech": 17,
+        "parenting": 14,
+        "ai": 22
       },
-      "overview": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+      "overview": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
-        "status": "partial",
-        "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+        "status": "ok",
+        "attempted_at": "2026-11-25T04:02:30.812708+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 3,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
-        "errors": [
-          {
-            "article_id": "292e43c9051f388da7d11610",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8ae4214208663c7fb89ac14",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "27d68da4f032181a7fd0d1e0",
-            "stage": "original_fetch"
-          }
-        ],
+        "errors": [],
         "local_codex": {
           "attempted_at": "2026-11-18T21:00:15.021788+00:00",
           "status": "partial",
@@ -57166,7 +57713,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+        "last_success_at": "2026-11-25T04:02:30.812708+00:00"
       },
       "genre_briefs": [
         {
@@ -57174,41 +57721,59 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "68f860f140b8c0baf4c55ffb",
+              "article_id": "c5d44da96717351baad9d9a8",
               "category": "ai",
-              "headline": "OpenAI and Cisco introduce Shirudo",
-              "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,…",
+              "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+              "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/introducing-shirudo/",
+              "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
-              "tags": [],
+              "tags": [
+                "models"
+              ],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T21:20:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T13:00:00Z"
             },
             {
-              "article_id": "c3c5f9310d7e7d73454edbbb",
+              "article_id": "aafeddcb8f6f0d02f876f7e2",
               "category": "ai",
-              "headline": "Richpanel helps companies automate 50% of support in 30 days",
-              "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+              "headline": "Searching for distant planets with Astra",
+              "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data.",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support/",
+              "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T08:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T11:00:00Z"
+            },
+            {
+              "article_id": "4d9521ed0a9ecee96a95b465",
+              "category": "ai",
+              "headline": "How Intentful uses dots to make more time for growth",
+              "summary": "Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://openai.com/business/customer-stories/intentful-dots/",
+              "source_label": "OpenAI 公式（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "OpenAI",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "extractive",
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T00:00:00Z"
             }
           ]
         }
       ],
-      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。",
       "topics": [
         {
           "id": "ai-products",
@@ -57217,17 +57782,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 6,
-          "publisher_count": 3,
-          "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+          "count": 13,
+          "publisher_count": 6,
+          "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "evidence_ids": [
-            "10eb088edc4f9395354b9a24",
-            "68f860f140b8c0baf4c55ffb",
-            "6a0b47bc185f2efe7f3e74f7"
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "6021e5c335bee121da1a2597"
           ],
           "article_ids": [
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "6021e5c335bee121da1a2597",
+            "e3dd8051c54af0f55fe79193",
             "10eb088edc4f9395354b9a24",
+            "4d9521ed0a9ecee96a95b465",
             "68f860f140b8c0baf4c55ffb",
+            "7bd88224efd73de2bb6f032f",
             "6a0b47bc185f2efe7f3e74f7",
             "a3708737d7832ea68e59f527",
             "292e43c9051f388da7d11610",
@@ -57241,15 +57813,23 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 16,
+          "publisher_count": 16,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "36b20d91365962a30720f22f",
-            "339e42dfce81cb1eda89c965",
-            "c57313485a9872d05145ef71"
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c"
           ],
           "article_ids": [
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c",
+            "1950eb7bcf80ebab0503db81",
+            "d3f35ec093666d38606888ee",
+            "c2387c496352fb6daf556bf1",
+            "33bda59875d4bf1137292ee6",
+            "d909e6f47119c0155c867704",
             "36b20d91365962a30720f22f",
             "339e42dfce81cb1eda89c965",
             "c57313485a9872d05145ef71",
@@ -57267,18 +57847,23 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 9,
-          "publisher_count": 9,
+          "count": 14,
+          "publisher_count": 13,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "7049f81dd30689d56394bf9f",
-            "e632563d402fe5d587ceb410",
-            "d40dedc824550357006cdb6c"
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9"
           ],
           "article_ids": [
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9",
             "7049f81dd30689d56394bf9f",
+            "1fefbc63f94edba4fd156ba0",
             "e632563d402fe5d587ceb410",
             "d40dedc824550357006cdb6c",
+            "40bcea1befc79a4117f7f59b",
             "07a782effda7f02645792494",
             "1102f620533fffd87de22d7c",
             "9b302ff1caf8f72f6cb5611d",
@@ -57302,76 +57887,114 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 8,
+          "publisher_count": 5,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "a9abaec837df39bbc3e52285",
-            "db58989f87e1d6a1e3bc26de"
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a"
           ],
           "article_ids": [
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a",
+            "4d2783c84d1582b32da448a4",
+            "b65e32d2365c71807ee3ca66",
+            "f9d10f0721842bb07809eb3e",
             "a9abaec837df39bbc3e52285",
             "db58989f87e1d6a1e3bc26de"
           ]
         },
         {
-          "id": "tech-security",
-          "category": "tech",
-          "label": "セキュリティ・データの扱い",
+          "id": "ai-safety",
+          "category": "ai",
+          "label": "AIの権利・安全性",
           "words": [
+            "権利",
+            "著作",
+            "訴訟",
+            "規制",
+            "保護",
+            "模倣",
             "漏えい",
-            "セキュリティ",
-            "脆弱",
-            "攻撃",
-            "認証",
-            "個人情報"
+            "安全"
           ],
-          "insight": "サービスの検討では、便利さと同時に収集するデータの種類や保存先を確認したい。",
-          "question": "育児サービスに応用する場合、家族の情報を必要以上に集めない設計を検討したい。",
+          "insight": "AIの利用検討では、機能の評価とあわせて入力データや生成物の扱いを確認する必要がある。",
+          "question": "子どもや家族の情報を扱うなら、保存範囲と同意の設計を先に検討したい。",
           "count": 1,
           "publisher_count": 1,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "a5673367d90376730ba110d3"
+            "eb7c6049d3bdf750e887ca65"
           ],
           "article_ids": [
-            "a5673367d90376730ba110d3"
+            "eb7c6049d3bdf750e887ca65"
           ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
           "label": "生成AI：本文からの簡易まとめ",
           "required_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ],
-          "observation": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+          "observation": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
           "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
           "review_method": "extractive",
           "evidence_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "14462d09f6a3c8e06cdea22f",
+        "e24bf720e9b304be75efb2f1",
+        "075eaa4ebd3f1e06ea9cb67c",
+        "37dfdbbe6ec310f93996b829",
+        "1ca63d3c9d578b94c4fb6b29",
+        "1950eb7bcf80ebab0503db81",
+        "d3f35ec093666d38606888ee",
+        "c2387c496352fb6daf556bf1",
+        "d9df7c78964a27d5a0461bc5",
+        "33bda59875d4bf1137292ee6",
+        "c5d44da96717351baad9d9a8",
+        "712bb7b609bdce48626b6d99",
+        "aafeddcb8f6f0d02f876f7e2",
+        "181a0f500482c89c594f68b9",
+        "d909e6f47119c0155c867704",
+        "eb7c6049d3bdf750e887ca65",
+        "6021e5c335bee121da1a2597",
+        "1b630d07b3c62e32874f2ee5",
+        "e3dd8051c54af0f55fe79193",
         "7049f81dd30689d56394bf9f",
+        "1fefbc63f94edba4fd156ba0",
         "36b20d91365962a30720f22f",
         "e632563d402fe5d587ceb410",
         "10eb088edc4f9395354b9a24",
         "339e42dfce81cb1eda89c965",
+        "4d9521ed0a9ecee96a95b465",
+        "bdf0da0edec68e5a8463f25a",
+        "4d2783c84d1582b32da448a4",
+        "b65e32d2365c71807ee3ca66",
         "d40dedc824550357006cdb6c",
         "a5673367d90376730ba110d3",
+        "40bcea1befc79a4117f7f59b",
         "68f860f140b8c0baf4c55ffb",
         "c57313485a9872d05145ef71",
+        "7bd88224efd73de2bb6f032f",
         "87c677c3ff2f6baed6f69def",
         "6a0b47bc185f2efe7f3e74f7",
         "a3708737d7832ea68e59f527",
+        "f9d10f0721842bb07809eb3e",
         "e8f8adeba492c02ee9941f81",
         "eb952a01bbd9ae5643a9f984",
         "292e43c9051f388da7d11610",
@@ -57393,42 +58016,29 @@
       "kind": "weekly",
       "period_start": "2026-11-16",
       "period_end": "2026-11-22",
-      "generated_at": "2026-11-24T14:12:36.878169+09:00",
+      "generated_at": "2026-11-25T13:02:31.372646+09:00",
       "is_complete": true,
-      "article_count": 387,
+      "article_count": 388,
       "category_counts": {
-        "parenting": 90,
-        "ai": 220,
-        "tech": 77
+        "parenting": 91,
+        "ai": 221,
+        "tech": 76
       },
       "overview": "At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,… NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… ／ NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 ／ NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 Khan Academyの中間評価機能「Explain Your Thinking」は、一部の設問で児童・生徒が解答した後、AIがヒントを出さずに理由を尋ね、理解や誤解を教員向けに要約する。代数・幾何の各1問を対象とした初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に表れなかった理解が対話で確認された。対象学年と導入範囲は資料に明記されていない。評価に基づく推奨学習経路を教員が確認してから児童・生徒に提示する仕組みは、2027〜28年に計画されている。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
-        "status": "partial",
-        "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+        "status": "ok",
+        "attempted_at": "2026-11-25T04:02:30.812708+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 3,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
-        "errors": [
-          {
-            "article_id": "292e43c9051f388da7d11610",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8ae4214208663c7fb89ac14",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "27d68da4f032181a7fd0d1e0",
-            "stage": "original_fetch"
-          }
-        ],
+        "errors": [],
         "local_codex": {
           "attempted_at": "2026-11-18T21:00:15.021788+00:00",
           "status": "partial",
@@ -57462,7 +58072,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+        "last_success_at": "2026-11-25T04:02:30.812708+00:00"
       },
       "genre_briefs": [
         {
@@ -57610,7 +58220,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。",
       "topics": [
         {
           "id": "ai-products",
@@ -57619,8 +58229,8 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 196,
-          "publisher_count": 45,
+          "count": 197,
+          "publisher_count": 44,
           "summary": "At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,… We’re sharing how OpenAI detects and disrupts adversarial distillation, how we’ve strengthened protections for our models’ protected reasoning, and what we’ve learned that can help… In that workflow, GPT‑6 Astra selects documents or Matrix cells to support an answer, then turns the analysis into native PowerPoint slides that follow the…",
           "evidence_ids": [
             "1425960a716b8eeb32af9ebf",
@@ -57731,6 +58341,7 @@
             "567b610aea7468d7e14bf715",
             "d22f1d03be1f33a7a6265116",
             "b5e56a6bdef60f135e33ed42",
+            "826529e89477c640b71bee8d",
             "8dc908c7bba62aa57cdd386f",
             "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
@@ -57778,7 +58389,6 @@
             "cab2e13e41553bb3d6bf1403",
             "43bf57ce7fed540fcfed4df2",
             "e09757121a31968a7d799223",
-            "282efa4663f5079e50b23e99",
             "e3b1331623a1cf69a650ddce",
             "31f1ffce6c0ad90187176b34",
             "b5e8e8dfd49748b4b01a4179",
@@ -57799,17 +58409,19 @@
             "82c05437d6834e345ccd386b",
             "98c776e7f9b26c508f5d99d2",
             "2da97626fe7c92d1f3e719a4",
+            "282efa4663f5079e50b23e99",
             "25c24270298c9da6ab60b3a0",
             "15674ae77ee8c61984047847",
+            "4b4bdccdaeb5b84f77421f0f",
+            "51bebf2ecb1ede1f79fb9c42",
+            "46fb361c19cc7fdff7d41622",
             "6ef7cbbaf4c4b812e0610dce",
             "0c0a45a63922465828c81610",
-            "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "4f4dc8d7163b67594a3fa041",
             "9b336b2fbbbe147d1433cb77",
             "a9b34b6e86a1b3642f35f617",
             "3643157a98a3d7716c54af24",
-            "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "a1ec34532f5edf94a5074eb2",
             "9ad9575aa75b8262412431ee",
@@ -57822,8 +58434,7 @@
             "47892b94600bf2e289c33bf7",
             "7f2aab941aab9f0d5c0d62f0",
             "2b181dd4febe87192648dfd6",
-            "146fda32ecad20374233e8ce",
-            "46fb361c19cc7fdff7d41622"
+            "146fda32ecad20374233e8ce"
           ]
         },
         {
@@ -57833,7 +58444,7 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 75,
+          "count": 74,
           "publisher_count": 34,
           "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。",
           "evidence_ids": [
@@ -57904,9 +58515,9 @@
             "c0cb7df2949367191cbdeafd",
             "fd1930b979bb0d07b2bd9e39",
             "6f0fc4bae938a241e7fda111",
+            "955634a9f2879da18227eb62",
             "448f8b2cc319276f285b21a6",
             "eb670893cf83955a2cabd2b9",
-            "10081c875af351504c74557f",
             "651b11fa72ab35ecd21b0a4c",
             "439ffcbc7408c91f95194016",
             "777298c35aa2cc226b23148f",
@@ -57914,7 +58525,6 @@
             "ef1feda8bf1b887c5755deeb",
             "78e8446a8f47e07052fb62a7",
             "d8fd6e93dd2c38b04e3aa884",
-            "82d8202d1269ef0fd585c8d3",
             "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15"
           ]
@@ -57926,7 +58536,7 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 82,
+          "count": 83,
           "publisher_count": 45,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
           "evidence_ids": [
@@ -57983,6 +58593,7 @@
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
             "5a97d7da8a9d187e5d3e3337",
+            "3e7f8e9e4a872ebdb066b18d",
             "3d0c9daea55fb8c6618fe4d3",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
@@ -58003,16 +58614,16 @@
             "0b3caf27747b3e37f4690b35",
             "964adffac8ddd53f6f189160",
             "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052",
             "715ae1ff0eae2af2bece87b7",
             "8c800e86c4e7021d83114b7b",
             "aec049e6f21767aa120b5038",
+            "296541a5636ad0e706181052",
             "7dca05f704f3e725f89126c4",
+            "686b8b2ccba1e97e56900464",
             "9c7a25739c18632331ba4cf0",
             "f69d4427b6342126775002e3",
             "bd42d9bdad5b25f7d87df312",
             "c1824a9fdf23163fcf59d045",
-            "686b8b2ccba1e97e56900464",
             "0d343a54f05f54ed9d42faec",
             "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
@@ -58330,6 +58941,7 @@
         "567b610aea7468d7e14bf715",
         "d22f1d03be1f33a7a6265116",
         "b5e56a6bdef60f135e33ed42",
+        "826529e89477c640b71bee8d",
         "8dc908c7bba62aa57cdd386f",
         "8591a5188da7d3a59fbc79a0",
         "facadc24fbc00e37e1a70fe1",
@@ -58386,6 +58998,7 @@
         "66ee963cd2bab0a2a7bcf917",
         "3730217e320e02e40fb74b4a",
         "85f8fbee1f04b67e8d6bdd91",
+        "3e7f8e9e4a872ebdb066b18d",
         "3d0c9daea55fb8c6618fe4d3",
         "93e52e2af4a962a3623722ec",
         "19a3715cb10b4cbacdae3934",
@@ -58437,7 +59050,6 @@
         "43bf57ce7fed540fcfed4df2",
         "ffc9c04f0c98c6b890a67ad8",
         "e09757121a31968a7d799223",
-        "282efa4663f5079e50b23e99",
         "e3b1331623a1cf69a650ddce",
         "31f1ffce6c0ad90187176b34",
         "b5e8e8dfd49748b4b01a4179",
@@ -58462,7 +59074,6 @@
         "964adffac8ddd53f6f189160",
         "54dd758e0e2b8ca39511085c",
         "6566bbb1316dc6b1464a6017",
-        "296541a5636ad0e706181052",
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "ab72401e28096f87e6e3c9db",
@@ -58479,13 +59090,19 @@
         "2da97626fe7c92d1f3e719a4",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
+        "282efa4663f5079e50b23e99",
+        "296541a5636ad0e706181052",
         "25c24270298c9da6ab60b3a0",
         "7dca05f704f3e725f89126c4",
         "15674ae77ee8c61984047847",
+        "4b4bdccdaeb5b84f77421f0f",
+        "51bebf2ecb1ede1f79fb9c42",
+        "686b8b2ccba1e97e56900464",
+        "955634a9f2879da18227eb62",
+        "46fb361c19cc7fdff7d41622",
         "6ef7cbbaf4c4b812e0610dce",
         "9c7a25739c18632331ba4cf0",
         "0c0a45a63922465828c81610",
-        "4b4bdccdaeb5b84f77421f0f",
         "f69d4427b6342126775002e3",
         "448f8b2cc319276f285b21a6",
         "eb670893cf83955a2cabd2b9",
@@ -58497,13 +59114,11 @@
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
         "a9b34b6e86a1b3642f35f617",
-        "10081c875af351504c74557f",
         "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
         "777298c35aa2cc226b23148f",
-        "51bebf2ecb1ede1f79fb9c42",
         "49c630d7c27533aa948a9918",
         "43e056ef91c91a16fef93ad5",
         "a1ec34532f5edf94a5074eb2",
@@ -58515,11 +59130,9 @@
         "44e514c6aa416aaab4578fd9",
         "9b119bed88cfceda25364ad9",
         "90b3cd31048acdd90b4ace72",
-        "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
-        "82d8202d1269ef0fd585c8d3",
         "dac80800bcb7f90f04418453",
         "93e5f29443058a4def4ddafc",
         "47892b94600bf2e289c33bf7",
@@ -58529,7 +59142,6 @@
         "2b181dd4febe87192648dfd6",
         "92a19f7706e1b0771d0bb644",
         "146fda32ecad20374233e8ce",
-        "46fb361c19cc7fdff7d41622",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15"
@@ -60620,42 +61232,29 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-24T14:12:36.878169+09:00",
+      "generated_at": "2026-11-25T13:02:31.372646+09:00",
       "is_complete": false,
-      "article_count": 1071,
+      "article_count": 1100,
       "category_counts": {
-        "parenting": 252,
-        "tech": 242,
-        "ai": 577
+        "tech": 250,
+        "parenting": 258,
+        "ai": 592
       },
-      "overview": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. ／ At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,… NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… ／ NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 ／ NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 Khan Academyの中間評価機能は、一部の設問で児童・生徒にヒントを出さずに考え方を尋ね、理解と誤解を教員向けに要約する。代数と幾何の各1問を対象にした初期調査では、最初の説明に現れなかった理解が対話で確認された割合は、代数で約20％、幾何で約36％だった。対象学年と導入範囲は資料に明記されておらず、教員が評価結果に基づく推奨学習経路を確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
+      "overview": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,… NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… ／ NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 ／ NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 Khan Academyの中間評価機能は、一部の設問で児童・生徒にヒントを出さずに考え方を尋ね、理解と誤解を教員向けに要約する。代数と幾何の各1問を対象にした初期調査では、最初の説明に現れなかった理解が対話で確認された割合は、代数で約20％、幾何で約36％だった。対象学年と導入範囲は資料に明記されておらず、教員が評価結果に基づく推奨学習経路を確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
-        "status": "partial",
-        "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+        "status": "ok",
+        "attempted_at": "2026-11-25T04:02:30.812708+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 3,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
-        "errors": [
-          {
-            "article_id": "292e43c9051f388da7d11610",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8ae4214208663c7fb89ac14",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "27d68da4f032181a7fd0d1e0",
-            "stage": "original_fetch"
-          }
-        ],
+        "errors": [],
         "local_codex": {
           "attempted_at": "2026-11-18T21:00:15.021788+00:00",
           "status": "partial",
@@ -60689,7 +61288,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+        "last_success_at": "2026-11-25T04:02:30.812708+00:00"
       },
       "genre_briefs": [
         {
@@ -60697,52 +61296,54 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "68f860f140b8c0baf4c55ffb",
+              "article_id": "c5d44da96717351baad9d9a8",
               "category": "ai",
-              "headline": "OpenAI and Cisco introduce Shirudo",
-              "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,…",
+              "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+              "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/introducing-shirudo/",
+              "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
-              "tags": [],
+              "tags": [
+                "models"
+              ],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T21:20:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T13:00:00Z"
             },
             {
-              "article_id": "c3c5f9310d7e7d73454edbbb",
+              "article_id": "aafeddcb8f6f0d02f876f7e2",
               "category": "ai",
-              "headline": "Richpanel helps companies automate 50% of support in 30 days",
-              "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+              "headline": "Searching for distant planets with Astra",
+              "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data.",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support/",
+              "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T08:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T11:00:00Z"
             },
             {
-              "article_id": "da9bbe1938f62a3fa6f35110",
+              "article_id": "4d9521ed0a9ecee96a95b465",
               "category": "ai",
-              "headline": "Perplexity and Intelligence",
-              "summary": "At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+              "headline": "How Intentful uses dots to make more time for growth",
+              "summary": "Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/perplexity-and-intelligence/",
+              "source_url": "https://openai.com/business/customer-stories/intentful-dots/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-23T01:29:15.901439+00:00",
-              "published_at": "2026-11-22T00:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T00:00:00Z"
             }
           ]
         },
@@ -60875,7 +61476,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。",
       "topics": [
         {
           "id": "ai-products",
@@ -60884,17 +61485,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 497,
-          "publisher_count": 67,
-          "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+          "count": 505,
+          "publisher_count": 66,
+          "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "evidence_ids": [
-            "10eb088edc4f9395354b9a24",
-            "68f860f140b8c0baf4c55ffb",
-            "6a0b47bc185f2efe7f3e74f7"
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "6021e5c335bee121da1a2597"
           ],
           "article_ids": [
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "6021e5c335bee121da1a2597",
+            "e3dd8051c54af0f55fe79193",
             "10eb088edc4f9395354b9a24",
+            "4d9521ed0a9ecee96a95b465",
             "68f860f140b8c0baf4c55ffb",
+            "7bd88224efd73de2bb6f032f",
             "6a0b47bc185f2efe7f3e74f7",
             "a3708737d7832ea68e59f527",
             "292e43c9051f388da7d11610",
@@ -61002,6 +61610,7 @@
             "567b610aea7468d7e14bf715",
             "d22f1d03be1f33a7a6265116",
             "b5e56a6bdef60f135e33ed42",
+            "826529e89477c640b71bee8d",
             "8dc908c7bba62aa57cdd386f",
             "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
@@ -61049,7 +61658,6 @@
             "cab2e13e41553bb3d6bf1403",
             "43bf57ce7fed540fcfed4df2",
             "e09757121a31968a7d799223",
-            "282efa4663f5079e50b23e99",
             "e3b1331623a1cf69a650ddce",
             "31f1ffce6c0ad90187176b34",
             "b5e8e8dfd49748b4b01a4179",
@@ -61070,17 +61678,19 @@
             "82c05437d6834e345ccd386b",
             "98c776e7f9b26c508f5d99d2",
             "2da97626fe7c92d1f3e719a4",
+            "282efa4663f5079e50b23e99",
             "25c24270298c9da6ab60b3a0",
             "15674ae77ee8c61984047847",
+            "4b4bdccdaeb5b84f77421f0f",
+            "51bebf2ecb1ede1f79fb9c42",
+            "46fb361c19cc7fdff7d41622",
             "6ef7cbbaf4c4b812e0610dce",
             "0c0a45a63922465828c81610",
-            "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "4f4dc8d7163b67594a3fa041",
             "9b336b2fbbbe147d1433cb77",
             "a9b34b6e86a1b3642f35f617",
             "3643157a98a3d7716c54af24",
-            "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "a1ec34532f5edf94a5074eb2",
             "9ad9575aa75b8262412431ee",
@@ -61094,7 +61704,6 @@
             "7f2aab941aab9f0d5c0d62f0",
             "2b181dd4febe87192648dfd6",
             "146fda32ecad20374233e8ce",
-            "46fb361c19cc7fdff7d41622",
             "1404a60dd7508ceca1be371a",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
@@ -61399,15 +62008,23 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 234,
-          "publisher_count": 93,
+          "count": 242,
+          "publisher_count": 97,
           "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。",
           "evidence_ids": [
-            "36b20d91365962a30720f22f",
-            "339e42dfce81cb1eda89c965",
-            "c57313485a9872d05145ef71"
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c"
           ],
           "article_ids": [
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c",
+            "1950eb7bcf80ebab0503db81",
+            "d3f35ec093666d38606888ee",
+            "c2387c496352fb6daf556bf1",
+            "33bda59875d4bf1137292ee6",
+            "d909e6f47119c0155c867704",
             "36b20d91365962a30720f22f",
             "339e42dfce81cb1eda89c965",
             "c57313485a9872d05145ef71",
@@ -61478,9 +62095,9 @@
             "c0cb7df2949367191cbdeafd",
             "fd1930b979bb0d07b2bd9e39",
             "6f0fc4bae938a241e7fda111",
+            "955634a9f2879da18227eb62",
             "448f8b2cc319276f285b21a6",
             "eb670893cf83955a2cabd2b9",
-            "10081c875af351504c74557f",
             "651b11fa72ab35ecd21b0a4c",
             "439ffcbc7408c91f95194016",
             "777298c35aa2cc226b23148f",
@@ -61488,7 +62105,6 @@
             "ef1feda8bf1b887c5755deeb",
             "78e8446a8f47e07052fb62a7",
             "d8fd6e93dd2c38b04e3aa884",
-            "82d8202d1269ef0fd585c8d3",
             "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15",
             "8b3a31f5f826a808d2dad772",
@@ -61496,6 +62112,7 @@
             "1b79ddb528f300d848838366",
             "3261a48d15aaefa84fc388e3",
             "a994608451331d295fc68357",
+            "10081c875af351504c74557f",
             "e3b88fcd257589aa492bf3ed",
             "beb17a07b98af6ee74a1e930",
             "e379285d65f25d9e0826f2bc",
@@ -61651,18 +62268,23 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 240,
+          "count": 246,
           "publisher_count": 98,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。 Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。",
           "evidence_ids": [
-            "7049f81dd30689d56394bf9f",
-            "e632563d402fe5d587ceb410",
-            "d40dedc824550357006cdb6c"
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9"
           ],
           "article_ids": [
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9",
             "7049f81dd30689d56394bf9f",
+            "1fefbc63f94edba4fd156ba0",
             "e632563d402fe5d587ceb410",
             "d40dedc824550357006cdb6c",
+            "40bcea1befc79a4117f7f59b",
             "07a782effda7f02645792494",
             "1102f620533fffd87de22d7c",
             "9b302ff1caf8f72f6cb5611d",
@@ -61717,6 +62339,7 @@
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
             "5a97d7da8a9d187e5d3e3337",
+            "3e7f8e9e4a872ebdb066b18d",
             "3d0c9daea55fb8c6618fe4d3",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
@@ -61737,16 +62360,16 @@
             "0b3caf27747b3e37f4690b35",
             "964adffac8ddd53f6f189160",
             "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052",
             "715ae1ff0eae2af2bece87b7",
             "8c800e86c4e7021d83114b7b",
             "aec049e6f21767aa120b5038",
+            "296541a5636ad0e706181052",
             "7dca05f704f3e725f89126c4",
+            "686b8b2ccba1e97e56900464",
             "9c7a25739c18632331ba4cf0",
             "f69d4427b6342126775002e3",
             "bd42d9bdad5b25f7d87df312",
             "c1824a9fdf23163fcf59d045",
-            "686b8b2ccba1e97e56900464",
             "0d343a54f05f54ed9d42faec",
             "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
@@ -61917,15 +62540,21 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 74,
+          "count": 80,
           "publisher_count": 29,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "a9abaec837df39bbc3e52285",
-            "db58989f87e1d6a1e3bc26de",
-            "8be803076c407bbfcaded180"
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a"
           ],
           "article_ids": [
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a",
+            "4d2783c84d1582b32da448a4",
+            "b65e32d2365c71807ee3ca66",
+            "f9d10f0721842bb07809eb3e",
             "a9abaec837df39bbc3e52285",
             "db58989f87e1d6a1e3bc26de",
             "c09efbf77b8a6e7d8456bd5e",
@@ -62045,18 +62674,18 @@
           "category": "ai",
           "label": "生成AI：本文からの簡易まとめ",
           "required_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb",
-            "da9bbe1938f62a3fa6f35110"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ],
-          "observation": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. ／ At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+          "observation": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
           "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
           "review_method": "extractive",
           "evidence_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb",
-            "da9bbe1938f62a3fa6f35110"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ]
         },
         {
@@ -62094,18 +62723,45 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "14462d09f6a3c8e06cdea22f",
+        "e24bf720e9b304be75efb2f1",
+        "075eaa4ebd3f1e06ea9cb67c",
+        "37dfdbbe6ec310f93996b829",
+        "1ca63d3c9d578b94c4fb6b29",
+        "1950eb7bcf80ebab0503db81",
+        "d3f35ec093666d38606888ee",
+        "c2387c496352fb6daf556bf1",
+        "d9df7c78964a27d5a0461bc5",
+        "33bda59875d4bf1137292ee6",
+        "c5d44da96717351baad9d9a8",
+        "712bb7b609bdce48626b6d99",
+        "aafeddcb8f6f0d02f876f7e2",
+        "181a0f500482c89c594f68b9",
+        "d909e6f47119c0155c867704",
+        "eb7c6049d3bdf750e887ca65",
+        "6021e5c335bee121da1a2597",
+        "1b630d07b3c62e32874f2ee5",
+        "e3dd8051c54af0f55fe79193",
         "7049f81dd30689d56394bf9f",
+        "1fefbc63f94edba4fd156ba0",
         "36b20d91365962a30720f22f",
         "e632563d402fe5d587ceb410",
         "10eb088edc4f9395354b9a24",
         "339e42dfce81cb1eda89c965",
+        "4d9521ed0a9ecee96a95b465",
+        "bdf0da0edec68e5a8463f25a",
+        "4d2783c84d1582b32da448a4",
+        "b65e32d2365c71807ee3ca66",
         "d40dedc824550357006cdb6c",
         "a5673367d90376730ba110d3",
+        "40bcea1befc79a4117f7f59b",
         "68f860f140b8c0baf4c55ffb",
         "c57313485a9872d05145ef71",
+        "7bd88224efd73de2bb6f032f",
         "87c677c3ff2f6baed6f69def",
         "6a0b47bc185f2efe7f3e74f7",
         "a3708737d7832ea68e59f527",
+        "f9d10f0721842bb07809eb3e",
         "e8f8adeba492c02ee9941f81",
         "eb952a01bbd9ae5643a9f984",
         "292e43c9051f388da7d11610",
@@ -62304,6 +62960,7 @@
         "567b610aea7468d7e14bf715",
         "d22f1d03be1f33a7a6265116",
         "b5e56a6bdef60f135e33ed42",
+        "826529e89477c640b71bee8d",
         "8dc908c7bba62aa57cdd386f",
         "8591a5188da7d3a59fbc79a0",
         "facadc24fbc00e37e1a70fe1",
@@ -62360,6 +63017,7 @@
         "66ee963cd2bab0a2a7bcf917",
         "3730217e320e02e40fb74b4a",
         "85f8fbee1f04b67e8d6bdd91",
+        "3e7f8e9e4a872ebdb066b18d",
         "3d0c9daea55fb8c6618fe4d3",
         "93e52e2af4a962a3623722ec",
         "19a3715cb10b4cbacdae3934",
@@ -62411,7 +63069,6 @@
         "43bf57ce7fed540fcfed4df2",
         "ffc9c04f0c98c6b890a67ad8",
         "e09757121a31968a7d799223",
-        "282efa4663f5079e50b23e99",
         "e3b1331623a1cf69a650ddce",
         "31f1ffce6c0ad90187176b34",
         "b5e8e8dfd49748b4b01a4179",
@@ -62436,7 +63093,6 @@
         "964adffac8ddd53f6f189160",
         "54dd758e0e2b8ca39511085c",
         "6566bbb1316dc6b1464a6017",
-        "296541a5636ad0e706181052",
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "ab72401e28096f87e6e3c9db",
@@ -62453,13 +63109,19 @@
         "2da97626fe7c92d1f3e719a4",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
+        "282efa4663f5079e50b23e99",
+        "296541a5636ad0e706181052",
         "25c24270298c9da6ab60b3a0",
         "7dca05f704f3e725f89126c4",
         "15674ae77ee8c61984047847",
+        "4b4bdccdaeb5b84f77421f0f",
+        "51bebf2ecb1ede1f79fb9c42",
+        "686b8b2ccba1e97e56900464",
+        "955634a9f2879da18227eb62",
+        "46fb361c19cc7fdff7d41622",
         "6ef7cbbaf4c4b812e0610dce",
         "9c7a25739c18632331ba4cf0",
         "0c0a45a63922465828c81610",
-        "4b4bdccdaeb5b84f77421f0f",
         "f69d4427b6342126775002e3",
         "448f8b2cc319276f285b21a6",
         "eb670893cf83955a2cabd2b9",
@@ -62471,13 +63133,11 @@
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
         "a9b34b6e86a1b3642f35f617",
-        "10081c875af351504c74557f",
         "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
         "777298c35aa2cc226b23148f",
-        "51bebf2ecb1ede1f79fb9c42",
         "49c630d7c27533aa948a9918",
         "43e056ef91c91a16fef93ad5",
         "a1ec34532f5edf94a5074eb2",
@@ -62489,11 +63149,9 @@
         "44e514c6aa416aaab4578fd9",
         "9b119bed88cfceda25364ad9",
         "90b3cd31048acdd90b4ace72",
-        "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
-        "82d8202d1269ef0fd585c8d3",
         "dac80800bcb7f90f04418453",
         "93e5f29443058a4def4ddafc",
         "47892b94600bf2e289c33bf7",
@@ -62503,7 +63161,6 @@
         "2b181dd4febe87192648dfd6",
         "92a19f7706e1b0771d0bb644",
         "146fda32ecad20374233e8ce",
-        "46fb361c19cc7fdff7d41622",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
@@ -62514,6 +63171,7 @@
         "1b79ddb528f300d848838366",
         "3261a48d15aaefa84fc388e3",
         "a994608451331d295fc68357",
+        "10081c875af351504c74557f",
         "ed75f327eab0c377ad35416f",
         "e3b88fcd257589aa492bf3ed",
         "0515a9e00f5ccad70c34c791",
@@ -66712,7 +67370,7 @@
       "kind": "monthly",
       "period_start": "2026-10-01",
       "period_end": "2026-10-31",
-      "generated_at": "2026-11-24T14:12:36.878169+09:00",
+      "generated_at": "2026-11-25T13:02:31.372646+09:00",
       "is_complete": true,
       "article_count": 1122,
       "category_counts": {
@@ -66724,30 +67382,17 @@
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
-        "status": "partial",
-        "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+        "status": "ok",
+        "attempted_at": "2026-11-25T04:02:30.812708+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 3,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
-        "errors": [
-          {
-            "article_id": "292e43c9051f388da7d11610",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8ae4214208663c7fb89ac14",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "27d68da4f032181a7fd0d1e0",
-            "stage": "original_fetch"
-          }
-        ],
+        "errors": [],
         "local_codex": {
           "attempted_at": "2026-11-18T21:00:15.021788+00:00",
           "status": "partial",
@@ -66781,7 +67426,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+        "last_success_at": "2026-11-25T04:02:30.812708+00:00"
       },
       "genre_briefs": [
         {
@@ -66976,7 +67621,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。 収集開始は2026-10-01のため、この期間の網羅性はありません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 収集開始は2026-10-01のため、この期間の網羅性はありません。",
       "topics": [
         {
           "id": "ai-products",
@@ -72309,46 +72954,33 @@
   ],
   "reports": {
     "overview": {
-      "id": "d1b0159e857e9b3e06430002",
+      "id": "0c32cc8f7e0b832d9d5fa184",
       "kind": "overview",
-      "period_start": "2026-11-18",
-      "period_end": "2026-11-24",
-      "generated_at": "2026-11-24T14:12:36.878169+09:00",
+      "period_start": "2026-11-19",
+      "period_end": "2026-11-25",
+      "generated_at": "2026-11-25T13:02:31.372646+09:00",
       "is_complete": false,
-      "article_count": 268,
+      "article_count": 219,
       "category_counts": {
-        "parenting": 66,
-        "tech": 48,
-        "ai": 154
+        "tech": 41,
+        "parenting": 55,
+        "ai": 123
       },
-      "overview": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. ／ At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,… NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… ／ NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
+      "overview": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,… NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… ／ NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
-        "status": "partial",
-        "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+        "status": "ok",
+        "attempted_at": "2026-11-25T04:02:30.812708+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 3,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
-        "errors": [
-          {
-            "article_id": "292e43c9051f388da7d11610",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8ae4214208663c7fb89ac14",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "27d68da4f032181a7fd0d1e0",
-            "stage": "original_fetch"
-          }
-        ],
+        "errors": [],
         "local_codex": {
           "attempted_at": "2026-11-18T21:00:15.021788+00:00",
           "status": "partial",
@@ -72382,7 +73014,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+        "last_success_at": "2026-11-25T04:02:30.812708+00:00"
       },
       "genre_briefs": [
         {
@@ -72390,52 +73022,54 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "68f860f140b8c0baf4c55ffb",
+              "article_id": "c5d44da96717351baad9d9a8",
               "category": "ai",
-              "headline": "OpenAI and Cisco introduce Shirudo",
-              "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,…",
+              "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+              "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/introducing-shirudo/",
+              "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
-              "tags": [],
+              "tags": [
+                "models"
+              ],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T21:20:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T13:00:00Z"
             },
             {
-              "article_id": "c3c5f9310d7e7d73454edbbb",
+              "article_id": "aafeddcb8f6f0d02f876f7e2",
               "category": "ai",
-              "headline": "Richpanel helps companies automate 50% of support in 30 days",
-              "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+              "headline": "Searching for distant planets with Astra",
+              "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data.",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support/",
+              "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T08:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T11:00:00Z"
             },
             {
-              "article_id": "da9bbe1938f62a3fa6f35110",
+              "article_id": "4d9521ed0a9ecee96a95b465",
               "category": "ai",
-              "headline": "Perplexity and Intelligence",
-              "summary": "At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+              "headline": "How Intentful uses dots to make more time for growth",
+              "summary": "Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/perplexity-and-intelligence/",
+              "source_url": "https://openai.com/business/customer-stories/intentful-dots/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-23T01:29:15.901439+00:00",
-              "published_at": "2026-11-22T00:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T00:00:00Z"
             }
           ]
         },
@@ -72480,35 +73114,9 @@
               "published_at": "2026-11-19T17:00:35Z"
             }
           ]
-        },
-        {
-          "category": "parenting",
-          "label": "子育て・教育 × テック",
-          "stories": [
-            {
-              "article_id": "93e52e2af4a962a3623722ec",
-              "headline": "Khan Academy、児童・生徒の解答理由をAIで聞き取り、教員に要約",
-              "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
-              "impact": "同じ誤答でも、途中で解答を終えた場合と概念を誤解した場合では、必要な支援が異なる。教員が対話の要約を授業中の様子や提出物と照らし合わせれば、何を教え直すかを判断する手がかりになり得る。",
-              "category": "parenting",
-              "source_url": "https://blog.khanacademy.org/explain-your-thinking-wrong-answers/",
-              "source_label": "Khan Academy 公式（AI要約）",
-              "caveat": "原文を取得しAIで要約。人による内容確認は未実施。初期調査は代数と幾何の各1問に限られ、対話中に見えた理解を調べたもので、学力向上の効果は測っていない。対象学年や導入範囲は本文に明記されていない。",
-              "provider": "Khan Academy",
-              "origin_kind": "official",
-              "tags": [
-                "education"
-              ],
-              "review_method": "ai_source_grounded",
-              "generated_at": "2026-11-17T21:00:13.874357+00:00",
-              "model": "codex-cli",
-              "evidence_quote": "Teachers receive written summaries of what students’ explanations reveal about their understanding and misconceptions.",
-              "published_at": "2026-11-17T15:36:34Z"
-            }
-          ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。",
       "topics": [
         {
           "id": "ai-products",
@@ -72517,17 +73125,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 140,
-          "publisher_count": 37,
-          "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+          "count": 105,
+          "publisher_count": 34,
+          "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "evidence_ids": [
-            "10eb088edc4f9395354b9a24",
-            "68f860f140b8c0baf4c55ffb",
-            "6a0b47bc185f2efe7f3e74f7"
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "6021e5c335bee121da1a2597"
           ],
           "article_ids": [
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "6021e5c335bee121da1a2597",
+            "e3dd8051c54af0f55fe79193",
             "10eb088edc4f9395354b9a24",
+            "4d9521ed0a9ecee96a95b465",
             "68f860f140b8c0baf4c55ffb",
+            "7bd88224efd73de2bb6f032f",
             "6a0b47bc185f2efe7f3e74f7",
             "a3708737d7832ea68e59f527",
             "292e43c9051f388da7d11610",
@@ -72623,49 +73238,7 @@
             "eb0e26afa761a8fba4b7c519",
             "b2f7b12485ecfe88fa8f90cf",
             "91f423563a24bb86411728a4",
-            "4027c3209ed6f867dc28f248",
-            "3bb68b8fa2992221740a3a39",
-            "2fded7259f844e6891c85547",
-            "f07f018de2e71746899a1578",
-            "c18f91e4000e285ec5a94039",
-            "22f746dfddcaef2e071272f6",
-            "7c6f5067cca2e3a89003f75d",
-            "56efb4af758587dddd4c1f52",
-            "5636520cd08527e3de7d1836",
-            "567b610aea7468d7e14bf715",
-            "d22f1d03be1f33a7a6265116",
-            "b5e56a6bdef60f135e33ed42",
-            "8dc908c7bba62aa57cdd386f",
-            "9a7b4880f2d0ae19d7c34cb4",
-            "02a4e4638b3a5008da396fb9",
-            "d0abce80f19c8ac5c37b4b02",
-            "b4168bface4dc178bdfacc6c",
-            "9946747fc40cfd6a2ffb462c",
-            "bb6b5e3179282ad01e3cbee3",
-            "80a05365702ea7df1f5e4a83",
-            "5ab0e3e139ee54d92e3d686c",
-            "966b21922b41d0afe61c7a1f",
-            "8d605a774f5a4f1923121b0f",
-            "b308a5f2f62e6f045731a205",
-            "847eb4cdb730f529fd5db63d",
-            "c691aa4efcdb1d18e312c6b1",
-            "5557275e69e86b656a44304c",
-            "09d7a687e79b686fd63474f4",
-            "7485c6ef03f3bb679b92c027",
-            "fb515f4c928d71d26aa76550",
-            "5cc37fadd94f0f575d5b328a",
-            "0b0d91cf7d089c5e2af14f6c",
-            "78fba878022e3062ec0a7a43",
-            "d31892a2fd6916c21abc5519",
-            "78f96530513cf026c1d713b1",
-            "7dcaab88483218551e820c8b",
-            "cfe73e466d5dc57a3dc738ec",
-            "1d148ca6999c57314f2796e0",
-            "b5e40fae3571b438ca969dcd",
-            "003181480e2fe84566d667ae",
-            "66ee963cd2bab0a2a7bcf917",
-            "3730217e320e02e40fb74b4a",
-            "85f8fbee1f04b67e8d6bdd91"
+            "4027c3209ed6f867dc28f248"
           ]
         },
         {
@@ -72675,15 +73248,23 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 45,
-          "publisher_count": 30,
+          "count": 38,
+          "publisher_count": 31,
           "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。",
           "evidence_ids": [
-            "36b20d91365962a30720f22f",
-            "339e42dfce81cb1eda89c965",
-            "c57313485a9872d05145ef71"
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c"
           ],
           "article_ids": [
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c",
+            "1950eb7bcf80ebab0503db81",
+            "d3f35ec093666d38606888ee",
+            "c2387c496352fb6daf556bf1",
+            "33bda59875d4bf1137292ee6",
+            "d909e6f47119c0155c867704",
             "36b20d91365962a30720f22f",
             "339e42dfce81cb1eda89c965",
             "c57313485a9872d05145ef71",
@@ -72713,22 +73294,7 @@
             "0aa950c0087c10dfeb7766ce",
             "18e1dca7f9cdf08e63fa062d",
             "68e894b7a864ae1fae99bc2a",
-            "9503ffd0e7453fa351125d0b",
-            "415b4f6f63aa2c69c9244ca2",
-            "44006d154b329636124dee34",
-            "8591a5188da7d3a59fbc79a0",
-            "facadc24fbc00e37e1a70fe1",
-            "0bc85f6a32a826069b2ce535",
-            "72fae413e5318830ebe4dd11",
-            "e640641d8bec2c01843eea60",
-            "9b911dd0625e2308cc9f083f",
-            "dd70783217ff6dc7b447c5d7",
-            "2b1204c3fc258e9a383209d3",
-            "daf42bf091e951d7c3b82751",
-            "a0ffc1cad30f4bc7e984368a",
-            "1092dcf154631148a29bc76c",
-            "93d553a9ace3920c4caefc33",
-            "bfe60d35a235c0c93de4708c"
+            "9503ffd0e7453fa351125d0b"
           ]
         },
         {
@@ -72738,18 +73304,23 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 59,
-          "publisher_count": 37,
-          "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
+          "count": 50,
+          "publisher_count": 29,
+          "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "7049f81dd30689d56394bf9f",
-            "e632563d402fe5d587ceb410",
-            "d40dedc824550357006cdb6c"
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9"
           ],
           "article_ids": [
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9",
             "7049f81dd30689d56394bf9f",
+            "1fefbc63f94edba4fd156ba0",
             "e632563d402fe5d587ceb410",
             "d40dedc824550357006cdb6c",
+            "40bcea1befc79a4117f7f59b",
             "07a782effda7f02645792494",
             "1102f620533fffd87de22d7c",
             "9b302ff1caf8f72f6cb5611d",
@@ -72791,21 +73362,7 @@
             "b333a2aec5fc5fcd611b01b8",
             "74c6125f42861d2c56a9870f",
             "bdcd264317973078125d53f5",
-            "7cab00c831e084dbb411dc10",
-            "3e95505f3f8c368a05732fdc",
-            "ca4966a3b3fa88245a42700a",
-            "07b0c9c9a894529a3595de68",
-            "aea4a76389e7f67d64b408df",
-            "9ef62822e03f7ccbbbad17ff",
-            "82f27c874384938b53635db2",
-            "17a4aeb9b09c131fb1fd5103",
-            "ead51043e705ea9e89d5cc3f",
-            "fa6175ead78e76cffa44196b",
-            "567ef115f9d94db4a31806a9",
-            "70a4418b9257522f6b1d05fa",
-            "5a97d7da8a9d187e5d3e3337",
-            "3d0c9daea55fb8c6618fe4d3",
-            "93e52e2af4a962a3623722ec"
+            "7cab00c831e084dbb411dc10"
           ]
         },
         {
@@ -72823,15 +73380,21 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 14,
+          "count": 17,
           "publisher_count": 8,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "a9abaec837df39bbc3e52285",
-            "db58989f87e1d6a1e3bc26de",
-            "8be803076c407bbfcaded180"
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a"
           ],
           "article_ids": [
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a",
+            "4d2783c84d1582b32da448a4",
+            "b65e32d2365c71807ee3ca66",
+            "f9d10f0721842bb07809eb3e",
             "a9abaec837df39bbc3e52285",
             "db58989f87e1d6a1e3bc26de",
             "c09efbf77b8a6e7d8456bd5e",
@@ -72842,10 +73405,7 @@
             "ea82d4d8f880677ef6a09b6c",
             "3bf4cdfd8a4820b2199ec056",
             "b1bfcde09e3ef06b5dc7d3b4",
-            "27d68da4f032181a7fd0d1e0",
-            "c246b59841f89bdee45bf35c",
-            "01ad89a03fac0a516de5c538",
-            "e9ccf56c21bfed30c70ad28a"
+            "27d68da4f032181a7fd0d1e0"
           ]
         },
         {
@@ -72863,8 +73423,8 @@
           ],
           "insight": "育児相談を扱うサービスは、回答の速さに加えて専門家へつなぐ導線を確認したい。",
           "question": "保護者が困った時に、相談先の選択や予約の負担を減らせるか。",
-          "count": 6,
-          "publisher_count": 6,
+          "count": 4,
+          "publisher_count": 4,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
             "a24ce09274eec3e44ceadbf0",
@@ -72875,30 +73435,28 @@
             "a24ce09274eec3e44ceadbf0",
             "821425c51daf5b33cc6b50d6",
             "a1e5dafa1e06ece8163d7414",
-            "bb62b1e22f01e24ec00dc567",
-            "27406fe6c196ba4f9f9b3c6a",
-            "900f5e5271373dd58111fff3"
+            "bb62b1e22f01e24ec00dc567"
           ]
         }
       ],
-      "total_topics": 7,
+      "total_topics": 8,
       "insights": [
         {
           "category": "ai",
           "label": "生成AI：本文からの簡易まとめ",
           "required_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb",
-            "da9bbe1938f62a3fa6f35110"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ],
-          "observation": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. ／ At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+          "observation": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
           "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
           "review_method": "extractive",
           "evidence_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb",
-            "da9bbe1938f62a3fa6f35110"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ]
         },
         {
@@ -72916,36 +73474,49 @@
             "d97d2d9187a841e3949663f3",
             "badda310cca07906cc76c487"
           ]
-        },
-        {
-          "category": "parenting",
-          "label": "子育て・教育 × テック：本文からの簡易まとめ",
-          "required_ids": [
-            "93e52e2af4a962a3623722ec"
-          ],
-          "observation": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
-          "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
-          "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
-          "review_method": "extractive",
-          "evidence_ids": [
-            "93e52e2af4a962a3623722ec"
-          ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "14462d09f6a3c8e06cdea22f",
+        "e24bf720e9b304be75efb2f1",
+        "075eaa4ebd3f1e06ea9cb67c",
+        "37dfdbbe6ec310f93996b829",
+        "1ca63d3c9d578b94c4fb6b29",
+        "1950eb7bcf80ebab0503db81",
+        "d3f35ec093666d38606888ee",
+        "c2387c496352fb6daf556bf1",
+        "d9df7c78964a27d5a0461bc5",
+        "33bda59875d4bf1137292ee6",
+        "c5d44da96717351baad9d9a8",
+        "712bb7b609bdce48626b6d99",
+        "aafeddcb8f6f0d02f876f7e2",
+        "181a0f500482c89c594f68b9",
+        "d909e6f47119c0155c867704",
+        "eb7c6049d3bdf750e887ca65",
+        "6021e5c335bee121da1a2597",
+        "1b630d07b3c62e32874f2ee5",
+        "e3dd8051c54af0f55fe79193",
         "7049f81dd30689d56394bf9f",
+        "1fefbc63f94edba4fd156ba0",
         "36b20d91365962a30720f22f",
         "e632563d402fe5d587ceb410",
         "10eb088edc4f9395354b9a24",
         "339e42dfce81cb1eda89c965",
+        "4d9521ed0a9ecee96a95b465",
+        "bdf0da0edec68e5a8463f25a",
+        "4d2783c84d1582b32da448a4",
+        "b65e32d2365c71807ee3ca66",
         "d40dedc824550357006cdb6c",
         "a5673367d90376730ba110d3",
+        "40bcea1befc79a4117f7f59b",
         "68f860f140b8c0baf4c55ffb",
         "c57313485a9872d05145ef71",
+        "7bd88224efd73de2bb6f032f",
         "87c677c3ff2f6baed6f69def",
         "6a0b47bc185f2efe7f3e74f7",
         "a3708737d7832ea68e59f527",
+        "f9d10f0721842bb07809eb3e",
         "e8f8adeba492c02ee9941f81",
         "eb952a01bbd9ae5643a9f984",
         "292e43c9051f388da7d11610",
@@ -73125,83 +73696,7 @@
         "9503ffd0e7453fa351125d0b",
         "4027c3209ed6f867dc28f248",
         "4e9818a3d24d3c24e3a27f30",
-        "7cab00c831e084dbb411dc10",
-        "3bb68b8fa2992221740a3a39",
-        "2fded7259f844e6891c85547",
-        "f07f018de2e71746899a1578",
-        "3e95505f3f8c368a05732fdc",
-        "c18f91e4000e285ec5a94039",
-        "c246b59841f89bdee45bf35c",
-        "22f746dfddcaef2e071272f6",
-        "7c6f5067cca2e3a89003f75d",
-        "56efb4af758587dddd4c1f52",
-        "415b4f6f63aa2c69c9244ca2",
-        "ca4966a3b3fa88245a42700a",
-        "44006d154b329636124dee34",
-        "07b0c9c9a894529a3595de68",
-        "01ad89a03fac0a516de5c538",
-        "5636520cd08527e3de7d1836",
-        "567b610aea7468d7e14bf715",
-        "d22f1d03be1f33a7a6265116",
-        "b5e56a6bdef60f135e33ed42",
-        "8dc908c7bba62aa57cdd386f",
-        "8591a5188da7d3a59fbc79a0",
-        "facadc24fbc00e37e1a70fe1",
-        "0bc85f6a32a826069b2ce535",
-        "9a7b4880f2d0ae19d7c34cb4",
-        "72fae413e5318830ebe4dd11",
-        "e640641d8bec2c01843eea60",
-        "9b911dd0625e2308cc9f083f",
-        "27406fe6c196ba4f9f9b3c6a",
-        "02a4e4638b3a5008da396fb9",
-        "900f5e5271373dd58111fff3",
-        "aea4a76389e7f67d64b408df",
-        "d0abce80f19c8ac5c37b4b02",
-        "9ef62822e03f7ccbbbad17ff",
-        "82f27c874384938b53635db2",
-        "17a4aeb9b09c131fb1fd5103",
-        "ead51043e705ea9e89d5cc3f",
-        "b4168bface4dc178bdfacc6c",
-        "9946747fc40cfd6a2ffb462c",
-        "dd70783217ff6dc7b447c5d7",
-        "bb6b5e3179282ad01e3cbee3",
-        "fa6175ead78e76cffa44196b",
-        "2b1204c3fc258e9a383209d3",
-        "daf42bf091e951d7c3b82751",
-        "80a05365702ea7df1f5e4a83",
-        "567ef115f9d94db4a31806a9",
-        "70a4418b9257522f6b1d05fa",
-        "5ab0e3e139ee54d92e3d686c",
-        "966b21922b41d0afe61c7a1f",
-        "8d605a774f5a4f1923121b0f",
-        "b308a5f2f62e6f045731a205",
-        "5a97d7da8a9d187e5d3e3337",
-        "a0ffc1cad30f4bc7e984368a",
-        "847eb4cdb730f529fd5db63d",
-        "c691aa4efcdb1d18e312c6b1",
-        "5557275e69e86b656a44304c",
-        "09d7a687e79b686fd63474f4",
-        "7485c6ef03f3bb679b92c027",
-        "e9ccf56c21bfed30c70ad28a",
-        "fb515f4c928d71d26aa76550",
-        "5cc37fadd94f0f575d5b328a",
-        "0b0d91cf7d089c5e2af14f6c",
-        "78fba878022e3062ec0a7a43",
-        "1092dcf154631148a29bc76c",
-        "d31892a2fd6916c21abc5519",
-        "78f96530513cf026c1d713b1",
-        "7dcaab88483218551e820c8b",
-        "93d553a9ace3920c4caefc33",
-        "cfe73e466d5dc57a3dc738ec",
-        "bfe60d35a235c0c93de4708c",
-        "1d148ca6999c57314f2796e0",
-        "b5e40fae3571b438ca969dcd",
-        "003181480e2fe84566d667ae",
-        "66ee963cd2bab0a2a7bcf917",
-        "3730217e320e02e40fb74b4a",
-        "85f8fbee1f04b67e8d6bdd91",
-        "3d0c9daea55fb8c6618fe4d3",
-        "93e52e2af4a962a3623722ec"
+        "7cab00c831e084dbb411dc10"
       ]
     },
     "weekly": {
@@ -73209,42 +73704,29 @@
       "kind": "weekly",
       "period_start": "2026-11-23",
       "period_end": "2026-11-29",
-      "generated_at": "2026-11-24T14:12:36.878169+09:00",
+      "generated_at": "2026-11-25T13:02:31.372646+09:00",
       "is_complete": false,
-      "article_count": 26,
+      "article_count": 53,
       "category_counts": {
-        "parenting": 9,
-        "tech": 9,
-        "ai": 8
+        "tech": 17,
+        "parenting": 14,
+        "ai": 22
       },
-      "overview": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+      "overview": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
-        "status": "partial",
-        "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+        "status": "ok",
+        "attempted_at": "2026-11-25T04:02:30.812708+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 3,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
-        "errors": [
-          {
-            "article_id": "292e43c9051f388da7d11610",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8ae4214208663c7fb89ac14",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "27d68da4f032181a7fd0d1e0",
-            "stage": "original_fetch"
-          }
-        ],
+        "errors": [],
         "local_codex": {
           "attempted_at": "2026-11-18T21:00:15.021788+00:00",
           "status": "partial",
@@ -73278,7 +73760,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+        "last_success_at": "2026-11-25T04:02:30.812708+00:00"
       },
       "genre_briefs": [
         {
@@ -73286,41 +73768,59 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "68f860f140b8c0baf4c55ffb",
+              "article_id": "c5d44da96717351baad9d9a8",
               "category": "ai",
-              "headline": "OpenAI and Cisco introduce Shirudo",
-              "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,…",
+              "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+              "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/introducing-shirudo/",
+              "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
-              "tags": [],
+              "tags": [
+                "models"
+              ],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T21:20:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T13:00:00Z"
             },
             {
-              "article_id": "c3c5f9310d7e7d73454edbbb",
+              "article_id": "aafeddcb8f6f0d02f876f7e2",
               "category": "ai",
-              "headline": "Richpanel helps companies automate 50% of support in 30 days",
-              "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+              "headline": "Searching for distant planets with Astra",
+              "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data.",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support/",
+              "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T08:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T11:00:00Z"
+            },
+            {
+              "article_id": "4d9521ed0a9ecee96a95b465",
+              "category": "ai",
+              "headline": "How Intentful uses dots to make more time for growth",
+              "summary": "Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
+              "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
+              "source_url": "https://openai.com/business/customer-stories/intentful-dots/",
+              "source_label": "OpenAI 公式（本文の自動抜粋）",
+              "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
+              "provider": "OpenAI",
+              "origin_kind": "official",
+              "tags": [],
+              "review_method": "extractive",
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T00:00:00Z"
             }
           ]
         }
       ],
-      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "ピックアップは発表元・技術解説で内容を確認した記事です。考察は編集上の解釈で、需要の実測ではありません。未確認の記事は保管庫に残します。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。",
       "topics": [
         {
           "id": "ai-products",
@@ -73329,17 +73829,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 6,
-          "publisher_count": 3,
-          "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+          "count": 13,
+          "publisher_count": 6,
+          "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "evidence_ids": [
-            "10eb088edc4f9395354b9a24",
-            "68f860f140b8c0baf4c55ffb",
-            "6a0b47bc185f2efe7f3e74f7"
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "6021e5c335bee121da1a2597"
           ],
           "article_ids": [
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "6021e5c335bee121da1a2597",
+            "e3dd8051c54af0f55fe79193",
             "10eb088edc4f9395354b9a24",
+            "4d9521ed0a9ecee96a95b465",
             "68f860f140b8c0baf4c55ffb",
+            "7bd88224efd73de2bb6f032f",
             "6a0b47bc185f2efe7f3e74f7",
             "a3708737d7832ea68e59f527",
             "292e43c9051f388da7d11610",
@@ -73353,15 +73860,23 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 8,
-          "publisher_count": 8,
+          "count": 16,
+          "publisher_count": 16,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "36b20d91365962a30720f22f",
-            "339e42dfce81cb1eda89c965",
-            "c57313485a9872d05145ef71"
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c"
           ],
           "article_ids": [
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c",
+            "1950eb7bcf80ebab0503db81",
+            "d3f35ec093666d38606888ee",
+            "c2387c496352fb6daf556bf1",
+            "33bda59875d4bf1137292ee6",
+            "d909e6f47119c0155c867704",
             "36b20d91365962a30720f22f",
             "339e42dfce81cb1eda89c965",
             "c57313485a9872d05145ef71",
@@ -73379,18 +73894,23 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 9,
-          "publisher_count": 9,
+          "count": 14,
+          "publisher_count": 13,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "7049f81dd30689d56394bf9f",
-            "e632563d402fe5d587ceb410",
-            "d40dedc824550357006cdb6c"
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9"
           ],
           "article_ids": [
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9",
             "7049f81dd30689d56394bf9f",
+            "1fefbc63f94edba4fd156ba0",
             "e632563d402fe5d587ceb410",
             "d40dedc824550357006cdb6c",
+            "40bcea1befc79a4117f7f59b",
             "07a782effda7f02645792494",
             "1102f620533fffd87de22d7c",
             "9b302ff1caf8f72f6cb5611d",
@@ -73414,76 +73934,114 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 2,
-          "publisher_count": 2,
+          "count": 8,
+          "publisher_count": 5,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "a9abaec837df39bbc3e52285",
-            "db58989f87e1d6a1e3bc26de"
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a"
           ],
           "article_ids": [
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a",
+            "4d2783c84d1582b32da448a4",
+            "b65e32d2365c71807ee3ca66",
+            "f9d10f0721842bb07809eb3e",
             "a9abaec837df39bbc3e52285",
             "db58989f87e1d6a1e3bc26de"
           ]
         },
         {
-          "id": "tech-security",
-          "category": "tech",
-          "label": "セキュリティ・データの扱い",
+          "id": "ai-safety",
+          "category": "ai",
+          "label": "AIの権利・安全性",
           "words": [
+            "権利",
+            "著作",
+            "訴訟",
+            "規制",
+            "保護",
+            "模倣",
             "漏えい",
-            "セキュリティ",
-            "脆弱",
-            "攻撃",
-            "認証",
-            "個人情報"
+            "安全"
           ],
-          "insight": "サービスの検討では、便利さと同時に収集するデータの種類や保存先を確認したい。",
-          "question": "育児サービスに応用する場合、家族の情報を必要以上に集めない設計を検討したい。",
+          "insight": "AIの利用検討では、機能の評価とあわせて入力データや生成物の扱いを確認する必要がある。",
+          "question": "子どもや家族の情報を扱うなら、保存範囲と同意の設計を先に検討したい。",
           "count": 1,
           "publisher_count": 1,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "a5673367d90376730ba110d3"
+            "eb7c6049d3bdf750e887ca65"
           ],
           "article_ids": [
-            "a5673367d90376730ba110d3"
+            "eb7c6049d3bdf750e887ca65"
           ]
         }
       ],
-      "total_topics": 5,
+      "total_topics": 6,
       "insights": [
         {
           "category": "ai",
           "label": "生成AI：本文からの簡易まとめ",
           "required_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ],
-          "observation": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+          "observation": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
           "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
           "review_method": "extractive",
           "evidence_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ]
         }
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "14462d09f6a3c8e06cdea22f",
+        "e24bf720e9b304be75efb2f1",
+        "075eaa4ebd3f1e06ea9cb67c",
+        "37dfdbbe6ec310f93996b829",
+        "1ca63d3c9d578b94c4fb6b29",
+        "1950eb7bcf80ebab0503db81",
+        "d3f35ec093666d38606888ee",
+        "c2387c496352fb6daf556bf1",
+        "d9df7c78964a27d5a0461bc5",
+        "33bda59875d4bf1137292ee6",
+        "c5d44da96717351baad9d9a8",
+        "712bb7b609bdce48626b6d99",
+        "aafeddcb8f6f0d02f876f7e2",
+        "181a0f500482c89c594f68b9",
+        "d909e6f47119c0155c867704",
+        "eb7c6049d3bdf750e887ca65",
+        "6021e5c335bee121da1a2597",
+        "1b630d07b3c62e32874f2ee5",
+        "e3dd8051c54af0f55fe79193",
         "7049f81dd30689d56394bf9f",
+        "1fefbc63f94edba4fd156ba0",
         "36b20d91365962a30720f22f",
         "e632563d402fe5d587ceb410",
         "10eb088edc4f9395354b9a24",
         "339e42dfce81cb1eda89c965",
+        "4d9521ed0a9ecee96a95b465",
+        "bdf0da0edec68e5a8463f25a",
+        "4d2783c84d1582b32da448a4",
+        "b65e32d2365c71807ee3ca66",
         "d40dedc824550357006cdb6c",
         "a5673367d90376730ba110d3",
+        "40bcea1befc79a4117f7f59b",
         "68f860f140b8c0baf4c55ffb",
         "c57313485a9872d05145ef71",
+        "7bd88224efd73de2bb6f032f",
         "87c677c3ff2f6baed6f69def",
         "6a0b47bc185f2efe7f3e74f7",
         "a3708737d7832ea68e59f527",
+        "f9d10f0721842bb07809eb3e",
         "e8f8adeba492c02ee9941f81",
         "eb952a01bbd9ae5643a9f984",
         "292e43c9051f388da7d11610",
@@ -73505,42 +74063,29 @@
       "kind": "monthly",
       "period_start": "2026-11-01",
       "period_end": "2026-11-30",
-      "generated_at": "2026-11-24T14:12:36.878169+09:00",
+      "generated_at": "2026-11-25T13:02:31.372646+09:00",
       "is_complete": false,
-      "article_count": 1071,
+      "article_count": 1100,
       "category_counts": {
-        "parenting": 252,
-        "tech": 242,
-        "ai": 577
+        "tech": 250,
+        "parenting": 258,
+        "ai": 592
       },
-      "overview": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. ／ At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,… NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… ／ NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 ／ NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 Khan Academyの中間評価機能は、一部の設問で児童・生徒にヒントを出さずに考え方を尋ね、理解と誤解を教員向けに要約する。代数と幾何の各1問を対象にした初期調査では、最初の説明に現れなかった理解が対話で確認された割合は、代数で約20％、幾何で約36％だった。対象学年と導入範囲は資料に明記されておらず、教員が評価結果に基づく推奨学習経路を確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
+      "overview": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,… NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… ／ NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 ／ NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。 Khan Academyの中間評価機能は、一部の設問で児童・生徒にヒントを出さずに考え方を尋ね、理解と誤解を教員向けに要約する。代数と幾何の各1問を対象にした初期調査では、最初の説明に現れなかった理解が対話で確認された割合は、代数で約20％、幾何で約36％だった。対象学年と導入範囲は資料に明記されておらず、教員が評価結果に基づく推奨学習経路を確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。",
       "method": "source_checked_editorial",
       "reviewed_at": "2026-10-02T23:59:57.211017+00:00",
       "summary_automation": {
-        "status": "partial",
-        "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+        "status": "ok",
+        "attempted_at": "2026-11-25T04:02:30.812708+00:00",
         "model": null,
         "mode": "extractive",
-        "new_reviews": 2,
+        "new_reviews": 3,
         "updated_periods": [
           "overview",
           "weekly",
           "monthly"
         ],
-        "errors": [
-          {
-            "article_id": "292e43c9051f388da7d11610",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "e8ae4214208663c7fb89ac14",
-            "stage": "original_fetch"
-          },
-          {
-            "article_id": "27d68da4f032181a7fd0d1e0",
-            "stage": "original_fetch"
-          }
-        ],
+        "errors": [],
         "local_codex": {
           "attempted_at": "2026-11-18T21:00:15.021788+00:00",
           "status": "partial",
@@ -73574,7 +74119,7 @@
           ],
           "last_success_at": "2026-11-18T21:00:15.021788+00:00"
         },
-        "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+        "last_success_at": "2026-11-25T04:02:30.812708+00:00"
       },
       "genre_briefs": [
         {
@@ -73582,52 +74127,54 @@
           "label": "生成AI",
           "stories": [
             {
-              "article_id": "68f860f140b8c0baf4c55ffb",
+              "article_id": "c5d44da96717351baad9d9a8",
               "category": "ai",
-              "headline": "OpenAI and Cisco introduce Shirudo",
-              "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,…",
+              "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+              "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/introducing-shirudo/",
+              "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
-              "tags": [],
+              "tags": [
+                "models"
+              ],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T21:20:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T13:00:00Z"
             },
             {
-              "article_id": "c3c5f9310d7e7d73454edbbb",
+              "article_id": "aafeddcb8f6f0d02f876f7e2",
               "category": "ai",
-              "headline": "Richpanel helps companies automate 50% of support in 30 days",
-              "summary": "Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations.",
+              "headline": "Searching for distant planets with Astra",
+              "summary": "Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data.",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support/",
+              "source_url": "https://openai.com/index/searching-for-distant-planets-with-astra/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-24T05:12:36.285196+00:00",
-              "published_at": "2026-11-23T08:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T11:00:00Z"
             },
             {
-              "article_id": "da9bbe1938f62a3fa6f35110",
+              "article_id": "4d9521ed0a9ecee96a95b465",
               "category": "ai",
-              "headline": "Perplexity and Intelligence",
-              "summary": "At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+              "headline": "How Intentful uses dots to make more time for growth",
+              "summary": "Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
               "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-              "source_url": "https://openai.com/index/perplexity-and-intelligence/",
+              "source_url": "https://openai.com/business/customer-stories/intentful-dots/",
               "source_label": "OpenAI 公式（本文の自動抜粋）",
               "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
               "provider": "OpenAI",
               "origin_kind": "official",
               "tags": [],
               "review_method": "extractive",
-              "generated_at": "2026-11-23T01:29:15.901439+00:00",
-              "published_at": "2026-11-22T00:00:00Z"
+              "generated_at": "2026-11-25T04:02:30.812708+00:00",
+              "published_at": "2026-11-24T00:00:00Z"
             }
           ]
         },
@@ -73760,7 +74307,7 @@
           ]
         }
       ],
-      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。 一部の記事の原文取得または要約作成に失敗しています。失敗した記事の要約は追加していません。",
+      "coverage_note": "原文を取得してAIで作成した要約・考察を含みます。人による内容確認は未実施です。事実は元記事で確認でき、考察は仮説であり需要の実測ではありません。 本文の自動抜粋を含みます。AI要約・翻訳ではなく、英語の原文は英語のままです。 自動作成の期間まとめは原文・要約の要点を並べたもので、横断的な考察は未作成です。",
       "topics": [
         {
           "id": "ai-products",
@@ -73769,17 +74316,24 @@
           "words": [],
           "insight": "新機能や提携の発表は、既存の作業に組み込めるかを確かめるための材料になる。",
           "question": "新しさだけで判断せず、費用と手直し時間を含めて使う場面を比較したい。",
-          "count": 497,
-          "publisher_count": 67,
-          "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+          "count": 505,
+          "publisher_count": 66,
+          "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "evidence_ids": [
-            "10eb088edc4f9395354b9a24",
-            "68f860f140b8c0baf4c55ffb",
-            "6a0b47bc185f2efe7f3e74f7"
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "6021e5c335bee121da1a2597"
           ],
           "article_ids": [
+            "d9df7c78964a27d5a0461bc5",
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "6021e5c335bee121da1a2597",
+            "e3dd8051c54af0f55fe79193",
             "10eb088edc4f9395354b9a24",
+            "4d9521ed0a9ecee96a95b465",
             "68f860f140b8c0baf4c55ffb",
+            "7bd88224efd73de2bb6f032f",
             "6a0b47bc185f2efe7f3e74f7",
             "a3708737d7832ea68e59f527",
             "292e43c9051f388da7d11610",
@@ -73887,6 +74441,7 @@
             "567b610aea7468d7e14bf715",
             "d22f1d03be1f33a7a6265116",
             "b5e56a6bdef60f135e33ed42",
+            "826529e89477c640b71bee8d",
             "8dc908c7bba62aa57cdd386f",
             "9a7b4880f2d0ae19d7c34cb4",
             "02a4e4638b3a5008da396fb9",
@@ -73934,7 +74489,6 @@
             "cab2e13e41553bb3d6bf1403",
             "43bf57ce7fed540fcfed4df2",
             "e09757121a31968a7d799223",
-            "282efa4663f5079e50b23e99",
             "e3b1331623a1cf69a650ddce",
             "31f1ffce6c0ad90187176b34",
             "b5e8e8dfd49748b4b01a4179",
@@ -73955,17 +74509,19 @@
             "82c05437d6834e345ccd386b",
             "98c776e7f9b26c508f5d99d2",
             "2da97626fe7c92d1f3e719a4",
+            "282efa4663f5079e50b23e99",
             "25c24270298c9da6ab60b3a0",
             "15674ae77ee8c61984047847",
+            "4b4bdccdaeb5b84f77421f0f",
+            "51bebf2ecb1ede1f79fb9c42",
+            "46fb361c19cc7fdff7d41622",
             "6ef7cbbaf4c4b812e0610dce",
             "0c0a45a63922465828c81610",
-            "4b4bdccdaeb5b84f77421f0f",
             "20b11d8c01a9f3a5a43c5059",
             "4f4dc8d7163b67594a3fa041",
             "9b336b2fbbbe147d1433cb77",
             "a9b34b6e86a1b3642f35f617",
             "3643157a98a3d7716c54af24",
-            "51bebf2ecb1ede1f79fb9c42",
             "43e056ef91c91a16fef93ad5",
             "a1ec34532f5edf94a5074eb2",
             "9ad9575aa75b8262412431ee",
@@ -73979,7 +74535,6 @@
             "7f2aab941aab9f0d5c0d62f0",
             "2b181dd4febe87192648dfd6",
             "146fda32ecad20374233e8ce",
-            "46fb361c19cc7fdff7d41622",
             "1404a60dd7508ceca1be371a",
             "f27cee38438dda294da0bd40",
             "40b154e296b0d6ebbf2c6ce2",
@@ -74284,15 +74839,23 @@
           "words": [],
           "insight": "技術や基盤の更新は、アプリに必要な機能の実装費用や保守への影響を調べる材料になる。",
           "question": "新しい技術を採用する前に、対応端末と運用負担を確認したい。",
-          "count": 234,
-          "publisher_count": 93,
+          "count": 242,
+          "publisher_count": 97,
           "summary": "NVIDIA and Microsoft are extending their full-stack collaboration to help organizations build, customize and deploy intelligent applications — from next-generation infrastructure on Azure to industrial… NVIDIAは、開発者が自然言語でAIエージェントを指示し、Omniverseの物理・描画・センサー機能を組み合わせた開発事例を紹介した。倉庫ロボットの操作環境や自動運転の試験用プロトタイプを構築。センサー検証では約3日間でデジタルツインを新規に2件作成し、既存の2件を改善した。ロボット競技の実験では、単一のハードル越えにシミュレーション100回中64回成功した。 NVIDIAはSC26で、研究者や開発者向けにDGX Spark HPC Developer Kitを発表し、販売を開始した。DGX Spark 4台をConnectX-7でリング状に直結し、ネットワークスイッチなしで合計512GBのメモリと20TBのNVMeストレージを利用できる。4台構成では材料シミュレーションのLAMMPSなどが実演され、HPC SDKの設定・実行手順書は近日公開予定とされた。",
           "evidence_ids": [
-            "36b20d91365962a30720f22f",
-            "339e42dfce81cb1eda89c965",
-            "c57313485a9872d05145ef71"
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c"
           ],
           "article_ids": [
+            "14462d09f6a3c8e06cdea22f",
+            "e24bf720e9b304be75efb2f1",
+            "075eaa4ebd3f1e06ea9cb67c",
+            "1950eb7bcf80ebab0503db81",
+            "d3f35ec093666d38606888ee",
+            "c2387c496352fb6daf556bf1",
+            "33bda59875d4bf1137292ee6",
+            "d909e6f47119c0155c867704",
             "36b20d91365962a30720f22f",
             "339e42dfce81cb1eda89c965",
             "c57313485a9872d05145ef71",
@@ -74363,9 +74926,9 @@
             "c0cb7df2949367191cbdeafd",
             "fd1930b979bb0d07b2bd9e39",
             "6f0fc4bae938a241e7fda111",
+            "955634a9f2879da18227eb62",
             "448f8b2cc319276f285b21a6",
             "eb670893cf83955a2cabd2b9",
-            "10081c875af351504c74557f",
             "651b11fa72ab35ecd21b0a4c",
             "439ffcbc7408c91f95194016",
             "777298c35aa2cc226b23148f",
@@ -74373,7 +74936,6 @@
             "ef1feda8bf1b887c5755deeb",
             "78e8446a8f47e07052fb62a7",
             "d8fd6e93dd2c38b04e3aa884",
-            "82d8202d1269ef0fd585c8d3",
             "68c7418135d4c512512bb690",
             "a113e5f4d840d66818774a15",
             "8b3a31f5f826a808d2dad772",
@@ -74381,6 +74943,7 @@
             "1b79ddb528f300d848838366",
             "3261a48d15aaefa84fc388e3",
             "a994608451331d295fc68357",
+            "10081c875af351504c74557f",
             "e3b88fcd257589aa492bf3ed",
             "beb17a07b98af6ee74a1e930",
             "e379285d65f25d9e0826f2bc",
@@ -74536,18 +75099,23 @@
           "words": [],
           "insight": "保護者向け機能と保育現場の運用を一緒に確認すると、導入時の負担を見つけやすい。",
           "question": "連絡・手続き・情報検索のどこに繰り返しの負担があるかを確認したい。",
-          "count": 240,
+          "count": 246,
           "publisher_count": 98,
           "summary": "Khan Academyの中間評価機能「Explain Your Thinking」では、一部の設問に答えた児童・生徒にAIがヒントを出さずに考え方を尋ね、理解や誤解の要約を教員に示す。初期調査では、代数220件の約20％、幾何296件の約36％で、最初の説明に現れなかった理解が対話で確認された。評価結果に基づく推奨学習経路を教員が確認してから児童・生徒に示す仕組みは2027〜28年に計画されている。 Khan Academyはコロラド大学ボルダー校のPhETと提携し、理科の記事・演習内で動かせる無料シミュレーションを提供開始した。対象は中学・高校相当と大学先修課程のAPで、自然選択、熱容量、遺伝子発現、ばねの振動などを扱う。学習者は変数を操作し、データの収集・分析や設問への回答を進められる。活動は関連するNGSS、TEKS、APの基準に対応する。 Googleは、教材に沿って段階的に学習を支援するGuided LearningをGoogle Classroomで世界向けに展開開始した。教師は課題の割り当てや学習状況の把握ができる。東京大学の学生300人超を対象とした半日の統計学の無作為化比較試験では、利用群の得点上昇は8.1ポイント、通常のウェブ教材のみの群は5.3ポイントだった。",
           "evidence_ids": [
-            "7049f81dd30689d56394bf9f",
-            "e632563d402fe5d587ceb410",
-            "d40dedc824550357006cdb6c"
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9"
           ],
           "article_ids": [
+            "37dfdbbe6ec310f93996b829",
+            "712bb7b609bdce48626b6d99",
+            "181a0f500482c89c594f68b9",
             "7049f81dd30689d56394bf9f",
+            "1fefbc63f94edba4fd156ba0",
             "e632563d402fe5d587ceb410",
             "d40dedc824550357006cdb6c",
+            "40bcea1befc79a4117f7f59b",
             "07a782effda7f02645792494",
             "1102f620533fffd87de22d7c",
             "9b302ff1caf8f72f6cb5611d",
@@ -74602,6 +75170,7 @@
             "567ef115f9d94db4a31806a9",
             "70a4418b9257522f6b1d05fa",
             "5a97d7da8a9d187e5d3e3337",
+            "3e7f8e9e4a872ebdb066b18d",
             "3d0c9daea55fb8c6618fe4d3",
             "93e52e2af4a962a3623722ec",
             "bb4e492cb27b45ba474aa8a3",
@@ -74622,16 +75191,16 @@
             "0b3caf27747b3e37f4690b35",
             "964adffac8ddd53f6f189160",
             "54dd758e0e2b8ca39511085c",
-            "296541a5636ad0e706181052",
             "715ae1ff0eae2af2bece87b7",
             "8c800e86c4e7021d83114b7b",
             "aec049e6f21767aa120b5038",
+            "296541a5636ad0e706181052",
             "7dca05f704f3e725f89126c4",
+            "686b8b2ccba1e97e56900464",
             "9c7a25739c18632331ba4cf0",
             "f69d4427b6342126775002e3",
             "bd42d9bdad5b25f7d87df312",
             "c1824a9fdf23163fcf59d045",
-            "686b8b2ccba1e97e56900464",
             "0d343a54f05f54ed9d42faec",
             "92a19f7706e1b0771d0bb644",
             "f9544f2081e72ce9a584243e",
@@ -74802,15 +75371,21 @@
           ],
           "insight": "自動化を試すなら、作業全体ではなく結果を検証できる一工程から始めるのが検討案になる。",
           "question": "情報収集・分類・下書きのどこで、手直しを含む作業時間が減るかを測りたい。",
-          "count": 74,
+          "count": 80,
           "publisher_count": 29,
           "summary": "このテーマの内容要約は確認待ちです。元記事は保管庫から読めます。",
           "evidence_ids": [
-            "a9abaec837df39bbc3e52285",
-            "db58989f87e1d6a1e3bc26de",
-            "8be803076c407bbfcaded180"
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a"
           ],
           "article_ids": [
+            "1ca63d3c9d578b94c4fb6b29",
+            "1b630d07b3c62e32874f2ee5",
+            "bdf0da0edec68e5a8463f25a",
+            "4d2783c84d1582b32da448a4",
+            "b65e32d2365c71807ee3ca66",
+            "f9d10f0721842bb07809eb3e",
             "a9abaec837df39bbc3e52285",
             "db58989f87e1d6a1e3bc26de",
             "c09efbf77b8a6e7d8456bd5e",
@@ -74930,18 +75505,18 @@
           "category": "ai",
           "label": "生成AI：本文からの簡易まとめ",
           "required_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb",
-            "da9bbe1938f62a3fa6f35110"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ],
-          "observation": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,… ／ Richpanel uses GPT‑6 Astra and GPT‑6.1 Sol to equip its AI support agents with tools and procedures, and GPT‑6 Luna for their conversations. ／ At the same time, perplexity has stood the test of time as a metric many research teams have put a lot of effort into optimizing,…",
+          "observation": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use… ／ Two amateur astronomers used Codex and Astra to look for signs of planets in public telescope data. ／ Marina Petrova is CEO and cofounder of Intentful ⁠ (opens in a new window) , a lean team that helps brands make their marketing interactive,…",
           "interpretation": "原文・確認済み要約の要点を並べた簡易まとめです。横断的な考察や需要の評価は行っていません。",
           "next_question": "対象となる利用者・提供条件・実際の効果を、元記事と利用者の声で確認したい。",
           "review_method": "extractive",
           "evidence_ids": [
-            "68f860f140b8c0baf4c55ffb",
-            "c3c5f9310d7e7d73454edbbb",
-            "da9bbe1938f62a3fa6f35110"
+            "c5d44da96717351baad9d9a8",
+            "aafeddcb8f6f0d02f876f7e2",
+            "4d9521ed0a9ecee96a95b465"
           ]
         },
         {
@@ -74979,18 +75554,45 @@
       ],
       "comparison": "選んだ記事から読み取れる変化を記載しています。市場全体の傾向や利用者需要の増減を断定するものではありません。",
       "article_ids": [
+        "14462d09f6a3c8e06cdea22f",
+        "e24bf720e9b304be75efb2f1",
+        "075eaa4ebd3f1e06ea9cb67c",
+        "37dfdbbe6ec310f93996b829",
+        "1ca63d3c9d578b94c4fb6b29",
+        "1950eb7bcf80ebab0503db81",
+        "d3f35ec093666d38606888ee",
+        "c2387c496352fb6daf556bf1",
+        "d9df7c78964a27d5a0461bc5",
+        "33bda59875d4bf1137292ee6",
+        "c5d44da96717351baad9d9a8",
+        "712bb7b609bdce48626b6d99",
+        "aafeddcb8f6f0d02f876f7e2",
+        "181a0f500482c89c594f68b9",
+        "d909e6f47119c0155c867704",
+        "eb7c6049d3bdf750e887ca65",
+        "6021e5c335bee121da1a2597",
+        "1b630d07b3c62e32874f2ee5",
+        "e3dd8051c54af0f55fe79193",
         "7049f81dd30689d56394bf9f",
+        "1fefbc63f94edba4fd156ba0",
         "36b20d91365962a30720f22f",
         "e632563d402fe5d587ceb410",
         "10eb088edc4f9395354b9a24",
         "339e42dfce81cb1eda89c965",
+        "4d9521ed0a9ecee96a95b465",
+        "bdf0da0edec68e5a8463f25a",
+        "4d2783c84d1582b32da448a4",
+        "b65e32d2365c71807ee3ca66",
         "d40dedc824550357006cdb6c",
         "a5673367d90376730ba110d3",
+        "40bcea1befc79a4117f7f59b",
         "68f860f140b8c0baf4c55ffb",
         "c57313485a9872d05145ef71",
+        "7bd88224efd73de2bb6f032f",
         "87c677c3ff2f6baed6f69def",
         "6a0b47bc185f2efe7f3e74f7",
         "a3708737d7832ea68e59f527",
+        "f9d10f0721842bb07809eb3e",
         "e8f8adeba492c02ee9941f81",
         "eb952a01bbd9ae5643a9f984",
         "292e43c9051f388da7d11610",
@@ -75189,6 +75791,7 @@
         "567b610aea7468d7e14bf715",
         "d22f1d03be1f33a7a6265116",
         "b5e56a6bdef60f135e33ed42",
+        "826529e89477c640b71bee8d",
         "8dc908c7bba62aa57cdd386f",
         "8591a5188da7d3a59fbc79a0",
         "facadc24fbc00e37e1a70fe1",
@@ -75245,6 +75848,7 @@
         "66ee963cd2bab0a2a7bcf917",
         "3730217e320e02e40fb74b4a",
         "85f8fbee1f04b67e8d6bdd91",
+        "3e7f8e9e4a872ebdb066b18d",
         "3d0c9daea55fb8c6618fe4d3",
         "93e52e2af4a962a3623722ec",
         "19a3715cb10b4cbacdae3934",
@@ -75296,7 +75900,6 @@
         "43bf57ce7fed540fcfed4df2",
         "ffc9c04f0c98c6b890a67ad8",
         "e09757121a31968a7d799223",
-        "282efa4663f5079e50b23e99",
         "e3b1331623a1cf69a650ddce",
         "31f1ffce6c0ad90187176b34",
         "b5e8e8dfd49748b4b01a4179",
@@ -75321,7 +75924,6 @@
         "964adffac8ddd53f6f189160",
         "54dd758e0e2b8ca39511085c",
         "6566bbb1316dc6b1464a6017",
-        "296541a5636ad0e706181052",
         "715ae1ff0eae2af2bece87b7",
         "5085f93ed0f8f4ae0e16f1dd",
         "ab72401e28096f87e6e3c9db",
@@ -75338,13 +75940,19 @@
         "2da97626fe7c92d1f3e719a4",
         "6f0fc4bae938a241e7fda111",
         "aec049e6f21767aa120b5038",
+        "282efa4663f5079e50b23e99",
+        "296541a5636ad0e706181052",
         "25c24270298c9da6ab60b3a0",
         "7dca05f704f3e725f89126c4",
         "15674ae77ee8c61984047847",
+        "4b4bdccdaeb5b84f77421f0f",
+        "51bebf2ecb1ede1f79fb9c42",
+        "686b8b2ccba1e97e56900464",
+        "955634a9f2879da18227eb62",
+        "46fb361c19cc7fdff7d41622",
         "6ef7cbbaf4c4b812e0610dce",
         "9c7a25739c18632331ba4cf0",
         "0c0a45a63922465828c81610",
-        "4b4bdccdaeb5b84f77421f0f",
         "f69d4427b6342126775002e3",
         "448f8b2cc319276f285b21a6",
         "eb670893cf83955a2cabd2b9",
@@ -75356,13 +75964,11 @@
         "bd42d9bdad5b25f7d87df312",
         "77c32f80a91b7eced6b0ef2a",
         "a9b34b6e86a1b3642f35f617",
-        "10081c875af351504c74557f",
         "3643157a98a3d7716c54af24",
         "651b11fa72ab35ecd21b0a4c",
         "c1824a9fdf23163fcf59d045",
         "439ffcbc7408c91f95194016",
         "777298c35aa2cc226b23148f",
-        "51bebf2ecb1ede1f79fb9c42",
         "49c630d7c27533aa948a9918",
         "43e056ef91c91a16fef93ad5",
         "a1ec34532f5edf94a5074eb2",
@@ -75374,11 +75980,9 @@
         "44e514c6aa416aaab4578fd9",
         "9b119bed88cfceda25364ad9",
         "90b3cd31048acdd90b4ace72",
-        "686b8b2ccba1e97e56900464",
         "78e8446a8f47e07052fb62a7",
         "d8fd6e93dd2c38b04e3aa884",
         "977fd0d11108b02e5e5e0116",
-        "82d8202d1269ef0fd585c8d3",
         "dac80800bcb7f90f04418453",
         "93e5f29443058a4def4ddafc",
         "47892b94600bf2e289c33bf7",
@@ -75388,7 +75992,6 @@
         "2b181dd4febe87192648dfd6",
         "92a19f7706e1b0771d0bb644",
         "146fda32ecad20374233e8ce",
-        "46fb361c19cc7fdff7d41622",
         "f9544f2081e72ce9a584243e",
         "30de0ed03fca03009e1c314e",
         "a113e5f4d840d66818774a15",
@@ -75399,6 +76002,7 @@
         "1b79ddb528f300d848838366",
         "3261a48d15aaefa84fc388e3",
         "a994608451331d295fc68357",
+        "10081c875af351504c74557f",
         "ed75f327eab0c377ad35416f",
         "e3b88fcd257589aa492bf3ed",
         "0515a9e00f5ccad70c34c791",
@@ -76053,32 +76657,19 @@
       ]
     }
   },
-  "report_updated_at": "2026-11-24T14:12:36.878169+09:00",
+  "report_updated_at": "2026-11-25T13:02:31.372646+09:00",
   "editorial_generation": {
-    "status": "partial",
-    "attempted_at": "2026-11-24T05:12:36.285196+00:00",
+    "status": "ok",
+    "attempted_at": "2026-11-25T04:02:30.812708+00:00",
     "model": null,
     "mode": "extractive",
-    "new_reviews": 2,
+    "new_reviews": 3,
     "updated_periods": [
       "overview",
       "weekly",
       "monthly"
     ],
-    "errors": [
-      {
-        "article_id": "292e43c9051f388da7d11610",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "e8ae4214208663c7fb89ac14",
-        "stage": "original_fetch"
-      },
-      {
-        "article_id": "27d68da4f032181a7fd0d1e0",
-        "stage": "original_fetch"
-      }
-    ],
+    "errors": [],
     "local_codex": {
       "attempted_at": "2026-11-18T21:00:15.021788+00:00",
       "status": "partial",
@@ -76112,7 +76703,7 @@
       ],
       "last_success_at": "2026-11-18T21:00:15.021788+00:00"
     },
-    "last_success_at": "2026-11-24T05:12:36.285196+00:00"
+    "last_success_at": "2026-11-25T04:02:30.812708+00:00"
   },
   "topic_definitions": [
     {
@@ -76189,20 +76780,22 @@
       {
         "provider": "OpenAI",
         "story": {
-          "article_id": "68f860f140b8c0baf4c55ffb",
+          "article_id": "c5d44da96717351baad9d9a8",
           "category": "ai",
-          "headline": "OpenAI and Cisco introduce Shirudo",
-          "summary": "An open-source runtime that helps operators protect running Linux systems without needing to wait for the patch or restarts OpenAI and Cisco are launching Shirudo,…",
+          "headline": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": "Our results show that GPT models have intrinsic capabilities comparable to specialized models at two stages of the workflow: backbone generation, where researchers commonly use…",
           "impact": "本文の要点を機械的に抜き出しています。効果や需要についての考察は未作成です。",
-          "source_url": "https://openai.com/index/introducing-shirudo/",
+          "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
           "source_label": "OpenAI 公式（本文の自動抜粋）",
           "caveat": "AIによる要約・翻訳ではありません。原文の短い抜粋です。英語記事は英語のまま表示します。全文は出典から確認できます。",
           "provider": "OpenAI",
           "origin_kind": "official",
-          "tags": [],
+          "tags": [
+            "models"
+          ],
           "review_method": "extractive",
-          "generated_at": "2026-11-24T05:12:36.285196+00:00",
-          "published_at": "2026-11-23T21:20:00Z"
+          "generated_at": "2026-11-25T04:02:30.812708+00:00",
+          "published_at": "2026-11-24T13:00:00Z"
         }
       },
       {
@@ -76624,11 +77217,11 @@
     ]
   },
   "picks": [
-    "10eb088edc4f9395354b9a24",
-    "68f860f140b8c0baf4c55ffb",
-    "36b20d91365962a30720f22f",
-    "339e42dfce81cb1eda89c965",
-    "7049f81dd30689d56394bf9f",
-    "e632563d402fe5d587ceb410"
+    "1ca63d3c9d578b94c4fb6b29",
+    "d9df7c78964a27d5a0461bc5",
+    "14462d09f6a3c8e06cdea22f",
+    "e24bf720e9b304be75efb2f1",
+    "37dfdbbe6ec310f93996b829",
+    "712bb7b609bdce48626b6d99"
   ]
 }
